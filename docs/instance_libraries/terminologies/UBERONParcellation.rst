@@ -940,6 +940,24 @@ ReissnersFiber
 
 ------------
 
+RuffiniNerveEnding
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/RuffiniNerveEnding
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]
+   :description: An encapsulated nerve receptor present in subpapillary dermis and deep dermis of hairy and glabrous skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012457#ruffini-nerve-ending
+   :name: Ruffini nerve ending
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012457
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 SylvianCistern
 --------------
 
@@ -25356,6 +25374,131 @@ nerveEnding
 
 ------------
 
+nerveEndingOfCorpusCavernosumMaxillaris
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveEndingOfCorpusCavernosumMaxillaris
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve ending. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013671)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013671#nerve-ending-of-of-corpus-cavernosum-maxillaris
+   :name: nerve ending of corpus cavernosum maxillaris
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013671
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveFasciculus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001019)]
+   :description: A slender neuron projection bundle; A bundle of anatomical fibers, as of muscle or nerve (American Heritage Dictionary 4th ed). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001019)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001019#fasciculus
+   :name: nerve fasciculus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001019
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveFiberLayerOfRetina
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveFiberLayerOfRetina
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001793) ('is_a' and 'relationship')]
+   :description: Layer of the retina formed by expansion of the fibers of the optic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001793)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001793#nerve-fiber-layer-of-retina
+   :name: nerve fiber layer of retina
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001793
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveInnervatingPinna
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveInnervatingPinna
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035648) ('is_a' and 'relationship')]
+   :description: Any nerve that innervates the pinna. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035648)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035648#nerve-innervating-pinna
+   :name: nerve innervating pinna
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035648
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveToQuadratusFemoris
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveToQuadratusFemoris
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the sacral nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034984) ('is_a' and 'relationship')]
+   :description: The nerve to quadratus femoris is a nerve that provides innervation to the quadratus femoris and gemellus inferior muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034984)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034984#nerve-to-quadratus-femoris
+   :name: nerve to quadratus femoris
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034984
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveToStylohyoidFromFacialNerve
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveToStylohyoidFromFacialNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011316) ('is_a' and 'relationship')]
+   :description: The stylohyoid branch of facial nerve frequently arises in conjunction with the digastric branch; it is long and slender, and enters the Stylohyoideus about its middle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011316)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011316#nerve-to-stylohyoid-from-facial-nerve
+   :name: nerve to stylohyoid from facial nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011316
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nerveToStylopharyngeusFromGlossopharyngealNerve
+-----------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nerveToStylopharyngeusFromGlossopharyngealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011317) ('is_a' and 'relationship')]
+   :description: The stylopharyngeal branch of glossopharyngeal nerve is distributed to the Stylopharyngeus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011317)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011317#nerve-to-stylopharyngeus-from-glossopharyngeal-nerve
+   :name: nerve to stylopharyngeus from glossopharyngeal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011317
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 nervousSystem
 -------------
 
@@ -26417,6 +26560,24 @@ nucleusOfOpticTract
 
 ------------
 
+nucleusOfPhrenicNerve
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfPhrenicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nucleus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016850)]
+   :description: Neuron cell bodies located in the more medial portions of the anterior horn at cervical levels C3-C7 that innervate the diaphragm via the phrenic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016850)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016850#nucleus-of-phrenic-nerve
+   :name: nucleus of phrenic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016850
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 nucleusOfPontineReticularFormation
 ----------------------------------
 
@@ -26448,6 +26609,24 @@ nucleusOfPosteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002711#nucleus-of-posterior-commissure-1
    :name: nucleus of posterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002711
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfPudendalNerve
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfPudendalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nucleus of spinal cord. Is part of the ventral horn of spinal cord and the sacral spinal cord ventral column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022278) ('is_a' and 'relationship')]
+   :description: A nucleus in the ventral part of the anterior horn of the sacral region of the spinal cord that is the origin of the pudendal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022278)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022278#nucleus-of-pudendal-nerve
+   :name: nucleus of pudendal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022278
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26986,6 +27165,24 @@ nucleusSubpretectalis
 
 ------------
 
+obturatorNerve
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/obturatorNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the lumbosacral nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005465) ('is_a' and 'relationship')]
+   :description: The obturator nerve arises from the ventral divisions of the second, third, and fourth lumbar nerves; the branch from the third is the largest, while that from the second is often very small. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005465)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005465#obturator-nerve
+   :name: obturator nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005465
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 occipitalCortex
 ---------------
 
@@ -27130,6 +27327,41 @@ occipitotemporalSulcus
 
 ------------
 
+octavalNerveMotorNucleus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/octavalNerveMotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]
+   :description: Hindbrain nucleus which consists of cell bodies whose axons exit the hindbrain via cranial nerve VIII and innervate hair cells of the lateral line and inner ear. The neurons of these nuclei are unusual in that they extend both contra- and ipsilateral dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002174#octaval-nerve-motor-nucleus
+   :name: octaval nerve motor nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002174
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+octavalNerveSensoryNucleus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/octavalNerveSensoryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000401)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000401#octaval-nerve-sensory-nucleus
+   :name: octaval nerve sensory nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000401
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 oculomotorDivisionOfOculomotorNuclearComplex
 --------------------------------------------
 
@@ -27143,6 +27375,43 @@ oculomotorDivisionOfOculomotorNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014523#oculomotor-division-of-oculomotor-nuclear-complex
    :name: oculomotor division of oculomotor nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014523
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+oculomotorNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oculomotorNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001643)]
+   :description: Cranial nerve which connects the midbrain to the extra-ocular and intra-ocular muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001643)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001643#oculomotor-nerve-1
+   :name: oculomotor nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001643
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+oculomotorNerveRoot
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oculomotorNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002668) ('is_a' and 'relationship')]
+   :description: Initial segment of the occulomotor nerve as it leaves the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002668)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107898
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002668#oculomotor-nerve-fibers
+   :name: oculomotor nerve root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002668
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27308,6 +27577,25 @@ olfactoryBulbMitralCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004186#olfactory-bulb-main-mitral-cell-body-layer
    :name: olfactory bulb mitral cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004186
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+olfactoryBulbOuterNerveLayer
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005978)]
+   :description: Superficial layer of the main olfactory bulb containing axons from the olfactory nerve and glial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005978)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107942
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005978#olfactory-bulb-main-olfactory-nerve-layer
+   :name: olfactory bulb outer nerve layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005978
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27489,6 +27777,24 @@ olfactoryLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005366#olfactory-lobe
    :name: olfactory lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005366
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+olfactoryNerve
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001579)]
+   :description: Nerve that carries information from the olfactory epithelium to the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001579)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001579#olfactory-nerve-1
+   :name: olfactory nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001579
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27744,6 +28050,24 @@ operculumOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010262#operculum-of-brain
    :name: operculum of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010262
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ophthalmicNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ophthalmicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348) ('is_a' and 'relationship')]
+   :description: The sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the orbit and its contents, the nasal cavity and the skin of the nose and forehead. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000348#ophthalmic-nerve
+   :name: ophthalmic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000348
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28368,6 +28692,42 @@ pallium
 
 ------------
 
+palmarBranchOfMedianNerve
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/palmarBranchOfMedianNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arm nerve. Is part of the median nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016430) ('is_a' and 'relationship')]
+   :description: The palmar branch of the median nerve is a branch of the median nerve which arises at the lower part of the forearm and innervates skin of proximal central palm and thenar eminence. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016430)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016430#palmar-branch-of-median-nerve
+   :name: palmar branch of median nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016430
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+palpebralBranchOfInfraOrbitalNerve
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/palpebralBranchOfInfraOrbitalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an eyelid nerve and nerve of head region. Is part of the infra-orbital nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022297) ('is_a' and 'relationship')]
+   :description: A nerve that innervates an eyelid and is a branch of the infra-orbital branch of the maxillary nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022297)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022297#palpebral-branch-of-infra-orbital-nerve
+   :name: palpebral branch of infra-orbital nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022297
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 parabigeminalNucleus
 --------------------
 
@@ -28810,6 +29170,24 @@ parasympatheticGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001808#parasympathetic-ganglion
    :name: parasympathetic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001808
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+parasympatheticNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parasympatheticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the parasympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004293) ('is_a' and 'relationship')]
+   :description: A nerve that is part of a parasympathetic nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004293)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004293#parasympathetic-nerve
+   :name: parasympathetic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004293
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29854,6 +30232,24 @@ parvocellularSuperficialPretectalNucleus
 
 ------------
 
+pedalDigitNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pedalDigitNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a pes nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003435)]
+   :description: A nerve that is part of a toe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003435)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003435#pedal-digit-nerve
+   :name: pedal digit nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003435
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 pedalGanglion
 -------------
 
@@ -29954,6 +30350,42 @@ pelvicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016508#pelvic-ganglion
    :name: pelvic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016508
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pelvicSplanchnicNerve
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pelvicSplanchnicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a splanchnic nerve and parasympathetic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018675)]
+   :description: A splanchnic nerves that arises from sacral spinal nerves S2, S3, S4 to provide parasympathetic innervation to the hindgut. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018675)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018675#pelvic-splanchnic-nerve
+   :name: pelvic splanchnic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018675
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pelvisNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pelvisNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of abdominal segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003444)]
+   :description: A nerve that is part of a pelvis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003444)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003444#pelvis-nerve
+   :name: pelvis nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003444
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30099,6 +30531,24 @@ perifovealPartOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018105#perifoveal-part-of-retina
    :name: perifoveal part of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018105
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+perinealNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/perinealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a pelvis nerve. Is part of the pudendal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011391) ('is_a' and 'relationship')]
+   :description: A nerve arising from the pudendal nerve that supplies the perineum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011391)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011391#perineal-nerve
+   :name: perineal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011391
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30426,6 +30876,24 @@ periventricularZoneOfHypothalamus
 
 ------------
 
+pesNerve
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pesNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a hindlimb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003445)]
+   :description: A nerve that is part of a foot. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003445)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003445#pes-nerve
+   :name: pes nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003445
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 petrosalPlacode
 ---------------
 
@@ -30439,6 +30907,42 @@ petrosalPlacode
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009125#petrosal-placode
    :name: petrosal placode
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009125
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pharyngealBranchOfVagusNerve
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pharyngealBranchOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000929) ('is_a' and 'relationship')]
+   :description: Motor nerve of the pharynx, arises from the upper part of the ganglion nodosum, and consists principally of filaments from the cranial portion of the accessory nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000929)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000929#pharyngeal-branch-of-vagus-nerve
+   :name: pharyngeal branch of vagus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000929
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pharyngealNervePlexus
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pharyngealNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011325)]
+   :description: The pharyngeal plexus is a network of nerve fibers innervating most of the palate, larynx, and pharynx. It is located on the surface of the middle pharyngeal constrictor muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011325)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011325#pharyngeal-nerve-plexus
+   :name: pharyngeal nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011325
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30528,6 +31032,24 @@ photoreceptorOuterSegmentLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003926#photoreceptor-outer-segment-layer
    :name: photoreceptor outer segment layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003926
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+phrenicNerve
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/phrenicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic cavity nerve. Is part of the nerve of cervical vertebra. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001884) ('is_a' and 'relationship')]
+   :description: A nerve that arises from the caudal cervical nerves and is primarily the motor nerve of the diaphragm but also sends sensory fibers to the pericardium. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001884)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001884#phrenic-nerve
+   :name: phrenic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001884
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30875,6 +31397,24 @@ pituitaryStalk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002434#infundibular-stem
    :name: pituitary stalk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002434
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+plantarNerve
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/plantarNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve. Is part of the tibial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035109) ('is_a' and 'relationship')]
+   :description: A nerve that innervates the sole of the foot. Planar nerves arise from the posterior branch of the tibial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035109)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035109#plantar-nerve
+   :name: plantar nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035109
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31229,6 +31769,24 @@ posteriorAscendingLimbOfLateralSulcus
 
 ------------
 
+posteriorAuricularNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorAuricularNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve innervating pinna. Is part of the cervical nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035647) ('is_a' and 'relationship')]
+   :description: A branch of the facial nerve that innervates the posterior auricular and intrinsic muscles of the auricle and, through its occipital branch, innervates the occipital belly of the occipitofrontal muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035647)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035647#posterior-auricular-nerve
+   :name: posterior auricular nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035647
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 posteriorCalcarineSulcus
 ------------------------
 
@@ -31426,6 +31984,42 @@ posteriorLateralLineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001314#posterior-lateral-line-ganglion
    :name: posterior lateral line ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001314
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorLateralLineNerve
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorLateralLineNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000175)]
+   :description: Cranial nerve which enters the brain between cranial nerves VIII and IX; contains afferents and sensory efferents to the posterior lateral line ganglion and middle ganglion. Fibers from the posterior lateral line ganglion innervate the occipital dorsal lateral line and trunk lateral lines. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000175)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000175#posterior-lateral-line-nerve
+   :name: posterior lateral line nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000175
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorLateralLineNervePLLN
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorLateralLineNervePLLN
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010115)]
+   :description: Sensory nerve of the posterior lateral line component. It develops from de postotic posterior placode. PLLN innervates the trunk lines of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010115)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010115#posterior-lateral-line-nerve-plln
+   :name: posterior lateral line nerve (PLLN)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010115
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31838,6 +32432,24 @@ posteriorSubcentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002909#posterior-subcentral-sulcus-1
    :name: posterior subcentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002909
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorSuperiorAlveolarNerve
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorSuperiorAlveolarNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a superior alveolar nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018401)]
+   :description: The posterior superior alveolar branches (posterior superior dental branches) arise from the trunk of the maxillary nerve just before it enters the infraorbital groove; they are generally two in number, but sometimes arise by a single trunk. They descend on the tuberosity of the maxilla and give off several twigs to the gums and neighboring parts of the mucous membrane of the cheek. They then enter the posterior alveolar canals on the infratemporal surface of the maxilla, and, passing from behind forward in the substance of the bone, communicate with the middle superior alveolar nerve, and give off branches to the lining membrane of the maxillary sinus and gingival and dental branches to each molar tooth from a superior dental plexus; these branches enter the apical foramina at the roots of the teeth. The posterior superior alveolar nerve innervates the second and third maxillary molars, and two of the three roots of the maxillary first molar (all but the mesiobuccal root). When giving a Posterior Superior Alveolar nerve block, it will anesthetize the mesialbuccal root of the maxillary first molar approximately 72% of the time. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018401)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018401#posterior-superior-alveolar-nerve
+   :name: posterior superior alveolar nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018401
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32882,6 +33494,24 @@ primaryAuditoryCortex
 
 ------------
 
+primaryDorsalNerveCord
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primaryDorsalNerveCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a primary nerve cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005054)]
+   :description: A nerve cord in the dorsal mid-line that is the most prominent nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005054)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005054#primary-dorsal-nerve-cord
+   :name: primary dorsal nerve cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005054
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 primaryFissureOfCerebellum
 --------------------------
 
@@ -32983,6 +33613,24 @@ primaryMuscleSpindle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004010#primary-muscle-spindle
    :name: primary muscle spindle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004010
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+primaryNerveCord
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primaryNerveCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005053)]
+   :description: A cluster of neurons that is the most prominent longitudinally extending condensed part of a nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005053)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005053#primary-nerve-cord
+   :name: primary nerve cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005053
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33417,6 +34065,25 @@ principalPretectalNucleus
 
 ------------
 
+principalSensoryNucleusOfTrigeminalNerve
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trigeminal sensory nucleus, brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002597) ('is_a' and 'relationship')]
+   :description: The principal sensory nucleus (or chief sensory nucleus of V) is a group of second order neurons which have cell bodies in the dorsal Pons. It receives information about discriminative sensation and light touch of the face as well as conscious proprioception of the jaw via first order neurons of CN V. Most of the sensory information crosses the midline and travels to the contralateral ventral posteriomedial (VPM) of the thalamus via the Ventral Trigeminothalamic Tract, but information of the oral cavity travels to the ipsilateral Ventral Posteriomedial (VPM) of the thalamus via the Dorsal Trigeminothalamic Tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002597)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0109355
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002597#principal-sensory-nucleus-of-trigeminal-nerve-1
+   :name: principal sensory nucleus of trigeminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002597
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 principalSulcus
 ---------------
 
@@ -33542,6 +34209,42 @@ pterygopalatineGanglion
 
 ------------
 
+pterygopalatineNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pterygopalatineNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034725) ('is_a' and 'relationship')]
+   :description: The pharyngeal nerve (pterygopalatine nerve) is a small branch arising from the posterior part of the pterygopalatine ganglion. It passes through the pharyngeal canal with the pharyngeal branch of the maxillary artery, and is distributed to the mucous membrane of the nasal part of the pharynx, behind the auditory tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034725)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034725#pterygopalatine-nerve
+   :name: pterygopalatine nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034725
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pudendalNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pudendalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a pelvis nerve. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011390) ('is_a' and 'relationship')]
+   :description: The pudendal nerve is a somatic nerve in the pelvic region that innervates the external genitalia of both sexes, as well as sphincters for the bladder and the rectum. It originates in Onuf's nucleus in the sacral region of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011390)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011390#pudendal-nerve
+   :name: pudendal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011390
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 pulmonaryBaroreceptor
 ---------------------
 
@@ -33555,6 +34258,24 @@ pulmonaryBaroreceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018396#pulmonary-baroreceptor
    :name: pulmonary baroreceptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018396
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pulmonaryNervePlexus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pulmonaryNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002009) ('is_a' and 'relationship')]
+   :description: The pulmonary plexus is an autonomic plexus formed from pulmonary branches of vagus nerve and the sympathetic trunk that supplies the Bronchial tree. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002009)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002009#pulmonary-nerve-plexus
+   :name: pulmonary nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002009
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33719,6 +34440,24 @@ quadrigeminalCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004052#quadrigeminal-cistern
    :name: quadrigeminal cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004052
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+radialNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/radialNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arm nerve. Is part of the brachial nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001492) ('is_a' and 'relationship')]
+   :description: A nerve that supplies the upper limb, including the triceps brachii muscle of the arm, as well as all 12 muscles in the posterior osteofascial compartment of the forearm, as well as the associated joints and overlying skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001492)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001492#radial-nerve
+   :name: radial nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001492
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33903,6 +34642,24 @@ ramusAnteriorOfCNVIII
 
 ------------
 
+ramusAuricularisOfTheVagusNerve
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ramusAuricularisOfTheVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a vagus nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010740)]
+   :description: An afferent branch of the vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010740)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010740#ramus-auricularis-of-the-vagus-nerve
+   :name: ramus auricularis of the vagus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010740
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ramusBuccal
 -----------
 
@@ -33970,6 +34727,42 @@ ramusMandibularisExternus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010765#ramus-mandibularis-externus
    :name: ramus mandibularis externus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010765
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ramusMuscularisOfGlossopharyngeusNerve
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ramusMuscularisOfGlossopharyngeusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010726) ('is_a' and 'relationship')]
+   :description: Branchiomotor branch of the glossopharyngeus nerve innervating the m. subarcuales rectus I. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010726)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010726#ramus-muscularis-of-glossopharyngeus-nerve
+   :name: ramus muscularis of glossopharyngeus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010726
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ramusMuscularisOfVagusNerve
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ramusMuscularisOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the ramus recurrens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751) ('is_a' and 'relationship')]
+   :description: Motor nervous branch of the vagus innervating m. subarcualis rectus I. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010751#ramus-muscularis-of-vagus-nerve
+   :name: ramus muscularis of vagus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010751
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34155,6 +34948,24 @@ rapheNuclei
 
 ------------
 
+recurrentLaryngealNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/recurrentLaryngealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region and laryngeal nerve. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003716) ('is_a' and 'relationship')]
+   :description: A branch of the vagus nerve that supplies motor function and sensation to the larynx (voice box). It travels within the endoneurium. It is the nerve of the 6th Branchial Arch. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003716)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003716#recurrent-laryngeal-nerve
+   :name: recurrent laryngeal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003716
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 redNucleus
 ----------
 
@@ -34240,6 +35051,24 @@ remnantOfRathkesPouch
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006377#remnant-of-rathke-s-pouch
    :name: remnant of Rathke's pouch
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006377
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+renalNervePlexus
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/renalNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018676)]
+   :description: The renal plexus is formed by filaments from the celiac plexus, the aorticorenal ganglion, and the aortic plexus. It is joined also by the least splanchnic nerve. The nerves from these sources, fifteen or twenty in number, have a few ganglia developed upon them. They accompany the branches of the renal artery into the kidney; some filaments are distributed to the spermatic plexus and, on the right side, to the inferior vena cava. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018676)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018676#renal-nerve-plexus
+   :name: renal nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018676
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35483,6 +36312,23 @@ rightPutamen
 
 ------------
 
+rightRecurrentLaryngealNerve
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightRecurrentLaryngealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a recurrent laryngeal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011767)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011767#right-recurrent-laryngeal-nerve
+   :name: right recurrent laryngeal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011767
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightSubLobarRegion
 -------------------
 
@@ -35513,6 +36359,23 @@ rightTemporalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002809#right-temporal-lobe-1
    :name: right temporal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002809
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightVagusXNerveTrunk
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightVagusXNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a vagus X nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035021)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035021#right-vagus-x-nerve-trunk
+   :name: right vagus X nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035021
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35639,6 +36502,207 @@ roofPlateSpinalCordRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005724#roof-plate-spinal-cord-region
    :name: roof plate spinal cord region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005724
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfAbducensNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfAbducensNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002786) ('is_a' and 'relationship')]
+   :description: Nerve fibers arising from motor neurons in the abducens nucleus that are contained within the pontine tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002786)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100173
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002786#abducens-nerve-fibers
+   :name: root of abducens nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002786
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfCervicalNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfCervicalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009632)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009632#nerve-root-part-of-cervical-spinal-cord
+   :name: root of cervical nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009632
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfCoccygealNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfCoccygealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009634)]
+   :description: A spinal nerve root that is part of a coccygeal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009634)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009634#root-of-coccygeal-nerve
+   :name: root of coccygeal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009634
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfCranialNerve
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfCranialNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve root and central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006843)]
+   :description: The initial segment of a cranial nerve, leaving the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006843)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006843#root-of-cranial-nerve
+   :name: root of cranial nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006843
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfLumbarSpinalNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfLumbarSpinalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009631)]
+   :description: A spinal nerve root that is part of a lumbar nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009631)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009631#nerve-root-part-of-lumbar-spinal-cord
+   :name: root of lumbar spinal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009631
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfOlfactoryNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfOlfactoryNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019311)]
+   :description: The initial segment of an olfactory nerve, leaving the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019311)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0727253
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019311#olfactory-nerve-root
+   :name: root of olfactory nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019311
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfOpticNerve
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfOpticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009906)]
+   :description: A nerve root that extends fibers into a nerve connecting eye with brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009906)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0728874
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009906#optic-nerve-root
+   :name: root of optic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009906
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfSacralNerve
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfSacralNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009633)]
+   :description: A spinal nerve root that is part of a sacral nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009633)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009633#nerve-root-part-of-sacral-spinal-cord
+   :name: root of sacral nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009633
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfThoracicNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfThoracicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009630)]
+   :description: A spinal nerve root that is part of a thoracic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009630)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009630#nerve-root-part-of-thoracic-spinal-cord
+   :name: root of thoracic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009630
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfTrochlearNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfTrochlearNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002618) ('is_a' and 'relationship')]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0112003
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002618#trochlear-nerve-fibers
+   :name: root of trochlear nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002618
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rootOfVagusNerve
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011213)]
+   :description: A root of cranial nerve that is part of a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011213)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0731734
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011213#vagus-nerve-root
+   :name: root of vagus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011213
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35895,6 +36959,40 @@ rostralMotorNucleusOfAbducens
 
 ------------
 
+rostralOctavalNerveMotorNucleus
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralOctavalNerveMotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an octaval nerve motor nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002175)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002175#rostral-octaval-nerve-motor-nucleus
+   :name: rostral octaval nerve motor nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002175
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralOctavalNerveSensoryNucleus
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralOctavalNerveSensoryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an octaval nerve sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000274)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000274#rostral-octaval-nerve-sensory-nucleus
+   :name: rostral octaval nerve sensory nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000274
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rostralParvocellularPreopticNucleus
 -----------------------------------
 
@@ -35942,6 +37040,23 @@ rostralPreglomerularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000580#rostral-preglomerular-nucleus
    :name: rostral preglomerular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000580
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralRootOfAbducensNerve
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralRootOfAbducensNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of abducens nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009909)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009909#rostral-root-of-abducens-nerve
+   :name: rostral root of abducens nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009909
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36194,6 +37309,42 @@ sacralDorsalRootGanglion
 
 ------------
 
+sacralNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009625)]
+   :description: The five sacral nerves emerge from the sacrum. Although the vertebral components of the sacrum are fused into a single bone, the sacral vertebrae are still used to number the sacral nerves. Posteriorly, they emerge from the posterior sacral foramina, and form the posterior branches of sacral nerves. Anteriorly, they emerge from the anterior sacral foramina, and contribute to the sacral plexus (S1-S4) and coccygeal plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009625)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009625#sacral-nerve
+   :name: sacral nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009625
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralNervePlexus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbosacral nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034986)]
+   :description: A nerve plexus which provides motor and sensory nerves for the posterior thigh, most of the lower leg, the entire foot, and part of the pelvis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034986)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034986#sacral-nerve-plexus
+   :name: sacral nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034986
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sacralSpinalCord
 ----------------
 
@@ -36386,6 +37537,41 @@ sacralSpinalCordWhiteMatter
 
 ------------
 
+sacralSplanchnicNerve
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSplanchnicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a splanchnic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018684)]
+   :description: A splanchnic nerve that connects the inferior hypogastric plexus to the sympathetic trunk in the pelvis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018684)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018684#sacral-splanchnic-nerve
+   :name: sacral splanchnic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018684
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSympatheticNerveTrunk
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSympatheticNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034902)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034902#sacral-sympathetic-nerve-trunk
+   :name: sacral sympathetic nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034902
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sagitta
 -------
 
@@ -36486,6 +37672,42 @@ salivatoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004133#salivatory-nucleus
    :name: salivatory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004133
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+saphenousNerve
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/saphenousNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve. Is part of the femoral nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002475) ('is_a' and 'relationship')]
+   :description: The largest cutaneous branch of the femoral nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002475)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002475#saphenous-nerve
+   :name: saphenous nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002475
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sciaticNerve
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sciaticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the lumbosacral nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001322) ('is_a' and 'relationship')]
+   :description: A large nerve that supplies nearly the whole of the skin of the leg, the muscles of the back of the thigh, and those of the leg and foot. It begins in the lower back and runs through the buttock and down the lower limb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001322)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001322#sciatic-nerve-1
+   :name: sciatic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001322
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36806,6 +38028,23 @@ secretoryCircumventricularOrgan
 
 ------------
 
+segmentalSpinalNerve
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/segmentalSpinalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005197)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005197#segmental-spinal-nerve
+   :name: segmental spinal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005197
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 segmentalSubdivisionOfHindbrain
 -------------------------------
 
@@ -36932,6 +38171,24 @@ sensoryGanglion
 
 ------------
 
+sensoryNerve
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sensoryNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001027)]
+   :description: A nerve that transmits from sensory receptors on the surface of the body to the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001027)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001027#sensory-nerve
+   :name: sensory nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001027
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sensoryReceptor
 ---------------
 
@@ -36945,6 +38202,41 @@ sensoryReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012451#sensory-receptor
    :name: sensory receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012451
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sensoryRootOfFacialNerve
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sensoryRootOfFacialNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a facial nerve root. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001699) ('is_a' and 'relationship')]
+   :description: The nervus intermedius, or intermediate nerve, is the part of the facial nerve (cranial nerve VII) located between the motor component of the facial nerve and the vestibulocochlear nerve (cranial nerve VIII). It contains the sensory and parasympathetic fibers of the facial nerve. Upon reaching the facial canal, it joins with the motor root of the facial nerve at the geniculate ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001699)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001699#sensory-root-of-facial-nerve
+   :name: sensory root of facial nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001699
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sensoryRootOfTrigeminalNerve
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sensoryRootOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trigeminal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009907)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009907#sensory-root-of-trigeminal-nerve
+   :name: sensory root of trigeminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009907
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37163,6 +38455,42 @@ shellOfNucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012171#shell-of-nucleus-accumbens-1
    :name: shell of nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012171
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+shortCiliaryNerve
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/shortCiliaryNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an iris nerve, parasympathetic nerve and nerve of head region. Is part of the main ciliary ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022302) ('is_a' and 'relationship')]
+   :description: A branch of the ciliary ganglion that innervates the ciliary muscles, the iris, and the tunics of the eyeball. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022302)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022302#short-ciliary-nerve
+   :name: short ciliary nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022302
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+shoulderNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/shoulderNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003436)]
+   :description: A nerve that is part of a shoulder. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003436)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003436#shoulder-nerve
+   :name: shoulder nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003436
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37808,6 +39136,78 @@ spinalDuraMater
 
 ------------
 
+spinalNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001780)]
+   :description: The any of the paired peripheral nerves formed by the union of the dorsal and ventral spinal roots from each spinal cord segment. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001780)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001780#spinal-nerve
+   :name: spinal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001780
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalNervePlexus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001813)]
+   :description: An intermingling of fiber fascicles from adjacent spinal nerves to form a network. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001813)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001813#spinal-nerve-plexus
+   :name: spinal nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001813
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalNerveRoot
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009623)]
+   :description: The paired bundles of nerve fibers entering and leaving the spinal cord at each segment. The dorsal and ventral nerve roots join to form the mixed segmental spinal nerves. The dorsal roots are generally afferent, formed by the central projections of the spinal (dorsal root) ganglia sensory cells, and the ventral roots efferent, comprising the axons of spinal motor and autonomic preganglionic neurons. There are, however, some exceptions to this afferent/efferent rule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009623)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009623#spinal-nerve-root
+   :name: spinal nerve root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009623
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalNerveTrunk
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve trunk. Is part of the spinal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005476) ('is_a' and 'relationship')]
+   :description: Trunk part of spinal nerve, where dorsal and ventral roots meet to form the spinal nerve, before branching off to dorsal and ventral rami. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005476)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005476#spinal-nerve-trunk
+   :name: spinal nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005476
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalNeuromere
 ---------------
 
@@ -37821,6 +39221,24 @@ spinalNeuromere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014777#spinal-neuromere
    :name: spinal neuromere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014777
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalNucleusOfTrigeminalNerve
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNucleusOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trigeminal sensory nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001717)]
+   :description: Nucleus extending from the upper spinal cord through the pontine tegmentum that receives sensory inputs from the trigeminal nerve. It is continuous caudally with the dorsal gray matter of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001717)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001717#spinal-nucleus-of-trigeminal-nerve
+   :name: spinal nucleus of trigeminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001717
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38006,6 +39424,24 @@ spinothalamicTractOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002798#spinothalamic-tract-of-pons-1
    :name: spinothalamic tract of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002798
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+splanchnicNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/splanchnicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sympathetic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003715)]
+   :description: The major nerves supplying sympathetic innervation to the abdomen, including the greater, lesser, and lowest (or smallest) splanchnic nerves that are formed by preganglionic fibers from the spinal cord which pass through the paravertebral ganglia and then to the celiac ganglia and plexuses and the lumbar splanchnic nerves carry fibers which pass through the lumbar paravertebral ganglia to the mesenteric and hypogastric ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003715)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003715#splanchnic-nerve
+   :name: splanchnic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003715
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39573,6 +41009,24 @@ submedialNucleusOfThalamus
 
 ------------
 
+submucousNervePlexus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/submucousNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an enteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005304)]
+   :description: The gangliated plexus of unmyelinated nerve fibers that ramify the stomach and intestinal submucosa. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005304)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005304#submucous-nerve-plexus
+   :name: submucous nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005304
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 subparafascicularNucleus
 ------------------------
 
@@ -40022,6 +41476,24 @@ superficialFeaturePartOfTheCerebellum
 
 ------------
 
+superficialFibularNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superficialFibularNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve and fibular nerve. Is part of the common fibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035526) ('is_a' and 'relationship')]
+   :description: A branch of the common fibular nerve that innervates the fibularis longus and brevis muscles, and via branches innervates parts of the dorsal part of the pes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035526)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035526#superficial-fibular-nerve
+   :name: superficial fibular nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035526
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 superficialLayerOfSuperiorColliculus
 ------------------------------------
 
@@ -40106,6 +41578,41 @@ superficialWhiteLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006779#superficial-white-layer-of-superior-colliculus
    :name: superficial white layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006779
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorAlveolarNerve
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorAlveolarNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018398) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018398#superior-alveolar-nerve
+   :name: superior alveolar nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018398
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorBranchOfOculomotorNerve
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorBranchOfOculomotorNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the oculomotor nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015162) ('is_a' and 'relationship')]
+   :description: The superior branch of the oculomotor nerve or the superior division, the smaller, passes medialward over the optic nerve. It supplies the Superior rectus and Levator palpebrae superioris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015162)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015162#superior-branch-of-oculomotor-nerve
+   :name: superior branch of oculomotor nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015162
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40342,6 +41849,42 @@ superiorGlossopharyngealIXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005361#superior-glossopharyngeal-ix-ganglion
    :name: superior glossopharyngeal IX ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005361
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorHypogastricNervePlexus
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorHypogastricNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002013)]
+   :description: The superior hypogastric plexus (in older texts, hypogastric plexus or presacral nerve) is a plexus of nerves situated on the vertebral bodies below the bifurcation of the aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002013)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002013#superior-hypogastric-nerve-plexus
+   :name: superior hypogastric nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002013
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorLaryngealNerve
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorLaryngealNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region and laryngeal nerve. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011326) ('is_a' and 'relationship')]
+   :description: The superior laryngeal nerve is a branch of the vagus nerve. It arises from the middle of the ganglion nodosum and in its course receives a branch from the superior cervical ganglion of the sympathetic. It descends, by the side of the pharynx, behind the internal carotid artery, and divides into two branches: external laryngeal nerve internal laryngeal nerve A superior laryngeal nerve palsy changes the pitch of the voice and causes an inability to make explosive sounds. If no recovery is evident three months after the palsy initially presents, the damage is most likely to be permanent. A bilateral palsy presents as a tiring and hoarse voice. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011326)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011326#superior-laryngeal-nerve
+   :name: superior laryngeal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011326
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41133,6 +42676,24 @@ suprasylvianSulcus
 
 ------------
 
+suralNerve
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/suralNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve. Is part of the tibial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015488) ('is_a' and 'relationship')]
+   :description: The sural nerve (short saphenous nerve), formed by the junction of the medial sural cutaneous with the peroneal anastomotic branch of the lateral sural cutaneous nerve, passes downward near the lateral margin of the tendo calcaneus, lying close to the small saphenous vein, to the interval between the lateral malleolus and the calcaneus. It runs forward below the lateral malleolus, and is continued as the lateral dorsal cutaneous nerve along the lateral side of the foot and little toe (via a dorsal digital nerve), communicating on the dorsum of the foot with the intermediate dorsal cutaneous nerve, a branch of the superficial peroneal. In the leg, its branches communicate with those of the posterior femoral cutaneous. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015488)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015488#sural-nerve
+   :name: sural nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015488
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sympatheticAfferentFiber
 ------------------------
 
@@ -41164,6 +42725,59 @@ sympatheticGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001806#sympathetic-ganglion
    :name: sympathetic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001806
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sympatheticNerve
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sympatheticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034729) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034729#sympathetic-nerve
+   :name: sympathetic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034729
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sympatheticNervePlexus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sympatheticNervePlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012373) ('is_a' and 'relationship')]
+   :description: A nerve plexus that is part of a sympathetic nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012373)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012373#sympathetic-nerve-plexus
+   :name: sympathetic nerve plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012373
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sympatheticNerveTrunk
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sympatheticNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve trunk. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004295) ('is_a' and 'relationship')]
+   :description: A nerve trunk that is part of a sympathetic nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004295)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004295#sympathetic-nerve-trunk
+   :name: sympathetic nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004295
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41975,6 +43589,42 @@ tentoriumCerebelli
 
 ------------
 
+terminalNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/terminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002924)]
+   :description: The terminal nerve, located anterior to cranial nerve I, is comprised of a group of cells with somata adjacent to the olfactory bulb and processes that extend anteriorly to the olfactory epithelium and posteriorly to the telencephalon. In teleost fish an additional group of axons extends along the optic tract and delivers putative neuromodulators to the retina. It is thought to develop from cranial neural crest. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002924)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002924#terminal-nerve-1
+   :name: terminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002924
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+terminalNerveRoot
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/terminalNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014641)]
+   :description: A nerve root that extends fibers into a terminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014641)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014641#terminal-nerve-root-1
+   :name: terminal nerve root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014641
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 tertiaryGustatoryNucleus
 ------------------------
 
@@ -42258,6 +43908,24 @@ thirdVentricleEpendyma
 
 ------------
 
+thoracicCavityNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicCavityNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003443)]
+   :description: A nerve that is located in a thoracic cavity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003443)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003443#thoracic-cavity-nerve
+   :name: thoracic cavity nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003443
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 thoracicDivisionOfSpinalCordCentralCanal
 ----------------------------------------
 
@@ -42307,6 +43975,24 @@ thoracicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000961#thoracic-ganglion
    :name: thoracic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000961
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003726)]
+   :description: The twelve spinal nerves on each side of the thorax. They include eleven INTERCOSTAL NERVES and one subcostal nerve. Both sensory and motor, they supply the muscles and skin of the thoracic and abdominal walls. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003726)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003726#thoracic-nerve
+   :name: thoracic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003726
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42504,6 +44190,60 @@ thoracicSpinalCordWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014637#thoracic-spinal-cord-white-matter-1
    :name: thoracic spinal cord white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014637
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSplanchnicNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSplanchnicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a splanchnic nerve and nerve of thoracic segment. Is part of the thoracic sympathetic nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018679) ('is_a' and 'relationship')]
+   :description: Thoracic splanchnic nerves are splanchnic nerves that arise from the sympathetic trunk in the thorax and travel inferiorly to provide sympathetic innervation to the abdomen. The nerves contain preganglionic sympathetic and general visceral afferent fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018679)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018679#thoracic-splanchnic-nerve
+   :name: thoracic splanchnic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018679
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSympatheticNerveTrunk
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSympatheticNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004863)]
+   :description: A sympathetic nerve trunk that is part of a thorax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004863)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004863#thoracic-sympathetic-nerve-trunk
+   :name: thoracic sympathetic nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004863
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tibialNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tibialNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve. Is part of the sciatic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001323) ('is_a' and 'relationship')]
+   :description: The tibial nerve is a branch of the sciatic nerve. The tibial nerve passes through the popliteal fossa to pass below the arch of soleus. In the popliteal fossa the nerve gives off branches to gastrocnemius, popliteus, soleus and plantaris muscles, an articular branch to the knee joint, and a cutaneous branch that will become the sural nerve. The sural nerve is joined by fibres from the common peroneal nerve and runs down the calf to supply the lateral side of the foot. Below the soleus muscle the nerve lies close to the tibia and supplies the tibialis posterior, the flexor digitorum longus and the flexor hallucis longus. The nerve passes into the foot running posterior to the medial malleolus. Here it is bound down by the flexor retinaculum in company with the posterior tibial artery. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001323)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001323#tibial-nerve
+   :name: tibial nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001323
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42850,6 +44590,62 @@ trigeminalGanglion
 
 ------------
 
+trigeminalNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001645)]
+   :description: Cranial nerve that has three branches - the ophthalmic (supplying the skin of the nose and upper jaw), the maxillary and the mandibular (supplying the lower jaw). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001645)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001645#trigeminal-nerve-1
+   :name: trigeminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001645
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trigeminalNerveFibers
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveFibers
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve fiber. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003041) ('is_a' and 'relationship')]
+   :description: A nerve fiber that is part of a trigeminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003041)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0111965
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003041#trigeminal-nerve-fibers-1
+   :name: trigeminal nerve fibers
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003041
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trigeminalNerveRoot
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004673) ('is_a' and 'relationship')]
+   :description: A nerve root that extends fibers into a trigeminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004673)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0111966
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004673#trigeminal-nerve-root-1
+   :name: trigeminal nerve root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004673
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 trigeminalNucleus
 -----------------
 
@@ -42904,6 +44700,24 @@ trigeminothalamicTract
 
 ------------
 
+trochlearNerve
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trochlearNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001644)]
+   :description: A cranial nerve that runs to the eye muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001644)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001644#trochlear-nerve-1
+   :name: trochlear nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001644
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 trochlearNucleus
 ----------------
 
@@ -42936,6 +44750,74 @@ trunkGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007134#trunk-ganglion
    :name: trunk ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007134
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkOfIntercostalNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trunkOfIntercostalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve trunk. Is part of the intercostal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002327) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002327#trunk-of-intercostal-nerve
+   :name: trunk of intercostal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002327
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkOfPhrenicNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trunkOfPhrenicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve trunk. Is part of the phrenic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001889) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001889#trunk-of-phrenic-nerve
+   :name: trunk of phrenic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001889
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkOfSciaticNerve
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trunkOfSciaticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve trunk. Is part of the sciatic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002004) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002004#trunk-of-sciatic-nerve
+   :name: trunk of sciatic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002004
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkOfSegmentalSpinalNerve
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trunkOfSegmentalSpinalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve trunk. Is part of the segmental spinal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035022) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035022#trunk-of-segmental-spinal-nerve
+   :name: trunk of segmental spinal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035022
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43086,6 +44968,42 @@ twelfthThoracicSpinalCordSegment
 
 ------------
 
+tympanicNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tympanicNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036216) ('is_a' and 'relationship')]
+   :description: The tympanic nerve (nerve of Jacobson) is a branch of the glossopharyngeal nerve found near the ear. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036216)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036216#tympanic-nerve
+   :name: tympanic nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036216
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ulnarNerve
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ulnarNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arm nerve. Is part of the brachial nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001494) ('is_a' and 'relationship')]
+   :description: A nerve which runs near the ulna bone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001494)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001494#ulnar-nerve
+   :name: ulnar nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001494
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 uncalCA1
 --------
 
@@ -43228,6 +45146,23 @@ unencapsulatedTactileReceptor
 
 ------------
 
+unmyelinatedNerveFiber
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/unmyelinatedNerveFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve fiber. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006136)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006136#unmyelinated-nerve-fiber
+   :name: unmyelinated nerve fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006136
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 unpairedVenousDuralSinus
 ------------------------
 
@@ -43240,6 +45175,60 @@ unpairedVenousDuralSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017640#unpaired-venous-dural-sinus
    :name: unpaired venous dural sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017640
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+upperArmNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/upperArmNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arm nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004217)]
+   :description: A nerve that is part of a forelimb stylopod. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004217)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004217#upper-arm-nerve
+   :name: upper arm nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004217
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+upperEyelidNerve
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/upperEyelidNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an eyelid nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022299)]
+   :description: A nerve that innervates an upper eyelid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022299)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022299#upper-eyelid-nerve
+   :name: upper eyelid nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022299
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+upperLegNerve
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/upperLegNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a leg nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004214)]
+   :description: A nerve that is part of a hindlimb stylopod. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004214)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004214#upper-leg-nerve
+   :name: upper leg nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004214
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43349,6 +45338,60 @@ vagalLobe
 
 ------------
 
+vagalNerveFiberBundle
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalNerveFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006116) ('is_a' and 'relationship')]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0112236
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1
+   :name: vagal nerve fiber bundle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006116
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagusNerve
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001759)]
+   :description: Cranial nerve that branches into the lateral (to body sense organs) and the intestino-accessorial (to the skin, muscles of shoulder, hyoid, larynx, gut, lungs, and heart). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001759)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001759#vagus-nerve-1
+   :name: vagus nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001759
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagusNerveNucleus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagusNerveNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve nucleus and hindbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011775)]
+   :description: A cranial nerve nucleus that is associated with a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011775)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011775#vagus-nerve-nucleus
+   :name: vagus nerve nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011775
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vagusXGanglion
 --------------
 
@@ -43362,6 +45405,24 @@ vagusXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005362#vagus-x-ganglion
    :name: vagus X ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005362
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagusXNerveTrunk
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagusXNerveTrunk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve trunk. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003535) ('is_a' and 'relationship')]
+   :description: A nerve trunk that is part of a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003535)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003535#vagus-x-nerve-trunk
+   :name: vagus X nerve trunk
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003535
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43602,6 +45663,24 @@ ventralAnteriorLateralLineGanglion
 
 ------------
 
+ventralAnteriorLateralLineNerve
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralAnteriorLateralLineNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line nerve. Is part of the anterior lateral line nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001481) ('is_a' and 'relationship')]
+   :description: Nerve fibers originating from the ventral anterior lateral line ganglion. These rami innervate the mandibular and opercular neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001481)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001481#ventral-anterior-lateral-line-nerve
+   :name: ventral anterior lateral line nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001481
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ventralAnteriorNucleusOfThalamus
 --------------------------------
 
@@ -43816,6 +45895,110 @@ ventralLateralNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001925#ventral-lateral-nucleus
    :name: ventral lateral nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001925
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralMotorNucleusTrigeminalNerve
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralMotorNucleusTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a motor nucleus of trigeminal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000703)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000703#ventral-motor-nucleus-trigeminal-nerve
+   :name: ventral motor nucleus trigeminal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000703
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralNerveCord
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a primary nerve cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000934)]
+   :description: The pair of closely united ventral longitudinal nerves with their segmental ganglia that is characteristic of many elongate invertebrates (as earthworms). A large process bundle that runs along the vental mid-line extending from the ventral region of the nerve ring. The ventral cord is one of the distinguishing traits of the central nervous system of all arthropods (such as insects, crustaceans and arachnids) as well as many other invertebrates, such as the annelid worms. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000934)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000934#ventral-nerve-cord
+   :name: ventral nerve cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000934
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralNerveRootOfCervicalSpinalCord
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ventral root of spinal cord and root of cervical nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014634)]
+   :description: A ventral root of spinal cord that overlaps a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014634)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014634#ventral-nerve-root-of-cervical-spinal-cord-1
+   :name: ventral nerve root of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014634
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralNerveRootOfLumbarSpinalCord
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfLumbarSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of lumbar spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024382)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024382#ventral-nerve-root-of-lumbar-spinal-cord-1
+   :name: ventral nerve root of lumbar spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024382
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralNerveRootOfSacralSpinalCord
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfSacralSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of sacral nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023623)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023623#ventral-nerve-root-of-sacral-spinal-cord-1
+   :name: ventral nerve root of sacral spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023623
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralNerveRootOfThoracicSpinalCord
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfThoracicSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of thoracic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014617)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014617#ventral-nerve-root-of-thoracic-spinal-cord-1
+   :name: ventral nerve root of thoracic spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014617
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44091,6 +46274,24 @@ ventralPretectalPeriventricularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035574#ventral-pretectal-periventricular-nucleus
    :name: ventral pretectal periventricular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035574
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralRamusOfSpinalNerve
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralRamusOfSpinalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve. Is part of the spinal nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006838) ('is_a' and 'relationship')]
+   :description: Branch of spinal nerve that innervates the hypaxial muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006838)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006838#ventral-ramus-of-spinal-nerve
+   :name: ventral ramus of spinal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006838
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44530,6 +46731,24 @@ vestibularGanglion
 
 ------------
 
+vestibularNerve
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibularNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the vestibulocochlear nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003723) ('is_a' and 'relationship')]
+   :description: The vestibular nerve is one of the two branches of the Vestibulocochlear nerve (the cochlear nerve being the other). It goes to the semicircular canals via the vestibular ganglion. It receives positional information. Axons of the vestibular nerve synapse in the vestibular nucleus on the lateral floor and wall of the fourth ventricle in the pons and medulla. It arises from bipolar cells in the vestibular ganglion, ganglion of Scarpa, which is situated in the upper part of the outer end of the internal auditory meatus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003723)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003723#vestibular-nerve
+   :name: vestibular nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003723
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vestibularNuclearComplex
 ------------------------
 
@@ -44658,6 +46877,43 @@ vestibulocochlearGanglion
 
 ------------
 
+vestibulocochlearNerve
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocochlearNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001648)]
+   :description: Cranial nerve that transmits sound and equilibrium (balance) information from the inner ear to the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001648)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001648#vestibulocochlear-nerve-1
+   :name: vestibulocochlear nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001648
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vestibulocochlearNerveRoot
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocochlearNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a root of cranial nerve. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002731) ('is_a' and 'relationship')]
+   :description: Either of the two roots that come of the vestibulocochlear nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002731)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0112460
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002731#vestibulocochlear-nerve-fiber-bundle
+   :name: vestibulocochlear nerve root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002731
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vestibulolateralisLobe
 ----------------------
 
@@ -44688,6 +46944,24 @@ vestibulospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002768#vestibulospinal-tract-1
    :name: vestibulospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002768
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vidianNerve
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vidianNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018412) ('is_a' and 'relationship')]
+   :description: A nerve that is formed by the junction of the great petrosal nerve and the deep petrosal nerve and continues on to innervate the palate, nose and lacrimal gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018412)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018412#vidian-nerve
+   :name: vidian nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018412
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44758,6 +47032,24 @@ visualProcessingPartOfNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006794#visual-processing-part-of-nervous-system
    :name: visual processing part of nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006794
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vomeronasalNerve
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vomeronasalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009121)]
+   :description: Nerve carrying fibers from the vomeronasal organ epithelium to the accessory olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009121)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009121#vomeronasal-nerve
+   :name: vomeronasal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009121
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45271,6 +47563,24 @@ whiteMatterOfTheCerebellarCortex
 
 ------------
 
+wristNerve
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/wristNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a manus nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003434)]
+   :description: A nerve that is part of a wrist. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003434)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003434#wrist-nerve
+   :name: wrist nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003434
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 zonaIncerta
 -----------
 
@@ -45303,6 +47613,24 @@ zonalLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006780#zonal-layer-of-superior-colliculus
    :name: zonal layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006780
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+zygomaticotemporalNerve
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/zygomaticotemporalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036264) ('is_a' and 'relationship')]
+   :description: The zygomaticotemporal nerve or zygomaticotemporal branch (temporal branch) is derived from the maxillary branch of the trigeminal nerve (Cranial nerve V). It runs along the lateral wall of the orbit in a groove in the zygomatic bone, receives a branch of communication from the lacrimal, and passes through zygomaticotemporal foramen in the zygomatic bone to enter the temporal fossa. It ascends between the bone, and substance of the Temporalis muscle, pierces the temporal fascia about 2.5 cm. above the zygomatic arch, and is distributed to the skin of the side of the forehead, and communicates with the facial nerve and with the auriculotemporal branch of the mandibular nerve. As it pierces the temporal fascia, it gives off a slender twig, which runs between the two layers of the fascia to the lateral angle of the orbit. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036264)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036264#zygomaticotemporal-nerve
+   :name: zygomaticotemporal nerve
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036264
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
