@@ -5,9 +5,9 @@ Run this script after cloning/building the schema sources:
 
     python -m pipeline.redirect_map
 
-It produces a JSON file named `redirect_map.json` in the project root, e.g.
+It produces a file named `.htaccess` in the project root, e.g.
 
-    "/types/Subject": "https://openminds.om-i.org/en/latest/schema_specifications/core/research/subject.html#subject"
+    Redirect 301 "/types/Subject" "https://openminds.docs.om-i.org/en/latest/schema_specifications/core/research/subject.html#subject"
 
 Serve the resulting map with your static-site host or edge platform
 (e.g. Netlify, Vercel, Cloudflare Workers) to perform the redirects.
