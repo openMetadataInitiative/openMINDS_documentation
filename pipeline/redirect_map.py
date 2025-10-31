@@ -134,7 +134,16 @@ def generate_redirect_map() -> Dict[str, str]:
                     page_path = f"instance_libraries/terminologies/{inst_type}.html"
 
             anchor = _anchorize(filename)
-            uri = f"/instances/{inst_type}/{filename}"
+            if inst_type in ["Licenses", "contentTypes"]:
+                uri = f"/instances/{inst_type}/{filename}"
+            elif inst_type == 'terminologies':
+                uri = f"/instances/{subdir}/{filename}"
+            elif inst_type == 'parcellationEntities':
+                uri = f"/instances/parcellationEntity/{filename}"
+            elif inst_type == 'brainAtlases':
+                uri = f"/instances/brainAtlas/{filename}"
+            else:
+                uri = f"/instances/{inst_type[:-1]}/{filename}"
             url = f"{DOCS_BASE_URL}/en/{DOCS_VERSION_SLUG}/{page_path}#{anchor}"
             redirect_map[uri] = url
 
