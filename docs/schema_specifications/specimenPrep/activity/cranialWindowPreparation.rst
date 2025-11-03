@@ -82,7 +82,7 @@ dimension
 
    :semantic name: https://openminds.om-i.org/props/dimension
    :value type: | embedded object of type
-                | `Circle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShapes/circle.html>`_, `Ellipse <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShapes/ellipse.html>`_ or `Rectangle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShapes/rectangle.html>`_
+                | `Circle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShape/circle.html>`_, `Ellipse <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShape/ellipse.html>`_ or `Rectangle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/mathematicalShape/rectangle.html>`_
    :instructions: Enter the dimension of the cranial window by defining its mathematical shape.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
