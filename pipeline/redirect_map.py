@@ -14,13 +14,13 @@ Serve the resulting map with your static-site host or edge platform
 """
 
 from __future__ import annotations
-
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 from typing import Dict
 
-from pipeline.utils import clone_sources, SchemaLoader, InstanceLoader
 import requests
-from concurrent.futures import ThreadPoolExecutor, as_completed
+
+from utils import clone_sources, SchemaLoader, InstanceLoader
 
 # Helper functions
 
