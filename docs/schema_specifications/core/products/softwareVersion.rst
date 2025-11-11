@@ -14,8 +14,8 @@ SoftwareVersion
 Properties
 ##########
 
-:Required: `accessibility <accessibility_heading_>`_, `applicationCategory <applicationCategory_heading_>`_, `device <device_heading_>`_, `feature <feature_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `language <language_heading_>`_, `license <license_heading_>`_, `operatingSystem <operatingSystem_heading_>`_, `programmingLanguage <programmingLanguage_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
-:Optional: `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `hasPart <hasPart_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputFormat <inputFormat_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputFormat <outputFormat_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `requirement <requirement_heading_>`_, `supportChannel <supportChannel_heading_>`_
+:Required: `accessibility <accessibility_heading_>`_, `applicationCategory <applicationCategory_heading_>`_, `device <device_heading_>`_, `feature <feature_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `language <language_heading_>`_, `license <license_heading_>`_, `operatingSystem <operatingSystem_heading_>`_, `programmingLanguage <programmingLanguage_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `hasPart <hasPart_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputFormat <inputFormat_heading_>`_, `isPrecededBy <isPrecededBy_heading_>`_, `isVariantOf <isVariantOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputFormat <outputFormat_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `requirement <requirement_heading_>`_, `supportChannel <supportChannel_heading_>`_
 
 ------------
 
@@ -321,17 +321,32 @@ Format of data that is put into a process or machine.
 
 ------------
 
-.. _isAlternativeVersionOf_heading:
+.. _isPrecededBy_heading:
 
-**********************
-isAlternativeVersionOf
-**********************
-
-Reference to an original form where the essence was preserved, but presented in an alternative form.
+************
+isPrecededBy
+************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isAlternativeVersionOf
+   :semantic name: https://openminds.om-i.org/props/isPrecededBy
+   :value type: | linked object of type
+                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+   :instructions: Add the software version preceding this software version.
+
+`BACK TO TOP <SoftwareVersion_>`_
+
+------------
+
+.. _isVariantOf_heading:
+
+***********
+isVariantOf
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/isVariantOf
    :value type: | linked object array \(1-N\) of type
                 | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
    :instructions: Add all software versions that can be used alternatively to this software version.
@@ -340,20 +355,18 @@ Reference to an original form where the essence was preserved, but presented in 
 
 ------------
 
-.. _isNewVersionOf_heading:
+.. _isVersionOf_heading:
 
-**************
-isNewVersionOf
-**************
-
-Reference to a previous (potentially outdated) particular form of something.
+***********
+isVersionOf
+***********
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isNewVersionOf
+   :semantic name: https://openminds.om-i.org/props/isVersionOf
    :value type: | linked object of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
-   :instructions: Add the software version preceding this software version.
+                | `Software <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/software.html>`_
+   :instructions: Add the version-independent information about this software.
 
 `BACK TO TOP <SoftwareVersion_>`_
 

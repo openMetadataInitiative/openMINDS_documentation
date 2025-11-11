@@ -14,7 +14,7 @@ WebService
 Properties
 ##########
 
-:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
+:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `custodian <custodian_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
 
 ------------
@@ -90,25 +90,6 @@ Whole, non-abbreviated name of something or somebody.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive full name (or title) for this research product. Note that this should be a suitable full name for all attached research product versions.
-
-`BACK TO TOP <WebService_>`_
-
-------------
-
-.. _hasVersion_heading:
-
-**********
-hasVersion
-**********
-
-Reference to variants of an original.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/hasVersion
-   :value type: | linked object array \(1-N\) of type
-                | `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_
-   :instructions: Add all versions of this web service.
 
 `BACK TO TOP <WebService_>`_
 

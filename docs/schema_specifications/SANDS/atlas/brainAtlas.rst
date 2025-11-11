@@ -16,8 +16,8 @@ For this schema openMINDS provides a `library of instances <https://openminds-do
 Properties
 ##########
 
-:Required: `author <author_heading_>`_, `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasTerminology <hasTerminology_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `usedSpecies <usedSpecies_heading_>`_
+:Required: `author <author_heading_>`_, `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasTerminology <hasTerminology_heading_>`_, `shortName <shortName_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `usedSpecies <usedSpecies_heading_>`_
 
 ------------
 

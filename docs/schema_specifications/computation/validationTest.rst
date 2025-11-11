@@ -16,8 +16,8 @@ Structured information about the definition of a process for validating a comput
 Properties
 ##########
 
-:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `referenceDataAcquisition <referenceDataAcquisition_heading_>`_, `scope <scope_heading_>`_, `scoreType <scoreType_heading_>`_, `studyTarget <studyTarget_heading_>`_
+:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `referenceDataAcquisition <referenceDataAcquisition_heading_>`_, `scope <scope_heading_>`_, `scoreType <scoreType_heading_>`_, `studyTarget <studyTarget_heading_>`_
 
 ------------
 

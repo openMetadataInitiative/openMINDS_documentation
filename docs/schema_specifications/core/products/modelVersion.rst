@@ -16,8 +16,8 @@ Structured information on a computational model (version level).
 Properties
 ##########
 
-:Required: `accessibility <accessibility_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
-:Optional: `configuration <configuration_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `entryPoint <entryPoint_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputData <inputData_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputData <outputData_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_
+:Required: `accessibility <accessibility_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `configuration <configuration_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `entryPoint <entryPoint_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputData <inputData_heading_>`_, `isPrecededBy <isPrecededBy_heading_>`_, `isVariantOf <isVariantOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputData <outputData_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_
 
 ------------
 
@@ -302,39 +302,52 @@ Data that is put into a process or machine.
 
 ------------
 
-.. _isAlternativeVersionOf_heading:
+.. _isPrecededBy_heading:
 
-**********************
-isAlternativeVersionOf
-**********************
-
-Reference to an original form where the essence was preserved, but presented in an alternative form.
+************
+isPrecededBy
+************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isAlternativeVersionOf
-   :value type: | linked object array \(1-N\) of type
+   :semantic name: https://openminds.om-i.org/props/isPrecededBy
+   :value type: | linked object of type
                 | `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_
-   :instructions: Add all computational model versions that can be used alternatively to this computational model version.
+   :instructions: Add the model version preceding this model version.
 
 `BACK TO TOP <ModelVersion_>`_
 
 ------------
 
-.. _isNewVersionOf_heading:
+.. _isVariantOf_heading:
 
-**************
-isNewVersionOf
-**************
-
-Reference to a previous (potentially outdated) particular form of something.
+***********
+isVariantOf
+***********
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isNewVersionOf
-   :value type: | linked object of type
+   :semantic name: https://openminds.om-i.org/props/isVariantOf
+   :value type: | linked object array \(1-N\) of type
                 | `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_
-   :instructions: Add the computational model version preceding this computational model version.
+   :instructions: Add all model versions that can be used alternatively to this model version.
+
+`BACK TO TOP <ModelVersion_>`_
+
+------------
+
+.. _isVersionOf_heading:
+
+***********
+isVersionOf
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/isVersionOf
+   :value type: | linked object of type
+                | `Model <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/model.html>`_
+   :instructions: Add the version-independent information about this model.
 
 `BACK TO TOP <ModelVersion_>`_
 

@@ -16,8 +16,8 @@ Structured information about the description of a prospective workflow.
 Properties
 ##########
 
-:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
+:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
 
 ------------
 
