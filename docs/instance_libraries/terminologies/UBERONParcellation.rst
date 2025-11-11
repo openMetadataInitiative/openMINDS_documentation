@@ -7432,6 +7432,23 @@ cerebralNerveFasciculus
 
 ------------
 
+cerebralNuclei
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralNuclei
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a telencephalic nucleus. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8440012) ('is_a' and 'relationship')]
+   :description: One of three components of the cerebrum that is a composite structure of the endbrain defined on the basis of origin from the ventricular ridge of the embryonic Encephalon. It consists of the extended striatum and the extended pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8440012)]
+   :name: cerebral nuclei
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_8440012
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cerebralPeduncle
 ----------------
 
