@@ -16,8 +16,8 @@ For this schema openMINDS provides a `library of instances <https://openminds-do
 Properties
 ##########
 
-:Required: `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Required: `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 
 ------------
 
