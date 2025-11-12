@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `referenceDataAcquisition <referenceDataAcquisition_heading_>`_, `scope <scope_heading_>`_, `scoreType <scoreType_heading_>`_, `studyTarget <studyTarget_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `referenceDataAcquisition <referenceDataAcquisition_heading_>`_, `scope <scope_heading_>`_, `scoreType <scoreType_heading_>`_, `studyTarget <studyTarget_heading_>`_
 
 ------------
 
@@ -111,25 +111,6 @@ Whole, non-abbreviated name of something or somebody.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive full name (or title) for this research product. Note that this should be a suitable full name for all attached research product versions.
-
-`BACK TO TOP <ValidationTest_>`_
-
-------------
-
-.. _hasVersion_heading:
-
-**********
-hasVersion
-**********
-
-Reference to variants of an original.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/hasVersion
-   :value type: | linked object array \(1-N\) of type
-                | `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_
-   :instructions: Add all versions of this validation test.
 
 `BACK TO TOP <ValidationTest_>`_
 

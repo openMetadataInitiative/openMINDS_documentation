@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `accessibility <accessibility_heading_>`_, `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `nativeUnit <nativeUnit_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `author <author_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `defaultImage <defaultImage_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `license <license_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `otherContribution <otherContribution_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `author <author_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `defaultImage <defaultImage_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `isPrecededBy <isPrecededBy_heading_>`_, `isVariantOf <isVariantOf_heading_>`_, `keyword <keyword_heading_>`_, `license <license_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `otherContribution <otherContribution_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_
 
 ------------
 
@@ -304,17 +304,32 @@ Preferred format for citing a particular object or legal person.
 
 ------------
 
-.. _isAlternativeVersionOf_heading:
+.. _isPrecededBy_heading:
 
-**********************
-isAlternativeVersionOf
-**********************
-
-Reference to an original form where the essence was preserved, but presented in an alternative form.
+************
+isPrecededBy
+************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isAlternativeVersionOf
+   :semantic name: https://openminds.om-i.org/props/isPrecededBy
+   :value type: | linked object of type
+                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+   :instructions: Add the common coordinate space version preceding this common coordinate space version.
+
+`BACK TO TOP <CommonCoordinateSpaceVersion_>`_
+
+------------
+
+.. _isVariantOf_heading:
+
+***********
+isVariantOf
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/isVariantOf
    :value type: | linked object array \(1-N\) of type
                 | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add all common coordinate space versions that can be used alternatively to this common coordinate space version.
@@ -323,20 +338,18 @@ Reference to an original form where the essence was preserved, but presented in 
 
 ------------
 
-.. _isNewVersionOf_heading:
+.. _isVersionOf_heading:
 
-**************
-isNewVersionOf
-**************
-
-Reference to a previous (potentially outdated) particular form of something.
+***********
+isVersionOf
+***********
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/isNewVersionOf
+   :semantic name: https://openminds.om-i.org/props/isVersionOf
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
-   :instructions: Add the common coordinate space version preceding this common coordinate space version.
+                | `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpace.html>`_
+   :instructions: Add the version-independent information about this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpaceVersion_>`_
 

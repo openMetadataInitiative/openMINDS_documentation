@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `author <author_heading_>`_, `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasTerminology <hasTerminology_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `usedSpecies <usedSpecies_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `usedSpecies <usedSpecies_heading_>`_
 
 ------------
 
@@ -145,25 +145,6 @@ hasTerminology
    :value type: | embedded object of type
                 | `ParcellationTerminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationTerminology.html>`_
    :instructions: Enter the parcellation terminology of this brain atlas.
-
-`BACK TO TOP <BrainAtlas_>`_
-
-------------
-
-.. _hasVersion_heading:
-
-**********
-hasVersion
-**********
-
-Reference to variants of an original.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/hasVersion
-   :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
-   :instructions: Add versions of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
 
