@@ -1,0 +1,39 @@
+name: htaccess-deploy
+
+on:
+  workflow_run:
+    workflows: ["openMINDS_documentation_build_pipeline"]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    # Run only if the previous workflow succeeded
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: pipeline
+
+      - name: Set up environment
+        run: |
+          echo "Running post-build deployment for .htaccess"
+          cd pipeline
+          pip install -r requirements.txt
+          python pipeline/redirect_map.py
+
+      - name: Upload .htaccess via SFTP
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          lftp -u "$FTP_USER","$FTP_PASSWORD" -p $SFTP_PORT sftp://$FTP_SERVER <<EOF
+          lcd pipeline
+          put .htaccess -o /public_html/.htaccess
+          bye
+          EOF
