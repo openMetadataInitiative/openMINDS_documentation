@@ -19,7 +19,6 @@ AAL1
    :abbreviation: AAL1
    :fullName: Automated Anatomical Labeling Atlas 1
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/AAL1.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/AAL1.html>`_
    :homepage: https://www.gin.cnrs.fr/en/tools/aal/
    :shortName: AAL Atlas 1
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
