@@ -31,7 +31,10 @@ jobs:
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
-          lftp -u "$FTP_USER","$FTP_PASSWORD" -p $SFTP_PORT sftp://$FTP_SERVER <<EOF
+          ls -la pipeline
+          lftp -u "$FTP_USER","$FTP_PASSWORD" -p $SFTP_PORT sftp://$FTP_SERVER  <<EOF
+          set net:max-retries 2
+          set net:timeout 30
           lcd pipeline
           put .htaccess -o /public_html/.htaccess
           bye
