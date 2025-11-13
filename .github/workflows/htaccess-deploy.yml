@@ -5,6 +5,7 @@ on:
     workflows: ["openMINDS_documentation_build_pipeline"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   deploy:
