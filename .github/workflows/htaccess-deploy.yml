@@ -1,19 +1,11 @@
 name: htaccess-deploy
 
 on:
-  workflow_run:
-    workflows: ["openMINDS_documentation_build_pipeline"]
-    types:
-      - completed
-  push:
-    branches:
-      - pipeline
   workflow_dispatch:
 
 jobs:
   deploy:
     # Run only if the previous workflow succeeded
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
