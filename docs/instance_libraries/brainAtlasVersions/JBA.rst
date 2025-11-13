@@ -21,6 +21,7 @@ JBA_v1.13-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v1.13-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/Q3ZS-NV6).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v1.13
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -44,6 +45,7 @@ JBA_v1.18-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v1.18-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v1.18
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -66,6 +68,7 @@ JBA_v1.18-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v1.18-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v1.18
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -89,6 +92,7 @@ JBA_v2.2-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.2-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -111,6 +115,7 @@ JBA_v2.2-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.2-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -133,6 +138,7 @@ JBA_v2.4-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.4-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.4
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -155,6 +161,7 @@ JBA_v2.4-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.4-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.4
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -177,6 +184,7 @@ JBA_v2.5-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.5-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.5
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -199,6 +207,7 @@ JBA_v2.5-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.5-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.5
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -221,6 +230,7 @@ JBA_v2.6-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.6-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/KJQN-AM0).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.6
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -243,6 +253,7 @@ JBA_v2.9-BigBrain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.9-BigBrain.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -266,6 +277,7 @@ JBA_v2.9-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.9-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -288,6 +300,7 @@ JBA_v2.9-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.9-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -310,6 +323,7 @@ JBA_v2.9-fsaverage
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v2.9-fsaverage.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -333,6 +347,7 @@ JBA_v3.0-BigBrain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0-BigBrain.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -355,6 +370,7 @@ JBA_v3.0-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -377,6 +393,7 @@ JBA_v3.0-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -399,6 +416,7 @@ JBA_v3.0-fsaverage
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0-fsaverage.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -421,6 +439,7 @@ JBA_v3.0.1-BigBrain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.1-BigBrain.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -443,6 +462,7 @@ JBA_v3.0.1-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.1-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -465,6 +485,7 @@ JBA_v3.0.1-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.1-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -487,6 +508,7 @@ JBA_v3.0.1-fsaverage
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.1-fsaverage.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -509,6 +531,7 @@ JBA_v3.0.2-BigBrain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.2-BigBrain.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -531,6 +554,7 @@ JBA_v3.0.2-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.2-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -553,6 +577,7 @@ JBA_v3.0.2-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.2-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -575,6 +600,7 @@ JBA_v3.0.2-fsaverage
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.2-fsaverage.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -597,6 +623,7 @@ JBA_v3.0.3-BigBrain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.3-BigBrain.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -619,6 +646,7 @@ JBA_v3.0.3-Colin27
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.3-Colin27.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -641,6 +669,7 @@ JBA_v3.0.3-MNI152
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.3-MNI152.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
@@ -663,6 +692,7 @@ JBA_v3.0.3-fsaverage
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/JBA_v3.0.3-fsaverage.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/JBA
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de

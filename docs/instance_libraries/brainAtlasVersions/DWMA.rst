@@ -19,6 +19,7 @@ DWMA_2018
    :abbreviation: DWMA
    :fullName: Atlas of Deep White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/DWMA_2018.html>`_
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/DWMA
    :shortName: Deep White Matter Atlas
    :versionIdentifier: 2018
    :versionInnovation: This is the first released version of this brain atlas.

@@ -19,6 +19,7 @@ BA-human_1909
    :abbreviation: BA-human
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/BA-human_1909.html>`_
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/BA-human
    :ontologyIdentifier: http://uri.interlex.org/base/ilx_0101468
    :shortName: Brodmann Areas (human)
    :versionIdentifier: 1909

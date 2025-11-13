@@ -19,6 +19,7 @@ SWMA_2018
    :abbreviation: SWMA
    :fullName: Atlas of Superficial White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/SWMA_2018.html>`_
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/SWMA
    :shortName: Superficial White Matter Atlas
    :versionIdentifier: 2018
    :versionInnovation: This is the first released version of this brain atlas.

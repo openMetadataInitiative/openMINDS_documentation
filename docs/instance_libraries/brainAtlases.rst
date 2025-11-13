@@ -37,7 +37,6 @@ AMBA
    :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/AMBA.html>`_
    :homepage: https://portal.brain-map.org/
    :shortName: Allen Mouse Brain Atlas
    :usedSpecies: `musMusculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#musmusculus>`_
@@ -76,7 +75,6 @@ BA-human
    :abbreviation: BA-human
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/BA-human.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/BA-human.html>`_
    :shortName: Brodmann Areas (human)
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
 
@@ -113,7 +111,6 @@ DWMA
    :abbreviation: DWMA
    :fullName: Atlas of Deep White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/DWMA.html>`_
    :shortName: Deep White Matter Atlas
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
 
@@ -134,7 +131,6 @@ JBA
    :digitalIdentifier: https://scicrunch.org/resolver/RRID:SCR_023277
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/JBA.html>`_
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the two main publications [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001) AND [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588) along with the atlas version(s) you have used.
    :shortName: Julich-Brain Atlas
@@ -156,7 +152,6 @@ MarmosetNMA
    :description: The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.
    :fullName: Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/MarmosetNMA.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/MarmosetNMA.html>`_
    :homepage: https://www.marmosetbrain.org/
    :howToCite: Please refer to the atlas by its [RRID:SCR_018367](https://scicrunch.org/resolver/SCR_018367), and cite the publication of the version of the template you have used.
    :shortName: Marmoset Nencki-Monash Atlas
@@ -178,7 +173,6 @@ PW-RBSC-cor
    :description: Paxinos and Watson's stereotaxic rat brain atlases are based on the study of 130 adult male Wistar rats. The atlases have a stereotactic reference system, in a flat-skull position with bregma and lambda as reference points, photographs of rat brain sections in the coronal plane, and contain diagrams showing delineated brain structures based on the previously mentioned photographs.
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/PW-RBSC-cor.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/PW-RBSC-cor.html>`_
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
    :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
 
@@ -197,7 +191,6 @@ SWMA
    :abbreviation: SWMA
    :fullName: Atlas of Superficial White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/SWMA.html>`_
    :shortName: Superficial White Matter Atlas
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
 
@@ -216,7 +209,6 @@ Schaefer-400p
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/Schaefer-400p.html>`_
    :homepage: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
    :shortName: Schaefer Atlas (400p)
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
@@ -237,7 +229,6 @@ SwansonBM
    :description: Swanson's Brain Maps atlases are open access, stereotaxic rat brain atlases of an adult Sprague Dawley rat. These atlases contain spatially aligned maps for 3D reconstruction, hierarchical nomenclature and flatmaps.
    :fullName: Swanson's Brain Maps: Structure of the Rat Brain
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SwansonBM.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/SwansonBM.html>`_
    :homepage: https://larrywswanson.com/
    :shortName: Swanson's Brain Maps
    :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
@@ -259,7 +250,6 @@ WHSSDatlas
    :digitalIdentifier: https://scicrunch.org/resolver/SCR_001592
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/WHSSDatlas.html>`_
-   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/WHSSDatlas.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the first publication [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.
    :shortName: Waxholm Space Rat Brain Atlas

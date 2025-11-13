@@ -19,6 +19,7 @@ AMBA_CCFv3-2015
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2015.html>`_
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/AMBA
    :shortName: Allen Mouse Brain Atlas
    :versionIdentifier: CCFv3, 2015
 
@@ -37,6 +38,7 @@ AMBA_CCFv3-2017
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2017.html>`_
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/AMBA
    :shortName: Allen Mouse Brain Atlas
    :versionIdentifier: CCFv3, 2017
 

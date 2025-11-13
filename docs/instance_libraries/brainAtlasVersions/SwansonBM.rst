@@ -22,6 +22,7 @@ SwansonBM_3rd-ed
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
    :homepage: https://larrywswanson.com/?page_id=164
    :howToCite: Swanson, L.W. (2004) Brain maps: structure of the rat brain, 3rd edition.
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/SwansonBM
    :releaseDate: 2003-11-24
    :shortName: Swanson's Brain Maps
    :versionIdentifier: 3rd ed.

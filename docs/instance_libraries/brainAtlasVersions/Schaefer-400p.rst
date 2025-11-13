@@ -19,6 +19,7 @@ Schaefer-400p_2018-FSL-MNI152-kong17n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, FSL-MNI152, kong17n
@@ -38,6 +39,7 @@ Schaefer-400p_2018-FSL-MNI152-yeo17n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, FSL-MNI152, yeo17n
@@ -57,6 +59,7 @@ Schaefer-400p_2018-FSL-MNI152-yeo7n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, FSL-MNI152, yeo7n
@@ -76,6 +79,7 @@ Schaefer-400p_2018-fsLR32k-kong17n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, fsLR32k, kong17n
@@ -95,6 +99,7 @@ Schaefer-400p_2018-fsLR32k-yeo17n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, fsLR32k, yeo17n
@@ -114,6 +119,7 @@ Schaefer-400p_2018-fsLR32k-yeo7n
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
    :majorVersionIdentifier: 2018
    :shortName: Schaefer Atlas (400p)
    :versionIdentifier: 2018, fsLR32k, yeo7n

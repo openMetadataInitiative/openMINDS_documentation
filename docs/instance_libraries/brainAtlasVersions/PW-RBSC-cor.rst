@@ -21,6 +21,7 @@ PW-RBSC-cor_6th-ed-Bregma-LIA
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/PW-RBSC-cor
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
    :versionIdentifier: 6th ed. (Bregma, LIA)
@@ -43,6 +44,7 @@ PW-RBSC-cor_6th-ed-Bregma-RIA
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/PW-RBSC-cor
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
    :versionIdentifier: 6th ed. (Bregma, RIA)
@@ -65,6 +67,7 @@ PW-RBSC-cor_6th-ed-Interaural-LSA
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/PW-RBSC-cor
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
    :versionIdentifier: 6th ed. (Interaural, LSA)
@@ -87,6 +90,7 @@ PW-RBSC-cor_6th-ed-Interaural-RSA
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/PW-RBSC-cor
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
    :versionIdentifier: 6th ed. (Interaural, RSA)

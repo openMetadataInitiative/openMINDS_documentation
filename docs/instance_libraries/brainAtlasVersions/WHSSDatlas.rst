@@ -21,6 +21,7 @@ WHSSDatlas_v1.01
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v1.01.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Papp et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.10.017).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
    :releaseDate: 2014-07-17
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
@@ -44,6 +45,7 @@ WHSSDatlas_v2
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v2.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kjonigsen et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.12.080).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
    :releaseDate: 2015-02-02
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
@@ -67,6 +69,7 @@ WHSSDatlas_v3.01
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.01.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
    :releaseDate: 2021-10-01
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
@@ -89,6 +92,7 @@ WHSSDatlas_v3
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
    :releaseDate: 2019-05-15
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
@@ -112,6 +116,7 @@ WHSSDatlas_v4
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v4.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kleven et al. (2023)](https://doi.org/10.21203/rs.3.rs-2466303/v1).
+   :isVersionOf: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
    :releaseDate: 2021-10-01
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
