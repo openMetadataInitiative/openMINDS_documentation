@@ -5,6 +5,9 @@ on:
     workflows: ["openMINDS_documentation_build_pipeline"]
     types:
       - completed
+  push:
+    branches:
+      - pipeline
   workflow_dispatch:
 
 jobs:
