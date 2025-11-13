@@ -310,7 +310,7 @@ isVersionOf
 
    :semantic name: https://openminds.om-i.org/props/isVersionOf
    :value type: | linked object of type
-                | Workflow \[TYPE_ERROR\]
+                | `WorkflowRecipe <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipe.html>`_
    :instructions: Add the version-independent information about this workflow recipe.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
