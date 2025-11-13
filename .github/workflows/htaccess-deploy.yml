@@ -17,7 +17,8 @@ jobs:
 
       - name: Set up environment
         run: |
-          sudo apt‑get update && sudo apt‑get install -y lftp
+          sudo apt-get update
+          sudo apt-get install -y lftp
           echo "Running post-build deployment for .htaccess"
           cd pipeline
           pip install -r requirements.txt
