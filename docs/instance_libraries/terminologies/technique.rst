@@ -724,6 +724,21 @@ diffusionFixationTechnique
 
 ------------
 
+diffusionSpectrumMagneticResonanceImaging
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/diffusionSpectrumMagneticResonanceImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Advanced magnetic resonance imaging (MRI) and image processing technique that enhances the contrast of fiber crossings and complex intravoxel fiber orientation distributions [[Zhang et al., 2018](https://doi.org/10.1371/journal.pone.0203271), [Wedeen et al., 2008](https://doi.org/10.1016/j.neuroimage.2008.03.036), [Wedeen et al., 2000](https://cds.ismrm.org/ismrm-2000/PDF1/0082.pdf)].
+   :name: diffusion spectrum magnetic resonance imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 diffusionTensorImaging
 ----------------------
 
