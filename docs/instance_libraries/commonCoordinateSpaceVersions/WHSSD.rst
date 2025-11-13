@@ -19,6 +19,7 @@ WHSSD_v1.01
    :abbreviation: WHSSD
    :fullName: Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/WHSSD
    :releaseDate: 2014-07-16
    :shortName: WHS of the SD Rat Brain
    :versionIdentifier: v1.01
@@ -38,6 +39,7 @@ WHSSD_v1
    :abbreviation: WHSSD
    :fullName: Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/WHSSD
    :releaseDate: 2014-07-16
    :shortName: WHS of the SD Rat Brain
    :versionIdentifier: v1

@@ -20,6 +20,7 @@ PW-RBSC-corT_v2004-Bregma-LIA
    :description: This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses Bregma as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the left, inferior, anterior (positive mediolateral values describe the rat's left hemisphere), respectively.
    :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
    :howToCite: Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
    :releaseDate: 2004-11-10
    :shortName: Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)
    :versionIdentifier: v2004 (Bregma, LIA)
@@ -41,6 +42,7 @@ PW-RBSC-corT_v2004-Bregma-RIA
    :description: This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses Bregma as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the right, anterior, inferior (positive mediolateral values describe the rat's right hemisphere), respectively.
    :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
    :howToCite: Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
    :releaseDate: 2004-11-10
    :shortName: Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)
    :versionIdentifier: v2004 (Bregma, RIA)
@@ -62,6 +64,7 @@ PW-RBSC-corT_v2004-Interaural-LSA
    :description: This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses the midpoint of the interaural line as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the left, superior, anterior (positive mediolateral values describe the rat's left hemisphere), respectively.
    :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
    :howToCite: Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
    :releaseDate: 2004-11-10
    :shortName: Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)
    :versionIdentifier: v2004 (Interaural, LSA)
@@ -83,6 +86,7 @@ PW-RBSC-corT_v2004-Interaural-RSA
    :description: This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses the midpoint of the interaural line as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the right, superior, anterior (positive mediolateral values describe the rat's right hemisphere), respectively.
    :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
    :howToCite: Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
    :releaseDate: 2004-11-10
    :shortName: Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)
    :versionIdentifier: v2004 (Interaural, RSA)

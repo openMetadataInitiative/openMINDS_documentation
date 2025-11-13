@@ -19,6 +19,7 @@ BigBrain_2015
    :abbreviation: BigBrain
    :fullName: BigBrain Whole-Brain Model
    :homepage: https://bigbrainproject.org/
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/BigBrain
    :releaseDate: 2013-06-21
    :shortName: BigBrain Model
    :versionIdentifier: 2015

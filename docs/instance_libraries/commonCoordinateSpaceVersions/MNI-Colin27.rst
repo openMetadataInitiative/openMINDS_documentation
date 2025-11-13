@@ -19,6 +19,7 @@ MNI-Colin27_1998
    :abbreviation: MNI-Colin27
    :fullName: MNI Colin27 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27
    :releaseDate: 1998-06-01
    :shortName: MNI Colin27 Average Brain
    :versionIdentifier: 1998
@@ -38,6 +39,7 @@ MNI-Colin27_2008
    :abbreviation: MNI-Colin27
    :fullName: MNI Colin27 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27
    :releaseDate: 2006-08-01
    :shortName: MNI Colin27 Average Brain
    :versionIdentifier: 2008

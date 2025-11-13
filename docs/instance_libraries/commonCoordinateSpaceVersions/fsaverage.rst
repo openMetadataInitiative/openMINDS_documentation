@@ -18,6 +18,7 @@ fsaverage_3
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :shortName: FsAverage Surface Space
    :versionIdentifier: 3
    :versionInnovation: This FsAverage Surface Space version has about 1k vertices per hemisphere.
@@ -36,6 +37,7 @@ fsaverage_4
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :shortName: FsAverage Surface Space
    :versionIdentifier: 4
    :versionInnovation: This FsAverage Surface Space version has about 3k vertices per hemisphere.
@@ -54,6 +56,7 @@ fsaverage_5
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :shortName: FsAverage Surface Space
    :versionIdentifier: 5
    :versionInnovation: This FsAverage Surface Space version has about 10k vertices per hemisphere.
@@ -72,6 +75,7 @@ fsaverage_6
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :shortName: FsAverage Surface Space
    :versionIdentifier: 6
    :versionInnovation: This FsAverage Surface Space version has about 41k vertices per hemisphere.
@@ -90,6 +94,7 @@ fsaverage_7
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :shortName: FsAverage Surface Space
    :versionIdentifier: 7
    :versionInnovation: This FsAverage Surface Space version has about 164k vertices per hemisphere.

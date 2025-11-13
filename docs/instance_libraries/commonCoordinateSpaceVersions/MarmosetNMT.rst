@@ -21,6 +21,7 @@ MarmosetNMT_v1
    :fullName: The Marmoset Nencki-Monash Template in Stereotaxic Coordinates
    :homepage: https://www.marmosetbrain.org/nencki_monash_template
    :howToCite: Majka, P., Bednarek, S., Chan, J. M., Jermakow, N., Liu, C., Saworska, G., Worthy, K. H., Silva, A. C., Wójcik, D. K., & Rosa, M. G. P. (2021). Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas. NeuroImage, 226, 117625. https://doi.org/10.1016/j.neuroimage.2020.117625.
+   :isVersionOf: https://openminds.om-i.org/instances/commonCoordinateSpace/MarmosetNMT
    :releaseDate: 2021-02-01
    :shortName: Marmoset Nencki-Monash Template
    :versionIdentifier: v1
