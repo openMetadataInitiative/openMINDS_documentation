@@ -9152,7 +9152,7 @@ corticobulbarTract
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticobulbarTract
    :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of telencephalon and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272) ('is_a' and 'relationship')]
-   :description: The corticobulbar (or corticonuclear) tract is a white matter pathway connecting the cerebral cortex to the brainstem. The term \ [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272)]
+   :description: The corticobulbar (or corticonuclear) tract is a white matter pathway connecting the cerebral cortex to the brainstem. The term 'bulbar' refers to the brainstem, as bulb was a historical term meaning the area currently called the brainstem. The 'bulb' is an archaic term for the medulla oblongata. In clinical usage, it includes the pons as well. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272)]
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022272#corticobulbar-tract
    :name: corticobulbar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022272
@@ -15094,7 +15094,7 @@ genuOfCorpusCallosum
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/genuOfCorpusCallosum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015599) ('is_a' and 'relationship')]
-   :description: Part of corpus callosum comprising the \ [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015599)]
+   :description: Part of corpus callosum comprising the kneelike anterior bend (adapted from Nolte, The Human Brain, 6th ed., 2009 pg 664) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015599)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104608
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015599#genu-of-corpus-callosum
    :name: genu of corpus callosum
@@ -29777,25 +29777,6 @@ paraventricularNucleusOfThalamus
 
 ------------
 
-paraventricularNucleusOfTheHypothalamus
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930) ('is_a' and 'relationship')]
-   :description: Nucleus in the anterior part of the hypothalamus. One of the magnocellular hypothalamic nuclei, an elongated plate of large, deeply staining cells located close to the third ventricle in the anterior hypothalamic area; major source of oxytocin and to a lesser extent, of antidiuretic hormone, neurohormones, which are carried to the neurohypophysis along the paraventriculohypophysial tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0108501
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1
-   :name: paraventricular nucleus of the hypothalamus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001930
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
 paraventricularNucleusOfTheHypothalamusDescendingDivision
 ---------------------------------------------------------
 
@@ -42243,7 +42224,7 @@ superiorFrontalGyrus
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalGyrus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]
-   :description: Component of the frontal lobe, lateral aspect. The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the midpoint of the paracentral sulcus on the \ [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]
+   :description: Component of the frontal lobe, lateral aspect. The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the midpoint of the paracentral sulcus on the inflated surface. The medial and lateral boundaries are the medial aspect of the frontal lobe and the superior frontal sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111304
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002661#superior-frontal-gyrus-1
    :name: superior frontal gyrus

@@ -27,6 +27,7 @@ ControlledTerms
 - `CranialWindowReinforcementType <controlledTerms/cranialWindowReinforcementType.html>`_
 - `CriteriaQualityType <controlledTerms/criteriaQualityType.html>`_
 - `DataType <controlledTerms/dataType.html>`_
+- `DependencyImpact <controlledTerms/dependencyImpact.html>`_
 - `DeploymentEnvironmentType <controlledTerms/deploymentEnvironmentType.html>`_
 - `DeviceType <controlledTerms/deviceType.html>`_
 - `DifferenceMeasure <controlledTerms/differenceMeasure.html>`_
@@ -50,6 +51,7 @@ ControlledTerms
 - `MetaDataModelType <controlledTerms/metaDataModelType.html>`_
 - `ModelAbstractionLevel <controlledTerms/modelAbstractionLevel.html>`_
 - `ModelScope <controlledTerms/modelScope.html>`_
+- `ModificationClause <controlledTerms/modificationClause.html>`_
 - `MolecularEntity <controlledTerms/molecularEntity.html>`_
 - `MRIPulseSequence <controlledTerms/MRIPulseSequence.html>`_
 - `MRIWeighting <controlledTerms/MRIWeighting.html>`_
@@ -61,6 +63,7 @@ ControlledTerms
 - `Organ <controlledTerms/organ.html>`_
 - `OrganismSubstance <controlledTerms/organismSubstance.html>`_
 - `OrganismSystem <controlledTerms/organismSystem.html>`_
+- `OrganizationType <controlledTerms/organizationType.html>`_
 - `PatchClampVariation <controlledTerms/patchClampVariation.html>`_
 - `PreparationType <controlledTerms/preparationType.html>`_
 - `ProductAccessibility <controlledTerms/productAccessibility.html>`_
@@ -116,6 +119,7 @@ ControlledTerms
    controlledTerms/cranialWindowReinforcementType
    controlledTerms/criteriaQualityType
    controlledTerms/dataType
+   controlledTerms/dependencyImpact
    controlledTerms/deploymentEnvironmentType
    controlledTerms/deviceType
    controlledTerms/differenceMeasure
@@ -139,6 +143,7 @@ ControlledTerms
    controlledTerms/metaDataModelType
    controlledTerms/modelAbstractionLevel
    controlledTerms/modelScope
+   controlledTerms/modificationClause
    controlledTerms/molecularEntity
    controlledTerms/MRIPulseSequence
    controlledTerms/MRIWeighting
@@ -150,6 +155,7 @@ ControlledTerms
    controlledTerms/organ
    controlledTerms/organismSubstance
    controlledTerms/organismSystem
+   controlledTerms/organizationType
    controlledTerms/patchClampVariation
    controlledTerms/preparationType
    controlledTerms/productAccessibility
