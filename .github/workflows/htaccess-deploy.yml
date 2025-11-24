@@ -25,12 +25,12 @@ jobs:
         
       - name: Upload .htaccess via SFTP
         env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          SFTP_PORT: ${{ secrets.SFTP_PORT }}
-          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_SERVER: ${{ vars.FTP_SERVER }}
+          SFTP_PORT: ${{ vars.SFTP_PORT }}
+          FTP_USER: ${{ vars.FTP_USER }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
-          lftp -u "$FTP_USER","$FTP_PASSWORD" -p $SFTP_PORT sftp://$FTP_SERVER  <<EOF
+          lftp -u "$FTP_USER","$FTP_PASSWORD" -p $FTP_PORT sftp://$FTP_SERVER  <<EOF
           set sftp:connect-program "ssh -oHostKeyAlgorithms=+ssh-dss -oPubkeyAcceptedKeyTypes=+ssh-dss"
           set net:max-retries 2
           set net:timeout 30
