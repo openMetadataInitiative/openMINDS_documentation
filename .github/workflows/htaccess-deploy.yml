@@ -32,4 +32,4 @@ jobs:
         run: |
            cd pipeline
            ls -alh
-           lftp -u $FTP_USER,$FTP_PASSWORD -e "put .htaccess; bye" $FTP_SERVER
+           lftp -d -u $FTP_USER,$FTP_PASSWORD -e "put .htaccess; bye" $FTP_SERVER
