@@ -3,6 +3,9 @@ name: htaccess-deploy
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write 
+  
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -13,6 +16,7 @@ jobs:
         with:
           ref: pipeline
           path: pipeline
+          token: ${{ secrets.GITHUB_TOKEN }}  # write-enabled token
 
       - name: Set up environment
         env:
@@ -23,20 +27,16 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y lftp
-          echo "Running post-build deployment for .htaccess"
-          touch ftptest.txt
-          lftp -d -u $FTP_USER,$FTP_PASSWORD -e "set ftp:passive-mode on; put ftptest.txt; bye" $FTP_SERVER          
+          echo "Running post-build deployment for .htaccess"        
           cd pipeline
           pip install -r requirements.txt
           python pipeline/redirect_map.py
-        
-      - name: Upload .htaccess via SFTP
-        env:
-          FTP_SERVER: ${{ vars.FTP_SERVER }}
-          SFTP_PORT: ${{ vars.SFTP_PORT }}
-          FTP_USER: ${{ vars.FTP_USER }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+      - name: Commit and push changes
         run: |
-           cd pipeline
-           ls -alh
-           lftp -d -u $FTP_USER,$FTP_PASSWORD -e "set ftp:passive-mode on; put .htaccess; bye" $FTP_SERVER
+          cd pipeline
+          git config user.name "openMINDS"
+          git config user.email "support@om-i.org"
+          git add .htaccess
+          git commit -m "[skip ci] Add .htaccess" || echo "No changes to commit"
+          git push
