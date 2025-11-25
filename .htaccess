@@ -3706,6 +3706,7 @@ Redirect 301 "/instances/educationalLevel/intermediate" "https://openminds.docs.
 Redirect 301 "/instances/electricalStimulusType/directCurrent" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/electricalStimulusType.html#directcurrent"
 Redirect 301 "/instances/ethicsAssessment/EUCompliant" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ethicsAssessment.html#eucompliant"
 Redirect 301 "/instances/ethicsAssessment/EUCompliant+" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ethicsAssessment.html#eucompliant+"
+Redirect 301 "/instances/ethicsAssessment/USCompliant" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ethicsAssessment.html#uscompliant"
 Redirect 301 "/instances/ethicsAssessment/notRequired" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ethicsAssessment.html#notrequired"
 Redirect 301 "/instances/experimentalApproach/anatomy" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/experimentalApproach.html#anatomy"
 Redirect 301 "/instances/experimentalApproach/behavior" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/experimentalApproach.html#behavior"
