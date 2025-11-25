@@ -224,8 +224,8 @@ def main() -> None:
             fp.write(f'Redirect 301 "{uri}" "{url}"\n')
         
         # Add generic redirect for all other paths
-        fp.write(f'\n# Generic redirect for all other paths\n')
-        fp.write(f'RedirectMatch 301 /(.*) {DOCS_BASE_URL}/$1\n')
+        #fp.write(f'\n# Generic redirect for all other paths\n')
+        #fp.write(f'RedirectMatch 301 /(.*) {DOCS_BASE_URL}/$1\n')
     
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
