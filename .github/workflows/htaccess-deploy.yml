@@ -19,6 +19,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y lftp
           echo "Running post-build deployment for .htaccess"
+          touch ftptest.txt
+          lftp -d -u $FTP_USER,$FTP_PASSWORD -e "set ftp:passive-mode on; put ftptest.txt; bye" $FTP_SERVER          
           cd pipeline
           pip install -r requirements.txt
           python pipeline/redirect_map.py
@@ -32,4 +34,4 @@ jobs:
         run: |
            cd pipeline
            ls -alh
-           lftp -d -u $FTP_USER,$FTP_PASSWORD -e "put .htaccess; bye" $FTP_SERVER
+           lftp -d -u $FTP_USER,$FTP_PASSWORD -e "set ftp:passive-mode on; put .htaccess; bye" $FTP_SERVER
