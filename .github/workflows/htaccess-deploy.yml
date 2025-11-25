@@ -30,5 +30,6 @@ jobs:
           FTP_USER: ${{ vars.FTP_USER }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
+           cd pipeline
            ls -alh
            lftp -u $FTP_USER,$FTP_PASSWORD -e "put .htaccess; bye" $FTP_SERVER
