@@ -18,15 +18,8 @@ jobs:
           path: pipeline
           token: ${{ secrets.GITHUB_TOKEN }}  # write-enabled token
 
-      - name: Set up environment
-        env:
-          FTP_SERVER: ${{ vars.FTP_SERVER }}
-          SFTP_PORT: ${{ vars.SFTP_PORT }}
-          FTP_USER: ${{ vars.FTP_USER }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+      - name: Generate redirect map
         run: |
-          sudo apt-get update
-          sudo apt-get install -y lftp
           echo "Running post-build deployment for .htaccess"        
           cd pipeline
           pip install -r requirements.txt
@@ -40,3 +33,7 @@ jobs:
           git add .htaccess
           git commit -m "[skip ci] Add .htaccess" || echo "No changes to commit"
           git push
+
+      - name: Trigger synchronization of htaccess file
+        run: |
+          curl -u ${{ secrets.HTACCESS_SYNC_AUTH }} https://openminds.om-i.org/sync_htaccess.php
