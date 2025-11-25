@@ -40,6 +40,21 @@ EUCompliant
 
 ------------
 
+USCompliant
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/ethicsAssessment/USCompliant
+   :@type: https://openminds.om-i.org/types/EthicsAssessment
+   :definition: Data are ethically approved in compliance with the laws of the United States of America. No additional ethics assessment was made by the data sharing initiative.
+   :name: US compliant
+
+`BACK TO TOP <Terminologies: EthicsAssessment library_>`_
+
+------------
+
 notRequired
 -----------
 
