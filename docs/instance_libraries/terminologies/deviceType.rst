@@ -23,6 +23,102 @@ CTscanner
 
 ------------
 
+MRIBodyCoil
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRIBodyCoil
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of volume coil optimized for uniform radiofrequency transmission and/or reception across large anatomical regions, typically encompassing the torso or entire body.
+   :description: Body coils are integrated volume coils typically built into the bore of an MRI scanner to provide homogeneous B1 field distribution across extensive anatomical areas. They are often used as transmit or transmit/receive coils for imaging the torso and whole body, and frequently serve as the system's default transmit coil when combined with local receive arrays. Their large geometry ensures consistent excitation and reception, enabling high-quality imaging across diverse body regions and supporting calibration or reference functions in multi-coil setups.
+   :name: MRI body coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIExtremityCoil
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRIExtremityCoil
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of volume coil optimized for imaging peripheral anatomical regions such as the arms, legs, wrists, ankles, or knees; in rare cases, extremity coils may adopt a surface-coil design when full enclosure of the anatomy is impractical.
+   :description: Extremity coils are specialized radiofrequency volume coils designed to provide high signal-to-noise ratio and uniform excitation when imaging smaller body parts like the limbs. They typically use cylindrical or contoured geometries that enclose the target region but can also appear as surface-coil variants for joints or areas where full coverage is not feasible. Extremity coils are widely used in musculoskeletal and vascular MRI, offering focused, high-resolution imaging of localized peripheral structures.
+   :name: MRI extremity coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIHeadCoil
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRIHeadCoil
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of volume coil optimized for radiofrequency transmission and/or reception over the head and brain, providing homogeneous B1 field coverage within the cranial region.
+   :description: Head coils are dedicated radiofrequency (RF) volume coils designed to image the brain and cranial structures. They typically use birdcage or quadrature configurations to achieve uniform excitation and reception across the entire head. Head coils can operate as transmit/receive or receive-only systems depending on the scanner design. High-channel phased-array head coils are increasingly common, improving signal-to-noise ratio (SNR) and parallel-imaging capabilities. In some advanced configurations, open or partial head coils are employed for interventional or functional MRI studies, where full enclosure is not required.
+   :name: MRI head coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIMulti-coilArray
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRIMulti-coilArray
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of radiofrequency coil composed of multiple coordinated elements optimized for transmit and/or receive operation over an extended field of view; phased-array coils are a specialized subclass focused on parallel signal reception.
+   :description: Multi-coil arrays consist of several individual RF elements that work together to improve signal quality, coverage, and control of the B₁ field. Depending on their configuration, they may operate as transmit, receive, or transmit-receive systems, enabling techniques such as RF shimming, parallel transmission, and parallel imaging. These arrays can be designed with volume-type geometries that enclose the anatomy or surface-type arrangements that conform to the body's contour. Phased-array coils represent a subset of multi-coil arrays specialized for independent receive channels used in parallel acquisition.
+   :name: MRI multi-coil array
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRISurfaceCoil
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRISurfaceCoil
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of radiofrequency coil optimized for localized signal reception from tissue near the coil surface, providing high sensitivity over a small field of view.
+   :description: Surface coils are small radiofrequency coils placed directly adjacent to the region of interest to capture strong signals from nearby tissues with high spatial resolution. Their sensitivity decreases rapidly with distance, making them ideal for imaging superficial structures such as the spine, joints, or breast. Surface coils are typically receive-only and operate in combination with a separate transmit coil, often the body coil. They can also serve as building blocks in multi-coil or phased-array configurations, extending coverage while maintaining local sensitivity.
+   :name: MRI surface coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIVolumeCoil
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/deviceType/MRIVolumeCoil
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: Type of radiofrequency coil optimized for uniform transmit and/or receive coverage across a defined enclosed volume of anatomy.
+   :description: Volume coils are radiofrequency coils that fully or partially enclose the anatomy to produce a homogeneous B₁ field within a specified region, such as the head, torso, or extremities. They are used for both transmission and reception of MR signals and are commonly built in birdcage or quadrature configurations. Volume coils provide uniform excitation and reception, making them suitable for general-purpose imaging or as transmit coils in combination with local receive arrays. Their subtypes include body, head, and extremity coils, which differ mainly by size and anatomical coverage.
+   :name: MRI volume coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
 MRIscanner
 ----------
 
