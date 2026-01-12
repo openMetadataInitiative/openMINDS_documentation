@@ -69,6 +69,7 @@ Terminologies
 - `SetupType <terminologies/setupType.html>`_
 - `SoftwareApplicationCategory <terminologies/softwareApplicationCategory.html>`_
 - `SoftwareFeature <terminologies/softwareFeature.html>`_
+- `SovereignState <terminologies/sovereignState.html>`_
 - `Species <terminologies/species.html>`_
 - `StimulationApproach <terminologies/stimulationApproach.html>`_
 - `StimulationTechnique <terminologies/stimulationTechnique.html>`_
@@ -153,6 +154,7 @@ Terminologies
    terminologies/setupType
    terminologies/softwareApplicationCategory
    terminologies/softwareFeature
+   terminologies/sovereignState
    terminologies/species
    terminologies/stimulationApproach
    terminologies/stimulationTechnique

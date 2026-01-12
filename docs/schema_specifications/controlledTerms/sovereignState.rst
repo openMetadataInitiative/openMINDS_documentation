@@ -7,6 +7,8 @@ SovereignState
 :Display as: Sovereign state
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/sovereignState.html>`_.
+
 ------------
 
 ------------
