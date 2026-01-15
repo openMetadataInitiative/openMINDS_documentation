@@ -7,6 +7,8 @@ CommunicationInterfaceType
 :Display as: Communication interface type
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/communicationInterfaceType.html>`_.
+
 ------------
 
 ------------
