@@ -103,7 +103,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.om-i.org/props/input
    :value type: | linked object array \(1-N\) of type
-                | `LocalFile <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/localFile.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | `LocalFile <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/localFile.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, AnatomicalAtlasVersion \[TYPE_ERROR\] or CommonCoordinateFrameworkVersion \[TYPE_ERROR\]
    :instructions: Add all inputs used by this activity.
 
 `BACK TO TOP <DataAnalysis_>`_

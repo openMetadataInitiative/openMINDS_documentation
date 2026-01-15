@@ -257,7 +257,7 @@ hasPart
 
    :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(1-N\) of type
-                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, AnatomicalAtlasVersion \[TYPE_ERROR\] or CommonCoordinateFrameworkVersion \[TYPE_ERROR\]
    :instructions: Add all software versions that supplement this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
