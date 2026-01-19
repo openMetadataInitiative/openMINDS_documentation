@@ -1352,3 +1352,467 @@ Montenegro
 
 ------------
 
+Rwanda
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Rwanda
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1037)]
+   :name: Rwanda
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1037
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SaintKittsAndNevis
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SaintKittsAndNevis
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q763)]
+   :name: Saint Kitts and Nevis
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q763
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SaintLucia
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SaintLucia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q760)]
+   :name: Saint Lucia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q760
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SaintVincentAndTheGrenadines
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SaintVincentAndTheGrenadines
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q757)]
+   :name: Saint Vincent and the Grenadines
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q757
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Samoa
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Samoa
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Sovereign state made up of six islands in the Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q683)]
+   :name: Samoa
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q683
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SanMarino
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SanMarino
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Sovereign state in southern Europe, enclaved within Italy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q238)]
+   :name: San Marino
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q238
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SaoTomeAndPrincipe
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SaoTomeAndPrincipe
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1039)]
+   :name: Sao Tome and Principe
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1039
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SaudiArabia
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SaudiArabia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q851)]
+   :name: Saudi Arabia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q851
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Sauk-SuiattleIndianTribe
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Sauk-SuiattleIndianTribe
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Federally recognized Native American tribe in Washington state, USA. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1718707)]
+   :name: Sauk-Suiattle Indian Tribe
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1718707
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Senegal
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Senegal
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country on the coast of West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1041)]
+   :name: Senegal
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1041
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Serbia
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Serbia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q403)]
+   :name: Serbia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q403
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Seychelles
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Seychelles
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state off the eastern coast of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1042)]
+   :name: Seychelles
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1042
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SierraLeone
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SierraLeone
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1044)]
+   :name: Sierra Leone
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1044
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Singapore
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Singapore
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Sovereign island country and city-state in maritime Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q334)]
+   :name: Singapore
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q334
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Slovakia
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Slovakia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q214)]
+   :name: Slovakia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q214
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Slovenia
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Slovenia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q215)]
+   :name: Slovenia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q215
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SolomonIslands
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SolomonIslands
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q685)]
+   :name: Solomon Islands
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q685
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Somalia
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Somalia
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1045)]
+   :name: Somalia
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1045
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SouthAfrica
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SouthAfrica
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q258)]
+   :name: South Africa
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q258
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SouthKorea
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SouthKorea
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q884)]
+   :name: South Korea
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q884
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SouthSudan
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SouthSudan
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q958)]
+   :name: South Sudan
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q958
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Spain
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Spain
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in southwestern Europe with territories in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q29)]
+   :name: Spain
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q29
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+SriLanka
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/SriLanka
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Island country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q854)]
+   :name: Sri Lanka
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q854
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+StateOfPalestine
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/StateOfPalestine
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q219060)]
+   :name: State of Palestine
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q219060
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Sudan
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Sudan
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Northeast Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1049)]
+   :name: Sudan
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1049
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Suriname
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Suriname
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q730)]
+   :name: Suriname
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q730
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Sweden
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Sweden
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q34)]
+   :name: Sweden
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q34
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Switzerland
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Switzerland
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q39)]
+   :name: Switzerland
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q39
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
+Syria
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/SovereignState/Syria
+   :@type: https://openminds.om-i.org/types/SovereignState
+   :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q858)]
+   :name: Syria
+   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q858
+
+`BACK TO TOP <Terminologies: SovereignState library_>`_
+
+------------
+
