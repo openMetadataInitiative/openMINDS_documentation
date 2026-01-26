@@ -76,6 +76,7 @@ Terminologies
 - `StimulationTechnique <terminologies/stimulationTechnique.html>`_
 - `SubcellularEntity <terminologies/subcellularEntity.html>`_
 - `SubjectAttribute <terminologies/subjectAttribute.html>`_
+- `SupranationalBody <terminologies/supranationalBody.html>`_
 - `TactileStimulusType <terminologies/tactileStimulusType.html>`_
 - `Technique <terminologies/technique.html>`_
 - `Terminology <terminologies/terminology.html>`_
@@ -162,6 +163,7 @@ Terminologies
    terminologies/stimulationTechnique
    terminologies/subcellularEntity
    terminologies/subjectAttribute
+   terminologies/supranationalBody
    terminologies/tactileStimulusType
    terminologies/technique
    terminologies/terminology
