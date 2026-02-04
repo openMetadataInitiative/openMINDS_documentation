@@ -3900,6 +3900,7 @@ Redirect 301 "/instances/modelScope/subcellular-ionChannel" "https://openminds.d
 Redirect 301 "/instances/modelScope/subcellular-molecular" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/modelScope.html#subcellular-molecular"
 Redirect 301 "/instances/modelScope/subcellular-signalling" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/modelScope.html#subcellular-signalling"
 Redirect 301 "/instances/modelScope/subcellular-spine" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/modelScope.html#subcellular-spine"
+Redirect 301 "/instances/modificationForm/physicallySignedModification" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/modificationForm.html#physicallysignedmodification"
 Redirect 301 "/instances/molecularEntity/(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#(n-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole"
 Redirect 301 "/instances/molecularEntity/4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#4-(2-hydroxyethyl)-1-piperazineethanesulfonicacid"
 Redirect 301 "/instances/molecularEntity/5-HT1AReceptor" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#5-ht1areceptor"
