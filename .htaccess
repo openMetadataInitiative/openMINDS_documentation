@@ -17368,6 +17368,7 @@ Redirect 301 "/instances/terminology/paymentModelType" "https://openminds.docs.o
 Redirect 301 "/instances/terminology/preparationType" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#preparationtype"
 Redirect 301 "/instances/terminology/productAccessibility" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#productaccessibility"
 Redirect 301 "/instances/terminology/programmingLanguage" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#programminglanguage"
+Redirect 301 "/instances/terminology/publicationStatus" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#publicationstatus"
 Redirect 301 "/instances/terminology/qualitativeOverlap" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#qualitativeoverlap"
 Redirect 301 "/instances/terminology/semanticDataType" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#semanticdatatype"
 Redirect 301 "/instances/terminology/service" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/terminology.html#service"
