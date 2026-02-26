@@ -219,6 +219,25 @@ AMPAReceptor
 
 ------------
 
+ATP
+---
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/ATP
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Adenosine triphosphate (ATP) is a nucleoside triphosphate. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/Adenosine_triphosphate)]
+   :description: ATP provides energy to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. When consumed in a metabolic process, ATP converts either to adenosine diphosphate (ADP) or to adenosine monophosphate (AMP). (adapted from Wikipedia: https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780796
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15422#atp
+   :name: ATP
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15422
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 AlexaFluor594
 -------------
 
@@ -231,6 +250,23 @@ AlexaFluor594
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:51248#alexa-fluor-594
    :name: Alexa Fluor 594
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_51248
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+BAPTA
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/BAPTA
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: BAPTA (1,2-bis(o-aminophenoxy)ethane-N,N,N′,N′-tetraacetic acid) is an aminopolycarboxylic acid with a high affinity for calcium. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/BAPTA)]
+   :description: BAPTA is a white solid. It is used in research to chelate Ca2+. It is a component of some fluorescent calcium ion indicators such as Calcium Green and Oregon Green 488 BAPTA-1 and -2 (OGB-1, OGB2). [adapted from Wikipedia (https://en.wikipedia.org/wiki/BAPTA)]
+   :name: BAPTA
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_60888
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -249,6 +285,24 @@ Beta-Amyloid40
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090708#beta-amyloid-40
    :name: Beta-Amyloid 40
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_13181
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+D-AP5
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/D-AP5
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: D-AP5 is the D-isomer of AP5, a chemical compound that is a selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]
+   :description: The active isomer of AP5 is considered to be the D configuration. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100867
+   :name: D-AP5
+   :preferredOntologyIdentifier: https://purl.obolibrary.org/obo/CHEBI_138644
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -425,6 +479,25 @@ GABAReceptor
 
 ------------
 
+GTP
+---
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/GTP
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/Guanosine_triphosphate)]
+   :description: GTP is one of the building blocks needed for the synthesis of RNA during the transcription process. It also has a role as an activator of substrates in metabolic reactions and as a source of energy for protein synthesis and gluconeogenesis. GTP is essential to signal transduction, in particular with G-proteins, in second-messenger mechanisms where it is converted to guanosine diphosphate (GDP) through the action of GTPases. (adapted from Wikipedia: https://en.wikipedia.org/wiki/Guanosine_triphosphate)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0439625
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15996#gtp
+   :name: GTP
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15996
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 GTPDisodiumSalt
 ---------------
 
@@ -525,6 +598,25 @@ NMDAReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5250#nmda-type-glutamate-gated-cationic-channel
    :name: NMDA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5250
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+QX-314
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/QX-314
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: QX-314 is a quaternary lidocaine derivative, permanently charged, and lipophobic. [sourced from the [Merck website](https://www.sigmaaldrich.com/FR/fr/product/mm/552233)]
+   :description: QX-314 is a blocker of voltage-sensitive Na+ conductance when applied intracellularly. It suppresses the generation of Na+-dependent spikes from inside the cell membrane, without affecting Ca2+ currents or glutamate-activated currents. (adapted from the Merck website: https://www.sigmaaldrich.com/FR/fr/product/mm/552233)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0523764
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:46937#qx-314
+   :name: QX-314
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_46937
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -800,6 +892,24 @@ carbonDioxide
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16526#carbon-dioxide
    :name: carbon dioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16526
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+cesiumSulfate
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/cesiumSulfate
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Cesium sulfate (or caesium sulfate) is the cesium salt with the formula Cs2SO4. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Caesium_sulfate)]
+   :description: Cesium sulfate is a white water-soluble solid that is used to prepare dense aqueous solutions for use in isopycnic (or 'density-gradient') centrifugation. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Caesium_sulfate)]
+   :interlexIdentifier: http://uri.interlex.org/ilx_0514068
+   :name: cesium sulfate
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/25137
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1820,6 +1930,23 @@ methanol
 
 ------------
 
+monopotassiumPhosphate
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/monopotassiumPhosphate
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Monopotassium phosphate (MKP) is the inorganic compound with the formula KH2PO4 (potassium cation with a dihydrogen phosphate anion). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Monopotassium_phosphate)]
+   :description: Monopotassium phosphate, is often used as a fertilizer, food additive, and buffering agent. This salt often cocrystallizes with dipotassium salt as well as with phosphoric acid. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monopotassium_phosphate)]
+   :name: monopotassium phosphate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_63036
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 monosodiumPhosphate
 -------------------
 
@@ -1993,6 +2120,23 @@ pentobarbitalSodium
 
 ------------
 
+phosphocreatineSodium
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/phosphocreatineSodium
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Phosphocreatine sodium is a compound of two sodiums with a phosphocreatine molecule.
+   :description: Phosphocreatine is a phosphorylated form of creatine that serves as a rapidly mobilizable reserve of high-energy phosphates in skeletal muscle, myocardium and the brain to recycle ATP. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phosphocreatine)]
+   :name: phosphocreatine sodium
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/9571077
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 potassiumChloride
 -----------------
 
@@ -2098,6 +2242,22 @@ silverNitrate
 
 ------------
 
+sodiumATP
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/sodiumATP
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Sodium ATP is a compound of sodium and an ATP molecule.
+   :name: sodium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/23675355
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 sodiumBicarbonate
 -----------------
 
@@ -2127,6 +2287,39 @@ sodiumChloride
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:26710#sodium-chloride
    :name: sodium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26710
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+sodiumGTP
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/sodiumGTP
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Sodium GTP is a compound of sodium and a GTP molecule.
+   :name: sodium GTP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/136636089
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+strychnine
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/strychnine
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Strychnine is a highly toxic, colorless, bitter, crystalline alkaloid. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Strychnine)]
+   :description: Strychnine is used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions. The most common source is from the seeds of the Strychnos nux-vomica tree.  [adapted from Wikipedia (https://en.wikipedia.org/wiki/Strychnine)]
+   :name: strychnine
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28973
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
