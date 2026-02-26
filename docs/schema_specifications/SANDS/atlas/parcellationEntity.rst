@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `hasVersion <hasVersion_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
 
 ------------
 
@@ -88,25 +88,6 @@ Reference to a parent object or legal person.
    :value type: | linked object array \(1-N\) of type
                 | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corresponding brain atlas.
-
-`BACK TO TOP <ParcellationEntity_>`_
-
-------------
-
-.. _hasVersion_heading:
-
-**********
-hasVersion
-**********
-
-Reference to variants of an original.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/hasVersion
-   :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
-   :instructions: Add all versions of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_
 

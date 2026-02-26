@@ -7,6 +7,8 @@ DependencyImpact
 :Display as: Dependency impact
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/dependencyImpact.html>`_.
+
 ------------
 
 ------------

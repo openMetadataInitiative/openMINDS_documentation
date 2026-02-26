@@ -2,7 +2,7 @@
 Terminologies: Service library
 ##############################
 
-Related schema specification: `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
+Related schema specification: `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/service.html>`_
 
 ------------
 

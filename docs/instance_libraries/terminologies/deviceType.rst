@@ -23,81 +23,97 @@ CTscanner
 
 ------------
 
-MRIBodyCoil
------------
+MRIInsertGradientCoil
+---------------------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/deviceType/MRIBodyCoil
+   :@id: https://openminds.om-i.org/instances/deviceType/MRIInsertGradientCoil
    :@type: https://openminds.om-i.org/types/DeviceType
-   :definition: Type of volume coil optimized for uniform radiofrequency transmission and/or reception across large anatomical regions, typically encompassing the torso or entire body.
-   :description: Body coils are integrated volume coils typically built into the bore of an MRI scanner to provide homogeneous B1 field distribution across extensive anatomical areas. They are often used as transmit or transmit/receive coils for imaging the torso and whole body, and frequently serve as the system's default transmit coil when combined with local receive arrays. Their large geometry ensures consistent excitation and reception, enabling high-quality imaging across diverse body regions and supporting calibration or reference functions in multi-coil setups.
-   :name: MRI body coil
+   :definition: A secondary gradient coil assembly placed inside the main magnetic resonance imaging (MRI) bore to generate high-performance spatially varying magnetic fields over a restricted imaging region.
+   :description: An MRI insert gradient coil is installed within the bore of an existing MRI system as an auxiliary gradient subsystem. It operates in conjunction with the MRI system gradient coil to provide enhanced gradient strength and slew rates within a limited field of view. This localized performance supports high-resolution and rapid imaging applications. Insert gradient coils are commonly used in head, extremity, and research-oriented configurations. Such coils are typically non-integrated and mounted in a form-stable, non-conformable manner to ensure mechanical and electromagnetic stability.
+   :name: MRI insert gradient coil
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
-MRIExtremityCoil
+MRIRFMulti-arrayCoil
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/deviceType/MRIRFMulti-arrayCoil
+   :@type: https://openminds.om-i.org/types/DeviceType
+   :definition: A multi-element radiofrequency (RF) coil system in which independent channels are used for parallel signal transmission and/or reception and enhanced spatial encoding in magnetic resonance imaging (MRI).
+   :description: An MRI RF multi-array coil consists of multiple RF coil elements arranged around the region of interest to acquire localized signals in parallel. Each element operates independently, enabling spatially distributed signal detection and improved signal-to-noise ratio. Multi-coil arrays enhance coverage and allow control of the B₁ field through techniques such as RF shimming, parallel transmission, and parallel imaging. Depending on their configuration, they may operate in transmit, receive, or transmit-receive modes, although most clinical systems use them primarily for reception in combination with an MRI RF volume coil for transmission. These coils may be implemented in volume-type geometries that enclose the anatomy or in surface-type arrangements that are form-stable or conformable.
+   :name: MRI RF multi-array coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIRFSurfaceCoil
 ----------------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/deviceType/MRIExtremityCoil
+   :@id: https://openminds.om-i.org/instances/deviceType/MRIRFSurfaceCoil
    :@type: https://openminds.om-i.org/types/DeviceType
-   :definition: Type of volume coil optimized for imaging peripheral anatomical regions such as the arms, legs, wrists, ankles, or knees; in rare cases, extremity coils may adopt a surface-coil design when full enclosure of the anatomy is impractical.
-   :description: Extremity coils are specialized radiofrequency volume coils designed to provide high signal-to-noise ratio and uniform excitation when imaging smaller body parts like the limbs. They typically use cylindrical or contoured geometries that enclose the target region but can also appear as surface-coil variants for joints or areas where full coverage is not feasible. Extremity coils are widely used in musculoskeletal and vascular MRI, offering focused, high-resolution imaging of localized peripheral structures.
-   :name: MRI extremity coil
+   :definition: A localized radiofrequency (RF) coil designed to transmit and/or receive magnetic resonance imaging (MRI) signals from a limited region near the body surface.
+   :description: An MRI RF surface coil is positioned directly adjacent to the region of interest to maximize local signal sensitivity. Its sensitivity decreases rapidly with distance, making it primarily suitable for imaging superficial anatomical regions. In most clinical configurations, it is used in combination with an MRI RF volume coil for transmission and operates mainly in receive mode. In specialized or legacy systems, it may also be configured for both transmission and reception. MRI RF surface coils are typically mounted in a non-integrated manner and may be either conformable or form-stable, depending on their mechanical design and intended application.
+   :name: MRI RF surface coil
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
-MRIHeadCoil
+MRIRFVolumeCoil
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/deviceType/MRIRFVolumeCoil
+   :@type: https://openminds.om-i.org/types/DeviceType
+   :definition: An radiofrequency (RF) coil that surrounds the imaging region to provide relatively uniform RF excitation and/or signal reception over a large volume in magnetic resonance imaging (MRI).
+   :description: An MRI RF volume coil encloses the region of interest within its conductive structure to generate spatially homogeneous RF fields. Its primary design goal is uniform excitation and consistent signal sensitivity across the imaging volume. In most clinical systems, it is used primarily for transmission and operates in combination with surface coils or multi-array coils for reception. In some configurations, it may also function in transmit–receive mode, particularly in specialized or legacy systems. MRI RF volume coils are typically integrated into the scanner or mounted in a form-stable, non-conformable configuration to maintain geometric and electromagnetic stability.
+   :name: MRI RF volume coil
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+MRIShimCoil
 -----------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/deviceType/MRIHeadCoil
+   :@id: https://openminds.om-i.org/instances/deviceType/MRIShimCoil
    :@type: https://openminds.om-i.org/types/DeviceType
-   :definition: Type of volume coil optimized for radiofrequency transmission and/or reception over the head and brain, providing homogeneous B1 field coverage within the cranial region.
-   :description: Head coils are dedicated radiofrequency (RF) volume coils designed to image the brain and cranial structures. They typically use birdcage or quadrature configurations to achieve uniform excitation and reception across the entire head. Head coils can operate as transmit/receive or receive-only systems depending on the scanner design. High-channel phased-array head coils are increasingly common, improving signal-to-noise ratio (SNR) and parallel-imaging capabilities. In some advanced configurations, open or partial head coils are employed for interventional or functional MRI studies, where full enclosure is not required.
-   :name: MRI head coil
+   :definition: An electromagnetic coil system used to generate corrective magnetic fields that improve static magnetic field (B₀) homogeneity in magnetic resonance imaging (MRI).
+   :description: An MRI shim coil produces small, adjustable magnetic field components within the imaging volume to compensate for spatial inhomogeneities of the main magnetic field. These corrective fields improve spectral resolution, signal stability, and overall image quality. In modern systems, shim coils are actively controlled and adjusted during system calibration and examination setup. Shimming parameters may be optimized globally or locally depending on the imaging protocol. Such coils are typically integrated into the scanner structure and operate continuously or intermittently as required by system design.
+   :name: MRI shim coil
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
-MRIMulti-coilArray
-------------------
+MRISystemGradientCoil
+---------------------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/deviceType/MRIMulti-coilArray
+   :@id: https://openminds.om-i.org/instances/deviceType/MRISystemGradientCoil
    :@type: https://openminds.om-i.org/types/DeviceType
-   :definition: Type of radiofrequency coil composed of multiple coordinated elements optimized for transmit and/or receive operation over an extended field of view; phased-array coils are a specialized subclass focused on parallel signal reception.
-   :description: Multi-coil arrays consist of several individual RF elements that work together to improve signal quality, coverage, and control of the B₁ field. Depending on their configuration, they may operate as transmit, receive, or transmit-receive systems, enabling techniques such as RF shimming, parallel transmission, and parallel imaging. These arrays can be designed with volume-type geometries that enclose the anatomy or surface-type arrangements that conform to the body's contour. Phased-array coils represent a subset of multi-coil arrays specialized for independent receive channels used in parallel acquisition.
-   :name: MRI multi-coil array
-
-`BACK TO TOP <Terminologies: DeviceType library_>`_
-
-------------
-
-MRISurfaceCoil
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/deviceType/MRISurfaceCoil
-   :@type: https://openminds.om-i.org/types/DeviceType
-   :definition: Type of radiofrequency coil optimized for localized signal reception from tissue near the coil surface, providing high sensitivity over a small field of view.
-   :description: Surface coils are small radiofrequency coils placed directly adjacent to the region of interest to capture strong signals from nearby tissues with high spatial resolution. Their sensitivity decreases rapidly with distance, making them ideal for imaging superficial structures such as the spine, joints, or breast. Surface coils are typically receive-only and operate in combination with a separate transmit coil, often the body coil. They can also serve as building blocks in multi-coil or phased-array configurations, extending coverage while maintaining local sensitivity.
-   :name: MRI surface coil
+   :definition: The primary gradient coil assembly integrated into a magnetic resonance imaging (MRI) system for generating spatially varying magnetic fields used in image encoding.
+   :description: An MRI system gradient coil is permanently integrated into the scanner structure and forms the main source of spatially varying magnetic fields for imaging. It generates rapidly switching magnetic field gradients along three orthogonal axes to enable spatial localization of the MRI signal. The design prioritizes whole-volume coverage, thermal stability, and mechanical robustness. In most systems, it operates continuously during image acquisition in coordination with the main magnet and radiofrequency (RF) subsystems. MRI system gradient coils are typically integrated and mounted in a form-stable, non-conformable configuration to maintain geometric and electromagnetic stability.
+   :name: MRI system gradient coil
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 

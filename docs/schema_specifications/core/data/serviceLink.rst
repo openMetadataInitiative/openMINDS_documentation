@@ -97,7 +97,7 @@ service
 
    :semantic name: https://openminds.om-i.org/props/service
    :value type: | linked object of type
-                | `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
+                | `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/service.html>`_
    :instructions: Add the service in which the specified data can be opened.
 
 `BACK TO TOP <ServiceLink_>`_

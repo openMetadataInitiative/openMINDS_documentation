@@ -8,6 +8,21 @@ Related schema specification: `Terminology <https://openminds-documentation.read
 
 ------------
 
+MRIFatSuppressionTechnique
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/MRIFatSuppressionTechnique
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining methods for reducing or separating fat signal in MRI using spectral, inversion recovery, or water–fat decomposition techniques.
+   :name: MRI fat suppression technique
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 MRIPulseSequence
 ----------------
 
@@ -18,6 +33,21 @@ MRIPulseSequence
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: An 'MRI pulse sequence' is a particular setting of pulse sequences and pulsed field gradients, resulting in a particular image appearance [adapted from [Wikipedia](https://en.wikipedia.org/wiki/MRI_pulse_sequence)].
    :name: MRI pulse sequence
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+MRISpoilingTechnique
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/MRISpoilingTechnique
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining methods for suppressing residual transverse magnetization in MRI through radiofrequency, gradient, or combined spoiling mechanisms.
+   :name: MRI spoiling technique
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -63,6 +93,68 @@ UBERONParcellation
    :@id: https://openminds.om-i.org/instances/terminology/UBERONParcellation
    :@type: https://openminds.om-i.org/types/Terminology
    :name: UBERON parcellation
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+accessChannel
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/accessChannel
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining the location or medium through which a resource can be accessed.
+   :description: The terminology defining access channel specifies whether a resource is accessible remotely through digital means (virtual), requires physical presence at a specific location (on-site), or is available through both means (hybrid).
+   :name: access channel
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+accessEligibilityType
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/accessEligibilityType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: The terminology defining access eligibility type specifies whether a resource is openly available to anyone, requires authentication, or authorization.
+   :name: access eligibility type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+accessForm
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/accessForm
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining the manner in which access to a resource is facilitated.
+   :description: The terminology defining access form specifies whether users obtain access directly without intermediaries or through mediation by a third party.
+   :name: access form
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+accessProcessType
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/accessProcessType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining the workflow or mechanism through which access to a resource is granted.
+   :name: access process type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -391,6 +483,21 @@ dataType
 
 ------------
 
+deviceMountingType
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/deviceMountingType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining methods for mechanically attaching devices based on structural integration, compliance, and geometric conformity to the host structure.
+   :name: device mounting type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 deviceType
 ----------
 
@@ -479,20 +586,6 @@ electricalStimulusType
 
 ------------
 
-ethicsAssessment
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/terminology/ethicsAssessment
-   :@type: https://openminds.om-i.org/types/Terminology
-   :name: ethics assessment
-
-`BACK TO TOP <Terminologies: Terminology library_>`_
-
-------------
-
 experimentalApproach
 --------------------
 
@@ -502,6 +595,21 @@ experimentalApproach
    :@id: https://openminds.om-i.org/instances/terminology/experimentalApproach
    :@type: https://openminds.om-i.org/types/Terminology
    :name: experimental approach
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+externalBodyRegion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/externalBodyRegion
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining anatomically delineated regions of the external surface of a biological organism.
+   :name: external body region
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -708,6 +816,66 @@ modelScope
 
 ------------
 
+modificationConsentRequirement
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/modificationConsentRequirement
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology for specifying whose agreement is required for a contract modification to be legally valid.
+   :name: modification consent requirement
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+modificationConstraint
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/modificationConstraint
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology for specifying procedural conditions or prohibitions that limit how modifications may be made.
+   :name: modification constraint
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+modificationForm
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/modificationForm
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology for specifying the formal method by which consent to a modification must be expressed.
+   :name: modification form
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+modificationScope
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/modificationScope
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology for specifying which parts or aspects of an agreement may be modified.
+   :name: modification scope
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 molecularEntity
 ---------------
 
@@ -832,6 +1000,22 @@ organismSystem
 
 ------------
 
+organizationType
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/organizationType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology for classifying an organization based on its legal status or position within a larger entity.
+   :name: organization type
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q17197366
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 patchClampVariation
 -------------------
 
@@ -842,6 +1026,21 @@ patchClampVariation
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: A variation of the patch clamp technique
    :name: patch clamp variation
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+paymentModelType
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/paymentModelType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining the pricing structure or financial model associated with accessing a resource.
+   :name: payment model type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -861,20 +1060,6 @@ preparationType
 
 ------------
 
-productAccessibility
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/terminology/productAccessibility
-   :@type: https://openminds.om-i.org/types/Terminology
-   :name: product accessibility
-
-`BACK TO TOP <Terminologies: Terminology library_>`_
-
-------------
-
 programmingLanguage
 -------------------
 
@@ -884,6 +1069,51 @@ programmingLanguage
    :@id: https://openminds.om-i.org/instances/terminology/programmingLanguage
    :@type: https://openminds.om-i.org/types/Terminology
    :name: programming language
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+projectType
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/projectType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology characterizing a project according to its primary grounding, organizational basis, and driving objectives.
+   :name: project type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+publicationStatus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/publicationStatus
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining the status of a resource in the publication lifecycle.
+   :name: publication status
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+pulseShape
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/pulseShape
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining the temporal amplitude profiles of excitation, stimulation, or modulation pulses based on their mathematical or functional form.
+   :name: pulse shape
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -969,6 +1199,21 @@ softwareFeature
    :@id: https://openminds.om-i.org/instances/terminology/softwareFeature
    :@type: https://openminds.om-i.org/types/Terminology
    :name: software feature
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+spatialEncoding
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/spatialEncoding
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology defining methods for representing spatial position in signals through frequency-, phase-, or combined encoding mechanisms across one or more dimensions.
+   :name: spatial encoding
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
