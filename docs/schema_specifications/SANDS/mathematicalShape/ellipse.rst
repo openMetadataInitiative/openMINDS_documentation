@@ -14,40 +14,23 @@ Ellipse
 Properties
 ##########
 
-:Required: `semiMajorAxis <semiMajorAxis_heading_>`_, `semiMinorAxis <semiMinorAxis_heading_>`_
+:Required: `diameters <diameters_heading_>`_
 :Optional:
 
 ------------
 
-.. _semiMajorAxis_heading:
+.. _diameters_heading:
 
-*************
-semiMajorAxis
-*************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/semiMajorAxis
-   :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the length of the semi-minor axis of this ellipse.
-
-`BACK TO TOP <Ellipse_>`_
-
-------------
-
-.. _semiMinorAxis_heading:
-
-*************
-semiMinorAxis
-*************
+*********
+diameters
+*********
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/semiMinorAxis
-   :value type: | embedded object of type
+   :semantic name: https://openminds.om-i.org/props/diameters
+   :value type: | embedded object array \(2-2\) of type
                 | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the length of the semi-major axis of this ellipse.
+   :instructions: Enter the lengths of the major and minor diameters of this ellipse.
 
 `BACK TO TOP <Ellipse_>`_
 

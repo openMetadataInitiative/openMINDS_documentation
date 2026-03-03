@@ -14,40 +14,40 @@ Rectangle
 Properties
 ##########
 
-:Required: `length <length_heading_>`_, `width <width_heading_>`_
+:Required: `majorSideLength <majorSideLength_heading_>`_, `minorSideLength <minorSideLength_heading_>`_
 :Optional:
 
 ------------
 
-.. _length_heading:
+.. _majorSideLength_heading:
 
-******
-length
-******
+***************
+majorSideLength
+***************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/length
+   :semantic name: https://openminds.om-i.org/props/majorSideLength
    :value type: | embedded object of type
                 | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the length of this rectangle.
+   :instructions: Enter the common length of the major sides of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_
 
 ------------
 
-.. _width_heading:
+.. _minorSideLength_heading:
 
-*****
-width
-*****
+***************
+minorSideLength
+***************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/width
+   :semantic name: https://openminds.om-i.org/props/minorSideLength
    :value type: | embedded object of type
                 | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the width of this rectangle.
+   :instructions: Enter the common length of the minor sides of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_
 

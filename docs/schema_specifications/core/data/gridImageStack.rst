@@ -15,7 +15,7 @@ Properties
 ##########
 
 :Required: `coordinateFramework <coordinateFramework_heading_>`_, `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `pixelSize <pixelSize_heading_>`_, `z-stepSize <z-stepSize_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `capturedWith <capturedWith_heading_>`_, `name <name_heading_>`_, `numberOfImages <numberOfImages_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `name <name_heading_>`_, `numberOfImages <numberOfImages_heading_>`_
 
 ------------
 
@@ -33,23 +33,6 @@ Mention of what deserves additional attention or notice.
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this grid image stack.
-
-`BACK TO TOP <GridImageStack_>`_
-
-------------
-
-.. _capturedWith_heading:
-
-************
-capturedWith
-************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/capturedWith
-   :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
-   :instructions: Add the device used to capture this grid image stack.
 
 `BACK TO TOP <GridImageStack_>`_
 

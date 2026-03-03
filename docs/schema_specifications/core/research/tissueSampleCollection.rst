@@ -15,7 +15,7 @@ Properties
 ##########
 
 :Required: `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type <type_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `anatomicalLocation <anatomicalLocation_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `numberOfTissueSamples <numberOfTissueSamples_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `anatomicalLocation <anatomicalLocation_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `numberOfTissueSamples <numberOfTissueSamples_heading_>`_
 
 ------------
 
@@ -88,6 +88,25 @@ Term or code that identifies someone or something within a particular product.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this specimen set that is used within the corresponding data files to identify this specimen set.
+
+`BACK TO TOP <TissueSampleCollection_>`_
+
+------------
+
+.. _isPartOf_heading:
+
+********
+isPartOf
+********
+
+Reference to the ensemble of multiple things or beings.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/isPartOf
+   :value type: | linked object array \(1-N\) of type
+                | `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleCollection.html>`_
+   :instructions: Add all tissue sample collections of which this tissue sample collection is a subcollection.
 
 `BACK TO TOP <TissueSampleCollection_>`_
 

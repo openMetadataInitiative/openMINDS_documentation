@@ -1219,6 +1219,23 @@ softwareFeature
 
 ------------
 
+sovereignState
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/sovereignState
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A political entity that possesses supreme governing authority within a defined territory and is not legally subordinate to another state.
+   :description: State that has the highest authority over a territory. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q3624078)]
+   :name: sovereign state
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q3624078
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 spatialEncoding
 ---------------
 
@@ -1303,6 +1320,23 @@ subjectAttribute
    :@id: https://openminds.om-i.org/instances/terminology/subjectAttribute
    :@type: https://openminds.om-i.org/types/Terminology
    :name: subject attribute
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+supranationalBody
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/supranationalBody
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: An institutional entity created by sovereign states to which they delegate or pool defined aspects of their governing authority for common decision-making that is binding on the member states.
+   :description: Political and government system, where several sovereign states give up and share part of their sovereignty for their common governance. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1335818)]
+   :name: supranational body
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1335818
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
