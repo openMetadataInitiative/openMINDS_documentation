@@ -190,6 +190,21 @@ ageCategory
 
 ------------
 
+ageReference
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/ageReference
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology concept denoting a biologically or clinically defined boundary event used to anchor the measurement or interpretation of age in relation to an organism’s life cycle.
+   :name: age reference
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 analysisTechnique
 -----------------
 

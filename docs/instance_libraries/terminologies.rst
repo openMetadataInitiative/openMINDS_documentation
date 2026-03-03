@@ -8,6 +8,7 @@ Terminologies
 - `AccessProcessType <terminologies/accessProcessType.html>`_
 - `ActionStatusType <terminologies/actionStatusType.html>`_
 - `AgeCategory <terminologies/ageCategory.html>`_
+- `AgeReference <terminologies/ageReference.html>`_
 - `AnalysisTechnique <terminologies/analysisTechnique.html>`_
 - `AnatomicalAxesOrientation <terminologies/anatomicalAxesOrientation.html>`_
 - `AnatomicalIdentificationType <terminologies/anatomicalIdentificationType.html>`_
@@ -114,6 +115,7 @@ Terminologies
    terminologies/accessProcessType
    terminologies/actionStatusType
    terminologies/ageCategory
+   terminologies/ageReference
    terminologies/analysisTechnique
    terminologies/anatomicalAxesOrientation
    terminologies/anatomicalIdentificationType
