@@ -1393,3 +1393,18 @@ visualStimulusType
 
 ------------
 
+weightType
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/weightType
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A terminology that specifies the biological or processing state of a specimen at the time its mass was measured.
+   :name: weight type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+

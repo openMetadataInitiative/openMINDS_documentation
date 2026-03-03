@@ -8,6 +8,7 @@ ControlledTerms
 - `AccessProcessType <controlledTerms/accessProcessType.html>`_
 - `ActionStatusType <controlledTerms/actionStatusType.html>`_
 - `AgeCategory <controlledTerms/ageCategory.html>`_
+- `AgeReference <controlledTerms/ageReference.html>`_
 - `AnalysisTechnique <controlledTerms/analysisTechnique.html>`_
 - `AnatomicalAxesOrientation <controlledTerms/anatomicalAxesOrientation.html>`_
 - `AnatomicalIdentificationType <controlledTerms/anatomicalIdentificationType.html>`_
@@ -107,6 +108,7 @@ ControlledTerms
 - `UBERONParcellation <controlledTerms/UBERONParcellation.html>`_
 - `UnitOfMeasurement <controlledTerms/unitOfMeasurement.html>`_
 - `VisualStimulusType <controlledTerms/visualStimulusType.html>`_
+- `WeightType <controlledTerms/weightType.html>`_
 
 .. toctree::
 
@@ -116,6 +118,7 @@ ControlledTerms
    controlledTerms/accessProcessType
    controlledTerms/actionStatusType
    controlledTerms/ageCategory
+   controlledTerms/ageReference
    controlledTerms/analysisTechnique
    controlledTerms/anatomicalAxesOrientation
    controlledTerms/anatomicalIdentificationType
@@ -215,3 +218,4 @@ ControlledTerms
    controlledTerms/UBERONParcellation
    controlledTerms/unitOfMeasurement
    controlledTerms/visualStimulusType
+   controlledTerms/weightType

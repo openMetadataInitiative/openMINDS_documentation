@@ -104,6 +104,7 @@ Terminologies
 - `UBERONParcellation <terminologies/UBERONParcellation.html>`_
 - `UnitOfMeasurement <terminologies/unitOfMeasurement.html>`_
 - `VisualStimulusType <terminologies/visualStimulusType.html>`_
+- `WeightType <terminologies/weightType.html>`_
 
 .. toctree::
 
@@ -209,3 +210,4 @@ Terminologies
    terminologies/UBERONParcellation
    terminologies/unitOfMeasurement
    terminologies/visualStimulusType
+   terminologies/weightType
