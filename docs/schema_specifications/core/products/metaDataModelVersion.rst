@@ -122,7 +122,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_, `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_ or `SWHID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/SWHID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_

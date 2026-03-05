@@ -86,7 +86,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_ or `IdentifiersDotOrgID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/IdentifiersDotOrgID.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_, `IdentifiersDotOrgID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/IdentifiersDotOrgID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Dataset_>`_

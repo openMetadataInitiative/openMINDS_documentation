@@ -84,7 +84,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_
+                | `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_, `ISNI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISNI.html>`_, `LEI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/LEI.html>`_, `RORID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RORID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add all globally unique and persistent digital identifier of this organization.
 
 `BACK TO TOP <Organization_>`_

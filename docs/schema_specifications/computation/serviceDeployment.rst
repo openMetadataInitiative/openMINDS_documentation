@@ -64,7 +64,7 @@ endTime
    :semantic name: https://openminds.om-i.org/props/endTime
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the date and time at which this deployment ended, formatted acoording to ISO-8601.
+   :instructions: Enter the date and time at which this deployment ended, formatted according to ISO-8601.
 
 `BACK TO TOP <ServiceDeployment_>`_
 
@@ -134,7 +134,7 @@ startTime
    :semantic name: https://openminds.om-i.org/props/startTime
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the date and time at which this deployment was started, formatted acoording to ISO-8601.
+   :instructions: Enter the date and time at which this deployment was started, formatted according to ISO-8601.
 
 `BACK TO TOP <ServiceDeployment_>`_
 
