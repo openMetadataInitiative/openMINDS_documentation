@@ -311,6 +311,7 @@ contributionType
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/contributionType
    :@type: https://openminds.om-i.org/types/Terminology
+   :definition: A functional role characterized by a specific activity or responsibility realized by a role-bearing entity in relation to a target entity and its life cycle.
    :name: contribution type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
