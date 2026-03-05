@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `measuredQuantity <measuredQuantity_heading_>`_, `value <value_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `measuredWith <measuredWith_heading_>`_, `timestamp <timestamp_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `timestamp <timestamp_heading_>`_
 
 ------------
 
@@ -52,23 +52,6 @@ measuredQuantity
    :value type: | linked object of type
                 | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredQuantity.html>`_
    :instructions: Add the quantity that was measured during this measurement.
-
-`BACK TO TOP <Measurement_>`_
-
-------------
-
-.. _measuredWith_heading:
-
-************
-measuredWith
-************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/measuredWith
-   :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
-   :instructions: Add the device that was used during this measurement.
 
 `BACK TO TOP <Measurement_>`_
 

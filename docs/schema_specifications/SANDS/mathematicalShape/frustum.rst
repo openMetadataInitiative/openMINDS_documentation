@@ -62,7 +62,7 @@ minorBaseScale
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.om-i.org/props/minorBaseScale
-   :value type: float
+   :value type: number
    :instructions: Enter the ratio of the smaller to the larger base size of this frustum.
 
 `BACK TO TOP <Frustum_>`_
