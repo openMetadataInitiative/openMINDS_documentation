@@ -66,6 +66,7 @@ Terminologies
 - `MRIPulseSequence <terminologies/MRIPulseSequence.html>`_
 - `MRISpoilingTechnique <terminologies/MRISpoilingTechnique.html>`_
 - `MRIWeighting <terminologies/MRIWeighting.html>`_
+- `NervousSystemStructure <terminologies/nervousSystemStructure.html>`_
 - `OlfactoryStimulusType <terminologies/olfactoryStimulusType.html>`_
 - `OperatingDevice <terminologies/operatingDevice.html>`_
 - `OperatingSystem <terminologies/operatingSystem.html>`_
@@ -102,7 +103,6 @@ Terminologies
 - `TissueSampleAttribute <terminologies/tissueSampleAttribute.html>`_
 - `TissueSampleType <terminologies/tissueSampleType.html>`_
 - `TypeOfUncertainty <terminologies/typeOfUncertainty.html>`_
-- `UBERONParcellation <terminologies/UBERONParcellation.html>`_
 - `UnitOfMeasurement <terminologies/unitOfMeasurement.html>`_
 - `VisualStimulusType <terminologies/visualStimulusType.html>`_
 - `WeightType <terminologies/weightType.html>`_
@@ -173,6 +173,7 @@ Terminologies
    terminologies/MRIPulseSequence
    terminologies/MRISpoilingTechnique
    terminologies/MRIWeighting
+   terminologies/nervousSystemStructure
    terminologies/olfactoryStimulusType
    terminologies/operatingDevice
    terminologies/operatingSystem
@@ -209,7 +210,6 @@ Terminologies
    terminologies/tissueSampleAttribute
    terminologies/tissueSampleType
    terminologies/typeOfUncertainty
-   terminologies/UBERONParcellation
    terminologies/unitOfMeasurement
    terminologies/visualStimulusType
    terminologies/weightType

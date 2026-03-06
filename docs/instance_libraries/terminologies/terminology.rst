@@ -84,20 +84,6 @@ MRSpatialEncoding
 
 ------------
 
-UBERONParcellation
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/terminology/UBERONParcellation
-   :@type: https://openminds.om-i.org/types/Terminology
-   :name: UBERON parcellation
-
-`BACK TO TOP <Terminologies: Terminology library_>`_
-
-------------
-
 accessChannel
 -------------
 
@@ -905,6 +891,20 @@ molecularEntity
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
    :name: molecular entity
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_23367
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+nervousSystemStructure
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/nervousSystemStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :name: nervous system structure
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 

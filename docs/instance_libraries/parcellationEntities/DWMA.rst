@@ -35,7 +35,7 @@ DWMA_arcuateFasciculus
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_arcuateFasciculus
    :name: arcuate fasciculus
-   :relatedUBERONTerm: `arcuateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#arcuatefasciculus>`_
+   :relatedInterspeciesAnatomy: `arcuateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#arcuatefasciculus>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -52,7 +52,7 @@ DWMA_cingulum
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_cingulum
    :name: cingulum
-   :relatedUBERONTerm: `cingulumOfBrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#cingulumofbrain>`_
+   :relatedInterspeciesAnatomy: `cingulumOfBrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#cingulumofbrain>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -69,7 +69,7 @@ DWMA_corticospinalTract
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_corticospinalTract
    :name: corticospinal tract
-   :relatedUBERONTerm: `corticospinalTract <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#corticospinaltract>`_
+   :relatedInterspeciesAnatomy: `corticospinalTract <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#corticospinaltract>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -117,7 +117,7 @@ DWMA_fornix
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_fornix
    :name: fornix
-   :relatedUBERONTerm: `fornixOfBrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#fornixofbrain>`_
+   :relatedInterspeciesAnatomy: `fornixOfBrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#fornixofbrain>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -134,7 +134,7 @@ DWMA_inferiorFronto-occipitalFasciculus
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_inferiorFronto-occipitalFasciculus
    :name: inferior fronto-occipital fasciculus
-   :relatedUBERONTerm: `inferiorOccipitofrontalFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#inferioroccipitofrontalfasciculus>`_
+   :relatedInterspeciesAnatomy: `inferiorOccipitofrontalFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#inferioroccipitofrontalfasciculus>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -151,7 +151,7 @@ DWMA_inferiorLongitudinalFasciculus
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_inferiorLongitudinalFasciculus
    :name: inferior longitudinal fasciculus
-   :relatedUBERONTerm: `inferiorLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#inferiorlongitudinalfasciculus>`_
+   :relatedInterspeciesAnatomy: `inferiorLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#inferiorlongitudinalfasciculus>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -216,7 +216,7 @@ DWMA_temporalCingulateFibres
    :hasParent: `DWMA_cingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-cingulum>`_
    :lookupLabel: DWMA_temporalCingulateFibres
    :name: temporal cingulate fibres
-   :relatedUBERONTerm: `temporalCortexCingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#temporalcortexcingulum>`_
+   :relatedInterspeciesAnatomy: `temporalCortexCingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#temporalcortexcingulum>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 
@@ -233,7 +233,7 @@ DWMA_uncinateFasciculus
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_uncinateFasciculus
    :name: uncinate fasciculus
-   :relatedUBERONTerm: `uncinateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#uncinatefasciculus>`_
+   :relatedInterspeciesAnatomy: `uncinateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#uncinatefasciculus>`_
 
 `BACK TO TOP <ParcellationEntities: DWMA library_>`_
 

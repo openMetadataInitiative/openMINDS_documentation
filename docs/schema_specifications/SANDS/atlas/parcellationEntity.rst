@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedInterspeciesAnatomy <relatedInterspeciesAnatomy_heading_>`_
 
 ------------
 
@@ -148,18 +148,18 @@ Term or code used to identify something or someone registered within a particula
 
 ------------
 
-.. _relatedUBERONTerm_heading:
+.. _relatedInterspeciesAnatomy_heading:
 
-*****************
-relatedUBERONTerm
-*****************
+**************************
+relatedInterspeciesAnatomy
+**************************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/relatedUBERONTerm
+   :semantic name: https://openminds.om-i.org/props/relatedInterspeciesAnatomy
    :value type: | linked object of type
-                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
-   :instructions: Add the related anatomical entity as defined by the UBERON ontology.
+                | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/skeletalStructure.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueStructure.html>`_ or `VascularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/vascularStructure.html>`_
+   :instructions: Add the corresponding cross-species anatomical entity from the UBERON-derived terminologies that represents the generic anatomical concept underlying the atlas parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_
 

@@ -920,7 +920,7 @@ BA-human_cerebralCortex
    :alternateName: Brodmann's cerebral cortex, human Brodmann cerebral cortex, human Brodmann's cerebral cortex, human cortex
    :lookupLabel: BA-human_cerebralCortex
    :name: Brodmann cerebral cortex
-   :relatedUBERONTerm: `cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html#cerebralcortex>`_
+   :relatedInterspeciesAnatomy: `cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/nervousSystemStructure.html#cerebralcortex>`_
 
 `BACK TO TOP <ParcellationEntities: BA-human library_>`_
 

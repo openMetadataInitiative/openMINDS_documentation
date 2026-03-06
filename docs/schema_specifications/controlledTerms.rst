@@ -11,6 +11,7 @@ ControlledTerms
 - `AgeReference <controlledTerms/ageReference.html>`_
 - `AnalysisTechnique <controlledTerms/analysisTechnique.html>`_
 - `AnatomicalAxesOrientation <controlledTerms/anatomicalAxesOrientation.html>`_
+- `AnatomicalCavity <controlledTerms/anatomicalCavity.html>`_
 - `AnatomicalIdentificationType <controlledTerms/anatomicalIdentificationType.html>`_
 - `AnatomicalPlane <controlledTerms/anatomicalPlane.html>`_
 - `AnnotationCriteriaType <controlledTerms/annotationCriteriaType.html>`_
@@ -67,6 +68,8 @@ ControlledTerms
 - `MRIPulseSequence <controlledTerms/MRIPulseSequence.html>`_
 - `MRISpoilingTechnique <controlledTerms/MRISpoilingTechnique.html>`_
 - `MRIWeighting <controlledTerms/MRIWeighting.html>`_
+- `MuscularStructure <controlledTerms/muscularStructure.html>`_
+- `NervousSystemStructure <controlledTerms/nervousSystemStructure.html>`_
 - `OlfactoryStimulusType <controlledTerms/olfactoryStimulusType.html>`_
 - `OperatingDevice <controlledTerms/operatingDevice.html>`_
 - `OperatingSystem <controlledTerms/operatingSystem.html>`_
@@ -76,6 +79,7 @@ ControlledTerms
 - `OrganismSubstance <controlledTerms/organismSubstance.html>`_
 - `OrganismSystem <controlledTerms/organismSystem.html>`_
 - `OrganizationType <controlledTerms/organizationType.html>`_
+- `OrganSystemStructure <controlledTerms/organSystemStructure.html>`_
 - `PatchClampVariation <controlledTerms/patchClampVariation.html>`_
 - `PaymentModelType <controlledTerms/paymentModelType.html>`_
 - `PreparationType <controlledTerms/preparationType.html>`_
@@ -88,6 +92,7 @@ ControlledTerms
 - `SemanticDataType <controlledTerms/semanticDataType.html>`_
 - `SetupType <controlledTerms/setupType.html>`_
 - `SignalDirectionality <controlledTerms/signalDirectionality.html>`_
+- `SkeletalStructure <controlledTerms/skeletalStructure.html>`_
 - `SoftwareApplicationCategory <controlledTerms/softwareApplicationCategory.html>`_
 - `SoftwareFeature <controlledTerms/softwareFeature.html>`_
 - `SovereignState <controlledTerms/sovereignState.html>`_
@@ -104,9 +109,10 @@ ControlledTerms
 - `TermSuggestion <controlledTerms/termSuggestion.html>`_
 - `TissueSampleAttribute <controlledTerms/tissueSampleAttribute.html>`_
 - `TissueSampleType <controlledTerms/tissueSampleType.html>`_
+- `TissueStructure <controlledTerms/tissueStructure.html>`_
 - `TypeOfUncertainty <controlledTerms/typeOfUncertainty.html>`_
-- `UBERONParcellation <controlledTerms/UBERONParcellation.html>`_
 - `UnitOfMeasurement <controlledTerms/unitOfMeasurement.html>`_
+- `VascularStructure <controlledTerms/vascularStructure.html>`_
 - `VisualStimulusType <controlledTerms/visualStimulusType.html>`_
 - `WeightType <controlledTerms/weightType.html>`_
 
@@ -121,6 +127,7 @@ ControlledTerms
    controlledTerms/ageReference
    controlledTerms/analysisTechnique
    controlledTerms/anatomicalAxesOrientation
+   controlledTerms/anatomicalCavity
    controlledTerms/anatomicalIdentificationType
    controlledTerms/anatomicalPlane
    controlledTerms/annotationCriteriaType
@@ -177,6 +184,8 @@ ControlledTerms
    controlledTerms/MRIPulseSequence
    controlledTerms/MRISpoilingTechnique
    controlledTerms/MRIWeighting
+   controlledTerms/muscularStructure
+   controlledTerms/nervousSystemStructure
    controlledTerms/olfactoryStimulusType
    controlledTerms/operatingDevice
    controlledTerms/operatingSystem
@@ -186,6 +195,7 @@ ControlledTerms
    controlledTerms/organismSubstance
    controlledTerms/organismSystem
    controlledTerms/organizationType
+   controlledTerms/organSystemStructure
    controlledTerms/patchClampVariation
    controlledTerms/paymentModelType
    controlledTerms/preparationType
@@ -198,6 +208,7 @@ ControlledTerms
    controlledTerms/semanticDataType
    controlledTerms/setupType
    controlledTerms/signalDirectionality
+   controlledTerms/skeletalStructure
    controlledTerms/softwareApplicationCategory
    controlledTerms/softwareFeature
    controlledTerms/sovereignState
@@ -214,8 +225,9 @@ ControlledTerms
    controlledTerms/termSuggestion
    controlledTerms/tissueSampleAttribute
    controlledTerms/tissueSampleType
+   controlledTerms/tissueStructure
    controlledTerms/typeOfUncertainty
-   controlledTerms/UBERONParcellation
    controlledTerms/unitOfMeasurement
+   controlledTerms/vascularStructure
    controlledTerms/visualStimulusType
    controlledTerms/weightType
