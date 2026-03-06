@@ -14,7 +14,7 @@ SWMA_CAC-PoCi_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CAC-PoCi_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CAC-PoCi_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CAC-PoCi_0
@@ -30,7 +30,7 @@ SWMA_CAC-PrCu_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CAC-PrCu_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CAC-PrCu_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CAC-PrCu_0
@@ -46,7 +46,7 @@ SWMA_CMF-Op_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-Op_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-Op_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-Op_0
@@ -62,7 +62,7 @@ SWMA_CMF-PoC_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-PoC_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-PoC_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-PoC_0
@@ -78,7 +78,7 @@ SWMA_CMF-PrC_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-PrC_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-PrC_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-PrC_0
@@ -94,7 +94,7 @@ SWMA_CMF-PrC_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-PrC_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-PrC_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-PrC_1
@@ -110,7 +110,7 @@ SWMA_CMF-RMF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-RMF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-RMF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-RMF_0
@@ -126,7 +126,7 @@ SWMA_CMF-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-SF_0
@@ -142,7 +142,7 @@ SWMA_CMF-SF_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_CMF-SF_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_CMF-SF_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_CMF-SF_1
@@ -158,7 +158,7 @@ SWMA_Cu-Li_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Cu-Li_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Cu-Li_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Cu-Li_0
@@ -174,7 +174,7 @@ SWMA_Fu-LO_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Fu-LO_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Fu-LO_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Fu-LO_0
@@ -190,7 +190,7 @@ SWMA_Fu-LO_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Fu-LO_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Fu-LO_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Fu-LO_1
@@ -206,7 +206,7 @@ SWMA_IC-PrCu_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IC-PrCu_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IC-PrCu_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IC-PrCu_0
@@ -222,7 +222,7 @@ SWMA_IP-IT_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-IT_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-IT_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-IT_0
@@ -238,7 +238,7 @@ SWMA_IP-LO_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-LO_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-LO_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-LO_0
@@ -254,7 +254,7 @@ SWMA_IP-LO_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-LO_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-LO_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-LO_1
@@ -270,7 +270,7 @@ SWMA_IP-MT_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-MT_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-MT_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-MT_0
@@ -286,7 +286,7 @@ SWMA_IP-SM_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-SM_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-SM_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-SM_0
@@ -302,7 +302,7 @@ SWMA_IP-SP_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-SP_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-SP_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-SP_0
@@ -318,7 +318,7 @@ SWMA_IP-SP_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-SP_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IP-SP_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IP-SP_1
@@ -334,7 +334,7 @@ SWMA_IT-MT_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IT-MT_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IT-MT_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IT-MT_0
@@ -350,7 +350,7 @@ SWMA_IT-MT_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IT-MT_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IT-MT_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IT-MT_1
@@ -366,7 +366,7 @@ SWMA_IT-MT_2
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IT-MT_2
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_IT-MT_2
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_IT-MT_2
@@ -382,7 +382,7 @@ SWMA_LO-SP_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LO-SP_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LO-SP_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LO-SP_0
@@ -398,7 +398,7 @@ SWMA_LOF-MOF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LOF-MOF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LOF-MOF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LOF-MOF_0
@@ -414,7 +414,7 @@ SWMA_LOF-Or_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LOF-Or_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LOF-Or_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LOF-Or_0
@@ -430,7 +430,7 @@ SWMA_LOF-RMF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LOF-RMF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LOF-RMF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LOF-RMF_0
@@ -446,7 +446,7 @@ SWMA_LOF-RMF_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LOF-RMF_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LOF-RMF_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LOF-RMF_1
@@ -462,7 +462,7 @@ SWMA_LOF-ST_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_LOF-ST_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_LOF-ST_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_LOF-ST_0
@@ -478,7 +478,7 @@ SWMA_MOF-ST_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_MOF-ST_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_MOF-ST_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_MOF-ST_0
@@ -494,7 +494,7 @@ SWMA_MT-SM_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_MT-SM_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_MT-SM_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_MT-SM_0
@@ -510,7 +510,7 @@ SWMA_MT-ST_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_MT-ST_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_MT-ST_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_MT-ST_0
@@ -526,7 +526,7 @@ SWMA_Op-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Op-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Op-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Op-Ins_0
@@ -542,7 +542,7 @@ SWMA_Op-PrC_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Op-PrC_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Op-PrC_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Op-PrC_0
@@ -558,7 +558,7 @@ SWMA_Op-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Op-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Op-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Op-SF_0
@@ -574,7 +574,7 @@ SWMA_Op-Tr_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Op-Tr_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Op-Tr_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Op-Tr_0
@@ -590,7 +590,7 @@ SWMA_Or-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Or-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Or-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Or-Ins_0
@@ -606,7 +606,7 @@ SWMA_PoC-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-Ins_0
@@ -622,7 +622,7 @@ SWMA_PoC-PrC_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-PrC_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-PrC_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-PrC_0
@@ -638,7 +638,7 @@ SWMA_PoC-PrC_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-PrC_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-PrC_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-PrC_1
@@ -654,7 +654,7 @@ SWMA_PoC-PrC_2
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-PrC_2
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-PrC_2
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-PrC_2
@@ -670,7 +670,7 @@ SWMA_PoC-PrC_3
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-PrC_3
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-PrC_3
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-PrC_3
@@ -686,7 +686,7 @@ SWMA_PoC-SM_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-SM_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-SM_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-SM_0
@@ -702,7 +702,7 @@ SWMA_PoC-SM_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-SM_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-SM_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-SM_1
@@ -718,7 +718,7 @@ SWMA_PoC-SP_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-SP_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-SP_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-SP_0
@@ -734,7 +734,7 @@ SWMA_PoC-SP_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-SP_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-SP_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoC-SP_1
@@ -750,7 +750,7 @@ SWMA_PoCi-PrCu_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoCi-PrCu_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoCi-PrCu_0
@@ -766,7 +766,7 @@ SWMA_PoCi-PrCu_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoCi-PrCu_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoCi-PrCu_1
@@ -782,7 +782,7 @@ SWMA_PoCi-PrCu_2
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_2
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoCi-PrCu_2
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoCi-PrCu_2
@@ -798,7 +798,7 @@ SWMA_PoCi-RAC_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoCi-RAC_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoCi-RAC_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoCi-RAC_0
@@ -814,7 +814,7 @@ SWMA_PoCi-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoCi-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoCi-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PoCi-SF_0
@@ -830,7 +830,7 @@ SWMA_PrC-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PrC-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PrC-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PrC-Ins_0
@@ -846,7 +846,7 @@ SWMA_PrC-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PrC-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PrC-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PrC-SF_0
@@ -862,7 +862,7 @@ SWMA_PrC-SM_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PrC-SM_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PrC-SM_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PrC-SM_0
@@ -878,7 +878,7 @@ SWMA_PrC-SP_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PrC-SP_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_PrC-SP_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_PrC-SP_0
@@ -894,7 +894,7 @@ SWMA_RAC-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_RAC-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_RAC-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_RAC-SF_0
@@ -910,7 +910,7 @@ SWMA_RAC-SF_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_RAC-SF_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_RAC-SF_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_RAC-SF_1
@@ -926,7 +926,7 @@ SWMA_RMF-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_RMF-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_RMF-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_RMF-SF_0
@@ -942,7 +942,7 @@ SWMA_RMF-SF_1
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_RMF-SF_1
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_RMF-SF_1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_RMF-SF_1
@@ -958,7 +958,7 @@ SWMA_SM-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_SM-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_SM-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_SM-Ins_0
@@ -974,7 +974,7 @@ SWMA_SP-SM_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_SP-SM_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_SP-SM_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_SP-SM_0
@@ -990,7 +990,7 @@ SWMA_ST-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_ST-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_ST-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_ST-Ins_0
@@ -1006,7 +1006,7 @@ SWMA_ST-TT_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_ST-TT_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_ST-TT_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_ST-TT_0
@@ -1022,7 +1022,7 @@ SWMA_Tr-Ins_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Tr-Ins_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Tr-Ins_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Tr-Ins_0
@@ -1038,7 +1038,7 @@ SWMA_Tr-SF_0
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_Tr-SF_0
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_Tr-SF_0
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `SWMA_superficialWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html#swma-superficialwhitematter>`_
    :lookupLabel: SWMA_Tr-SF_0
@@ -1054,7 +1054,7 @@ SWMA_superficialWhiteMatter
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_superficialWhiteMatter
+   :@id: https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SWM
    :lookupLabel: SWMA_superficialWhiteMatter

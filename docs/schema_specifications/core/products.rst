@@ -4,6 +4,7 @@ Products
 
 - `Dataset <products/dataset.html>`_
 - `DatasetVersion <products/datasetVersion.html>`_
+- `HardwareProduct <products/hardwareProduct.html>`_
 - `Interface <products/interface.html>`_
 - `InterfaceVersion <products/interfaceVersion.html>`_
 - `MetaDataModel <products/metaDataModel.html>`_
@@ -20,6 +21,7 @@ Products
 
    products/dataset
    products/datasetVersion
+   products/hardwareProduct
    products/interface
    products/interfaceVersion
    products/metaDataModel
