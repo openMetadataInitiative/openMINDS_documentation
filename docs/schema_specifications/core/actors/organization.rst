@@ -210,7 +210,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.om-i.org/props/type
-   :value type: | embedded object of type
+   :value type: | linked object of type
                 | `OrganizationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organizationType.html>`_
    :instructions: Add the type of this organization (legal entity or organizational unit).
 
