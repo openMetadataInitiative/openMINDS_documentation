@@ -18,7 +18,7 @@ ArabMaghrebUnion
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Trade agreement among Arab countries. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q370862)]
    :name: Arab Maghreb Union
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q370862
+   :preferredCrossReference: http://www.wikidata.org/entity/Q370862
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -34,7 +34,7 @@ COVAX
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Global vaccine alliance regarding the COVID-19 pandemic. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q99360983)]
    :name: COVAX
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q99360983
+   :preferredCrossReference: http://www.wikidata.org/entity/Q99360983
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -50,7 +50,7 @@ EuropeanEconomicArea
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Area of the European Union's internal market and some of EFTA states established in 1994. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q8932)]
    :name: European Economic Area
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q8932
+   :preferredCrossReference: http://www.wikidata.org/entity/Q8932
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -66,7 +66,7 @@ EuropeanUnion
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Political and economic union of 27 European states. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q458)]
    :name: European Union
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q458
+   :preferredCrossReference: http://www.wikidata.org/entity/Q458
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -82,7 +82,7 @@ NordicCouncil
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Geo-political inter-parliamentary forum for co-operation between the Nordic countries. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q146165)]
    :name: Nordic Council
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q146165
+   :preferredCrossReference: http://www.wikidata.org/entity/Q146165
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -98,7 +98,7 @@ ProvisionalWorldGovernment
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: World Government in Provisional stage. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q119439372)]
    :name: Provisional World Government
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q119439372
+   :preferredCrossReference: http://www.wikidata.org/entity/Q119439372
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -114,7 +114,7 @@ TheMahdiServantsUnion
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: International non-governmental organization. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96979217)]
    :name: The Mahdi Servants Union
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q96979217
+   :preferredCrossReference: http://www.wikidata.org/entity/Q96979217
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -130,7 +130,7 @@ UnionState
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Supranational entity consisting of the Russian Federation and the Republic of Belarus. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q166110)]
    :name: Union State
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q166110
+   :preferredCrossReference: http://www.wikidata.org/entity/Q166110
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -146,7 +146,7 @@ WestAfricanExaminationsCouncil
    :@type: https://openminds.om-i.org/types/SupranationalBody
    :definition: Is an examination board established in the public interest to conduct exams and award certificates in English-speaking West African countries. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/West_African_Examinations_Council)]
    :name: West African Examinations Council
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q2993835
+   :preferredCrossReference: http://www.wikidata.org/entity/Q2993835
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 

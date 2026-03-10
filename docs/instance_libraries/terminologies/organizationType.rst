@@ -18,7 +18,7 @@ legalEntity
    :@type: https://openminds.om-i.org/types/OrganizationType
    :definition: An organization classified as a type of legal entity recognized within a specific legal system.
    :name: legal entity
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q10541491
+   :preferredCrossReference: https://www.wikidata.org/entity/Q10541491
 
 `BACK TO TOP <Terminologies: OrganizationType library_>`_
 

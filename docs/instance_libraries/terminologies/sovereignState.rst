@@ -18,7 +18,7 @@ Afghanistan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central and South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q889)]
    :name: Afghanistan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q889
+   :preferredCrossReference: http://www.wikidata.org/entity/Q889
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -34,7 +34,7 @@ Albania
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in southeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q222)]
    :name: Albania
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q222
+   :preferredCrossReference: http://www.wikidata.org/entity/Q222
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -50,7 +50,7 @@ Algeria
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q262)]
    :name: Algeria
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q262
+   :preferredCrossReference: http://www.wikidata.org/entity/Q262
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -66,7 +66,7 @@ Andorra
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign microstate between France and Spain, in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q228)]
    :name: Andorra
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q228
+   :preferredCrossReference: http://www.wikidata.org/entity/Q228
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -82,7 +82,7 @@ Angola
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country on the west coast of Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q916)]
    :name: Angola
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q916
+   :preferredCrossReference: http://www.wikidata.org/entity/Q916
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -98,7 +98,7 @@ AntiguaAndBarbuda
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q781)]
    :name: Antigua and Barbuda
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q781
+   :preferredCrossReference: http://www.wikidata.org/entity/Q781
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -114,7 +114,7 @@ Argentina
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q414)]
    :name: Argentina
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q414
+   :preferredCrossReference: http://www.wikidata.org/entity/Q414
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -130,7 +130,7 @@ Armenia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in the South Caucasus region of Eurasia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q399)]
    :name: Armenia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q399
+   :preferredCrossReference: http://www.wikidata.org/entity/Q399
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -146,7 +146,7 @@ Australia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q408)]
    :name: Australia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q408
+   :preferredCrossReference: http://www.wikidata.org/entity/Q408
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -162,7 +162,7 @@ Austria
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q40)]
    :name: Austria
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q40
+   :preferredCrossReference: http://www.wikidata.org/entity/Q40
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -178,7 +178,7 @@ Azerbaijan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Caucasus in Eastern Europe and Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q227)]
    :name: Azerbaijan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q227
+   :preferredCrossReference: http://www.wikidata.org/entity/Q227
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -194,7 +194,7 @@ Bahrain
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Persian Gulf. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q398)]
    :name: Bahrain
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q398
+   :preferredCrossReference: http://www.wikidata.org/entity/Q398
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -210,7 +210,7 @@ Bangladesh
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q902)]
    :name: Bangladesh
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q902
+   :preferredCrossReference: http://www.wikidata.org/entity/Q902
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -226,7 +226,7 @@ Barbados
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island nation in the Caribbean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q244)]
    :name: Barbados
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q244
+   :preferredCrossReference: http://www.wikidata.org/entity/Q244
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -242,7 +242,7 @@ Belarus
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Eastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q184)]
    :name: Belarus
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q184
+   :preferredCrossReference: http://www.wikidata.org/entity/Q184
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -258,7 +258,7 @@ Belgium
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q31)]
    :name: Belgium
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q31
+   :preferredCrossReference: http://www.wikidata.org/entity/Q31
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -274,7 +274,7 @@ Belize
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q242)]
    :name: Belize
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q242
+   :preferredCrossReference: http://www.wikidata.org/entity/Q242
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -290,7 +290,7 @@ Benin
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q962)]
    :name: Benin
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q962
+   :preferredCrossReference: http://www.wikidata.org/entity/Q962
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -306,7 +306,7 @@ Bhutan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q917)]
    :name: Bhutan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q917
+   :preferredCrossReference: http://www.wikidata.org/entity/Q917
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -322,7 +322,7 @@ Bolivia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q750)]
    :name: Bolivia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q750
+   :preferredCrossReference: http://www.wikidata.org/entity/Q750
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -338,7 +338,7 @@ BosniaAndHerzegovina
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q225)]
    :name: Bosnia and Herzegovina
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q225
+   :preferredCrossReference: http://www.wikidata.org/entity/Q225
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -354,7 +354,7 @@ Botswana
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q963)]
    :name: Botswana
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q963
+   :preferredCrossReference: http://www.wikidata.org/entity/Q963
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -370,7 +370,7 @@ Brazil
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q155)]
    :name: Brazil
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q155
+   :preferredCrossReference: http://www.wikidata.org/entity/Q155
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -386,7 +386,7 @@ Brunei
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q921)]
    :name: Brunei
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q921
+   :preferredCrossReference: http://www.wikidata.org/entity/Q921
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -402,7 +402,7 @@ Bulgaria
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q219)]
    :name: Bulgaria
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q219
+   :preferredCrossReference: http://www.wikidata.org/entity/Q219
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -418,7 +418,7 @@ BurkinaFaso
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q965)]
    :name: Burkina Faso
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q965
+   :preferredCrossReference: http://www.wikidata.org/entity/Q965
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -434,7 +434,7 @@ Burundi
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q967)]
    :name: Burundi
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q967
+   :preferredCrossReference: http://www.wikidata.org/entity/Q967
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -450,7 +450,7 @@ Cambodia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q424)]
    :name: Cambodia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q424
+   :preferredCrossReference: http://www.wikidata.org/entity/Q424
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -466,7 +466,7 @@ Cameroon
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West-Central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1009)]
    :name: Cameroon
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1009
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1009
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -482,7 +482,7 @@ Canada
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in North America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q16)]
    :name: Canada
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q16
+   :preferredCrossReference: http://www.wikidata.org/entity/Q16
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -498,7 +498,7 @@ CapeVerde
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state comprising ten islands off the Western coast of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1011)]
    :name: Cape Verde
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1011
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1011
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -514,7 +514,7 @@ CentralAfricanRepublic
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q929)]
    :name: Central African Republic
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q929
+   :preferredCrossReference: http://www.wikidata.org/entity/Q929
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -530,7 +530,7 @@ Chad
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q657)]
    :name: Chad
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q657
+   :preferredCrossReference: http://www.wikidata.org/entity/Q657
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -546,7 +546,7 @@ Chile
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q298)]
    :name: Chile
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q298
+   :preferredCrossReference: http://www.wikidata.org/entity/Q298
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -562,7 +562,7 @@ Colombia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q739)]
    :name: Colombia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q739
+   :preferredCrossReference: http://www.wikidata.org/entity/Q739
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -578,7 +578,7 @@ Comoros
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q970)]
    :name: Comoros
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q970
+   :preferredCrossReference: http://www.wikidata.org/entity/Q970
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -594,7 +594,7 @@ CostaRica
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q800)]
    :name: Costa Rica
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q800
+   :preferredCrossReference: http://www.wikidata.org/entity/Q800
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -610,7 +610,7 @@ Croatia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q224)]
    :name: Croatia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q224
+   :preferredCrossReference: http://www.wikidata.org/entity/Q224
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -626,7 +626,7 @@ Cuba
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state situated on an island in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q241)]
    :name: Cuba
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q241
+   :preferredCrossReference: http://www.wikidata.org/entity/Q241
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -642,7 +642,7 @@ Cyprus
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Mediterranean island country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q229)]
    :name: Cyprus
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q229
+   :preferredCrossReference: http://www.wikidata.org/entity/Q229
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -658,7 +658,7 @@ CzechRepublic
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q213)]
    :name: Czech Republic
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q213
+   :preferredCrossReference: http://www.wikidata.org/entity/Q213
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -674,7 +674,7 @@ DemocraticRepublicOfTheCongo
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q974)]
    :name: Democratic Republic of the Congo
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q974
+   :preferredCrossReference: http://www.wikidata.org/entity/Q974
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -690,7 +690,7 @@ Djibouti
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q977)]
    :name: Djibouti
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q977
+   :preferredCrossReference: http://www.wikidata.org/entity/Q977
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -706,7 +706,7 @@ Dominica
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q784)]
    :name: Dominica
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q784
+   :preferredCrossReference: http://www.wikidata.org/entity/Q784
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -722,7 +722,7 @@ DominicanRepublic
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q786)]
    :name: Dominican Republic
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q786
+   :preferredCrossReference: http://www.wikidata.org/entity/Q786
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -738,7 +738,7 @@ Ecuador
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q736)]
    :name: Ecuador
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q736
+   :preferredCrossReference: http://www.wikidata.org/entity/Q736
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -754,7 +754,7 @@ Egypt
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northeast Africa and Southwest Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q79)]
    :name: Egypt
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q79
+   :preferredCrossReference: http://www.wikidata.org/entity/Q79
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -770,7 +770,7 @@ ElSalvador
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q792)]
    :name: El Salvador
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q792
+   :preferredCrossReference: http://www.wikidata.org/entity/Q792
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -786,7 +786,7 @@ EquatorialGuinea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q983)]
    :name: Equatorial Guinea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q983
+   :preferredCrossReference: http://www.wikidata.org/entity/Q983
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -802,7 +802,7 @@ Eritrea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Horn of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q986)]
    :name: Eritrea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q986
+   :preferredCrossReference: http://www.wikidata.org/entity/Q986
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -818,7 +818,7 @@ Estonia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q191)]
    :name: Estonia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q191
+   :preferredCrossReference: http://www.wikidata.org/entity/Q191
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -834,7 +834,7 @@ Eswatini
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1050)]
    :name: Eswatini
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1050
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1050
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -850,7 +850,7 @@ Ethiopia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Horn of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q115)]
    :name: Ethiopia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q115
+   :preferredCrossReference: http://www.wikidata.org/entity/Q115
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -866,7 +866,7 @@ FederatedStatesOfMicronesia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q702)]
    :name: Federated States of Micronesia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q702
+   :preferredCrossReference: http://www.wikidata.org/entity/Q702
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -882,7 +882,7 @@ Fiji
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q712)]
    :name: Fiji
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q712
+   :preferredCrossReference: http://www.wikidata.org/entity/Q712
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -898,7 +898,7 @@ Finland
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q33)]
    :name: Finland
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q33
+   :preferredCrossReference: http://www.wikidata.org/entity/Q33
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -914,7 +914,7 @@ France
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania). [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q142)]
    :name: France
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q142
+   :preferredCrossReference: http://www.wikidata.org/entity/Q142
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -930,7 +930,7 @@ Gabon
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country on the Atlantic coast of Central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1000)]
    :name: Gabon
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1000
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1000
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -946,7 +946,7 @@ Georgia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Caucasus region of Europe and Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q230)]
    :name: Georgia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q230
+   :preferredCrossReference: http://www.wikidata.org/entity/Q230
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -962,7 +962,7 @@ Germany
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q183)]
    :name: Germany
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q183
+   :preferredCrossReference: http://www.wikidata.org/entity/Q183
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -978,7 +978,7 @@ Ghana
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q117)]
    :name: Ghana
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q117
+   :preferredCrossReference: http://www.wikidata.org/entity/Q117
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -994,7 +994,7 @@ Greece
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q41)]
    :name: Greece
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q41
+   :preferredCrossReference: http://www.wikidata.org/entity/Q41
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1010,7 +1010,7 @@ Grenada
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q769)]
    :name: Grenada
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q769
+   :preferredCrossReference: http://www.wikidata.org/entity/Q769
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1026,7 +1026,7 @@ Guatemala
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q774)]
    :name: Guatemala
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q774
+   :preferredCrossReference: http://www.wikidata.org/entity/Q774
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1042,7 +1042,7 @@ Guinea-Bissau
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Western Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1007)]
    :name: Guinea-Bissau
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1007
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1007
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1058,7 +1058,7 @@ Guinea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1006)]
    :name: Guinea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1006
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1006
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1074,7 +1074,7 @@ Guyana
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q734)]
    :name: Guyana
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q734
+   :preferredCrossReference: http://www.wikidata.org/entity/Q734
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1090,7 +1090,7 @@ Haiti
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q790)]
    :name: Haiti
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q790
+   :preferredCrossReference: http://www.wikidata.org/entity/Q790
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1106,7 +1106,7 @@ Honduras
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q783)]
    :name: Honduras
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q783
+   :preferredCrossReference: http://www.wikidata.org/entity/Q783
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1122,7 +1122,7 @@ Hungary
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q28)]
    :name: Hungary
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q28
+   :preferredCrossReference: http://www.wikidata.org/entity/Q28
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1138,7 +1138,7 @@ Iceland
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Nordic island country in the North Atlantic Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q189)]
    :name: Iceland
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q189
+   :preferredCrossReference: http://www.wikidata.org/entity/Q189
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1154,7 +1154,7 @@ India
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q668)]
    :name: India
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q668
+   :preferredCrossReference: http://www.wikidata.org/entity/Q668
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1170,7 +1170,7 @@ Indonesia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island country in Southeast Asia and Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q252)]
    :name: Indonesia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q252
+   :preferredCrossReference: http://www.wikidata.org/entity/Q252
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1186,7 +1186,7 @@ Iran
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q794)]
    :name: Iran
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q794
+   :preferredCrossReference: http://www.wikidata.org/entity/Q794
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1202,7 +1202,7 @@ Iraq
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q796)]
    :name: Iraq
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q796
+   :preferredCrossReference: http://www.wikidata.org/entity/Q796
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1218,7 +1218,7 @@ Ireland
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northwestern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q27)]
    :name: Ireland
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q27
+   :preferredCrossReference: http://www.wikidata.org/entity/Q27
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1234,7 +1234,7 @@ Israel
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q801)]
    :name: Israel
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q801
+   :preferredCrossReference: http://www.wikidata.org/entity/Q801
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1250,7 +1250,7 @@ Italy
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q38)]
    :name: Italy
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q38
+   :preferredCrossReference: http://www.wikidata.org/entity/Q38
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1266,7 +1266,7 @@ IvoryCoast
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1008)]
    :name: Ivory Coast
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1008
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1008
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1282,7 +1282,7 @@ Jamaica
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q766)]
    :name: Jamaica
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q766
+   :preferredCrossReference: http://www.wikidata.org/entity/Q766
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1298,7 +1298,7 @@ Japan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q17)]
    :name: Japan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q17
+   :preferredCrossReference: http://www.wikidata.org/entity/Q17
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1314,7 +1314,7 @@ Jordan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q810)]
    :name: Jordan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q810
+   :preferredCrossReference: http://www.wikidata.org/entity/Q810
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1330,7 +1330,7 @@ Kazakhstan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Eastern Europe and Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q232)]
    :name: Kazakhstan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q232
+   :preferredCrossReference: http://www.wikidata.org/entity/Q232
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1346,7 +1346,7 @@ Kenya
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Eastern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q114)]
    :name: Kenya
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q114
+   :preferredCrossReference: http://www.wikidata.org/entity/Q114
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1362,7 +1362,7 @@ KingdomOfDenmark
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Transcontinental sovereign state and constitutional monarchy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q756617)]
    :name: Kingdom of Denmark
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q756617
+   :preferredCrossReference: http://www.wikidata.org/entity/Q756617
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1378,7 +1378,7 @@ KingdomOfTheNetherlands
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Transcontinental sovereign state and constitutional monarchy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q29999)]
    :name: Kingdom of the Netherlands
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q29999
+   :preferredCrossReference: http://www.wikidata.org/entity/Q29999
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1394,7 +1394,7 @@ Kiribati
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the central Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q710)]
    :name: Kiribati
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q710
+   :preferredCrossReference: http://www.wikidata.org/entity/Q710
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1410,7 +1410,7 @@ Kuwait
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q817)]
    :name: Kuwait
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q817
+   :preferredCrossReference: http://www.wikidata.org/entity/Q817
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1426,7 +1426,7 @@ Kyrgyzstan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q813)]
    :name: Kyrgyzstan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q813
+   :preferredCrossReference: http://www.wikidata.org/entity/Q813
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1442,7 +1442,7 @@ Laos
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q819)]
    :name: Laos
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q819
+   :preferredCrossReference: http://www.wikidata.org/entity/Q819
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1458,7 +1458,7 @@ Latvia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in northeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q211)]
    :name: Latvia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q211
+   :preferredCrossReference: http://www.wikidata.org/entity/Q211
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1474,7 +1474,7 @@ Lebanon
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q822)]
    :name: Lebanon
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q822
+   :preferredCrossReference: http://www.wikidata.org/entity/Q822
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1490,7 +1490,7 @@ Lesotho
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1013)]
    :name: Lesotho
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1013
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1013
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1506,7 +1506,7 @@ Liberia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1014)]
    :name: Liberia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1014
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1014
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1522,7 +1522,7 @@ Libya
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1016)]
    :name: Libya
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1016
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1016
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1538,7 +1538,7 @@ Liechtenstein
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q347)]
    :name: Liechtenstein
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q347
+   :preferredCrossReference: http://www.wikidata.org/entity/Q347
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1554,7 +1554,7 @@ Lithuania
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in northeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q37)]
    :name: Lithuania
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q37
+   :preferredCrossReference: http://www.wikidata.org/entity/Q37
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1570,7 +1570,7 @@ Luxembourg
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q32)]
    :name: Luxembourg
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q32
+   :preferredCrossReference: http://www.wikidata.org/entity/Q32
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1586,7 +1586,7 @@ Madagascar
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state off the coast of Southeast Africa, in the Indian Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1019)]
    :name: Madagascar
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1019
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1019
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1602,7 +1602,7 @@ Malawi
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1020)]
    :name: Malawi
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1020
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1020
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1618,7 +1618,7 @@ Malaysia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q833)]
    :name: Malaysia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q833
+   :preferredCrossReference: http://www.wikidata.org/entity/Q833
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1634,7 +1634,7 @@ Maldives
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South Asia, situated on an archipelago in the Arabian Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q826)]
    :name: Maldives
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q826
+   :preferredCrossReference: http://www.wikidata.org/entity/Q826
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1650,7 +1650,7 @@ Mali
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q912)]
    :name: Mali
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q912
+   :preferredCrossReference: http://www.wikidata.org/entity/Q912
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1666,7 +1666,7 @@ Malta
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southern Europe situated on an archipelago in the Mediterranean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q233)]
    :name: Malta
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q233
+   :preferredCrossReference: http://www.wikidata.org/entity/Q233
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1682,7 +1682,7 @@ MarshallIslands
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country near the equator in the Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q709)]
    :name: Marshall Islands
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q709
+   :preferredCrossReference: http://www.wikidata.org/entity/Q709
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1698,7 +1698,7 @@ Mauritania
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa and North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1025)]
    :name: Mauritania
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1025
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1025
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1714,7 +1714,7 @@ Mauritius
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state off of East Africa in the Indian Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1027)]
    :name: Mauritius
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1027
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1027
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1730,7 +1730,7 @@ Mexico
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in North America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96)]
    :name: Mexico
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q96
+   :preferredCrossReference: http://www.wikidata.org/entity/Q96
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1746,7 +1746,7 @@ Moldova
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Eastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q217)]
    :name: Moldova
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q217
+   :preferredCrossReference: http://www.wikidata.org/entity/Q217
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1762,7 +1762,7 @@ Monaco
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Microstate in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q235)]
    :name: Monaco
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q235
+   :preferredCrossReference: http://www.wikidata.org/entity/Q235
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1778,7 +1778,7 @@ Mongolia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q711)]
    :name: Mongolia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q711
+   :preferredCrossReference: http://www.wikidata.org/entity/Q711
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1794,7 +1794,7 @@ Montenegro
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in southeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q236)]
    :name: Montenegro
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q236
+   :preferredCrossReference: http://www.wikidata.org/entity/Q236
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1810,7 +1810,7 @@ Morocco
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1028)]
    :name: Morocco
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1028
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1028
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1826,7 +1826,7 @@ Mozambique
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeastern Africa; the current form of Mozambique since 1975. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1029)]
    :name: Mozambique
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1029
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1029
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1842,7 +1842,7 @@ Myanmar
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q836)]
    :name: Myanmar
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q836
+   :preferredCrossReference: http://www.wikidata.org/entity/Q836
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1858,7 +1858,7 @@ Namibia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1030)]
    :name: Namibia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1030
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1030
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1874,7 +1874,7 @@ Nauru
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q697)]
    :name: Nauru
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q697
+   :preferredCrossReference: http://www.wikidata.org/entity/Q697
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1890,7 +1890,7 @@ Nepal
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q837)]
    :name: Nepal
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q837
+   :preferredCrossReference: http://www.wikidata.org/entity/Q837
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1906,7 +1906,7 @@ NewZealand
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island country in the southwest Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q664)]
    :name: New Zealand
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q664
+   :preferredCrossReference: http://www.wikidata.org/entity/Q664
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1922,7 +1922,7 @@ Nicaragua
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q811)]
    :name: Nicaragua
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q811
+   :preferredCrossReference: http://www.wikidata.org/entity/Q811
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1938,7 +1938,7 @@ Niger
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in western Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1032)]
    :name: Niger
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1032
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1032
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1954,7 +1954,7 @@ Nigeria
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1033)]
    :name: Nigeria
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1033
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1033
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1970,7 +1970,7 @@ NorthKorea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q423)]
    :name: North Korea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q423
+   :preferredCrossReference: http://www.wikidata.org/entity/Q423
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -1986,7 +1986,7 @@ NorthMacedonia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in southeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q221)]
    :name: North Macedonia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q221
+   :preferredCrossReference: http://www.wikidata.org/entity/Q221
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2002,7 +2002,7 @@ Norway
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q20)]
    :name: Norway
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q20
+   :preferredCrossReference: http://www.wikidata.org/entity/Q20
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2018,7 +2018,7 @@ Oman
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q842)]
    :name: Oman
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q842
+   :preferredCrossReference: http://www.wikidata.org/entity/Q842
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2034,7 +2034,7 @@ Pakistan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q843)]
    :name: Pakistan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q843
+   :preferredCrossReference: http://www.wikidata.org/entity/Q843
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2050,7 +2050,7 @@ Palau
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q695)]
    :name: Palau
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q695
+   :preferredCrossReference: http://www.wikidata.org/entity/Q695
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2066,7 +2066,7 @@ Panama
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q804)]
    :name: Panama
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q804
+   :preferredCrossReference: http://www.wikidata.org/entity/Q804
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2082,7 +2082,7 @@ PapuaNewGuinea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q691)]
    :name: Papua New Guinea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q691
+   :preferredCrossReference: http://www.wikidata.org/entity/Q691
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2098,7 +2098,7 @@ Paraguay
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q733)]
    :name: Paraguay
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q733
+   :preferredCrossReference: http://www.wikidata.org/entity/Q733
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2114,7 +2114,7 @@ PeoplesRepublicOfChina
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q148)]
    :name: People's Republic of China
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q148
+   :preferredCrossReference: http://www.wikidata.org/entity/Q148
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2130,7 +2130,7 @@ Peru
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q419)]
    :name: Peru
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q419
+   :preferredCrossReference: http://www.wikidata.org/entity/Q419
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2146,7 +2146,7 @@ Philippines
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Archipelagic country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q928)]
    :name: Philippines
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q928
+   :preferredCrossReference: http://www.wikidata.org/entity/Q928
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2162,7 +2162,7 @@ Poland
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q36)]
    :name: Poland
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q36
+   :preferredCrossReference: http://www.wikidata.org/entity/Q36
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2178,7 +2178,7 @@ Portugal
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southwestern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q45)]
    :name: Portugal
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q45
+   :preferredCrossReference: http://www.wikidata.org/entity/Q45
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2194,7 +2194,7 @@ Qatar
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q846)]
    :name: Qatar
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q846
+   :preferredCrossReference: http://www.wikidata.org/entity/Q846
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2210,7 +2210,7 @@ RepublicOfTheCongo
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Africa, capital Brazzaville. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q971)]
    :name: Republic of the Congo
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q971
+   :preferredCrossReference: http://www.wikidata.org/entity/Q971
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2226,7 +2226,7 @@ Romania
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q218)]
    :name: Romania
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q218
+   :preferredCrossReference: http://www.wikidata.org/entity/Q218
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2242,7 +2242,7 @@ Russia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Eastern Europe and Northern Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q159)]
    :name: Russia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q159
+   :preferredCrossReference: http://www.wikidata.org/entity/Q159
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2258,7 +2258,7 @@ Rwanda
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1037)]
    :name: Rwanda
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1037
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1037
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2274,7 +2274,7 @@ SaintKittsAndNevis
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q763)]
    :name: Saint Kitts and Nevis
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q763
+   :preferredCrossReference: http://www.wikidata.org/entity/Q763
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2290,7 +2290,7 @@ SaintLucia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q760)]
    :name: Saint Lucia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q760
+   :preferredCrossReference: http://www.wikidata.org/entity/Q760
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2306,7 +2306,7 @@ SaintVincentAndTheGrenadines
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q757)]
    :name: Saint Vincent and the Grenadines
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q757
+   :preferredCrossReference: http://www.wikidata.org/entity/Q757
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2322,7 +2322,7 @@ Samoa
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state made up of six islands in the Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q683)]
    :name: Samoa
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q683
+   :preferredCrossReference: http://www.wikidata.org/entity/Q683
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2338,7 +2338,7 @@ SanMarino
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in southern Europe, enclaved within Italy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q238)]
    :name: San Marino
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q238
+   :preferredCrossReference: http://www.wikidata.org/entity/Q238
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2354,7 +2354,7 @@ SaoTomeAndPrincipe
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1039)]
    :name: Sao Tome and Principe
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1039
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1039
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2370,7 +2370,7 @@ SaudiArabia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q851)]
    :name: Saudi Arabia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q851
+   :preferredCrossReference: http://www.wikidata.org/entity/Q851
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2386,7 +2386,7 @@ Sauk-SuiattleIndianTribe
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Federally recognized Native American tribe in Washington state, USA. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1718707)]
    :name: Sauk-Suiattle Indian Tribe
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1718707
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1718707
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2402,7 +2402,7 @@ Senegal
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country on the coast of West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1041)]
    :name: Senegal
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1041
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1041
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2418,7 +2418,7 @@ Serbia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q403)]
    :name: Serbia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q403
+   :preferredCrossReference: http://www.wikidata.org/entity/Q403
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2434,7 +2434,7 @@ Seychelles
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state off the eastern coast of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1042)]
    :name: Seychelles
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1042
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1042
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2450,7 +2450,7 @@ SierraLeone
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1044)]
    :name: Sierra Leone
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1044
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1044
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2466,7 +2466,7 @@ Singapore
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign island country and city-state in maritime Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q334)]
    :name: Singapore
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q334
+   :preferredCrossReference: http://www.wikidata.org/entity/Q334
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2482,7 +2482,7 @@ Slovakia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q214)]
    :name: Slovakia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q214
+   :preferredCrossReference: http://www.wikidata.org/entity/Q214
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2498,7 +2498,7 @@ Slovenia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q215)]
    :name: Slovenia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q215
+   :preferredCrossReference: http://www.wikidata.org/entity/Q215
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2514,7 +2514,7 @@ SolomonIslands
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q685)]
    :name: Solomon Islands
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q685
+   :preferredCrossReference: http://www.wikidata.org/entity/Q685
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2530,7 +2530,7 @@ Somalia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1045)]
    :name: Somalia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1045
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1045
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2546,7 +2546,7 @@ SouthAfrica
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q258)]
    :name: South Africa
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q258
+   :preferredCrossReference: http://www.wikidata.org/entity/Q258
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2562,7 +2562,7 @@ SouthKorea
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q884)]
    :name: South Korea
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q884
+   :preferredCrossReference: http://www.wikidata.org/entity/Q884
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2578,7 +2578,7 @@ SouthSudan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q958)]
    :name: South Sudan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q958
+   :preferredCrossReference: http://www.wikidata.org/entity/Q958
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2594,7 +2594,7 @@ Spain
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in southwestern Europe with territories in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q29)]
    :name: Spain
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q29
+   :preferredCrossReference: http://www.wikidata.org/entity/Q29
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2610,7 +2610,7 @@ SriLanka
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q854)]
    :name: Sri Lanka
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q854
+   :preferredCrossReference: http://www.wikidata.org/entity/Q854
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2626,7 +2626,7 @@ StateOfPalestine
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q219060)]
    :name: State of Palestine
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q219060
+   :preferredCrossReference: http://www.wikidata.org/entity/Q219060
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2642,7 +2642,7 @@ Sudan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northeast Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1049)]
    :name: Sudan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1049
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1049
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2658,7 +2658,7 @@ Suriname
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q730)]
    :name: Suriname
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q730
+   :preferredCrossReference: http://www.wikidata.org/entity/Q730
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2674,7 +2674,7 @@ Sweden
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q34)]
    :name: Sweden
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q34
+   :preferredCrossReference: http://www.wikidata.org/entity/Q34
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2690,7 +2690,7 @@ Switzerland
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q39)]
    :name: Switzerland
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q39
+   :preferredCrossReference: http://www.wikidata.org/entity/Q39
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2706,7 +2706,7 @@ Syria
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q858)]
    :name: Syria
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q858
+   :preferredCrossReference: http://www.wikidata.org/entity/Q858
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2722,7 +2722,7 @@ Taiwan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q865)]
    :name: Taiwan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q865
+   :preferredCrossReference: http://www.wikidata.org/entity/Q865
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2738,7 +2738,7 @@ Tajikistan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q863)]
    :name: Tajikistan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q863
+   :preferredCrossReference: http://www.wikidata.org/entity/Q863
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2754,7 +2754,7 @@ Tanzania
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q924)]
    :name: Tanzania
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q924
+   :preferredCrossReference: http://www.wikidata.org/entity/Q924
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2770,7 +2770,7 @@ Thailand
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q869)]
    :name: Thailand
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q869
+   :preferredCrossReference: http://www.wikidata.org/entity/Q869
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2786,7 +2786,7 @@ TheBahamas
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the West Indies. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q778)]
    :name: The Bahamas
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q778
+   :preferredCrossReference: http://www.wikidata.org/entity/Q778
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2802,7 +2802,7 @@ TheGambia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1005)]
    :name: The Gambia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1005
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1005
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2818,7 +2818,7 @@ Timor-Leste
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state situated on several islands in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q574)]
    :name: Timor-Leste
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q574
+   :preferredCrossReference: http://www.wikidata.org/entity/Q574
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2834,7 +2834,7 @@ Togo
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q945)]
    :name: Togo
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q945
+   :preferredCrossReference: http://www.wikidata.org/entity/Q945
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2850,7 +2850,7 @@ Tonga
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Oceania, situated on an archipelago. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q678)]
    :name: Tonga
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q678
+   :preferredCrossReference: http://www.wikidata.org/entity/Q678
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2866,7 +2866,7 @@ TrinidadAndTobago
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island sovereign state in the Caribbean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q754)]
    :name: Trinidad and Tobago
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q754
+   :preferredCrossReference: http://www.wikidata.org/entity/Q754
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2882,7 +2882,7 @@ Tunisia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q948)]
    :name: Tunisia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q948
+   :preferredCrossReference: http://www.wikidata.org/entity/Q948
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2898,7 +2898,7 @@ Turkey
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia and Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q43)]
    :name: Turkey
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q43
+   :preferredCrossReference: http://www.wikidata.org/entity/Q43
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2914,7 +2914,7 @@ Turkmenistan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q874)]
    :name: Turkmenistan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q874
+   :preferredCrossReference: http://www.wikidata.org/entity/Q874
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2930,7 +2930,7 @@ Tuvalu
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q672)]
    :name: Tuvalu
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q672
+   :preferredCrossReference: http://www.wikidata.org/entity/Q672
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2946,7 +2946,7 @@ Uganda
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in east Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1036)]
    :name: Uganda
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q1036
+   :preferredCrossReference: http://www.wikidata.org/entity/Q1036
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2962,7 +2962,7 @@ Ukraine
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Eastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q212)]
    :name: Ukraine
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q212
+   :preferredCrossReference: http://www.wikidata.org/entity/Q212
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2978,7 +2978,7 @@ UnitedArabEmirates
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q878)]
    :name: United Arab Emirates
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q878
+   :preferredCrossReference: http://www.wikidata.org/entity/Q878
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -2994,7 +2994,7 @@ UnitedKingdom
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in north-west Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q145)]
    :name: United Kingdom
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q145
+   :preferredCrossReference: http://www.wikidata.org/entity/Q145
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3010,7 +3010,7 @@ UnitedStates
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country located primarily in North America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q30)]
    :name: United States
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q30
+   :preferredCrossReference: http://www.wikidata.org/entity/Q30
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3026,7 +3026,7 @@ Uruguay
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q77)]
    :name: Uruguay
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q77
+   :preferredCrossReference: http://www.wikidata.org/entity/Q77
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3042,7 +3042,7 @@ Uzbekistan
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q265)]
    :name: Uzbekistan
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q265
+   :preferredCrossReference: http://www.wikidata.org/entity/Q265
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3058,7 +3058,7 @@ Vanuatu
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Island country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q686)]
    :name: Vanuatu
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q686
+   :preferredCrossReference: http://www.wikidata.org/entity/Q686
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3074,7 +3074,7 @@ VaticanCity
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Holy See's independent state, an enclave within Rome, Italy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q237)]
    :name: Vatican City
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q237
+   :preferredCrossReference: http://www.wikidata.org/entity/Q237
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3090,7 +3090,7 @@ Venezuela
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in northern South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q717)]
    :name: Venezuela
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q717
+   :preferredCrossReference: http://www.wikidata.org/entity/Q717
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3106,7 +3106,7 @@ Vietnam
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q881)]
    :name: Vietnam
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q881
+   :preferredCrossReference: http://www.wikidata.org/entity/Q881
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3122,7 +3122,7 @@ Yemen
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q805)]
    :name: Yemen
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q805
+   :preferredCrossReference: http://www.wikidata.org/entity/Q805
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3138,7 +3138,7 @@ Zambia
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Country at the crossroads of Central and Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q953)]
    :name: Zambia
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q953
+   :preferredCrossReference: http://www.wikidata.org/entity/Q953
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 
@@ -3154,7 +3154,7 @@ Zimbabwe
    :@type: https://openminds.om-i.org/types/SovereignState
    :definition: Sovereign state in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q954)]
    :name: Zimbabwe
-   :preferredOntologyIdentifier: http://www.wikidata.org/entity/Q954
+   :preferredCrossReference: http://www.wikidata.org/entity/Q954
 
 `BACK TO TOP <Terminologies: SovereignState library_>`_
 

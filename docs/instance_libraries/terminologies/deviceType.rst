@@ -144,9 +144,9 @@ MRIscanner
    :@id: https://openminds.om-i.org/instances/deviceType/MRIscanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106463
    :name: MRI scanner
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2100
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2100
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106463
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
@@ -176,9 +176,9 @@ electronicAmplifier
    :@id: https://openminds.om-i.org/instances/deviceType/electronicAmplifier
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: An 'electronic amplifier' is a device that increases the power (voltage or current) of a time-varying signal.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100567
    :name: electronic amplifier
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_27076
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_27076
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0100567
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
@@ -193,9 +193,9 @@ microscope
    :@id: https://openminds.om-i.org/instances/deviceType/microscope
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106921
    :name: microscope
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2106
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2106
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106921
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 
@@ -210,7 +210,6 @@ microtome
    :@id: https://openminds.om-i.org/instances/deviceType/microtome
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'microtome' is a mechanical instrument with a steel, glass or diamond blade used to cut (typically) biological specimens into very thin segments for further treatment and ultimately microscopic or histologic examination.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106925
    :name: microtome
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0400168
 
@@ -257,8 +256,8 @@ vibratingMicrotome
    :@id: https://openminds.om-i.org/instances/deviceType/vibratingMicrotome
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments for further treatment and ultimately microscopic or histologic examination.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780522
    :name: vibrating microtome
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0780522
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 

@@ -105,8 +105,8 @@ DNAMethylationAnalysis
    :@id: https://openminds.om-i.org/instances/technique/DNAMethylationAnalysis
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A 'DNA methylation analysis' studies chromosomal patterns of DNA or histone modification by methyl groups ([modified from Nature.com](https://www.nature.com/subjects/methylation-analysis)).
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0779582
    :name: DNA methylation analysis
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0779582
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -121,7 +121,6 @@ DNASequencing
    :@id: https://openminds.om-i.org/instances/technique/DNASequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0783031
    :name: DNA sequencing
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0000626
 
@@ -138,9 +137,9 @@ GolgiStaining
    :@id: https://openminds.om-i.org/instances/technique/GolgiStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Golgi staining' includes several silver staining techniques in which fixed tissue is impregnated with silver nitrate and potassium dichromate resulting in the complete staining of some nerve cells while other cells are not stained at all. [adapted from InterLex](http://uri.interlex.org/ilx_0104713)
-   :interlexIdentifier: http://uri.interlex.org/ilx_0104713
    :name: Golgi staining
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2243
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2243
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0104713
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -215,7 +214,6 @@ RNASequencing
    :@id: https://openminds.om-i.org/instances/technique/RNASequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'RNA sequencing' refers to a group of techniques that are used to (directly or indirectly) determine the order of nucleotides (nucleic acid sequence) in RNA.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0782092
    :name: RNA sequencing
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0001177
 
@@ -290,9 +288,9 @@ TimmsStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A technique used to selectively visualize a variety of metals (e.g. zinc, copper, iron) in biological tissue based on sulphide-precipitation of metals in the tissue.
    :description: The principle of this technique is that metals in the tissue can be transformed histochemically to metal sulphide. Subsequently, metal sulphide catalyze the reduction of silver ions by a reducing agent to metallic grains that are visible under a light or electron microscope.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0107265
    :name: Timm's staining
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0107265
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -363,9 +361,8 @@ angiography
    :@id: https://openminds.om-i.org/instances/technique/angiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Imaging technique for anatomical and structural details of the vascular system [adapted from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK557477/)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739420
    :name: angiography
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/87
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739420
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -396,8 +393,8 @@ autoradiography
    :@id: https://openminds.om-i.org/instances/technique/autoradiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Autoradiography' is a photography technique that creates images of a radioactive source (e.g., molecules or fragments of molecules that have been radioactively labeled) by the direct exposure to an imaging media (e.g., X-ray film or nuclear emulsion)
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0439300
    :name: autoradiography
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0439300
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -456,7 +453,6 @@ bloodSampling
    :@id: https://openminds.om-i.org/instances/technique/bloodSampling
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Blood sampling' is the process of obtaining blood from a body for purpose of medical diagnosis and/or evaluation of an indication for treatment, further medical tests or other procedures.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0782225
    :name: blood sampling
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_1110095
 
@@ -473,9 +469,8 @@ brightfieldMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/brightfieldMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Brightfield microscopy is an optical microscopy techniques, in which illumination light is transmitted through the sample and the contrast is generated by the absorption of light in dense areas of the specimen.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739719
    :name: brightfield microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/238
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739719
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -580,9 +575,8 @@ confocalMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Confocal microscopy is a specialized fluorescence microscopy technique that uses pinholes to reject out-of-focus light.
    :description: Confocal microscopy focuses light onto a defined spot at a specific depth within a fluorescent sample to eliminate out-of-focus glare, and increase resolution and contrast in the micrographs.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739731
    :name: confocal microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/157
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739731
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -701,9 +695,8 @@ differentialInterferenceContrastMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/differentialInterferenceContrastMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An optical microscopy technique, used to enhance the contrast in unstained, transparent samples [taken from [Wikipedia](https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739494
    :name: differential interference contrast microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739494
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -849,9 +842,8 @@ electronMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/electronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Electron microscopy describes any microscopy technique that uses electrons to generate contrast.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739513
    :name: electron microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739513
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -866,7 +858,6 @@ electronTomography
    :@id: https://openminds.om-i.org/instances/technique/electronTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Electron tomography is a microscopy technique that takes a series of images of a thick sample at different angles (tilts) so that tomography can be applied to increase the resolution of the ticker sample.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0461087
    :name: electron tomography
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0512939
 
@@ -898,9 +889,8 @@ electroporation
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A microbiology technique in which an electrical field is applied to cells in order to increase the permeability of the cell membrane.
    :description: 'Electroporation' is a process in which a significant increase in the electrical conductivity and permeability of the cell plasma membrane is caused by an externally applied electrical field. It is usually used in molecular biology as a way of introducing some substance into a cell, such as loading it with a molecular probe, a drug that can change the cell's function, or a piece of coding DNA.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739748
    :name: electroporation
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/electroporation
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739748
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -916,7 +906,6 @@ enzymeLinkedImmunosorbentAssay
    :@type: https://openminds.om-i.org/types/Technique
    :definition: The 'enzyme-linked immunosorbent assay' is a commonly used analytical biochemistry assay for the quantitative determination of antibodies, first described by [Engvall and Perlmann (1972)](https://www.jimmunol.org/content/109/1/129.abstract). [adapted from [wikipedia](https://en.wikipedia.org/wiki/ELISA)]
    :description: This immunoassay utilizes an antibody labeled with an enzyme marker such as horseradish peroxidase. While either the enzyme or the antibody is bound to an immunosorbent substrate, they both retain their biologic activity; the change in enzyme activity as a result of the enzyme-antibody-antigen reaction is proportional to the concentration of the antigen and can be measured spectrophotometrically or with the naked eye. Many variations of the method have been developed.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0484188
    :name: enzyme-linked immunosorbent assay
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0007526
 
@@ -962,9 +951,8 @@ epifluorescentMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/epifluorescentMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Epifluorescent microscopy comprises all widefield microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739632
    :name: epifluorescent microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/243
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739632
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -994,7 +982,6 @@ eyeMovementTracking
    :@id: https://openminds.om-i.org/instances/technique/eyeMovementTracking
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Eye movement tracking' refers to a group of techniques used to record the eye movement and/or position of a living specimen over a given period of time.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0417680
    :name: eye movement tracking
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0493574
 
@@ -1012,8 +999,8 @@ fixationTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Fixation is a technique to preserve specimen permanently as faithfully as possible compared to the living state.
    :description: Fixation is a two-step process in which 1) all normal life functions are terminated and 2) the structure of the tissue is stabilized (preserved). The fixation of tissue can be achieved by chemical or physical (e.g. heating, freezing) means.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739717
    :name: fixation technique
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739717
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1028,7 +1015,6 @@ fluorescenceMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/fluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Fluorescence microscopy comprises any type of microscopy where the specimen can be made to fluoresce (emit energy as visible light), typically by illuminating it with light of specific wavelengths.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780848
    :name: fluorescence microscopy
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHMO_0000087
 
@@ -1045,9 +1031,8 @@ focusedIonBeamScanningElectronMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/focusedIonBeamScanningElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Focused ion beam scanning electron microscopy is a serial section scanning electron microscopy technique where a focused ion beam is used to ablate the surface of a specimen.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739434
    :name: focused ion beam scanning electron microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/245
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739434
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1119,9 +1104,8 @@ genomeWideAssociationStudy
    :@id: https://openminds.om-i.org/instances/technique/genomeWideAssociationStudy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A 'genome-wide association study' is an analysis technique comparing the allele frequencies of all available (or a whole genome representative set of) polymorphic markers in unrelated individuals with a specific symptom or disease condition, and those of healthy controls to identify markers associated with a specific disease or condition.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104603
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies
    :name: genome-wide association study
+   :preferredCrossReference: https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies
    :preferredOntologyIdentifier: http://edamontology.org/topic_3517
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1324,9 +1308,8 @@ infraredDifferentialInterferenceContrastVideoMicroscopy
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739494
    :name: infrared differential interference contrast video microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739494
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1356,9 +1339,8 @@ intracellularElectrophysiology
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A technique used to measure electrical properties of a single cell, e.g. a neuron.
    :description: 'Intracellular electrophysiology' describes a group of techniques used to measure with precision the voltage across, or electrical currents passing through, neuronal or other cellular membranes by inserting an electrode inside the neuron.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739521
    :name: intracellular electrophysiology
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/222
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739521
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1459,7 +1441,6 @@ lightMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/lightMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Light microscopy, also referred to as optical microscopy, comprises any type of microscopy technique that uses visible light to generate magnified images of small objects.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780269
    :name: light microscopy
    :preferredOntologyIdentifier: http://edamontology.org/topic_3385
 
@@ -1476,9 +1457,8 @@ lightSheetFluorescenceMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/lightSheetFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Lightsheet fluorescence microscopy is a fluorescence microscopy technique that uses a thin sheet of light to excite only fluorophores within the plane of illumination.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739693
    :name: light sheet fluorescence microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/lightSheetMicroscopyFluorescent
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739693
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1493,8 +1473,8 @@ magneticResonanceImaging
    :@id: https://openminds.om-i.org/instances/technique/magneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Any medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of a specimen based on the principle of nuclear magnetic resonance.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0741208
    :name: magnetic resonance imaging
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0741208
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1538,9 +1518,8 @@ magnetoencephalography
    :@id: https://openminds.om-i.org/instances/technique/magnetoencephalography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Magnetoencephalography' is a noninvasive neuroimaging technique for studying brain activity by recording magnetic fields produced by electrical currents occurring naturally in the brain, using very sensitive magnetometers. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Magnetoencephalography)]
-   :interlexIdentifier: http://uri.interlex.org/ilx_0741209
    :name: magnetoencephalography
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/163
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0741209
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1569,7 +1548,6 @@ microComputedTomography
    :@id: https://openminds.om-i.org/instances/technique/microComputedTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Micro computed tomography' uses X-rays to create cross-sections of physical objects with resolution in the micrometer range that can be used to recreate 3-dimensional models [adapted from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_microtomography)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0489243
    :name: micro computed tomography
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0514122
 
@@ -1587,9 +1565,8 @@ microtomeSectioning
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A technique used to cut specimen in thin slices using a microtome.
    :description: The microtome cutting thickness can range between 50 nanometer and 100 micrometer.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739422
    :name: microtome sectioning
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/212
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739422
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1676,9 +1653,9 @@ myelinStaining
    :@id: https://openminds.om-i.org/instances/technique/myelinStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A technique used to selectively alter the appearance of myelin (sheaths) that surround the nerve cell axons.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0107265
    :name: myelin staining
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0107265
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1708,7 +1685,6 @@ nearInfraredSpectroscopy
    :@id: https://openminds.om-i.org/instances/technique/nearInfraredSpectroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A noninvasive technique that uses the differential absorption properties of hemoglobin and myoglobin to evaluate tissue oxygenation and indirectly can measure regional hemodynamics and blood flow [taken from [Interlex](http://uri.interlex.org/base/ilx_0488397)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0488397
    :name: near infrared spectroscopy
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0028692
 
@@ -1739,7 +1715,6 @@ nonlinearOpticalMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/nonlinearOpticalMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Microscopic imaging techniques that utilize nonlinear responses of light-matter interactions which occur with high-intensity illumination, such as from lasers, and specialized light signal detection instrumentation to produce images without the need for dyes or fluorescent labels. [taken from [Interlex](http://uri.interlex.org/base/ilx_0436517)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0436517
    :name: nonlinear optical microscopy
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000623844
 
@@ -1874,8 +1849,8 @@ perfusionTechnique
    :@id: https://openminds.om-i.org/instances/technique/perfusionTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Perfusion is a technique to distribute fluid through the circulatory system or lymphatic system to an organ or a tissue.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739602
    :name: perfusion technique
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739602
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1904,9 +1879,8 @@ phaseContrastMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/phaseContrastMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Optical microscopy technique that converts phase shifts in light passing through a transparent specimen to brightness changes in the image [taken from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_microscopy)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739510
    :name: phase contrast microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/158
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739510
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1979,7 +1953,6 @@ photoplethysmography
    :@id: https://openminds.om-i.org/instances/technique/photoplethysmography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0487650
    :name: photoplethysmography
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0026056
 
@@ -1996,7 +1969,6 @@ polarizedLightMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/polarizedLightMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Polarized light microscopy comprises all optical microscopy techniques involving polarized light.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0485478
    :name: polarized light microscopy
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0013816
 
@@ -2246,9 +2218,8 @@ scanningElectronMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/scanningElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Scanning electron microscopy is a microscopy technique to produce images of a specimen by scanning the surface with focused beam of electrons.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739710
    :name: scanning electron microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/scanningElectronMicroscopy
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739710
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2322,9 +2293,8 @@ sharpElectrodeIntracellularElectrophysiology
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An intracellular electrophysiology technique where a microelectrode/micropipette is used to measure electrical properties of a single cell, e.g. a neuron.
    :description: This technique uses a fine-tipped micropipette/microelectrode that is inserted into the neuron, allowing direct recording of electrical events generated by the neuron (membrane potential, resistance, time constant, synaptic potentials and action potentials).
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739713
    :name: sharp electrode intracellular electrophysiology
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/sharpElectrodeEphys
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739713
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2340,9 +2310,9 @@ silverStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A technique where the appearance of biological subcellular targets (e.g. proteins, RNA or DNA) is selectively alter by use of silver.
    :description: Silver can be used to stain subcellular targets such as proteins, peptide, carbohydrates, RNA or DNA. This techniques is typically used on histological sections prior to light microscopy, for the detection of proteins and peptides in polyacrylamide gels or gel electrophoresis.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0110626
    :name: silver staining
-   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_152217
+   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_152217
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0110626
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2428,7 +2398,6 @@ singleNucleotidePolymorphismDetection
    :@id: https://openminds.om-i.org/instances/technique/singleNucleotidePolymorphismDetection
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Single nucleotide polymorphism detection' refers to a group of techniques that are used to scan for new polymorphisms and to determine the allele(s) of a known polymorphism in target sequences (adapted from [Kwok and Chen, 2003](https://doi.org/10.21775/cimb.005.043)).
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780321
    :name: single nucleotide polymorphism detection
    :preferredOntologyIdentifier: http://edamontology.org/operation_0484
 
@@ -2474,7 +2443,6 @@ standardization
    :@id: https://openminds.om-i.org/instances/technique/standardization
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Standardization' is the process of providing (meta)data according to a consensus of different parties (e.g., firms, users, interest groups, organizations and governments).
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0479520
    :name: standardization
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0018674
 
@@ -2506,9 +2474,8 @@ stereology
    :@id: https://openminds.om-i.org/instances/technique/stereology
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An imaging assay that is used for the three-dimensional interpretation of planar sections of materials or tissues.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739729
    :name: stereology
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/79
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739729
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2595,9 +2562,8 @@ superResolutionMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/superResolutionMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Techniques in optical microscopy that allow images to have resolutions higher than those imposed by the diffraction limit, due to the diffraction of light [taken from [Wikipedia](https://en.wikipedia.org/wiki/Super-resolution_microscopy)].
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739445
    :name: super resolution microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/218
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739445
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2699,9 +2665,8 @@ transcardialPerfusionTechnique
    :@id: https://openminds.om-i.org/instances/technique/transcardialPerfusionTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Transcardial perfusion is a technique to distribute fluid throughout tissue via the heart.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739695
    :name: transcardial perfusion technique
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/167
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739695
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2731,9 +2696,8 @@ twoPhotonFluorescenceMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/twoPhotonFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739658
    :name: two-photon fluorescence microscopy
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/twoPhoton
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739658
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2924,7 +2888,6 @@ wholeGenomeSequencing
    :@id: https://openminds.om-i.org/instances/technique/wholeGenomeSequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Whole genome sequencing' is a genetic test (sequencing technique) to determine the entire, or nearly the entire, DNA sequence of an organism's genome at a single time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0492452
    :name: whole genome sequencing
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000621306
 

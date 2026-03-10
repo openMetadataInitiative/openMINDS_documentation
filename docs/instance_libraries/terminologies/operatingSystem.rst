@@ -17,7 +17,7 @@ Android
    :@id: https://openminds.om-i.org/instances/operatingSystem/Android
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Android
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q94
+   :preferredCrossReference: https://www.wikidata.org/entity/Q94
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -32,7 +32,7 @@ Linux
    :@id: https://openminds.om-i.org/instances/operatingSystem/Linux
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Linux
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q388
+   :preferredCrossReference: https://www.wikidata.org/entity/Q388
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -47,7 +47,7 @@ MacOS
    :@id: https://openminds.om-i.org/instances/operatingSystem/MacOS
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: MacOS
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q43627
+   :preferredCrossReference: https://www.wikidata.org/entity/Q43627
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -62,7 +62,7 @@ Solaris
    :@id: https://openminds.om-i.org/instances/operatingSystem/Solaris
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Solaris
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q14646
+   :preferredCrossReference: https://www.wikidata.org/entity/Q14646
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -77,7 +77,7 @@ Unix
    :@id: https://openminds.om-i.org/instances/operatingSystem/Unix
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Unix
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q11368
+   :preferredCrossReference: https://www.wikidata.org/entity/Q11368
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -92,7 +92,7 @@ Windows
    :@id: https://openminds.om-i.org/instances/operatingSystem/Windows
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Windows
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1406
+   :preferredCrossReference: https://www.wikidata.org/entity/Q1406
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -107,7 +107,7 @@ WindowsPhone
    :@id: https://openminds.om-i.org/instances/operatingSystem/WindowsPhone
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Windows Phone
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q4885200
+   :preferredCrossReference: https://www.wikidata.org/entity/Q4885200
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -122,7 +122,7 @@ iOS
    :@id: https://openminds.om-i.org/instances/operatingSystem/iOS
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: iOS
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q48493
+   :preferredCrossReference: https://www.wikidata.org/entity/Q48493
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -137,7 +137,7 @@ platformIndependent
    :@id: https://openminds.om-i.org/instances/operatingSystem/platformIndependent
    :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: platform independent
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q174666
+   :preferredCrossReference: https://www.wikidata.org/entity/Q174666
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 

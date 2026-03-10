@@ -90,9 +90,8 @@ electricalStimulation
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/electricalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: A technique used to elicit a reaction by an electrical stimulus.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739699
    :name: electrical stimulation
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/188
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739699
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 

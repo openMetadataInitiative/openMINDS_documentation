@@ -259,7 +259,6 @@ anatomicalPlane
    :@id: https://openminds.om-i.org/instances/terminology/anatomicalPlane
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0725051
    :name: anatomical plane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035085
 
@@ -904,9 +903,8 @@ molecularEntity
    :@id: https://openminds.om-i.org/instances/terminology/molecularEntity
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107064
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
    :name: molecular entity
+   :preferredCrossReference: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_23367
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -1078,7 +1076,7 @@ organizationType
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: Terminology for classifying an organization based on its legal status or position within a larger entity.
    :name: organization type
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q17197366
+   :preferredCrossReference: https://www.wikidata.org/entity/Q17197366
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1285,7 +1283,7 @@ sovereignState
    :definition: A political entity that possesses supreme governing authority within a defined territory and is not legally subordinate to another state.
    :description: State that has the highest authority over a territory. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q3624078)]
    :name: sovereign state
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q3624078
+   :preferredCrossReference: https://www.wikidata.org/entity/Q3624078
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1357,9 +1355,8 @@ subcellularEntity
    :@id: https://openminds.om-i.org/instances/terminology/subcellularEntity
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0111157
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
    :name: subcellular entity
+   :preferredCrossReference: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/GO_0005575
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -1391,7 +1388,7 @@ supranationalBody
    :definition: An institutional entity created by sovereign states to which they delegate or pool defined aspects of their governing authority for common decision-making that is binding on the member states.
    :description: Political and government system, where several sovereign states give up and share part of their sovereignty for their common governance. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1335818)]
    :name: supranational body
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1335818
+   :preferredCrossReference: https://www.wikidata.org/entity/Q1335818
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 

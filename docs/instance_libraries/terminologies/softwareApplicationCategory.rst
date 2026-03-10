@@ -17,7 +17,7 @@ application
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/application
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: application
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q166142
+   :preferredCrossReference: https://www.wikidata.org/entity/Q166142
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -32,7 +32,7 @@ library
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/library
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: library
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q188860
+   :preferredCrossReference: https://www.wikidata.org/entity/Q188860
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -47,7 +47,7 @@ middleware
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/middleware
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: middleware
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q146768
+   :preferredCrossReference: https://www.wikidata.org/entity/Q146768
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -62,7 +62,7 @@ module
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/module
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: module
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q11883090
+   :preferredCrossReference: https://www.wikidata.org/entity/Q11883090
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -77,7 +77,7 @@ notebook
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/notebook
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: notebook
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q28405706
+   :preferredCrossReference: https://www.wikidata.org/entity/Q28405706
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -92,7 +92,7 @@ plugin
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/plugin
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: plugin
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q184148
+   :preferredCrossReference: https://www.wikidata.org/entity/Q184148
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
