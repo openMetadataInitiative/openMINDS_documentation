@@ -234,7 +234,7 @@ subliminalStimulation
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/technique/subliminalStimulation
+   :@id: https://openminds.om-i.org/instances/stimulationTechnique/subliminalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: 'Subliminal stimulation' is a technique providing any sensory stimuli below an individual's threshold for conscious perception (adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli))
    :name: subliminal stimulation
@@ -249,7 +249,7 @@ subliminalVisualStimulation
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/technique/subliminalVisualStimulation
+   :@id: https://openminds.om-i.org/instances/stimulationTechnique/subliminalVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: Stimulation technique that is providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
    :name: subliminal visual stimulation

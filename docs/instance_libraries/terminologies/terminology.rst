@@ -777,8 +777,8 @@ organ
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organ
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Anatomical structure that performs a specific function or group of functions.
-   :description: The preferred ontology for 'organ' is UBERON.
+   :definition: Terminology defining whole anatomical organs that function as discrete structural and functional units within an organism.
+   :description: This terminology includes complete organs composed of multiple coordinated tissue types organized into a distinct anatomical entity. Only whole organs are included, excluding internal parts or subdivisions of organs. Examples include the heart, liver, lung, and kidney. These entities represent the primary functional units within many biological systems. The terminology provides a standardized reference set for complete organs across species.
    :name: organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000062
 
@@ -794,8 +794,8 @@ organismSubstance
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organismSubstance
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
-   :description: The preferred ontology for 'organism substance' is UBERON.
+   :definition: Terminology defining biological substances produced by or contained within an organism.
+   :description: This terminology includes naturally occurring materials or substances that exist within anatomical contexts of an organism. These may include fluids, secreted substances, or other biological materials associated with tissues or organs. The terms represent substances rather than structural anatomical entities. Examples may include biological fluids or mineralized materials produced by tissues. The terminology enables representation of organism-derived substances in anatomical datasets.
    :name: organism substance
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -810,7 +810,8 @@ organismSystem
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organismSystem
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Any anatomical or functional system in an organism, regardless of scale.
+   :definition: Terminology defining biological systems composed of multiple interacting anatomical structures that together perform a major physiological function.
+   :description: This terminology includes coordinated groups of organs and structures that operate collectively to carry out essential biological processes. Examples include the nervous system, digestive system, and circulatory system. These systems organize anatomical structures into functional frameworks. The terminology represents high-level biological organization within the body. It supports cross-species representation of major physiological systems.
    :name: organism system
 
 `BACK TO TOP <Terminologies: Terminology library_>`_

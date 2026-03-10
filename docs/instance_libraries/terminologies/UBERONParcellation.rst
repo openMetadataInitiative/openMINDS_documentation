@@ -976,6 +976,25 @@ RuffiniNerveEnding
 
 ------------
 
+SommersSector
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/SommersSector
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]
+   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
+   :name: Sommer's sector
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 SylvianCistern
 --------------
 
@@ -5542,6 +5561,25 @@ caudalZoneOfMedianTuberalPortionOfHypothalamus
 
 ------------
 
+caudate-putamen
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudate-putamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster. Is part of the dorsal striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383) ('is_a' and 'relationship')]
+   :description: Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101739
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
+   :name: caudate-putamen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 caudateNucleus
 --------------
 
@@ -5556,25 +5594,6 @@ caudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1
    :name: caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001873
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-caudateputamen
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudatePutamen
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Is a central nervous system cell part cluster. Is part of the dorsal striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383) ('is_a' and 'relationship')]
-   :description: Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101739
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
-   :name: caudate-putamen
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24800,6 +24819,25 @@ metencephalonSulcusLimitans
 
 ------------
 
+midbrain-hindbrainBoundary
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrain-hindbrainBoundary
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
+   :description: The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0728815
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
+   :name: midbrain-hindbrain boundary
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003052
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 midbrain
 --------
 
@@ -25069,25 +25107,6 @@ midbrainTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001943#midbrain-tegmentum-1
    :name: midbrain tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001943
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-midbrainhindbrainBoundary
--------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainHindbrainBoundary
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
-   :description: The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0728815
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
-   :name: midbrain-hindbrain boundary
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003052
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39104,25 +39123,6 @@ somatosensoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
    :name: somatosensory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008930
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-sommersSector
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/SommersSector
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]
-   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
-   :name: Sommer's sector
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 

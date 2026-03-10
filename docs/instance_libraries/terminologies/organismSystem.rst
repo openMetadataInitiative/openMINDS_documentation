@@ -34,8 +34,8 @@ centralNervousSystem
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/centralNervousSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
-   :definition: The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.
-   :description: In vertebrates, the central nervous system (CNS) consists of the brain and the spinal cord. In invertebrates, it includes the central ganglia and the nerve cord.
+   :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
+   :description: The central nervous system is the core nervous system that serves an integrating and coordinating function. In vertebrates it consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101901
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :name: central nervous system
