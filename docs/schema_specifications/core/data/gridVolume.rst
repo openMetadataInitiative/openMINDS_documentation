@@ -14,8 +14,8 @@ GridVolume
 Properties
 ##########
 
-:Required: `coordinateFramework <coordinateFramework_heading_>`_, `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `voxelSize <voxelSize_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `name <name_heading_>`_, `numberOfPlanes <numberOfPlanes_heading_>`_
+:Required: `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `voxelSize <voxelSize_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `coordinateFramework <coordinateFramework_heading_>`_, `name <name_heading_>`_, `numberOfPlanes <numberOfPlanes_heading_>`_, `obtainedWith <obtainedWith_heading_>`_
 
 ------------
 
@@ -118,6 +118,23 @@ numberOfPlanes
    :semantic name: https://openminds.om-i.org/props/numberOfPlanes
    :value type: integer
    :instructions: Enter number of planes in this grid volume.
+
+`BACK TO TOP <GridVolume_>`_
+
+------------
+
+.. _obtainedWith_heading:
+
+************
+obtainedWith
+************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/obtainedWith
+   :value type: | linked object of type
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+   :instructions: Add the used device for obtaining this grid volume.
 
 `BACK TO TOP <GridVolume_>`_
 

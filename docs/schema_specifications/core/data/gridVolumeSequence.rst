@@ -14,8 +14,8 @@ GridVolumeSequence
 Properties
 ##########
 
-:Required: `coordinateFramework <coordinateFramework_heading_>`_, `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `temporalSamplingFrequency <temporalSamplingFrequency_heading_>`_, `voxelSize <voxelSize_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `name <name_heading_>`_, `numberOfPlanes <numberOfPlanes_heading_>`_, `numberOfVolumes <numberOfVolumes_heading_>`_
+:Required: `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `temporalSamplingFrequency <temporalSamplingFrequency_heading_>`_, `voxelSize <voxelSize_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `coordinateFramework <coordinateFramework_heading_>`_, `name <name_heading_>`_, `numberOfPlanes <numberOfPlanes_heading_>`_, `numberOfVolumes <numberOfVolumes_heading_>`_, `obtainedWith <obtainedWith_heading_>`_
 
 ------------
 
@@ -134,6 +134,23 @@ numberOfVolumes
    :semantic name: https://openminds.om-i.org/props/numberOfVolumes
    :value type: integer
    :instructions: Enter the total number of grid volumes in this sequence (at least two).
+
+`BACK TO TOP <GridVolumeSequence_>`_
+
+------------
+
+.. _obtainedWith_heading:
+
+************
+obtainedWith
+************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/obtainedWith
+   :value type: | linked object of type
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+   :instructions: Add the used device for obtaining this grid volume sequence.
 
 `BACK TO TOP <GridVolumeSequence_>`_
 

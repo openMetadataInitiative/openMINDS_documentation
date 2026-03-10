@@ -976,6 +976,25 @@ RuffiniNerveEnding
 
 ------------
 
+SommersSector
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/SommersSector
+   :@type: https://openminds.om-i.org/types/NervousSystemStructure
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]
+   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
+   :name: Sommer's sector
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
+
+`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
+
+------------
+
 SylvianCistern
 --------------
 
@@ -1509,25 +1528,6 @@ acousticoFacialVIIVIIIGanglionComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012175#acoustico-facial-vii-viii-ganglion-complex
    :name: acoustico-facial VII-VIII ganglion complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012175
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-adenohypophysis
----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/adenohypophysis
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the pituitary gland. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]
-   :description: The glandular, anterior lobe of the pituitary gland. The anterior pituitary regulates several physiological processes including stress, growth, and reproduction. The anterior lobe of the hypophysis (pituitary gland). This lobe contains cells that produce prolactin, growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone and proopiomelanocortin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100315
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002196#adenohypophysis-1
-   :name: adenohypophysis
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002196
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -2070,23 +2070,6 @@ anteriorCalcarineSulcus
 
 ------------
 
-anteriorCerebralVein
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/anteriorCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001672)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001672#anterior-cerebral-vein
-   :name: anterior cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001672
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 anteriorCingulateCortex
 -----------------------
 
@@ -2444,24 +2427,6 @@ anteriorMedianOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002701#anterior-median-oculomotor-nucleus-1
    :name: anterior median oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002701
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-anteriorMesencephalicCentralArtery
-----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/anteriorMesencephalicCentralArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]
-   :description: Arteries that irrigate rostral regions of the midbrain. They extend between the Basial communicating artery to the anterior cerebral vein. Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005052#anterior-mesencephalic-central-artery
-   :name: anterior mesencephalic central artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005052
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -3771,24 +3736,6 @@ autonomicNervePlexus
 
 ------------
 
-autonomicNervousSystem
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/autonomicNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002410) ('is_a' and 'relationship')]
-   :description: The autonomic nervous system is composed of neurons that are not under conscious control, and is comprised of two antagonistic components, the sympathetic and parasympathetic nervous systems. The autonomic nervous system regulates key functions including the activity of the cardiac (heart) muscle, smooth muscles (e.g. of the gut), and glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002410)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002410#autonomic-nervous-system
-   :name: autonomic nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002410
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 axillaryNerve
 -------------
 
@@ -3952,24 +3899,6 @@ basalAmygdaloidNucleus
 
 ------------
 
-basalCistern
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/basalCistern
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004047)]
-   :description: The enclosed space where the arachnoid membrane stretches between the two temporal lobes and encloses the cerebral peduncles including the structures contained in the interpeduncular fossa. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004047)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004047#basal-cistern
-   :name: basal cistern
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004047
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 basalForebrain
 --------------
 
@@ -4094,24 +4023,6 @@ basalPlateMetencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005239#basal-plate-metencephalon
    :name: basal plate metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005239
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-basalVein
----------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/basalVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a deep cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]
-   :description: The basal vein is formed at the anterior perforated substance by the union of (a) a small anterior cerebral vein which accompanies the anterior cerebral artery and supplies the medial surface of the frontal lobe by the fronto-basal vein. (b) the deep middle cerebral vein (deep Sylvian vein), which receives tributaries from the insula and neighboring gyri, and runs in the lower part of the lateral cerebral fissure, and (c) the inferior striate veins, which leave the corpus striatum through the anterior perforated substance. The basal vein passes backward around the cerebral peduncle, and ends in the internal cerebral vein; it receives tributaries from the interpeduncular fossa, the inferior horn of the lateral ventricle, the hippocampal gyrus, and the mid-brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035530#basal-vein
-   :name: basal vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035530
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -4444,25 +4355,6 @@ brainArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005397#brain-arachnoid-mater
    :name: brain arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005397
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-brainBloodVessel
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/brainBloodVessel
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the vasculature of brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
-   :description: A blood vessel that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0726967
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
-   :name: brain blood vessel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003499
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5542,6 +5434,25 @@ caudalZoneOfMedianTuberalPortionOfHypothalamus
 
 ------------
 
+caudate-putamen
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/caudate-putamen
+   :@type: https://openminds.om-i.org/types/NervousSystemStructure
+   :definition: Is a central nervous system cell part cluster. Is part of the dorsal striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383) ('is_a' and 'relationship')]
+   :description: Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101739
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
+   :name: caudate-putamen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
+
+`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
+
+------------
+
 caudateNucleus
 --------------
 
@@ -5556,43 +5467,6 @@ caudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1
    :name: caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001873
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-caudateputamen
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/caudatePutamen
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a central nervous system cell part cluster. Is part of the dorsal striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383) ('is_a' and 'relationship')]
-   :description: Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101739
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
-   :name: caudate-putamen
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cavernousSinus
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cavernousSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003712)]
-   :description: The cavernous sinus (or lateral sellar compartment), within the human head, is a large collection of thin-walled veins creating a cavity bordered by the temporal bone of the skull and the sphenoid bone, lateral to the sella turcica. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003712)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003712#cavernous-sinus
-   :name: cavernous sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003712
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5666,24 +5540,6 @@ centralAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002883#central-amygdaloid-nucleus-1
    :name: central amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002883
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-centralArtery
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/centralArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]
-   :description: Arteries that irrigate the forebrain and midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005020#central-artery
-   :name: central artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005020
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5906,24 +5762,6 @@ centralMedullaryReticularNuclearComplex
 
 ------------
 
-centralNervousSystem
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/centralNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
-   :description: The central nervous system is the core nervous system that serves an integrating and coordinating function. In vertebrates it consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
-   :name: central nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001017
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 centralNervousSystemCellPartCluster
 -----------------------------------
 
@@ -6135,42 +5973,6 @@ centralRetina
 
 ------------
 
-centralRetinalArtery
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/centralRetinalArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a retina blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]
-   :description: The central retinal artery (retinal artery) branches off the ophthalmic artery, running inferior to the optic nerve within its dural sheath to the eyeball. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001620#central-retinal-artery
-   :name: central retinal artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001620
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-centralRetinalVein
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/centralRetinalVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001673)]
-   :description: The central retinal vein (retinal vein) is a short vein that runs through the optic nerve and drains blood from the capillaries of the retina into the larger veins outside the eye. The anatomy of the veins of the orbit of the eye varies between individuals, and in some the central retinal vein drains into the superior ophthalmic vein, and in some it drains directly into the cavernous sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001673)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001673#central-retinal-vein
-   :name: central retinal vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001673
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 centralSulcus
 -------------
 
@@ -6312,24 +6114,6 @@ cephalopodOpticLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006796#cephalopod-optic-lobe
    :name: cephalopod optic lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006796
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cerebellarCentralArtery
------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cerebellarCentralArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005021)]
-   :description: Extend upward from the PCS, branch to provide an arterial feed to the hindbrain, then drain back down into the PHBC Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005021)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005021#cerebellar-central-artery
-   :name: cerebellar central artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005021
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -6914,25 +6698,6 @@ cerebellumPosteriorVermis
 
 ------------
 
-cerebellumVasculature
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cerebellumVasculature
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a vasculature of central nervous system. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694) ('is_a' and 'relationship')]
-   :description: A vasculature that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0729550
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature
-   :name: cerebellum vasculature
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006694
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 cerebellumVentricularLayer
 --------------------------
 
@@ -7231,25 +6996,6 @@ cerebellumVermisLobuleX
 
 ------------
 
-cerebralBloodVessel
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cerebralBloodVessel
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565) ('is_a' and 'relationship')]
-   :description: A blood vessel that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0732836
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016565#cerebral-blood-vessel
-   :name: cerebral blood vessel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016565
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 cerebralCortex
 --------------
 
@@ -7482,24 +7228,6 @@ cerebralSubcortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex
    :name: cerebral subcortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000454
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cerebralVein
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001663) ('is_a' and 'relationship')]
-   :description: The cerebral veins are divisible into external and internal groups according to the outer surfaces or the inner parts of the hemispheres they drain into. The external veins are the superior cerebral veins, inferior cerebral veins, and middle cerebral vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001663)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001663#cerebral-vein
-   :name: cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001663
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -9707,24 +9435,6 @@ decussationOfTrochlearNerve
 
 ------------
 
-deepCerebralVein
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/deepCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]
-   :description: The deep cerebral veins are a group of veins in the head. This group includes the superior thalamostriate vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016564#deep-cerebral-vein
-   :name: deep cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016564
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 deepFibularNerve
 ----------------
 
@@ -9773,24 +9483,6 @@ deepLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006793#deep-layer-of-superior-colliculus
    :name: deep layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006793
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-deepMiddleCerebralVein
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/deepMiddleCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. Is part of the basal vein. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532) ('is_a' and 'relationship')]
-   :description: The blood vessel that receives deoxygenated blood from the insula and gyri and drains into the basal vein of Rosenthal deep in the lateral sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035532#deep-middle-cerebral-vein
-   :name: deep middle cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035532
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -10617,23 +10309,6 @@ dorsalCaudalThalamicNucleus
 
 ------------
 
-dorsalCerebralVein
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/dorsalCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035151)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035151#dorsal-cerebral-vein
-   :name: dorsal cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035151
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 dorsalCochlearNucleus
 ---------------------
 
@@ -10960,24 +10635,6 @@ dorsalLongitudinalFasciculusOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002793#dorsal-longitudinal-fasciculus-of-pons-1
    :name: dorsal longitudinal fasciculus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002793
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-dorsalLongitudinalVein
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/dorsalLongitudinalVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005031)]
-   :description: Vessel that connects to the primitive hindbrain channel and the basilar artery at the caudal end of the medulla oblongata. Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005031)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005031#dorsal-longitudinal-vein
-   :name: dorsal longitudinal vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005031
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -11986,42 +11643,6 @@ dorsomedialSubnucleusOfSolitaryTract
 
 ------------
 
-duraMater
----------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/duraMater
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002363)]
-   :description: Thick, fibrous meningeal covering surrounding the brain and spinal cord. It is the outermost of the three meningeal coverings. It consists of two layers: the periosteal dura linking the inner surface of the skull and the meningeal dura that lies above the arachnoid dural membrane. The meningeal layer draws away from the periosteal layer and certain locations to form the dural reflections. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002363)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002363#dura-mater-1
-   :name: dura mater
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002363
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-duraMaterLymphVessel
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/duraMaterLymphVessel
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]
-   :description: Any lymph vessel that is located in the dura mater of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035608#dura-mater-lymph-vessel
-   :name: dura mater lymph vessel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035608
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 earlyMesencephalicVesicle
 -------------------------
 
@@ -12534,24 +12155,6 @@ entericNerve
 
 ------------
 
-entericNervousSystem
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/entericNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the autonomic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002005)]
-   :description: The enteric nervous system is composed of two ganglionated neural plexuses in the gut wall which form one of the three major divisions of the autonomic nervous system. The enteric nervous system innervates the gastrointestinal tract, the pancreas, and the gall bladder. It contains sensory neurons, interneurons, and motor neurons. Thus the circuitry can autonomously sense the tension and the chemical environment in the gut and regulate blood vessel tone, motility, secretions, and fluid transport. The system is itself governed by the central nervous system and receives both parasympathetic and sympathetic innervation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002005)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002005#enteric-nervous-system-1
-   :name: enteric nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002005
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 entericPlexus
 -------------
 
@@ -13036,24 +12639,6 @@ externalNucleusOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002571#external-nucleus-of-inferior-colliculus-1
    :name: external nucleus of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002571
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-extrapyramidalTractSystem
--------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/extrapyramidalTractSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a regional part of brain. Is part of the motor system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035803) ('is_a' and 'relationship')]
-   :description: A neural network located in the brain that is part of the motor system involved in the coordination of movement that is distinct from the pyramidal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035803)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035803#extrapyramidal-tract-system
-   :name: extrapyramidal tract system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035803
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -15370,24 +14955,6 @@ glossopharyngealVagusIXXPreganglionComplex
 
 ------------
 
-glymphaticSystem
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/glymphaticSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity and anatomical system. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036145) ('is_a' and 'relationship')]
-   :description: Macroscopic waste clearance system that utilizes a unique system of perivascular tunnels, formed by astroglial cells, to promote efficient elimination of soluble proteins and metabolites from the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036145)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036145#glymphatic-system
-   :name: glymphatic system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036145
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 gracileFasciculus
 -----------------
 
@@ -15702,24 +15269,6 @@ greatAuricularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008833#great-auricular-nerve
    :name: great auricular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008833
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-greatCerebralVein
------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/greatCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]
-   :description: The great cerebral vein is one of the large blood vessels in the skull draining the cerebrum (brain) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006666#great-cerebral-vein
-   :name: great cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006666
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -16362,25 +15911,6 @@ hindbrainSubarachnoidSpace
 
 ------------
 
-hindbrainVenousSystem
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/hindbrainVenousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the hindbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
-   :description: A venous system that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0735731
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system
-   :name: hindbrain venous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005720
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 hindbrainVesicle
 ----------------
 
@@ -16737,24 +16267,6 @@ horizontalLimbOfTheDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006123#horizontal-limb-of-the-diagonal-band-1
    :name: horizontal limb of the diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006123
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-hyaloidArtery
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/hyaloidArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. Is part of the optic stalk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270) ('is_a' and 'relationship')]
-   :description: An artery that is part of the optic stalk of the eye and extends from the optic disc through the vitreous humor to the lens. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery
-   :name: hyaloid artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002270
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -17512,24 +17024,6 @@ inferiorPartOfVestibularGanglion
 
 ------------
 
-inferiorPetrosalSinus
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/inferiorPetrosalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007160)]
-   :description: The inferior petrosal sinus, within the human head, is an area beneath the brain, which allows blood veins to span the area, from the center of the head downward. It drains from the cavernous sinus (beneath the brain) to the sigmoid sinuses above the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007160)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007160#inferior-petrosal-sinus
-   :name: inferior petrosal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007160
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 inferiorPostcentralSulcus
 -------------------------
 
@@ -17646,24 +17140,6 @@ inferiorRostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002767#inferior-rostral-sulcus-1
    :name: inferior rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002767
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-inferiorSagittalSinus
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/inferiorSagittalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a sagittal sinus. Is part of the tentorial sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152) ('is_a' and 'relationship')]
-   :description: An intracranial venous sinus that lies in a midline location along the lower free border of the falx cerebri of the brain. The sinus receives blood from the great cerebral vein and joins the superior sagittal sinus posteriorly. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007152#inferior-sagittal-sinus
-   :name: inferior sagittal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007152
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -18852,24 +18328,6 @@ internalCellularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000573#internal-cellular-layer
    :name: internal cellular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000573
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-internalCerebralVein
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/internalCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]
-   :description: The internal cerebral veins (veins of Galen; deep cerebral veins) drain the deep parts of the hemisphere and are two in number; each is formed near the interventricular foramen by the union of the terminal and choroid veins. They run backward parallel with one another, between the layers of the tela chorioidea of the third ventricle, and beneath the splenium of the corpus callosum, where they unite to form a short trunk, the great cerebral vein; just before their union each receives the corresponding basal vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035152#internal-cerebral-vein
-   :name: internal cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035152
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -21606,24 +21064,6 @@ limbicLobe
 
 ------------
 
-limbicSystem
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/limbicSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the forebrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000349)]
-   :description: A set of midline structures surrounding the brainstem of the mammalian brain, originally described anatomically, e.g., hippocampal formation, amygdala, hypothalamus, cingulate cortex. Although the original designation was anatomical, the limbic system has come to be associated with the system in the brain subserving emotional functions. As such, it is very poorly defined and doesn't correspond closely to the anatomical meaning any longer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000349)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000349#limbic-system
-   :name: limbic system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000349
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 limenOfInsula
 -------------
 
@@ -22821,24 +22261,6 @@ marginalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002912#marginal-sulcus-1
    :name: marginal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002912
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-marginalVenousSinus
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/marginalVenousSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]
-   :description: A paired dural venous sinus at the rim of the foramen magnum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017637#marginal-venous-sinus
-   :name: marginal venous sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017637
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -24800,6 +24222,25 @@ metencephalonSulcusLimitans
 
 ------------
 
+midbrain-hindbrainBoundary
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/midbrain-hindbrainBoundary
+   :@type: https://openminds.om-i.org/types/NervousSystemStructure
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
+   :description: The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0728815
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
+   :name: midbrain-hindbrain boundary
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003052
+
+`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
+
+------------
+
 midbrain
 --------
 
@@ -25074,25 +24515,6 @@ midbrainTegmentum
 
 ------------
 
-midbrainhindbrainBoundary
--------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/midbrainHindbrainBoundary
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
-   :description: The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0728815
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
-   :name: midbrain-hindbrain boundary
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003052
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 middleCerebellarPeduncle
 ------------------------
 
@@ -25232,24 +24654,6 @@ middleLateralLineNerveMLLN
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010126#middle-lateral-line-nerve-mlln
    :name: middle lateral line nerve (MLLN)
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010126
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-middleMesencephalicCentralArtery
---------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/middleMesencephalicCentralArtery
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]
-   :description: Project rostrally and dorsally from the AMCtA to to irrigate the midportion of the midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005078#middle-mesencephalic-central-artery
-   :name: middle mesencephalic central artery
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005078
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -25502,24 +24906,6 @@ motorRootOfTrigeminalNerve
 
 ------------
 
-motorSystem
------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/motorSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025525)]
-   :description: The part of the central nervous system that is involved with movement. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025525)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025525#motor-system
-   :name: motor system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025525
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 mouthRoofTasteBud
 -----------------
 
@@ -25714,24 +25100,6 @@ mylohyoidNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011322#mylohyoid-nerve
    :name: mylohyoid nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011322
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-nasoFrontalVein
----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/nasoFrontalVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]
-   :description: The nasofrontal vein is a vein in the eye which drains to the superior ophthalmic vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004689#naso-frontal-vein
-   :name: naso-frontal vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004689
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -25971,24 +25339,6 @@ nerveToStylopharyngeusFromGlossopharyngealNerve
 
 ------------
 
-nervousSystem
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/nervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity and anatomical system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001016)]
-   :description: The nervous system is an organ system containing predominantly neuron and glial cells. In bilaterally symmetrical organism, it is arranged in a network of tree-like structures connected to a central body. The main functions of the nervous system are to regulate and control body functions, and to receive sensory input, process this information, and generate behavior. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001016)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001016#nervous-system-1
-   :name: nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001016
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 nervousSystemCellPartLayer
 --------------------------
 
@@ -26112,24 +25462,6 @@ neuralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000125#nucleus-of-cns
    :name: neural nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000125
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-neuralSystem
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/neuralSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023879) ('is_a' and 'relationship')]
-   :description: A set of neural structures that subserve a specific function, e.g., visual system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023879)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023879#neural-system-1
-   :name: neural system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023879
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -29036,23 +28368,6 @@ ovalNucleusOfStriaTerminalis
 
 ------------
 
-pairedVenousDuralSinus
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/pairedVenousDuralSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017635)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus
-   :name: paired venous dural sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017635
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 palatalTasteBud
 ---------------
 
@@ -29660,24 +28975,6 @@ parasympatheticNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004293#parasympathetic-nerve
    :name: parasympathetic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004293
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-parasympatheticNervousSystem
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/parasympatheticNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the autonomic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000011)]
-   :description: The parasympathetic nervous system is one of the two divisions of the vertebrate autonomic nervous system. Parasympathetic nerves emerge cranially as pre ganglionic fibers from oculomotor, facial, glossopharyngeal and vagus and from the sacral region of the spinal cord. Most neurons are cholinergic and responses are mediated by muscarinic receptors. The parasympathetic system innervates, for example: salivary glands, thoracic and abdominal viscera, bladder and genitalia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000011)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000011#parasympathetic-nervous-system-1
-   :name: parasympathetic nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000011
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -31007,24 +30304,6 @@ perinealNerve
 
 ------------
 
-perineuralVascularPlexus
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/perineuralVascularPlexus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015189)]
-   :description: The capillary bed that initially surrounds the relative avascular brain and spinal cord; the perineural vascular plexus (PNVP) is the precursor to the blood brain barrier formed by angioblasts which migrate away from somites and is recruited to surround the neural tube in response to VEGF; vascularization of the brain and spinal cord occurs via angiogenesis as sprouting vessels from the PNVP invade the neuroepithelium and grow inward toward the ventricular lumen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015189)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015189#perineural-vascular-plexus
-   :name: perineural vascular plexus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015189
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 perineurium
 -----------
 
@@ -31094,24 +30373,6 @@ peripeduncularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002144#peripeduncular-nucleus-1
    :name: peripeduncular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002144
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-peripheralNervousSystem
------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/peripheralNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000010) ('is_a' and 'relationship')]
-   :description: A major division of the nervous system that contains nerves which connect the central nervous system (CNS) with sensory organs, other organs, muscles, blood vessels and glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000010)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000010#peripheral-nervous-system-1
-   :name: peripheral nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000010
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -34375,41 +33636,6 @@ primaryVisualCortex
 
 ------------
 
-primitiveMarginalSinus
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/primitiveMarginalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017638)]
-   :description: The primitive marginal sinuses (PMS) are embryonic sinuses forming the later superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017638)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017638#primitive-marginal-sinus
-   :name: primitive marginal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017638
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-primitiveSuperiorSagittalSinus
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/primitiveSuperiorSagittalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the venous dural sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009968)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009968#primitive-superior-sagittal-sinus
-   :name: primitive superior sagittal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009968
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 principalAnteriorDivisionOfSupraopticNucleus
 --------------------------------------------
 
@@ -34603,24 +33829,6 @@ proliferatingNeuroepithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034706#proliferating-neuroepithelium
    :name: proliferating neuroepithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034706
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-proprioceptiveSystem
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/proprioceptiveSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025533)]
-   :description: The sensory system for the sense of proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025533)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025533#proprioceptive-system
-   :name: proprioceptive system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025533
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -35559,24 +34767,6 @@ retina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000966#retina-1
    :name: retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000966
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-retinaBloodVessel
------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/retinaBloodVessel
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the vasculature of retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]
-   :description: A blood vessel that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003501#retina-blood-vessel
-   :name: retina blood vessel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003501
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -38005,24 +37195,6 @@ sagitta
 
 ------------
 
-sagittalSinus
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/sagittalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an unpaired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]
-   :description: Either the inferior or superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015704#sagittal-sinus
-   :name: sagittal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015704
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 sagittalStratum
 ---------------
 
@@ -38498,23 +37670,6 @@ segmentalSubdivisionOfNervousSystem
 
 ------------
 
-sensorimotorSystem
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/sensorimotorSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025534)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025534#sensorimotor-system
-   :name: sensorimotor system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025534
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 sensoryCircumventricularOrgan
 -----------------------------
 
@@ -38912,24 +38067,6 @@ shoulderNerve
 
 ------------
 
-sigmoidSinus
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/sigmoidSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]
-   :description: A portion of the lateral venous sinus, bulging prominently into the mastoid cavity, that serves as a principal conduit by which blood leaves the cranium. The sigmoid is drained by the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005475#sigmoid-sinus
-   :name: sigmoid sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005475
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 sixthCervicalDorsalRootGanglion
 -------------------------------
 
@@ -39017,60 +38154,6 @@ solitaryTractNuclearComplex
 
 ------------
 
-somaticMotorSystem
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/somaticMotorSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003945) ('is_a' and 'relationship')]
-   :description: The neural tissue involved in the transmission of motor signals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003945)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003945#somatic-motor-system
-   :name: somatic motor system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003945
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-somaticNervousSystem
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/somaticNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012) ('is_a' and 'relationship')]
-   :description: Part of peripheral nervous system that includes the somatic parts of the cranial and spinal nerves and their ganglia and the peripheral sensory receptors. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000012#somatic-nervous-system
-   :name: somatic nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000012
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-somaticSensorySystem
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/somaticSensorySystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the somatic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003942)]
-   :description: The sensory system for the sense of touch and pain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003942)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003942#somatosensory-system
-   :name: somatic sensory system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003942
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 somatosensoryCortex
 -------------------
 
@@ -39085,43 +38168,6 @@ somatosensoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
    :name: somatosensory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008930
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-sommersSector
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/SommersSector
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]
-   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
-   :name: Sommer's sector
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-sphenoparietalSinus
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/sphenoparietalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035338)]
-   :description: The cavernous sinus receives the superior ophthalmic vein through the superior orbital fissure, some of the cerebral veins, and also the small sphenoparietal sinus, which courses along the under surface of the small wing of the sphenoid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035338)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035338#sphenoparietal-sinus
-   :name: sphenoparietal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035338
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -41821,24 +40867,6 @@ sulcusYpsiloniformis
 
 ------------
 
-superficialCerebralVein
------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/superficialCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]
-   :description: The superficial cerebral veins are a group of veins in the head. This group includes the superior cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein
-   :name: superficial cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016559
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 superficialFeaturePartOfForebrain
 ---------------------------------
 
@@ -41923,24 +40951,6 @@ superficialLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006791#superficial-layer-of-superior-colliculus
    :name: superficial layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006791
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-superficialMiddleCerebralVein
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/superficialMiddleCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a cerebral vein. Is part of the cavernous sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231) ('is_a' and 'relationship')]
-   :description: A vein that runs along the fissure of Sylvius to the cavernous sinus on the lateral surface of the brain and connects to the superior sagittal and transverse sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035231#superficial-middle-cerebral-vein
-   :name: superficial middle cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035231
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -42102,24 +41112,6 @@ superiorCerebellarPeduncleOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1
    :name: superior cerebellar peduncle of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007709
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-superiorCerebralVein
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/superiorCerebralVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a superficial cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]
-   :description: The Superior Cerebral Veins, eight to twelve in number, drain the superior, lateral, and medial surfaces of the hemispheres, and are mainly lodged in the sulci between the gyri, but some run across the gyri. They open into the superior sagittal sinus; the anterior veins runs nearly at right angles to the sinus; the posterior and larger veins are directed obliquely forward and open into the sinus in a direction more or less opposed to the current of the blood contained within it. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035150#superior-cerebral-vein
-   :name: superior cerebral vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035150
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -42637,24 +41629,6 @@ superiorRostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002607#superior-rostral-sulcus-1
    :name: superior rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002607
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-superiorSagittalSinus
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/superiorSagittalSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a sagittal sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001642)]
-   :description: The superior sagittal sinus (also known as the superior longitudinal sinus), within a human cranium, is an area above/behind the brain, which allows blood veins to span the area, from the top of the head towards the back. It is believed that the cerebrospinal fluid drains through the arachnoid granulations into the dural venous sinuses of the superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001642)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001642#superior-sagittal-sinus
-   :name: superior sagittal sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001642
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -43194,24 +42168,6 @@ sympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004295#sympathetic-nerve-trunk
    :name: sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004295
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-sympatheticNervousSystem
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/sympatheticNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000013) ('is_a' and 'relationship')]
-   :description: The sympathetic nervous system is one of the two divisions of the vertebrate autonomic nervous system (the other being the parasympathetic nervous system). The sympathetic preganglionic neurons have their cell bodies in the thoracic and lumbar regions of the spinal cord and connect to the paravertebral chain of sympathetic ganglia. Innervate heart and blood vessels, sweat glands, viscera and the adrenal medulla. Most sympathetic neurons, but not all, use noradrenaline as a post-ganglionic neurotransmitter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000013)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000013#sympathetic-nervous-system-1
-   :name: sympathetic nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000013
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -43964,24 +42920,6 @@ tenthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006466#tenth-thoracic-spinal-cord-segment-1
    :name: tenth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006466
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-tentorialSinus
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/tentorialSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an unpaired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005481)]
-   :description: An unpaired venous dural sinus that receives blood from the superior cerebellar veins and inferior sagittal sinus and drains into the confluence of sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005481)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005481#tentorial-sinus
-   :name: tentorial sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005481
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -45018,24 +43956,6 @@ transversePontineFibers
 
 ------------
 
-transverseSinus
----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/transverseSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a paired venous dural sinus. Is part of the sigmoid sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001641) ('is_a' and 'relationship')]
-   :description: One of the dural venous sinuses and drains the superior sagittal sinus the occipital sinus and the straight sinus, and empties into the sigmoid sinus which in turn reaches the jugular bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001641)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001641#transverse-sinus
-   :name: transverse sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001641
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 transverseTemporalSulcus
 ------------------------
 
@@ -45104,23 +44024,6 @@ triangularSeptalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002977#triangular-septal-nucleus-1
    :name: triangular septal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002977
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-tributaryOfCentralRetinalVein
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/tributaryOfCentralRetinalVein
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the central retinal vein. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036300)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036300#tributary-of-central-retinal-vein
-   :name: tributary of central retinal vein
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036300
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -45753,23 +44656,6 @@ unmyelinatedNerveFiber
 
 ------------
 
-unpairedVenousDuralSinus
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/unpairedVenousDuralSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017640)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017640#unpaired-venous-dural-sinus
-   :name: unpaired venous dural sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017640
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 upperArmNerve
 -------------
 
@@ -46177,60 +45063,6 @@ valvulaCerebelli
 
 ------------
 
-vasculatureOfBrain
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/vasculatureOfBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a vasculature of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998) ('is_a' and 'relationship')]
-   :description: System pertaining to blood vessels in the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0735625
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain
-   :name: vasculature of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008998
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-vasculatureOfCentralNervousSystem
----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/vasculatureOfCentralNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036303) ('is_a' and 'relationship')]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036303#vasculature-of-central-nervous-system
-   :name: vasculature of central nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036303
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-vasculatureOfRetina
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/vasculatureOfRetina
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]
-   :description: A vasculature that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina
-   :name: vasculature of retina
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004864
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 veinBaroreceptor
 ----------------
 
@@ -46262,42 +45094,6 @@ veinOfVestibularAqueduct
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036074#vein-of-vestibular-aqueduct
    :name: vein of vestibular aqueduct
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036074
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-venousDuralSinus
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/venousDuralSinus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]
-   :description: A venous channel found between layers of dura mater in the brain. Receives blood from internal and external veins of the brain, receive cerebrospinal fluid (CSF) from the subarachnoid space, and ultimately empty into the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005486#venous-dural-sinus
-   :name: venous dural sinus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005486
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-venousSystemOfBrain
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/venousSystemOfBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013146)]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0733246
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
-   :name: venous system of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013146
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -47349,42 +46145,6 @@ ventricularSystemChoroidalFissure
 
 ------------
 
-ventricularSystemOfBrain
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/ventricularSystemOfBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical system. Is part of the brain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005282) ('is_a' and 'relationship')]
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0731568
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005282#ventricular-system-of-brain
-   :name: ventricular system of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005282
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-ventricularSystemOfCentralNervousSystem
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/ventricularSystemOfCentralNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005281) ('is_a' and 'relationship')]
-   :description: A set of structures containing cerebrospinal fluid in the brain. It is continuous with the central canal of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005281)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005281#ventricular-system-of-central-nervous-system
-   :name: ventricular system of central nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005281
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 ventricularZone
 ---------------
 
@@ -47937,23 +46697,6 @@ visualCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000411#visual-cortex
    :name: visual cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000411
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-visualProcessingPartOfNervousSystem
------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/visualProcessingPartOfNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006794) ('is_a' and 'relationship')]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006794#visual-processing-part-of-nervous-system
-   :name: visual processing part of nervous system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006794
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 

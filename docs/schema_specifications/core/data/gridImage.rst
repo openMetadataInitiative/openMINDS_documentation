@@ -14,8 +14,8 @@ GridImage
 Properties
 ##########
 
-:Required: `coordinateFramework <coordinateFramework_heading_>`_, `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `pixelSize <pixelSize_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `name <name_heading_>`_
+:Required: `dataLocation <dataLocation_heading_>`_, `dimension <dimension_heading_>`_, `pixelSize <pixelSize_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `coordinateFramework <coordinateFramework_heading_>`_, `name <name_heading_>`_, `obtainedWith <obtainedWith_heading_>`_
 
 ------------
 
@@ -102,6 +102,23 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name of this grid image preferably matching the filename.
+
+`BACK TO TOP <GridImage_>`_
+
+------------
+
+.. _obtainedWith_heading:
+
+************
+obtainedWith
+************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/obtainedWith
+   :value type: | linked object of type
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+   :instructions: Add the used device for obtaining this grid image.
 
 `BACK TO TOP <GridImage_>`_
 

@@ -219,6 +219,22 @@ anatomicalAxesOrientation
 
 ------------
 
+anatomicalCavity
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/anatomicalCavity
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical cavities and internal spaces within an organism that contain organs, tissues, or fluids, excluding blood and lymph vessels.
+   :description: This terminology includes naturally occurring enclosed or semi-enclosed spaces within the body that serve as compartments for anatomical structures or fluids. These spaces may support organ placement, permit movement of structures, or allow circulation of non-vascular fluids such as cerebrospinal fluid. Examples include body cavities, ventricular spaces, and other internal anatomical compartments. The terminology focuses on spatial anatomical entities rather than the tissues forming their boundaries. Vascular conduits responsible for blood or lymph transport are represented separately under vascular structures.
+   :name: anatomical cavity
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 anatomicalIdentificationType
 ----------------------------
 
@@ -610,7 +626,8 @@ externalBodyRegion
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/externalBodyRegion
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: A terminology defining anatomically delineated regions of the external surface of a biological organism.
+   :definition: Terminology defining anatomical regions located on the external surface of an organism’s body.
+   :description: This terminology includes body surface areas that are externally visible or directly accessible without reference to internal organs or cavities. These regions are typically defined by morphological boundaries used in anatomy, clinical description, or anatomical orientation. Examples include regions of the head, trunk, and limbs. The terms provide a standardized way to reference surface locations across species. They support anatomical localization and mapping of externally observable features.
    :name: external body region
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -896,6 +913,22 @@ molecularEntity
 
 ------------
 
+muscularStructure
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/muscularStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical structures composed primarily of muscle tissue that contribute to body movement or internal mechanical function.
+   :description: This terminology includes skeletal muscles and other anatomical structures formed predominantly from muscle tissue. These structures generate force and enable movement of the body or movement within organs. The terminology focuses on structural muscle entities rather than cellular muscle tissue components. Examples include limb muscles and muscles associated with specific anatomical regions. It supports standardized anatomical referencing of muscular components.
+   :name: muscular structure
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 nervousSystemStructure
 ----------------------
 
@@ -904,6 +937,8 @@ nervousSystemStructure
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/nervousSystemStructure
    :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical structures that are components of the nervous system.
+   :description: This terminology includes regions, nuclei, tracts, nerves, and other anatomical components that form part of the central or peripheral nervous system. These structures participate in thr processing, transmission, and integration of information within an organism. The terms cover both macroscopic regions and specialized structural subdivisions of neural anatomy. They are typically derived from cross-species anatomical ontologies such as Uberon. The terminology supports standardized referencing of neural structures in anatomical atlases and datasets.
    :name: nervous system structure
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -976,10 +1011,26 @@ organ
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organ
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Anatomical structure that performs a specific function or group of functions.
-   :description: The preferred ontology for 'organ' is UBERON.
+   :definition: Terminology defining whole anatomical organs that function as discrete structural and functional units within an organism.
+   :description: This terminology includes complete organs composed of multiple coordinated tissue types organized into a distinct anatomical entity. Only whole organs are included, excluding internal parts or subdivisions of organs. Examples include the heart, liver, lung, and kidney. These entities represent the primary functional units within many biological systems. The terminology provides a standardized reference set for complete organs across species.
    :name: organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000062
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+organSystemStructure
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/organSystemStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical components and structural parts that belong to or form part of an organ system.
+   :description: This terminology includes anatomical structures that are components or subdivisions of organs or other structures within an organ system. These entities are typically smaller structural units that contribute to the organization or function of the system but do not constitute whole organs themselves. Examples may include ducts, chambers, segments, and other system-associated structural components. The terminology focuses on parts that structurally belong to a broader system context. It supports detailed representation of anatomical organization within biological systems.
+   :name: organ system structure
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -993,8 +1044,8 @@ organismSubstance
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organismSubstance
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
-   :description: The preferred ontology for 'organism substance' is UBERON.
+   :definition: Terminology defining biological substances produced by or contained within an organism.
+   :description: This terminology includes naturally occurring materials or substances that exist within anatomical contexts of an organism. These may include fluids, secreted substances, or other biological materials associated with tissues or organs. The terms represent substances rather than structural anatomical entities. Examples may include biological fluids or mineralized materials produced by tissues. The terminology enables representation of organism-derived substances in anatomical datasets.
    :name: organism substance
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -1009,7 +1060,8 @@ organismSystem
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/terminology/organismSystem
    :@type: https://openminds.om-i.org/types/Terminology
-   :definition: Any anatomical or functional system in an organism, regardless of scale.
+   :definition: Terminology defining biological systems composed of multiple interacting anatomical structures that together perform a major physiological function.
+   :description: This terminology includes coordinated groups of organs and structures that operate collectively to carry out essential biological processes. Examples include the nervous system, digestive system, and circulatory system. These systems organize anatomical structures into functional frameworks. The terminology represents high-level biological organization within the body. It supports cross-species representation of major physiological systems.
    :name: organism system
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -1163,20 +1215,6 @@ semanticDataType
 
 ------------
 
-service
--------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/terminology/service
-   :@type: https://openminds.om-i.org/types/Terminology
-   :name: service
-
-`BACK TO TOP <Terminologies: Terminology library_>`_
-
-------------
-
 setupType
 ---------
 
@@ -1187,6 +1225,22 @@ setupType
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
    :name: setup type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+skeletalStructure
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/skeletalStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical structures that form part of the skeletal system.
+   :description: This terminology includes bones, cartilaginous elements, and other structural components that contribute to the mechanical framework of the body. These structures provide support, protection, and attachment points for muscles and other tissues. The terminology may include both individual skeletal elements and structural subdivisions of those elements. Examples include bones of the skull, vertebrae, and limb skeleton. It enables consistent representation of the skeletal framework across species.
+   :name: skeletal structure
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1400,6 +1454,22 @@ tissueSampleType
 
 ------------
 
+tissueStructure
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/tissueStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical structures composed of integumentary or connective tissues that form protective coverings, structural support, or separating boundaries within an organism.
+   :description: This terminology includes structures formed by integumentary and connective tissues such as membranes, coverings, barriers, and supporting connective components. These structures contribute to protection, mechanical support, compartmentalization, and attachment within the body. Examples may include meninges, connective sheaths, and structural tissue layers. The terminology excludes organs, organ parts, and specialized system-specific structures. It provides a cross-species reference for anatomical structures primarily defined by integumentary or connective tissue composition.
+   :name: tissue structure
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 typeOfUncertainty
 -----------------
 
@@ -1423,6 +1493,22 @@ unitOfMeasurement
    :@id: https://openminds.om-i.org/instances/terminology/unitOfMeasurement
    :@type: https://openminds.om-i.org/types/Terminology
    :name: unit of measurement
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+vascularStructure
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/terminology/vascularStructure
+   :@type: https://openminds.om-i.org/types/Terminology
+   :definition: Terminology defining anatomical structures that form the circulatory vessel networks responsible for transporting blood or lymph within an organism.
+   :description: This terminology includes blood vessels such as arteries, veins, and capillaries as well as lymphatic vessels and related conduits of the lymphatic circulation. These structures form interconnected networks that distribute fluids throughout the body. They contribute to physiological processes including nutrient delivery, waste removal, fluid balance, and immune transport. The terminology may include specialized vascular or lymphatic subdivisions associated with particular organs or regions. It provides a cross-species anatomical reference for vessel-based components of the circulatory system.
+   :name: vascular structure
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 

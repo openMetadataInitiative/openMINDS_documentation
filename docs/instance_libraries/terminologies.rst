@@ -11,6 +11,7 @@ Terminologies
 - `AgeReference <terminologies/ageReference.html>`_
 - `AnalysisTechnique <terminologies/analysisTechnique.html>`_
 - `AnatomicalAxesOrientation <terminologies/anatomicalAxesOrientation.html>`_
+- `AnatomicalCavity <terminologies/anatomicalCavity.html>`_
 - `AnatomicalIdentificationType <terminologies/anatomicalIdentificationType.html>`_
 - `AnatomicalPlane <terminologies/anatomicalPlane.html>`_
 - `AnnotationCriteriaType <terminologies/annotationCriteriaType.html>`_
@@ -66,6 +67,7 @@ Terminologies
 - `MRIPulseSequence <terminologies/MRIPulseSequence.html>`_
 - `MRISpoilingTechnique <terminologies/MRISpoilingTechnique.html>`_
 - `MRIWeighting <terminologies/MRIWeighting.html>`_
+- `MuscularStructure <terminologies/muscularStructure.html>`_
 - `NervousSystemStructure <terminologies/nervousSystemStructure.html>`_
 - `OlfactoryStimulusType <terminologies/olfactoryStimulusType.html>`_
 - `OperatingDevice <terminologies/operatingDevice.html>`_
@@ -75,6 +77,7 @@ Terminologies
 - `OrganismSubstance <terminologies/organismSubstance.html>`_
 - `OrganismSystem <terminologies/organismSystem.html>`_
 - `OrganizationType <terminologies/organizationType.html>`_
+- `OrganSystemStructure <terminologies/organSystemStructure.html>`_
 - `PatchClampVariation <terminologies/patchClampVariation.html>`_
 - `PaymentModelType <terminologies/paymentModelType.html>`_
 - `PreparationType <terminologies/preparationType.html>`_
@@ -84,9 +87,9 @@ Terminologies
 - `PulseShape <terminologies/pulseShape.html>`_
 - `QualitativeOverlap <terminologies/qualitativeOverlap.html>`_
 - `SemanticDataType <terminologies/semanticDataType.html>`_
-- `Service <terminologies/service.html>`_
 - `SetupType <terminologies/setupType.html>`_
 - `SignalDirectionality <terminologies/signalDirectionality.html>`_
+- `SkeletalStructure <terminologies/skeletalStructure.html>`_
 - `SoftwareApplicationCategory <terminologies/softwareApplicationCategory.html>`_
 - `SoftwareFeature <terminologies/softwareFeature.html>`_
 - `SovereignState <terminologies/sovereignState.html>`_
@@ -102,8 +105,10 @@ Terminologies
 - `Terminology <terminologies/terminology.html>`_
 - `TissueSampleAttribute <terminologies/tissueSampleAttribute.html>`_
 - `TissueSampleType <terminologies/tissueSampleType.html>`_
+- `TissueStructure <terminologies/tissueStructure.html>`_
 - `TypeOfUncertainty <terminologies/typeOfUncertainty.html>`_
 - `UnitOfMeasurement <terminologies/unitOfMeasurement.html>`_
+- `VascularStructure <terminologies/vascularStructure.html>`_
 - `VisualStimulusType <terminologies/visualStimulusType.html>`_
 - `WeightType <terminologies/weightType.html>`_
 
@@ -118,6 +123,7 @@ Terminologies
    terminologies/ageReference
    terminologies/analysisTechnique
    terminologies/anatomicalAxesOrientation
+   terminologies/anatomicalCavity
    terminologies/anatomicalIdentificationType
    terminologies/anatomicalPlane
    terminologies/annotationCriteriaType
@@ -173,6 +179,7 @@ Terminologies
    terminologies/MRIPulseSequence
    terminologies/MRISpoilingTechnique
    terminologies/MRIWeighting
+   terminologies/muscularStructure
    terminologies/nervousSystemStructure
    terminologies/olfactoryStimulusType
    terminologies/operatingDevice
@@ -182,6 +189,7 @@ Terminologies
    terminologies/organismSubstance
    terminologies/organismSystem
    terminologies/organizationType
+   terminologies/organSystemStructure
    terminologies/patchClampVariation
    terminologies/paymentModelType
    terminologies/preparationType
@@ -191,9 +199,9 @@ Terminologies
    terminologies/pulseShape
    terminologies/qualitativeOverlap
    terminologies/semanticDataType
-   terminologies/service
    terminologies/setupType
    terminologies/signalDirectionality
+   terminologies/skeletalStructure
    terminologies/softwareApplicationCategory
    terminologies/softwareFeature
    terminologies/sovereignState
@@ -209,7 +217,9 @@ Terminologies
    terminologies/terminology
    terminologies/tissueSampleAttribute
    terminologies/tissueSampleType
+   terminologies/tissueStructure
    terminologies/typeOfUncertainty
    terminologies/unitOfMeasurement
+   terminologies/vascularStructure
    terminologies/visualStimulusType
    terminologies/weightType
