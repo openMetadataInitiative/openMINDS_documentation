@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `countryOfFormation <countryOfFormation_heading_>`_, `name <name_heading_>`_, `type <type_heading_>`_
-:Optional: `acronym <acronym_heading_>`_, `alternateName <alternateName_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `jurisdiction <jurisdiction_heading_>`_, `location <location_heading_>`_, `memberships <memberships_heading_>`_
+:Optional: `acronym <acronym_heading_>`_, `alternateName <alternateName_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `jurisdiction <jurisdiction_heading_>`_, `location <location_heading_>`_, `membership <membership_heading_>`_
 
 ------------
 
@@ -163,15 +163,15 @@ location
 
 ------------
 
-.. _memberships_heading:
+.. _membership_heading:
 
-***********
-memberships
-***********
+**********
+membership
+**********
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/memberships
+   :semantic name: https://openminds.om-i.org/props/membership
    :value type: | embedded object array \(1-N\) of type
                 | `Membership <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/membership.html>`_
    :instructions: Add all membership records (one per member) for this organization. Who is considered a qualified member is typically defined in the organization’s membership agreements.

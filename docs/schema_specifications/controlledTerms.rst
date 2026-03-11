@@ -83,7 +83,6 @@ ControlledTerms
 - `PatchClampVariation <controlledTerms/patchClampVariation.html>`_
 - `PaymentModelType <controlledTerms/paymentModelType.html>`_
 - `PreparationType <controlledTerms/preparationType.html>`_
-- `ProductAccessibility <controlledTerms/productAccessibility.html>`_
 - `ProgrammingLanguage <controlledTerms/programmingLanguage.html>`_
 - `ProjectType <controlledTerms/projectType.html>`_
 - `PublicationStatus <controlledTerms/publicationStatus.html>`_
@@ -199,7 +198,6 @@ ControlledTerms
    controlledTerms/patchClampVariation
    controlledTerms/paymentModelType
    controlledTerms/preparationType
-   controlledTerms/productAccessibility
    controlledTerms/programmingLanguage
    controlledTerms/projectType
    controlledTerms/publicationStatus

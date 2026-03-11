@@ -14,8 +14,8 @@ EphysStimulus
 Properties
 ##########
 
-:Required: `internalIdentifier <internalIdentifier_heading_>`_
-:Optional: `deliveredBy <deliveredBy_heading_>`_, `description <description_heading_>`_, `epoch <epoch_heading_>`_, `generatedBy <generatedBy_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `specification <specification_heading_>`_, `type <type_heading_>`_
+:Required: `internalIdentifier <internalIdentifier_heading_>`_, `type <type_heading_>`_
+:Optional: `deliveredBy <deliveredBy_heading_>`_, `description <description_heading_>`_, `epoch <epoch_heading_>`_, `generatedBy <generatedBy_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `specification <specification_heading_>`_
 
 ------------
 
