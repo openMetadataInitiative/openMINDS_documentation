@@ -2,7 +2,7 @@
 Pipette
 #######
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Pipette
+:Semantic name: https://openminds.om-i.org/types/Pipette
 
 :Display as: Pipette
 
@@ -14,8 +14,25 @@ Pipette
 Properties
 ##########
 
-:Required: `deviceType <deviceType_heading_>`_, `name <name_heading_>`_
-:Optional: `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `externalDiameter <externalDiameter_heading_>`_, `internalDiameter <internalDiameter_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `manufacturer <manufacturer_heading_>`_, `material <material_heading_>`_, `owner <owner_heading_>`_, `serialNumber <serialNumber_heading_>`_
+:Required: `contribution <contribution_heading_>`_, `name <name_heading_>`_, `type <type_heading_>`_
+:Optional: `description <description_heading_>`_, `externalDiameter <externalDiameter_heading_>`_, `internalDiameter <internalDiameter_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `material <material_heading_>`_, `serialNumber <serialNumber_heading_>`_
+
+------------
+
+.. _contribution_heading:
+
+************
+contribution
+************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/contribution
+   :value type: | linked object array \(1-N\) of type
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/person.html>`_
+   :instructions: Add all relevant contributions (e.g., ownership, maintenance) for this device.
+
+`BACK TO TOP <Pipette_>`_
 
 ------------
 
@@ -29,46 +46,10 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter a short text describing this device.
-
-`BACK TO TOP <Pipette_>`_
-
-------------
-
-.. _deviceType_heading:
-
-**********
-deviceType
-**********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/deviceType
-   :value type: | linked object of type
-                | `DeviceType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/deviceType.html>`_
-   :instructions: Add the type of this device.
-
-`BACK TO TOP <Pipette_>`_
-
-------------
-
-.. _digitalIdentifier_heading:
-
-*****************
-digitalIdentifier
-*****************
-
-Digital handle to identify objects or legal persons.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
-   :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
-   :instructions: Add the globally unique and persistent digital identifier of this device.
+   :instructions: Enter a short description of the device. Describe the device itself for a custom-built device or note device-specific peculiarities or deviations from the standard product for a manufacturer-defined device.
 
 `BACK TO TOP <Pipette_>`_
 
@@ -82,9 +63,9 @@ externalDiameter
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/externalDiameter
+   :semantic name: https://openminds.om-i.org/props/externalDiameter
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the external diameter of the pipette.
 
 `BACK TO TOP <Pipette_>`_
@@ -99,9 +80,9 @@ internalDiameter
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalDiameter
+   :semantic name: https://openminds.om-i.org/props/internalDiameter
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the internal diameter of the pipette.
 
 `BACK TO TOP <Pipette_>`_
@@ -118,44 +99,10 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this pipette that is used within the corresponding data files to identify this pipette.
-
-`BACK TO TOP <Pipette_>`_
-
-------------
-
-.. _lookupLabel_heading:
-
-***********
-lookupLabel
-***********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter a lookup label for this device that may help you to find this instance more easily.
-
-`BACK TO TOP <Pipette_>`_
-
-------------
-
-.. _manufacturer_heading:
-
-************
-manufacturer
-************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
-   :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
-   :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <Pipette_>`_
 
@@ -169,9 +116,9 @@ material
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/material
+   :semantic name: https://openminds.om-i.org/props/material
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the material that the pipette is made of.
 
 `BACK TO TOP <Pipette_>`_
@@ -188,27 +135,10 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a descriptive name for this device, preferably including the model name as defined by the manufacturer.
-
-`BACK TO TOP <Pipette_>`_
-
-------------
-
-.. _owner_heading:
-
-*****
-owner
-*****
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/owner
-   :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
-   :instructions: Add all parties that legally own this device.
+   :instructions: Enter a descriptive name for this device, preferably defined by the owner.
 
 `BACK TO TOP <Pipette_>`_
 
@@ -222,10 +152,29 @@ serialNumber
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/serialNumber
+   :semantic name: https://openminds.om-i.org/props/serialNumber
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the serial number of this device.
+
+`BACK TO TOP <Pipette_>`_
+
+------------
+
+.. _type_heading:
+
+****
+type
+****
+
+Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/type
+   :value type: | linked object of type
+                | `DeviceType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/deviceType.html>`_ or `HardwareProduct <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/hardwareProduct.html>`_
+   :instructions: Add the device classification reference. Identify a device type for a custom-built device, or a hardware product for a device corresponding to a manufacturer-defined product model.
 
 `BACK TO TOP <Pipette_>`_
 

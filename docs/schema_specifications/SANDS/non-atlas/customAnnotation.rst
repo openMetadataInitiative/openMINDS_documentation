@@ -2,7 +2,7 @@
 CustomAnnotation
 ################
 
-:Semantic name: https://openminds.ebrains.eu/sands/CustomAnnotation
+:Semantic name: https://openminds.om-i.org/types/CustomAnnotation
 
 :Display as: Custom annotation
 
@@ -14,42 +14,23 @@ CustomAnnotation
 Properties
 ##########
 
-:Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
-:Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
+:Required: `coordinateFramework <coordinateFramework_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
+:Optional: `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
 
 ------------
 
-.. _anchorPoint_heading:
+.. _coordinateFramework_heading:
 
-***********
-anchorPoint
-***********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
-   :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional space as [x, y, z]).
-
-`BACK TO TOP <CustomAnnotation_>`_
-
-------------
-
-.. _coordinateSpace_heading:
-
-***************
-coordinateSpace
-***************
-
-Two or three dimensional geometric setting.
+*******************
+coordinateFramework
+*******************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
+   :semantic name: https://openminds.om-i.org/props/coordinateFramework
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_ or `CustomCoordinateSpace <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/non-atlas/customCoordinateSpace.html>`_
-   :instructions: Add the coordinate space for this custom annotation.
+                | `CommonCoordinateFrameworkVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/commonCoordinateFrameworkVersion.html>`_ or `CustomCoordinateFramework <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/non-atlas/customCoordinateFramework.html>`_
+   :instructions: Add the coordinate framework for this custom annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
 
@@ -65,9 +46,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteria
+   :semantic name: https://openminds.om-i.org/props/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/research/protocolExecution.html>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to produce this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -84,9 +65,9 @@ Distinct class that defines how the judgement or decision was made for a particu
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
+   :semantic name: https://openminds.om-i.org/props/criteriaQualityType
    :value type: | linked object of type
-                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/criteriaQualityType.html>`_
+                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/criteriaQualityType.html>`_
    :instructions: Add the quality type of the stated criteria used to define this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -101,9 +82,9 @@ criteriaType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteriaType
+   :semantic name: https://openminds.om-i.org/props/criteriaType
    :value type: | linked object of type
-                | `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
+                | `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
    :instructions: Add the criteria type for this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -120,9 +101,9 @@ Reference to an inspiring element.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/inspiredBy
+   :semantic name: https://openminds.om-i.org/props/inspiredBy
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_
    :instructions: Add all (source) files that inspired the definition of this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -139,7 +120,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this annotation that is used within the corresponding data files to identify this annotation.
@@ -158,9 +139,9 @@ Differentiation between a pair of lateral homologous parts of the body.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/laterality
+   :semantic name: https://openminds.om-i.org/props/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/laterality.html>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this annotation is defined in.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -175,9 +156,9 @@ preferredVisualization
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/preferredVisualization
+   :semantic name: https://openminds.om-i.org/props/preferredVisualization
    :value type: | embedded object of type
-                | `ViewerSpecification <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/miscellaneous/viewerSpecification.html>`_
+                | `ViewerSpecification <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/miscellaneous/viewerSpecification.html>`_
    :instructions: Add the preferred viewer specification to visualize this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -194,9 +175,9 @@ Detailed and precise presentation of, or proposal for something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :semantic name: https://openminds.om-i.org/props/specification
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_ or `PropertyValueList <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/research/propertyValueList.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_ or `PropertyValueList <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/propertyValueList.html>`_
    :instructions: Add the non-parametric or parametric specification of this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -213,9 +194,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | `AnnotationType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/annotationType.html>`_
+                | `AnnotationType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/annotationType.html>`_
    :instructions: Add the geometry type of this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_

@@ -2,7 +2,7 @@
 Terminologies: ContributionType library
 #######################################
 
-Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/contributionType.html>`_
+Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/contributionType.html>`_
 
 ------------
 
@@ -13,9 +13,9 @@ acquisition
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/acquisition
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/acquisition
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by acquiring or obtaining an existing target entity or resources required for its use.
    :name: acquisition
 
@@ -28,9 +28,9 @@ administration
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/administration
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/administration
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by administrating organizational, operational, or procedural aspects related to a target entity.
    :name: administration
 
@@ -43,9 +43,9 @@ authoring
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/authoring
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/authoring
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by creating textual, visual, or other expressive intellectual content about or for a target entity.
    :name: authoring
 
@@ -58,9 +58,9 @@ collection
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/collection
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/collection
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by gathering or aggregating instances or information forming a target entity.
    :name: collection
 
@@ -73,9 +73,9 @@ communication
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/communication
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/communication
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by communicating information about a target entity to relevant audiences.
    :name: communication
 
@@ -88,9 +88,9 @@ coordination
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/coordination
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by coordinating activities, participants, or processes related to a target entity.
    :name: coordination
 
@@ -103,9 +103,9 @@ creation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/creation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/creation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by producing or bringing a target entity into existence.
    :name: creation
 
@@ -118,9 +118,9 @@ curation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/curation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/curation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by organizing, annotating, or improving the quality and usability of a target entity.
    :name: curation
 
@@ -133,56 +133,11 @@ custodianship
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/custodianship
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/custodianship
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by assuming responsibility for the long-term stewardship and oversight of a target entity.
    :name: custodianship
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-dataCollection
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/dataCollection
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by gathering or aggregating data.
-   :name: data collection
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-dataManagement
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagement
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by organizing, storing, maintaining, and governing data assets to ensure their accessibility, reliability, and usability throughout their lifecycle
-   :name: data management
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-dataProcessing
---------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by handling, cleaning, transforming, or preparing data for subsequent analysis or use.
-   :name: data processing
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -193,9 +148,9 @@ deployment
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/deployment
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/deployment
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by installing or releasing a target entity into an operational or accessible environment.
    :name: deployment
 
@@ -208,9 +163,9 @@ design
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/design
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/design
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by specifying the structure, methodology, or architecture of a target entity.
    :name: design
 
@@ -223,9 +178,9 @@ development
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/development
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/development
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by creating, implementing, or extending physical or digital technological components of a target entity.
    :name: development
 
@@ -238,9 +193,9 @@ dissemination
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/dissemination
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/dissemination
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by distributing or publishing a target entity to make it accessible to relevant professional or specialist communities.
    :name: dissemination
 
@@ -253,9 +208,9 @@ education
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/education
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/education
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by transferring knowledge about a target entity to enable learning about its nature, context, principles, or applications.
    :name: education
 
@@ -268,9 +223,9 @@ hosting
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/hosting
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/hosting
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by providing and maintaining an environment, infrastructure, or resources that enable a target entity to exist, operate, or take place.
    :name: hosting
 
@@ -283,9 +238,9 @@ humanMedicalCare
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/humanMedicalCare
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/humanMedicalCare
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by providing medical diagnosis, treatment, or health management for a human.
    :name: human medical care
 
@@ -298,9 +253,9 @@ husbandry
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/husbandry
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/husbandry
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by managing the day-to-day care, growth, reproduction, or environmental conditions of living organisms.
    :name: husbandry
 
@@ -313,26 +268,11 @@ implementation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/implementation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/implementation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by putting a specified design, plan, method, or specification into effect through or within a target entity.
    :name: implementation
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-informationTechnologySupport
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by providing operational or technical assistance for computing infrastructure, systems, or digital tools.
-   :name: information technology support
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -343,9 +283,9 @@ inspection
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/inspection
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/inspection
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by examining a target entity through observation or review to assess its condition, compliance, conformity, or quality.
    :name: inspection
 
@@ -358,26 +298,11 @@ integration
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/integration
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/integration
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by incorporating another living or non-living thing into a target entity so that it becomes part of and functions within a coherent whole.
    :name: integration
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-laboratoryAssistance
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by supporting the operational execution of laboratory activities, procedures, or experiments.
-   :name: laboratory assistance
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -388,9 +313,9 @@ liaison
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/liaison
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/liaison
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by serving as a point of contact or intermediary regarding a target entity.
    :name: liaison
 
@@ -403,9 +328,9 @@ maintenance
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/maintenance
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/maintenance
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by sustaining, updating, or repairing a target entity to ensure its continued functionality and quality.
    :name: maintenance
 
@@ -418,41 +343,11 @@ manufacturing
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/manufacturing
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/manufacturing
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by producing physical target entities, typically in a repeatable or systematic manner, for distribution, use, or sale.
    :name: manufacturing
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-marketing
----------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/marketing
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by promoting, advertising, or commercializing a target entity.
-   :name: marketing
-
-`BACK TO TOP <Terminologies: ContributionType library_>`_
-
-------------
-
-metadataManagement
-------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagement
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by overseeing the creation, curation, governance, and maintenance of metadata to ensure its quality, consistency, and fitness for use.
-   :name: metadata management
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -463,9 +358,9 @@ operation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/operation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/operation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by controlling, operating, or running a target entity in an active environment.
    :name: operation
 
@@ -478,9 +373,9 @@ operationalStorage
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/operationalStorage
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/operationalStorage
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by maintaining a target entity in a storage system or environment to support its active access or use.
    :name: operational storage
 
@@ -493,9 +388,9 @@ outreach
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/outreach
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/outreach
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by engaging with broader or non-specialist audiences to raise awareness, understanding, or adoption of a target entity.
    :name: outreach
 
@@ -508,9 +403,9 @@ ownership
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/ownership
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/ownership
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by holding legal ownership rights and responsibilities for a target entity.
    :name: ownership
 
@@ -523,9 +418,9 @@ packaging
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/packaging
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/packaging
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by preparing a target entity for distribution, installation, or deployment.
    :name: packaging
 
@@ -538,9 +433,9 @@ preservation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/preservation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/preservation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by maintaining or protecting a target entity over time to ensure its continued existence, integrity, or availability.
    :name: preservation
 
@@ -553,9 +448,9 @@ processing
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/processing
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/processing
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by transforming, analyzing, or manipulating the state or content of a target entity.
    :name: processing
 
@@ -568,9 +463,9 @@ provision
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/provision
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/provision
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by making a target entity or its functionality available for use.
    :name: provision
 
@@ -583,9 +478,9 @@ review
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/review
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/review
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability.
    :name: review
 
@@ -598,9 +493,9 @@ scientificWriting
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/scientificWriting
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/scientificWriting
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by producing textual content that reports, analyzes, or interprets scientific investigations or knowledge about a target entity.
    :name: scientific writing
 
@@ -613,9 +508,9 @@ standardization
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/standardization
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/standardization
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by aligning a target entity with shared specifications or conventions applied across multiple entities.
    :name: standardization
 
@@ -628,9 +523,9 @@ support
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/support
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/support
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by assisting users or systems in the effective use or functioning of a target entity.
    :name: support
 
@@ -643,9 +538,9 @@ surgicalPerformance
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/surgicalPerformance
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/surgicalPerformance
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by performing surgical procedures on a living organism.
    :name: surgical performance
 
@@ -658,9 +553,9 @@ technicalWriting
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/technicalWriting
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/technicalWriting
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by producing structured explanatory or instructional textual content describing the design, structure, operation, or use of a target entity.
    :name: technical writing
 
@@ -673,9 +568,9 @@ testing
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/testing
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/testing
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by executing defined procedures or experiments to evaluate the behavior, functionality, or performance of a target entity.
    :name: testing
 
@@ -688,9 +583,9 @@ training
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/training
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/training
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by instructing or conditioning a target entity to acquire practical skills, behaviors, or operational knowledge.
    :name: training
 
@@ -703,9 +598,9 @@ validation
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/validation
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/validation
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by confirming, based on evidence or evaluation results, that a target entity fulfills specified requirements or intended purposes.
    :name: validation
 
@@ -718,9 +613,9 @@ versioning
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/versioning
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/versioning
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by managing and tracking changes or designated versions of a target entity over time.
    :name: versioning
 
@@ -733,9 +628,9 @@ veterinaryCare
 
 .. admonition:: metadata sheet
 
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/contributionType/veterinaryCare
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/veterinaryCare
+   :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by providing veterinary diagnosis, treatment, or health management for an animal.
    :name: veterinary care
 
