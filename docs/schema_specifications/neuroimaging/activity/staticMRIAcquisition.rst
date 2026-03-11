@@ -1,10 +1,10 @@
-############
-CellPatching
-############
+####################
+StaticMRIAcquisition
+####################
 
-:Semantic name: https://openminds.om-i.org/types/CellPatching
+:Semantic name: https://openminds.om-i.org/types/StaticMRIAcquisition
 
-:Display as: Cell patching
+:Display as: Static mriacquisition
 
 
 ------------
@@ -14,25 +14,25 @@ CellPatching
 Properties
 ##########
 
-:Required: `device <device_heading_>`_, `input <input_heading_>`_, `isPartOf <isPartOf_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_
-:Optional: `bathTemperature <bathTemperature_heading_>`_, `customPropertySet <customPropertySet_heading_>`_, `description <description_heading_>`_, `endTime <endTime_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `performedBy <performedBy_heading_>`_, `preparationDesign <preparationDesign_heading_>`_, `startTime <startTime_heading_>`_, `studyTarget <studyTarget_heading_>`_, `targetPosition <targetPosition_heading_>`_, `tissueBathSolution <tissueBathSolution_heading_>`_, `variation <variation_heading_>`_
+:Required: `device <device_heading_>`_, `input <input_heading_>`_, `isPartOf <isPartOf_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_, `specimenOrientation <specimenOrientation_heading_>`_
+:Optional: `contrastAgent <contrastAgent_heading_>`_, `customPropertySet <customPropertySet_heading_>`_, `description <description_heading_>`_, `distortionCorrection <distortionCorrection_heading_>`_, `endTime <endTime_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `motionCorrection <motionCorrection_heading_>`_, `performedBy <performedBy_heading_>`_, `preparationDesign <preparationDesign_heading_>`_, `registrationData <registrationData_heading_>`_, `startTime <startTime_heading_>`_, `studyTarget <studyTarget_heading_>`_, `targetAnatomy <targetAnatomy_heading_>`_
 
 ------------
 
-.. _bathTemperature_heading:
+.. _contrastAgent_heading:
 
-***************
-bathTemperature
-***************
+*************
+contrastAgent
+*************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/bathTemperature
-   :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
-   :instructions: Enter the temperature of the bath solution.
+   :semantic name: https://openminds.om-i.org/props/contrastAgent
+   :value type: | embedded object array \(1-N\) of type
+                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/amountOfChemical.html>`_
+   :instructions: Add the contrast agent(s) administered for this acquisition, including for each the agent identity and administered amount; if no contrast agent was used, leave this field null. Include all agents given prior to or during the scan.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -49,7 +49,7 @@ customPropertySet
                 | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/customPropertySet.html>`_
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -68,7 +68,7 @@ Longer statement or account giving the characteristics of someone or something.
                 | formatting: text/markdown; multiline
    :instructions: Enter a description of this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -83,11 +83,28 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.om-i.org/props/device
-   :value type: | linked object array \(1-N\) of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_, `MRICoilUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRICoilUsage.html>`_, `MRIScannerUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRIScannerUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
-   :instructions: Add all patch pipettes placed during this activity.
+   :value type: | linked object of type
+                | `MRIScannerUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRIScannerUsage.html>`_
+   :instructions: Add the magnetic resonance imaging (MRI) scanner used for this acquisition. This reference should identify the specific device configuration under which the scan was performed.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
+
+------------
+
+.. _distortionCorrection_heading:
+
+********************
+distortionCorrection
+********************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/distortionCorrection
+   :value type: | linked object array \(1-N\) of type
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+   :instructions: Add the distortion correction data used for this acquisition, linking to the calibration files applied during image reconstruction or post-processing. If no distortion correction was performed, leave this field null.
+
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -104,7 +121,7 @@ endTime
                 | formatting: text/plain; singleline
    :instructions: Enter the date and/or time on when this activity ended, formatted as either '2023-02-07T16:00:00+00:00' (date-time) or '16:00:00+00:00' (time).
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -120,10 +137,10 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.om-i.org/props/input
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_ or `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_
-   :instructions: Add the state of the specimen that the device is being placed in or on during this activity.
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
+   :instructions: Add the specimen (subject or tissue sample) in the physical and biological state in which it was scanned, referencing the corresponding specimen record at the time of imaging.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -142,7 +159,7 @@ Reference to the ensemble of multiple things or beings.
                 | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_
    :instructions: Add the dataset version in which this activity was conducted.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -159,7 +176,24 @@ lookupLabel
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this activity that may help you to find this instance more easily.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
+
+------------
+
+.. _motionCorrection_heading:
+
+****************
+motionCorrection
+****************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/motionCorrection
+   :value type: | linked object array \(1-N\) of type
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+   :instructions: Add the motion correction data used for this acquisition, linking to the calibration files or reference images applied during image reconstruction or post-processing. If no motion correction was performed, leave this field null.
+
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -175,10 +209,10 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.om-i.org/props/output
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_ or `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_
-   :instructions: Add all states of the specimen(s) that the device was placed in or on as a result of this activity.
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+   :instructions: Add the output data generated by this acquisition by linking to one or more files containing the primary imaging outputs and/or, if applicable, any secondary reconstructed or corrected outputs produced during post-processing.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -195,7 +229,7 @@ performedBy
                 | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all agents that performed this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -212,7 +246,7 @@ preparationDesign
                 | `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`_
    :instructions: Add the initial preparation type for this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -231,7 +265,41 @@ Plan that describes the process of a scientific or medical experiment, treatment
                 | `Protocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocol.html>`_
    :instructions: Add all protocols used during this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
+
+------------
+
+.. _registrationData_heading:
+
+****************
+registrationData
+****************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/registrationData
+   :value type: | linked object array \(1-N\) of type
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+   :instructions: Add the registration data used for this acquisition, linking to the transformation and/or reference files applied during image alignment in post-processing. If no registration was performed, leave this field null.
+
+`BACK TO TOP <StaticMRIAcquisition_>`_
+
+------------
+
+.. _specimenOrientation_heading:
+
+*******************
+specimenOrientation
+*******************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/specimenOrientation
+   :value type: | linked object of type
+                | `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalAxesOrientation.html>`_
+   :instructions: Add the specimen orientation as the anatomical directions corresponding to the scanner X, Y, and Z axes, describing the alignment of the specimen's anatomy with the scanner coordinate system. Note that this orientation may differ from the prescribed slice orientation, especially in nonstandard specimen positioning.
+
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -248,7 +316,7 @@ startTime
                 | formatting: text/plain; singleline
    :instructions: Enter the date and/or time on when this activity started, formatted as either '2023-02-07T16:00:00+00:00' (date-time) or '16:00:00+00:00' (time).
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
@@ -267,58 +335,24 @@ Structure or function that was targeted within a study.
                 | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/skeletalStructure.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/termSuggestion.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleType.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueStructure.html>`_, `VascularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/vascularStructure.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all study targets of this activity.
 
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
-.. _targetPosition_heading:
+.. _targetAnatomy_heading:
 
-**************
-targetPosition
-**************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/targetPosition
-   :value type: | embedded object of type
-                | `AnatomicalTargetPosition <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/anatomicalTargetPosition.html>`_
-   :instructions: Enter the anatomical target position for the placement of the device.
-
-`BACK TO TOP <CellPatching_>`_
-
-------------
-
-.. _tissueBathSolution_heading:
-
-******************
-tissueBathSolution
-******************
+*************
+targetAnatomy
+*************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/tissueBathSolution
+   :semantic name: https://openminds.om-i.org/props/targetAnatomy
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_
-   :instructions: Add the chemical mixture used as bath solution during this activity.
+                | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/skeletalStructure.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueStructure.html>`_, `VascularStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/vascularStructure.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+   :instructions: Add the target anatomy, indicating the primary anatomical structure or region intended to be imaged in this acquisition. This field describes the imaging objective (for example, organ, tissue, or structure) and may be derived from the acquisition protocol description.
 
-`BACK TO TOP <CellPatching_>`_
-
-------------
-
-.. _variation_heading:
-
-*********
-variation
-*********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/variation
-   :value type: | linked object of type
-                | `PatchClampVariation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/patchClampVariation.html>`_
-   :instructions: Add the patch-clamp variation used during this activity.
-
-`BACK TO TOP <CellPatching_>`_
+`BACK TO TOP <StaticMRIAcquisition_>`_
 
 ------------
 
