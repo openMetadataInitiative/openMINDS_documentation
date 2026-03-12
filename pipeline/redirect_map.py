@@ -101,8 +101,8 @@ def generate_redirect_map() -> Dict[str, str]:
     # Instance redirects
     # ----------------------------------------------------------
     iloader = InstanceLoader()
-    simple_types = {"brainAtlases", "contentTypes", "commonCoordinateSpaces", "licenses"}
-    subpage_types = {"parcellationEntities", "brainAtlasVersions", "commonCoordinateSpaceVersions"}
+    simple_types = {"accessibilities", "anatomicalAtlases", "brainAtlases", "contentTypes", "commonCoordinateFrameworks", "commonCoordinateSpaces", "licenses"}
+    subpage_types = {"anatomicalAtlasVersions", "brainAtlasVersions", "commonCoordinateFrameworkVersions", "commonCoordinateSpaceVersions", "parcellationEntities"}
     subpage2_types = {"parcellationEntityVersions"}
 
     for version in iloader.get_instance_versions():
@@ -134,7 +134,7 @@ def generate_redirect_map() -> Dict[str, str]:
                     page_path = f"instance_libraries/terminologies/{inst_type}.html"
 
             anchor = _anchorize(filename)
-            if inst_type in ["Licenses", "contentTypes"]:
+            if inst_type in ["accessibilities", "licenses", "contentTypes"]:
                 uri = f"/instances/{inst_type}/{filename}"
             elif inst_type == 'terminologies':
                 uri = f"/instances/{subdir}/{filename}"
@@ -142,6 +142,8 @@ def generate_redirect_map() -> Dict[str, str]:
                 uri = f"/instances/parcellationEntity/{filename}"
             elif inst_type == 'brainAtlases':
                 uri = f"/instances/brainAtlas/{filename}"
+            elif inst_type == 'anatomicalAtlases':
+                uri = f"/instances/anatomicalAtlas/{filename}"
             else:
                 uri = f"/instances/{inst_type[:-1]}/{filename}"
             url = f"{DOCS_BASE_URL}/en/{DOCS_VERSION_SLUG}/{page_path}#{anchor}"
