@@ -7,7 +7,7 @@ AnatomicalAtlasVersion
 :Display as: Anatomical atlas version
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/anatomicalAtlasVersions/WHSSDatlas.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/anatomicalAtlasVersions.html>`_.
 
 ------------
 

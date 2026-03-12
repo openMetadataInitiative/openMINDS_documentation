@@ -7,7 +7,7 @@ CommonCoordinateFrameworkVersion
 :Display as: Common coordinate framework version
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/commonCoordinateFrameworkVersions/AMB-CCF.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/commonCoordinateFrameworkVersions.html>`_.
 
 ------------
 
