@@ -57,10 +57,10 @@ class InstancesDocBuilder(object):
         instance_type_plural = self._build_plurals(instance_type)
 
         # create type depending link directory and page heading
-        if instance_type in ["accessibility", "brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateSpace", "commonCoordinateFramework", "license"]:
+        if instance_type in ["accessibility", "brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateFramework", "commonCoordinateSpace", "license"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
             page_heading = instance_type_plural
-        elif instance_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateSpaceVersion", "commonCoordinateFrameworkVersion", "parcellationEntity"]:
+        elif instance_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateFrameworkVersion", "commonCoordinateSpaceVersion", "parcellationEntity"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", instance_type_plural)
             page_heading = instance_heading.split("_")[0]
         elif instance_type in ["parcellationEntityVersion"]:
@@ -91,10 +91,10 @@ class InstancesDocBuilder(object):
         instance_example_id_basename = instance_example_id.split("/")[-1]
 
         # page_heading and link depends on type
-        if instance_example_type in ["accessibility", "anatomicalAtlas", "brainAtlas", "contentType", "commonCoordinateSpace", "commonCoordinateFramework", "license"]:
+        if instance_example_type in ["accessibility", "anatomicalAtlas", "brainAtlas", "contentType", "commonCoordinateFramework", "commonCoordinateSpace", "license"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
             page_heading = instance_type_plural
-        elif instance_example_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateSpaceVersion", "commonCoordinateFrameworkVersion", "parcellationEntity",]:
+        elif instance_example_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateFrameworkVersion", "commonCoordinateSpaceVersion", "parcellationEntity"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", instance_type_plural)
             page_heading = instance_example_id_basename.split("_")[0]
         elif instance_example_type in ["parcellationEntityVersion"]:
@@ -266,7 +266,7 @@ class InstancesDocBuilder(object):
             if instancelib_docu_relative_path.split("/")[0] in ["accessibilities", "contentTypes", "licenses", "terminologies"]:
                 self._build_simple_instances(instancelib_docu_relative_path, instances_absolute_paths)
             # build RST docu for research products and their versions (brainAtlases, commonCoordinateSpaces, brainAtlasVersions, commonCoordinateSpaceVersions)
-            if instancelib_docu_relative_path.split("/")[0] in ["anatomicalAtlases", "brainAtlases", "commonCoordinateSpaces", "commonCoordinateFrameworks", "brainAtlasVersions", "anatomicalAtlasVersions", "commonCoordinateSpaceVersions", "commonCoordinateFrameworkVersions"]:
+            if instancelib_docu_relative_path.split("/")[0] in ["anatomicalAtlases", "anatomicalAtlasVersions", "brainAtlases", "brainAtlasVersions", "commonCoordinateFrameworks", "commonCoordinateFrameworkVersions", "commonCoordinateSpaces", "commonCoordinateSpaceVersions"]:
                 self._build_complex_sands_instances(instancelib_docu_relative_path, instances_absolute_paths)
             # build RST docu for other instances (parcellationEntities, parcellationEntityVersions)
             if instancelib_docu_relative_path.split("/")[0] in ["parcellationEntities", "parcellationEntityVersions"]:
