@@ -20,7 +20,7 @@ from typing import Dict
 
 import requests
 
-from utils import clone_sources, SchemaLoader, InstanceLoader
+from utils import clone_sources, SchemaLoader, InstanceLoader, version_rank, version_redirection_candidate
 
 # Helper functions
 
@@ -42,7 +42,6 @@ def _anchorize(name: str) -> str:
 # ---------------------------------------------------------------------
 
 DOCS_BASE_URL = "https://openminds.docs.om-i.org"  # without trailing slash
-DOCS_VERSION_SLUG = "latest"                  # RTD version alias to use
 OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
 
@@ -89,8 +88,10 @@ def generate_redirect_map() -> Dict[str, str]:
 
     # Generate URLs using the appropriate version for each schema
     for schema_name, info in schema_versions.items():
+        if not version_redirection_candidate(info["version"]):
+            continue
         uri = f"/types/{schema_name}"
-        version_slug = DOCS_VERSION_SLUG if info["version"] == "latest" else info["version"]
+        version_slug = info["version"]
         url = (
             f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
             f"{info['rel_path']}.html#{schema_name.lower()}"
@@ -105,7 +106,10 @@ def generate_redirect_map() -> Dict[str, str]:
     subpage_types = {"anatomicalAtlasVersions", "brainAtlasVersions", "commonCoordinateFrameworkVersions", "commonCoordinateSpaceVersions", "parcellationEntities"}
     subpage2_types = {"parcellationEntityVersions"}
 
+    instance_versions: Dict[str, dict] = {}
     for version in iloader.get_instance_versions():
+        if not version_redirection_candidate(version):
+            continue
         abs_paths = iloader.find_instances(version)
         base_dir = os.path.join(iloader.instances_sources, version)
         for ap in abs_paths:
@@ -146,8 +150,17 @@ def generate_redirect_map() -> Dict[str, str]:
                 uri = f"/instances/anatomicalAtlas/{filename}"
             else:
                 uri = f"/instances/{inst_type[:-1]}/{filename}"
-            url = f"{DOCS_BASE_URL}/en/{DOCS_VERSION_SLUG}/{page_path}#{anchor}"
-            redirect_map[uri] = url
+
+            existing = instance_versions.get(uri)
+            should_update = existing is None or version_rank(version) > version_rank(existing["version"])
+            if should_update:
+                # Upgrade to latest if we now find it there
+                instance_versions[uri] = {"version": version, "page_path": page_path, "anchor": anchor}
+
+    for uri, info in instance_versions.items():
+        version_slug = info["version"]
+        url = f"{DOCS_BASE_URL}/en/{version_slug}/{info['page_path']}#{info['anchor']}"
+        redirect_map[uri] = url
 
     return redirect_map
 
