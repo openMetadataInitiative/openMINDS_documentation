@@ -57,7 +57,7 @@ class InstancesDocBuilder(object):
         instance_type_plural = self._build_plurals(instance_type)
 
         # create type depending link directory and page heading
-        if instance_type in ["brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateSpace", "commonCoordinateFramework", "license"]:
+        if instance_type in ["accessibility", "brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateSpace", "commonCoordinateFramework", "license"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
             page_heading = instance_type_plural
         elif instance_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateSpaceVersion", "commonCoordinateFrameworkVersion", "parcellationEntity"]:
