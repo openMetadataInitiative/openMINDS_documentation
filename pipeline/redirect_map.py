@@ -101,8 +101,8 @@ def generate_redirect_map() -> Dict[str, str]:
     # Instance redirects
     # ----------------------------------------------------------
     iloader = InstanceLoader()
-    simple_types = {"brainAtlases", "anatomicalAtlases", "contentTypes", "commonCoordinateSpaces", "commonCoordinateFrameworks", "licenses"}
-    subpage_types = {"parcellationEntities", "brainAtlasVersions", "anatomicalAtlasVersions", "commonCoordinateSpaceVersions", "commonCoordinateFrameworkVersions"}
+    simple_types = {"accessibilities", "anatomicalAtlases", "brainAtlases", "contentTypes", "commonCoordinateSpaces", "commonCoordinateFrameworks", "licenses"}
+    subpage_types = {"anatomicalAtlasVersions", "brainAtlasVersions", "parcellationEntities", "commonCoordinateSpaceVersions", "commonCoordinateFrameworkVersions"}
     subpage2_types = {"parcellationEntityVersions"}
 
     for version in iloader.get_instance_versions():
@@ -134,7 +134,7 @@ def generate_redirect_map() -> Dict[str, str]:
                     page_path = f"instance_libraries/terminologies/{inst_type}.html"
 
             anchor = _anchorize(filename)
-            if inst_type in ["Licenses", "contentTypes"]:
+            if inst_type in ["accessibilities", "licenses", "contentTypes"]:
                 uri = f"/instances/{inst_type}/{filename}"
             elif inst_type == 'terminologies':
                 uri = f"/instances/{subdir}/{filename}"

@@ -73,7 +73,7 @@ class InstanceLoader(object):
             with open(absolute_path_instance, "r") as instance_f:
                 instance_payload = json.load(instance_f)
             instance_schema = instance_payload["@type"].split("/")[-1]
-            if instance_schema in ["BrainAtlasVersion", "CommonCoordinateSpaceVersion", "ParcellationEntity", "ParcellationEntityVersion"]:
+            if instance_schema in ["AnatomicalAtlasVersion", "BrainAtlasVersion", "CommonCoordinateSpaceVersion", "CommonCoordinateFrameworkVersion", "ParcellationEntity", "ParcellationEntityVersion"]:
                 instancelib_docu_path_for_schemas[instance_schema] = "/".join(relative_instance_path.split("/")[:-2])
             elif instance_schema == "Technique": #FIXME
                 if relative_instance_path.split("/")[-2] == "analysisTechnique":
