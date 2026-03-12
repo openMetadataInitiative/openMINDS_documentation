@@ -102,7 +102,7 @@ def generate_redirect_map() -> Dict[str, str]:
     # ----------------------------------------------------------
     iloader = InstanceLoader()
     simple_types = {"accessibilities", "anatomicalAtlases", "brainAtlases", "contentTypes", "commonCoordinateFrameworks", "commonCoordinateSpaces", "licenses"}
-    subpage_types = {"anatomicalAtlasVersions", "brainAtlasVersions", "parcellationEntities", "commonCoordinateFrameworkVersions", "commonCoordinateSpaceVersions"}
+    subpage_types = {"anatomicalAtlasVersions", "brainAtlasVersions", "commonCoordinateFrameworkVersions", "commonCoordinateSpaceVersions", "parcellationEntities"}
     subpage2_types = {"parcellationEntityVersions"}
 
     for version in iloader.get_instance_versions():
