@@ -30,11 +30,11 @@ The same JSON-LD object can be written in different syntactic forms. The followi
 
       {
         "@context": {
-          "schema": "https://schema.org/"
+          "so": "https://schema.org/"
         },
         "@id": "_:example-person",
         "@type": "https://schema.org/Person",
-        "schema:givenName": "Zaphod"
+        "so:givenName": "Zaphod"
       }
 
    .. code-tab:: json
@@ -48,28 +48,32 @@ The same JSON-LD object can be written in different syntactic forms. The followi
 
 These three representations describe the same object. They differ only in how property names are written. The differences are explained below.
 
-JSON-LD keywords
-################
+JSON-LD syntax basics
+#####################
 
 The example above uses several JSON-LD keywords:
 
 **"@context"**  
-The keyword ``"@context"`` defines how property names are interpreted.
+The keyword ``"@context"`` defines how property names are interpreted by mapping them to IRIs (Internationalized Resource Identifiers), which serve as globally unique identifiers, e.g. ``https://schema.org/givenName``. Namespaces defined in ``"@context"`` are used to shorten these IRIs and make JSON-LD more readable.
 
-- In **compact-1**, ``"@vocab"`` sets a default IRI prefix for all properties  
-- In **compact-2**, a custom prefix is defined and used in property names  
-- In **expanded**, no ``"@context"`` is used; all property names are written as full IRIs  
+Depending on how the namespace is defined:
+
+- **compact-1**: ``"@vocab"`` sets a default IRI prefix for all properties  
+- **compact-2**: a custom prefix is defined and used in property names  
+- **expanded**: no ``"@context"`` is used; all property names are written as full IRIs  
 
 **"@id"**  
 The keyword ``"@id"`` provides the identifier of an object. It can be:
 
-- an IRI  
+- an IRI
 - a compact IRI  
 - a blank node identifier (e.g., ``"_:example-person"``)  
 
 Within a metadata collection, each ``"@id"`` has to be unique.
 
 **"@type"**  
-The keyword ``"@type"`` specifies the type of an object. This is typically defined by a schema or vocabulary (e.g., ``https://schema.org/Person``).
+The keyword ``"@type"`` specifies the type of an object. This is typically defined by a schema and expressed as an IRI (e.g. ``https://schema.org/Person``).
 
-The following chapters show how these JSON-LD concepts are applied in openMINDS, including how multiple objects are connected into a linked metadata structure.
+----
+
+The following chapters show how these JSON-LD concepts are applied in openMINDS.
