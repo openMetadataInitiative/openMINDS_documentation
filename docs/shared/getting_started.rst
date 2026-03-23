@@ -4,7 +4,7 @@ Getting started
 
 This chapter introduces the basic concepts required to work with the openMINDS metadata framework.
 
-It provides:
+It provides:  
 - a brief introduction to JSON-LD as a format for linked metadata  
 - a conceptual overview of how to represent your research data using openMINDS  
 
