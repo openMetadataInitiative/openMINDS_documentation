@@ -2,11 +2,13 @@
 Getting started
 ###############
 
-This chapter will teach you fundamental knowledge for making use of the openMINDS metadata framework.
-We will dig into JSON-LD as linked (meta)data format and provide you with a conceptual overview of how to represent your research as linked (meta)data in openMINDS.  
+This chapter introduces the basic concepts required to work with the openMINDS metadata framework.
 
-If you are already familiar with linked data, you can also directly jump to our practical introduction for applying openMINDS (cf. `supportive tooling <supportive_tooling.html>`_).
+It provides:
+- a brief introduction to JSON-LD as a format for linked metadata  
+- a conceptual overview of how to represent your research data using openMINDS  
 
+If you are already familiar with Linked Data, JSON-LD, and the basic concepts of openMINDS, you can proceed directly to the practical introduction on applying openMINDS (cf. supportive tooling <supportive_tooling.html>_).
 
 .. toctree::
    getting_started/openMINDS_instances
