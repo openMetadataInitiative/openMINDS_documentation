@@ -72,27 +72,4 @@ Within a metadata collection, each ``"@id"`` has to be unique.
 **"@type"**  
 The keyword ``"@type"`` specifies the type of an object. This is typically defined by a schema or vocabulary (e.g., ``https://schema.org/Person``).
 
-Values and links
-################
-
-In JSON-LD, properties can either contain simple values or links to other objects.
-
-Example of a simple value:
-
-.. code-block:: json
-
-   "givenName": "Zaphod"
-
-Example of a link to another object:
-
-.. code-block:: json
-
-   "knows": {
-     "@id": "_:another-person"
-   }
-
-In the second case, the property refers to another object via its identifier. This mechanism is used to connect objects into a linked data structure.
-
----
-
-The following chapters show how these JSON-LD concepts are applied in openMINDS.
+The following chapters show how these JSON-LD concepts are applied in openMINDS, including how multiple objects are connected into a linked metadata structure.
