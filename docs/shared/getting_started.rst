@@ -12,6 +12,7 @@ It provides:
 If you are already familiar with Linked Data, JSON-LD, and the basic concepts of openMINDS, you can proceed directly to the practical introduction on applying openMINDS (cf. supportive tooling <supportive_tooling.html>_).
 
 .. toctree::
+   getting_started/jsonld_introduction
    getting_started/openMINDS_instances
    getting_started/openMINDS_collections
    getting_started/research_products
