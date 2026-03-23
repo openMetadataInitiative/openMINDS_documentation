@@ -2,17 +2,17 @@
 Welcome to the openMINDS documentation!
 #######################################
 
-**openMINDS** is a metadata framework for linked data. The framework comprises:
+**openMINDS** is a metadata framework for Linked Data. The framework comprises:
 
 - `Schema specifications <schema_specifications.html>`_ for multiple, interlocked metadata models
 - `Instance libraries <instance_libraries.html>`_ for serviceable, well-defined terms and constructs
 - `Supportive tooling <shared/supportive_tooling.html>`_ for handling openMINDS in Python or MATLAB
 
-Applying the openMINDS framework to your own data collection, requires you to design a graph representation (linked data model) of your data. What this means and how to approach this challenge is described in `Getting started <shared/getting_started.html>`_.
+Applying the openMINDS framework to your own data collection requires designing a Linked Data representation of your data (i.e., a graph of interconnected metadata objects/instances). What this means and how to approach it is described in `Getting started <shared/getting_started.html>`_.
 
 .. note::
 
-   This project is under active development. As an open-source project community contributions are highly appreciated (cf. `contribution guidelines <shared/contribution_guidelines.html>`_). 
+   This project is under active development. As an open-source project, community contributions are highly appreciated (cf. `contribution guidelines <shared/contribution_guidelines.html>`_). 
 
 How to cite and external records
 ################################
