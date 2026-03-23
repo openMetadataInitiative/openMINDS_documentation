@@ -20,7 +20,8 @@ How to cite and external records
 If you use openMINDS please use the following citation:    
 
 | Full citation: ``Open Metadata Initiative (2020) openMINDS metadata framework (RRID:SCR_023173)``   
-| Short citation: ``openMINDS (RRID:SCR_023173)``   
+| Short citation: ``openMINDS (RRID:SCR_023173)``     
+
 
 The openMINDS metadata framework is registered with the following external records:     
 
