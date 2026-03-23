@@ -54,7 +54,42 @@ As explained in the previous page, these three representations are equivalent an
 
 In openMINDS, the **compact-1** syntax using ``"@vocab"`` is typically preferred, as it provides a concise and consistent representation without requiring prefixed property names.
 
-The next step is to connect multiple instances into a linked metadata structure.
+openMINDS namespaces
+####################
+
+Please note that the IRIs used in ``"@type"`` and in the property namespace depend on the openMINDS version.
+
+.. tabs:: namespace-version
+
+   .. code-tab:: json
+      :caption: openMINDS v4.0+
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.om-i.org/props/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.om-i.org/types/Person",
+        "givenName": "Zaphod"
+      }
+
+   .. code-tab:: json
+      :caption: openMINDS ≤ v3.0
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "givenName": "Zaphod"
+      }
+
+Ensure that the namespace used in ``"@type"`` and in ``"@context"`` matches the version of the openMINDS schema.
+
+----
+
+The following chapters show how openMINDS instances are connected into a linked metadata structure.
 
 ----------------------
 
