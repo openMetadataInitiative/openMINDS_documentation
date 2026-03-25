@@ -4,7 +4,7 @@ A minimal openMINDS instance
 
 openMINDS metadata instances are represented as JSON-LD documents (file extension: ``*.jsonld``) and must comply with the openMINDS schema type they reference.
 
-This page shows how a minimal openMINDS instance is constructed from a schema specification. The JSON-LD elements used here are introduced in `previous chapter`_.
+This page shows how a minimal openMINDS instance is constructed from a schema specification. The JSON-LD elements used here are introduced in the `previous chapter`_.
 
 Creating a minimal instance
 ###########################
