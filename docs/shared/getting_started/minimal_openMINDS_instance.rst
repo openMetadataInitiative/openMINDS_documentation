@@ -50,7 +50,9 @@ A minimal "Person" instance can therefore look like this:
         "https://openminds.om-i.org/props/givenName": "Zaphod"
       }
 
-As explained in the previous page, these representations are equivalent and differ only in how property names are written. In openMINDS, the **compact-1** syntax using ``"@vocab"`` is typically preferred, as it provides a concise and consistent representation without requiring prefixed property names.
+As explained in the previous page, these representations are equivalent and differ only in how property names are written.
+
+In openMINDS, the **compact-1** syntax using ``"@vocab"`` is typically preferred, as it provides a concise and consistent representation without requiring prefixed property names.
 
 openMINDS namespaces
 ####################
