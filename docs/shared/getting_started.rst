@@ -16,7 +16,7 @@ If you are already familiar with Linked Data, JSON-LD, and the basic concepts of
 .. toctree::
    getting_started/jsonld_introduction
    getting_started/minimal_openMINDS_instance
-   getting_started/linking_openMINDS_instances
+   getting_started/connecting_openMINDS_instances
    getting_started/openMINDS_collections
    getting_started/research_products
    getting_started/research_data
