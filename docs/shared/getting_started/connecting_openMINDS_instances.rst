@@ -1,6 +1,6 @@
-##########################################
-Linking and embedding openMINDS instances
-##########################################
+##############################
+Connecting openMINDS instances
+##############################
 
 In openMINDS, metadata is structured as interconnected objects.
 
