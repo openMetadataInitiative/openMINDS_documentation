@@ -9,7 +9,9 @@ It provides:
 - a brief introduction to JSON-LD as a format for linked metadata  
 - a conceptual overview of how to represent your research data using openMINDS  
 
-If you are already familiar with Linked Data, JSON-LD, and the basic concepts of openMINDS, you can proceed directly to the practical introduction on applying openMINDS (cf. supportive tooling <supportive_tooling.html>_).
+If you are already familiar with Linked Data, JSON-LD, and the basic concepts of openMINDS, you can proceed directly to the practical introduction on applying openMINDS (cf. `supportive tooling`_).
+
+.. _supportive tooling: https://openminds.docs.om-i.org/en/latest/shared/supportive_tooling.html
 
 .. toctree::
    getting_started/jsonld_introduction
