@@ -6,12 +6,16 @@ openMINDS metadata instances are represented as JSON-LD documents (file extensio
 
 This page shows how a minimal openMINDS instance is constructed from a schema specification. The JSON-LD elements used here are introduced in the `previous chapter`_.
 
+.. note::
+
+   The examples and referenced schemas are chosen to illustrate general principles and are based on the latest openMINDS version. When working with other versions, schema names, properties, and their requirements may differ or not be available.
+
 Creating a minimal instance
 ###########################
 
 Let us start with a simple "Person" instance, designed according to the `Person schema`_.
 
-If you inspect the schema, you will see that only the property `givenName`_ is required. The property accepts a single value of type ``"string"``. All other properties are optional.
+If you inspect the schema, you will see that only the property `preferredName`_ is required. The property accepts a single value of type ``"string"``. All other properties are optional.
 
 A minimal "Person" instance can therefore look like this:
 
@@ -26,7 +30,7 @@ A minimal "Person" instance can therefore look like this:
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.om-i.org/types/Person",
-        "givenName": "Zaphod"
+        "preferredName": "Zaphod Beeblebrox"
       }
 
    .. code-tab:: json
@@ -38,7 +42,7 @@ A minimal "Person" instance can therefore look like this:
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.om-i.org/types/Person",
-        "om:givenName": "Zaphod"
+        "om:preferredName": "Zaphod Beeblebrox"
       }
 
    .. code-tab:: json
@@ -47,7 +51,7 @@ A minimal "Person" instance can therefore look like this:
       {
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.om-i.org/types/Person",
-        "https://openminds.om-i.org/props/givenName": "Zaphod"
+        "https://openminds.om-i.org/props/preferredName": "Zaphod Beeblebrox"
       }
 
 As explained in the previous page, these representations are equivalent and differ only in how property names are written.
@@ -70,7 +74,7 @@ The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.om-i.org/types/Person",
-        "givenName": "Zaphod"
+        "preferredName": "Zaphod Beeblebrox"
       }
 
    .. code-tab:: json
@@ -82,11 +86,11 @@ The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.ebrains.eu/core/Person",
-        "givenName": "Zaphod"
+        "preferredName": "Zaphod Beeblebrox"
       }
 
 The following chapters show how openMINDS instances are connected into a linked metadata structure.
 
 .. _previous chapter: jsonld_introduction.html
 .. _Person schema: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html
-.. _givenName: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#givenname
+.. _preferredName: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#preferredname
