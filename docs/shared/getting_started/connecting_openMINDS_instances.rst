@@ -137,7 +137,6 @@ Instead of defining an individual instance, the desired country (`United Kingdom
         }
       }
 
-
 Library instances are referenced via their openMINDS-defined ``"@id"``, which are unique IRIs. Namespace differences between openMINDS versions therefore also affect the ``"@id"`` values used when linking library instances.
 
 .. note::
