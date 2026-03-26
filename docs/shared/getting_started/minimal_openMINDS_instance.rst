@@ -57,7 +57,7 @@ In openMINDS, the **compact-1** syntax using ``"@vocab"`` is typically preferred
 openMINDS namespaces
 ####################
 
-The IRIs used in ``"@type"`` and in the property namespace depend on the openMINDS version.
+The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend on the openMINDS version.
 
 .. tabs:: namespace-version
 
