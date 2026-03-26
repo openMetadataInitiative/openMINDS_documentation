@@ -11,8 +11,6 @@ It provides:
 
 If you are already familiar with Linked Data, JSON-LD, and the basic concepts of openMINDS, you can proceed directly to the practical introduction on applying openMINDS (cf. `supportive tooling`_).
 
-.. _supportive tooling: https://openminds.docs.om-i.org/en/latest/shared/supportive_tooling.html
-
 .. toctree::
    getting_started/jsonld_introduction
    getting_started/minimal_openMINDS_instance
@@ -22,3 +20,5 @@ If you are already familiar with Linked Data, JSON-LD, and the basic concepts of
    getting_started/research_data
    getting_started/studied_specimens
    getting_started/research_activities
+
+.. _supportive tooling: https://openminds.docs.om-i.org/en/latest/shared/supportive_tooling.html
