@@ -24,8 +24,8 @@ How to cite and external records
 | 
 | The openMINDS metadata framework is registered with the following external records:     
 | 
-| FAIRsharing.org: `FAIRsharing record`_     
-| RRID Portal: `RRID record`_    
+| FAIRsharing.org: `https://doi.org/10.25504/FAIRsharing.6ac6aa`_     
+| RRID Portal: `https://scicrunch.org/resolver/RRID:SCR_023173`_    
 
 Funding and acknowledgements
 ############################
@@ -55,7 +55,7 @@ openMINDS is closely collaborating with the `InterLex Project`_ of the `SciCrunc
 .. _Getting started: shared/getting_started.html
 .. _Contribution guidelines: shared/contribution_guidelines.html
 
-.. _FAIRsharing record: https://fairsharing.org/5137
+.. _FAIRsharing record: https://doi.org/10.25504/FAIRsharing.6ac6aa
 .. _RRID record: https://scicrunch.org/resolver/RRID:SCR_023173
 
 .. _No. 101147319: https://doi.org/10.3030/101147319
