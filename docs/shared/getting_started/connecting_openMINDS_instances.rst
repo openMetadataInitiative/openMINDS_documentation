@@ -97,6 +97,11 @@ Embedded objects:
 - cannot be referenced independently  
 - are defined only in the context of their parent instance  
 
+Linking openMINDS library instances
+###################################
+
+openMINDS provides for selected schemas libraries or curated, well described instances.
+
 ----
 
 By combining linked instances and embedded objects, openMINDS metadata can represent complex data structures.
