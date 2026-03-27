@@ -22,11 +22,18 @@ def clone_sources():
         shutil.rmtree("sources_instances")
     Repo.clone_from("https://github.com/openMetadataInitiative/openMINDS_instances.git", to_path="sources_instances", depth=1)
 
+
+def count_instances(version:str) -> int:
+    instances_sources = os.path.join(os.path.realpath("."), "sources_instances", "instances", version)
+    return sum(1 for _ in glob.iglob(os.path.join(instances_sources, '**', '*.jsonld'), recursive=True))
+
+
 def version_rank(version: str) -> tuple:
     if version == "latest":
         return (999, 999)
     parts = version.lstrip("v").split(".")
     return (int(parts[0]), int(parts[1]) if len(parts) > 1 else 0)
+
 
 def version_redirection_candidate(version: str) -> bool:
     """
