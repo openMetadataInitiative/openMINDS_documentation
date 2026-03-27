@@ -27,6 +27,29 @@ def count_instances(version:str) -> int:
     instances_sources = os.path.join(os.path.realpath("."), "sources_instances", "instances", version)
     return sum(1 for _ in glob.iglob(os.path.join(instances_sources, '**', '*.jsonld'), recursive=True))
 
+
+def version_rank(version: str) -> tuple:
+    if version == "latest":
+        return (999, 999)
+    parts = version.lstrip("v").split(".")
+    return (int(parts[0]), int(parts[1]) if len(parts) > 1 else 0)
+
+
+def version_redirection_candidate(version: str) -> bool:
+    """
+    Determine whether a documentation version should be redirected.
+
+    Redirection is applied to:
+    - the special alias "latest"
+    - any version greater than or equal to 4.0
+
+    Versions earlier than 4.0 are not redirected.
+    """
+    if version == "latest":
+        return True
+    rank = version_rank(version)
+    return rank >= (4, 0)
+
 class SchemaLoader(object):
 
     def __init__(self):
@@ -78,7 +101,7 @@ class InstanceLoader(object):
             with open(absolute_path_instance, "r") as instance_f:
                 instance_payload = json.load(instance_f)
             instance_schema = instance_payload["@type"].split("/")[-1]
-            if instance_schema in ["BrainAtlasVersion", "CommonCoordinateSpaceVersion", "ParcellationEntity", "ParcellationEntityVersion"]:
+            if instance_schema in ["AnatomicalAtlasVersion", "BrainAtlasVersion", "CommonCoordinateSpaceVersion", "CommonCoordinateFrameworkVersion", "ParcellationEntity", "ParcellationEntityVersion"]:
                 instancelib_docu_path_for_schemas[instance_schema] = "/".join(relative_instance_path.split("/")[:-2])
             elif instance_schema == "Technique": #FIXME
                 if relative_instance_path.split("/")[-2] == "analysisTechnique":

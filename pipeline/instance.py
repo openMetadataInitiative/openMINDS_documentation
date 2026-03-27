@@ -57,10 +57,10 @@ class InstancesDocBuilder(object):
         instance_type_plural = self._build_plurals(instance_type)
 
         # create type depending link directory and page heading
-        if instance_type in ["brainAtlas", "contentType", "commonCoordinateSpace", "license"]:
+        if instance_type in ["accessibility", "brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateFramework", "commonCoordinateSpace", "license"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
             page_heading = instance_type_plural
-        elif instance_type in ["parcellationEntity", "brainAtlasVersion", "commonCoordinateSpaceVersion"]:
+        elif instance_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateFrameworkVersion", "commonCoordinateSpaceVersion", "parcellationEntity"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", instance_type_plural)
             page_heading = instance_heading.split("_")[0]
         elif instance_type in ["parcellationEntityVersion"]:
@@ -91,10 +91,10 @@ class InstancesDocBuilder(object):
         instance_example_id_basename = instance_example_id.split("/")[-1]
 
         # page_heading and link depends on type
-        if instance_example_type in ["brainAtlas", "contentType", "commonCoordinateSpace", "license"]:
+        if instance_example_type in ["accessibility", "anatomicalAtlas", "brainAtlas", "contentType", "commonCoordinateFramework", "commonCoordinateSpace", "license"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
             page_heading = instance_type_plural
-        elif instance_example_type in ["parcellationEntity", "brainAtlasVersion", "commonCoordinateSpaceVersion"]:
+        elif instance_example_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateFrameworkVersion", "commonCoordinateSpaceVersion", "parcellationEntity"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", instance_type_plural)
             page_heading = instance_example_id_basename.split("_")[0]
         elif instance_example_type in ["parcellationEntityVersion"]:
@@ -136,7 +136,9 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if type(value) == str:
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif type(value) == str:
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif type(value) == List:
                         if all(isinstance(item, str) for item in value):
@@ -178,7 +180,9 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if isinstance(value, (str, int, float)):
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif isinstance(value, (str, int, float)):
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif isinstance(value, Dict) and "@id" in value.keys():
                         doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
@@ -225,12 +229,14 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if isinstance(value, (str, int, float)):
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif isinstance(value, (str, int, float)):
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif isinstance(value, Dict):
                         if prop == "digitalIdentifier":
                             doc.field(name=prop, value=value["@id"], indent=field_list_indent)
-                        if prop == "usedSpecies":
+                        if prop in ("usedSpecies", "usedTaxon"):
                             doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
                         if prop == "hasTerminology":
                             if instance_data["hasTerminology"] and instance_data["hasTerminology"]["hasEntity"]:
@@ -243,8 +249,8 @@ class InstancesDocBuilder(object):
                             sorted_value_list = sorted([str(item) for item in value])
                             doc.field(name=prop, value=", ".join(sorted_value_list), indent=field_list_indent)
                         if all(isinstance(item, Dict) for item in value):
-                            if prop == "hasVersion":
-                                if instance_data["hasVersion"]:
+                            if prop in ("isVersionOf", "hasVersion"):
+                                if prop in instance_data:
                                     doc.field(name=prop, value=self._build_instance_library_link(value), indent=field_list_indent)
                                 else:
                                     doc.field(name=prop, value="NOT DEFINED YET", indent=field_list_indent)
@@ -257,10 +263,10 @@ class InstancesDocBuilder(object):
     def build(self):
         for instancelib_docu_relative_path, instances_absolute_paths in self.relative_paths_for_instancelib_docu.items():
             # build RST docu for content types, licences and each terminology
-            if instancelib_docu_relative_path.split("/")[0] in ["contentTypes", "licenses", "terminologies"]:
+            if instancelib_docu_relative_path.split("/")[0] in ["accessibilities", "contentTypes", "licenses", "terminologies"]:
                 self._build_simple_instances(instancelib_docu_relative_path, instances_absolute_paths)
             # build RST docu for research products and their versions (brainAtlases, commonCoordinateSpaces, brainAtlasVersions, commonCoordinateSpaceVersions)
-            if instancelib_docu_relative_path.split("/")[0] in ["brainAtlases", "commonCoordinateSpaces", "brainAtlasVersions", "commonCoordinateSpaceVersions"]:
+            if instancelib_docu_relative_path.split("/")[0] in ["anatomicalAtlases", "anatomicalAtlasVersions", "brainAtlases", "brainAtlasVersions", "commonCoordinateFrameworks", "commonCoordinateFrameworkVersions", "commonCoordinateSpaces", "commonCoordinateSpaceVersions"]:
                 self._build_complex_sands_instances(instancelib_docu_relative_path, instances_absolute_paths)
             # build RST docu for other instances (parcellationEntities, parcellationEntityVersions)
             if instancelib_docu_relative_path.split("/")[0] in ["parcellationEntities", "parcellationEntityVersions"]:

@@ -1,0 +1,39 @@
+name: htaccess-deploy
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+  
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: pipeline
+          path: pipeline
+          token: ${{ secrets.GITHUB_TOKEN }}  # write-enabled token
+
+      - name: Generate redirect map
+        run: |
+          echo "Running post-build deployment for .htaccess"        
+          cd pipeline
+          pip install -r requirements.txt
+          python pipeline/redirect_map.py
+
+      - name: Commit and push changes
+        run: |
+          cd pipeline
+          git config user.name "openMINDS"
+          git config user.email "support@om-i.org"
+          git add .htaccess
+          git commit -m "[skip ci] Add .htaccess" || echo "No changes to commit"
+          git push
+
+      - name: Trigger synchronization of htaccess file
+        run: |
+          curl -u ${{ secrets.HTACCESS_SYNC_AUTH }} https://openminds.om-i.org/sync_htaccess.php
