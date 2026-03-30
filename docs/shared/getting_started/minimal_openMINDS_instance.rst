@@ -9,11 +9,11 @@ This page shows how a minimal openMINDS instance is constructed from a schema sp
 Creating a minimal instance
 ###########################
 
-Let us start with a simple "Person" instance, designed according to the `Person schema`_.
+Let us start with a simple Person instance, designed according to the `Person`_ schema.
 
 If you inspect the schema, you will see that only the property `preferredName`_ is required. The property accepts a single value of type ``"string"``. All other properties are optional.
 
-A minimal "Person" instance can therefore look like this:
+A minimal Person instance can therefore look like this:
 
 .. tabs:: instance-formatting
 
@@ -96,5 +96,5 @@ The applicable namespace pattern can be found in the corresponding schema specif
 The following chapter shows how individual openMINDS instances are connected and structured into a graph.
 
 .. _previous chapter: jsonld_introduction.html
-.. _Person schema: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html
+.. _Person: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html
 .. _preferredName: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#preferredname
