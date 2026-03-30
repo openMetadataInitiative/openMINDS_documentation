@@ -27,7 +27,7 @@ Linking instances
 
 Some properties in openMINDS schemas expect links to other instances.
 
-For example, the `Organization schema`_ requires, in addition to the string property ``"name"``, the property `countryOfFormation`_, which refers to an instance of type `SovereignState schema`_.
+For example, the Organization schema requires, in addition to the string property ``"name"``, the property `countryOfFormation`_, which refers to an instance of type `SovereignState schema`_.
  
 A minimal SovereignState instance could look like this:
 
