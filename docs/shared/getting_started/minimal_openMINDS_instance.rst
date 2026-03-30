@@ -91,6 +91,10 @@ The applicable namespace pattern can be found in the corresponding schema specif
 
    In openMINDS v3.0 and earlier, schema type IRIs include ``MODULE-NAME`` as an additional path component. While modularization continues to be used for maintenance and schema dependency logic, it is no longer reflected in the namespace to simplify IRIs.
 
+----
+
+The following chapter shows how individual openMINDS instances are connected and structured into a graph.
+
 .. _previous chapter: jsonld_introduction.html
 .. _Person schema: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html
 .. _preferredName: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#preferredname
