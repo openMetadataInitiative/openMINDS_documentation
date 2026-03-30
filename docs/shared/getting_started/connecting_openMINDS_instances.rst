@@ -2,9 +2,7 @@
 Connecting openMINDS instances
 ##############################
 
-In openMINDS, metadata is structured as interconnected objects.
-
-These objects are either:
+In openMINDS, metadata is structured as interconnected objects. These objects are either:
 
 - **linked instances**: separate nodes with their own ``"@id"`` that can be referenced from multiple places  
 - **embedded typed objects**: nested objects defined within another instance and not independently referable  
