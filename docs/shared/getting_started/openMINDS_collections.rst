@@ -1,34 +1,15 @@
-###################################
+##############################
 openMINDS metadata collections
-###################################
+##############################
 
 openMINDS instances are typically not used in isolation but combined into collections of interconnected metadata.
 
-Building on the structures introduced in the previous chapter, the current instances (Person, ContactInformation, and Location) form only partially connected components. To form a coherent metadata graph, these components need to be linked through additional instances.
-
-To establish such connections, we introduce an Organization instance that links to the existing Person and Location instances. This creates a fully connected metadata graph that can be organized as an openMINDS metadata collection.
-
-Storing collections
-###################
-
-openMINDS metadata collections can be stored in two main ways:
-
-- as multiple JSON-LD files (one instance per file) organized in a directory  
-- as a single JSON-LD file containing all instances in a graph structure  
-
----
-
-Collection directory
-####################
-
-In a directory-based collection, each instance is stored in a separate JSON-LD file.
-
-Example instances:
+In the previous chapter, we connected the following instances into a coherent metadata graph:
 
 .. tabs:: collection-files
 
    .. code-tab:: json
-      :caption: pv-jeltz.jsonld
+      :caption: Person
 
       {
         "@context": {
@@ -36,46 +17,79 @@ Example instances:
         },
         "@id": "_:pv-jeltz",
         "@type": "https://openminds.om-i.org/types/Person",
-        "contactInformation": {
-          "@id": "_:pv-jeltz_email"
-        },
         "preferredName": "Prostetnic Vogon Jeltz"
       }
 
    .. code-tab:: json
-      :caption: pv-jeltz_email.jsonld
+      :caption: Organization
 
       {
         "@context": {
           "@vocab": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:pv-jeltz_email",
-        "@type": "https://openminds.om-i.org/types/ContactInformation",
-        "email": "pv.jeltz@planning.vogon-constructor-fleet.gal"
-      }
-
-   .. code-tab:: json
-      :caption: cottington-location.jsonld
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.om-i.org/props/"
+        "@id": "_:vcf-earth",
+        "@type": "https://openminds.om-i.org/types/Organization",
+        "countryOfFormation": {
+          "@id": "_:vogonsphere"
         },
-        "@id": "_:cottington-location",
-        "@type": "https://openminds.om-i.org/types/Location",
-        "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
-        "geoCoordinates": {
-          "@type": "https://openminds.om-i.org/types/GeoCoordinates",
-          "elevation": 128.0,
-          "latitude": 51.8437,
-          "longitude": -2.9213
-        },
-        "country": {
-          "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
+        "membership": [
+          {
+            "@type": "https://openminds.om-i.org/types/Membership",
+            "member": {
+              "@id": "_:pv-jeltz"
+            },
+            "startDate": "1978-04-01"
+          }
+        ],
+        "name": "Vogon Constructor Fleet, Earth Demolition Subdivision",
+        "type": {
+          "@id": "https://openminds.om-i.org/instances/organizationType/organizationalUnit"
         }
       }
 
-These files can be organized in different ways:
+   .. code-tab:: json
+      :caption: SovereignState
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.om-i.org/props/"
+        },
+        "@id": "_:vogonsphere",
+        "@type": "https://openminds.om-i.org/types/SovereignState",
+        "name": "Vogonsphere"
+      }
+
+   .. code-tab:: json
+      :caption: OrganizationType
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.om-i.org/props/"
+        },
+        "@id": "https://openminds.om-i.org/instances/organizationType/organizationalUnit",
+        "@type": "https://openminds.om-i.org/types/OrganizationType",
+        "definition": "A distinct unit within a larger organization.",
+        "name": "organizational unit"
+      }
+
+A Person (Prostetnic Vogon Jeltz) who is a member of an Organization (Vogon Constructor Fleet, Earth Demolition Subdivision) which specifies its country of formation in a custom-defined SovereignState (Vogonsphere) and its OrganizationType (organizational unit) from an openMINDS instance library.
+
+For a metadata collection to be complete and fully valid, all referenced instances must be included in the collection. This also applies to instances originating from openMINDS instance libraries.
+
+Storing collections
+###################
+
+openMINDS metadata collections can be stored in two main ways:
+
+- as multiple JSON-LD files organized in a directory  
+- as a single JSON-LD file containing all instances in one graph structure  
+
+Collection directory
+####################
+
+In a directory-based collection, each instance is stored in a separate JSON-LD file.
+
+These files can be in a flat structure or grouped by schema type:
 
 .. tabs:: collection-directory
 
@@ -84,8 +98,9 @@ These files can be organized in different ways:
 
       myCollection
       |-- pv-jeltz.jsonld
-      |-- pv-jeltz_email.jsonld
-      `-- cottington-location.jsonld
+      |-- vcf-earth.jsonld
+      |-- vogonsphere.jsonld
+      `-- organizational-unit.jsonld
 
    .. code-tab:: text
       :caption: grouped by schema
@@ -93,21 +108,21 @@ These files can be organized in different ways:
       myCollection
       |-- persons
       |   `-- pv-jeltz.jsonld
-      |-- contactInformations
-      |   `-- pv-jeltz_email.jsonld
-      `-- locations
-          `-- cottington-location.jsonld
-
-The organization of files within the directory is flexible. Instances can be stored in a flat structure or grouped by schema type.
-
----
+      |-- organizations
+      |   `-- vcf-earth.jsonld
+      |-- organizationTypes
+      |   `-- organizational-unit.jsonld
+      |-- sovereignStates
+          `-- vogonsphere.jsonld
 
 Collection file
 ###############
 
-Alternatively, all instances of a collection can be stored in a single JSON-LD file using the ``"@graph"`` keyword.
+Alternatively, all instances of a collection can be stored in a single JSON-LD file.
 
-The ``"@graph"`` keyword defines a list of instances that together form the metadata graph. In this case, the ``"@context"`` can be defined once for all instances:
+In this case, the JSON-LD keyword ``"@graph"`` is used to define a list of objects that together form the metadata graph.
+
+Unlike a directory-based collection, where each file defines its own ``"@context"``, a collection file can define one common ``"@context"`` at the top level. This context then applies to all objects listed under ``"@graph"``.
 
 .. code-block:: json
    :caption: myCollection.jsonld
@@ -120,29 +135,38 @@ The ``"@graph"`` keyword defines a list of instances that together form the meta
        {
          "@id": "_:pv-jeltz",
          "@type": "https://openminds.om-i.org/types/Person",
-         "contactInformation": {
-           "@id": "_:pv-jeltz_email"
-         },
          "preferredName": "Prostetnic Vogon Jeltz"
        },
        {
-         "@id": "_:pv-jeltz_email",
-         "@type": "https://openminds.om-i.org/types/ContactInformation",
-         "email": "pv.jeltz@planning.vogon-constructor-fleet.gal"
+         "@id": "_:vcf-earth",
+         "@type": "https://openminds.om-i.org/types/Organization",
+         "countryOfFormation": {
+           "@id": "_:vogonsphere"
+         },
+         "membership": [
+           {
+             "@type": "https://openminds.om-i.org/types/Membership",
+             "member": {
+               "@id": "_:pv-jeltz"
+             },
+             "startDate": "1978-04-01"
+           }
+         ],
+         "name": "Vogon Constructor Fleet, Earth Demolition Subdivision",
+         "type": {
+           "@id": "https://openminds.om-i.org/instances/organizationType/organizationalUnit"
+         }
        },
        {
-         "@id": "_:cottington-location",
-         "@type": "https://openminds.om-i.org/types/Location",
-         "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
-         "geoCoordinates": {
-           "@type": "https://openminds.om-i.org/types/GeoCoordinates",
-           "elevation": 128.0,
-           "latitude": 51.8437,
-           "longitude": -2.9213
-         },
-         "country": {
-           "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
-         }
+         "@id": "_:vogonsphere",
+         "@type": "https://openminds.om-i.org/types/SovereignState",
+         "name": "Vogonsphere"
+       },
+       {
+         "@id": "https://openminds.om-i.org/instances/organizationType/organizationalUnit",
+         "@type": "https://openminds.om-i.org/types/OrganizationType",
+         "definition": "A distinct unit within a larger organization.",
+         "name": "organizational unit"
        }
      ]
    }
