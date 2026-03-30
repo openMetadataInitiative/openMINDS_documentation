@@ -137,7 +137,7 @@ The exact ``"@id"`` of a library instance for a given openMINDS version can be f
 
 ----
 
-By combining linked instances, embedded objects, and optional references to globally provided openMINDS library instances, openMINDS metadata can represent complex graph structures, which are organized as metadata collections.
+By combining linked instances, embedded objects, and optional references to globally provided openMINDS library instances, openMINDS metadata can represent complex graph structures. These graph structures are organized as metadata collections, as explained in the following chapter.
 
 .. _Person schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actors/person.html
 .. _contactInformation: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actors/person.html#contactinformation
