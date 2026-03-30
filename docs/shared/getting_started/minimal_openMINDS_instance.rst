@@ -50,14 +50,14 @@ A minimal "Person" instance can therefore look like this:
         "https://openminds.om-i.org/props/preferredName": "Zaphod Beeblebrox"
       }
 
-As explained in the previous page, these representations are equivalent and differ only in how property names are written.
+As explained in the previous page, the instance representations **compact-1**, **compact-2**, and **expanded** are equivalent and differ only in how property names are written.
 
 In openMINDS, the **compact-1** syntax using ``"@vocab"`` is typically preferred, as it provides a concise and consistent representation without requiring prefixed property names.
 
 openMINDS namespaces
 ####################
 
-The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend on the openMINDS version.
+The IRIs used in ``"@type"`` and in the property namespace depend on the openMINDS version.
 
 .. tabs:: namespace-version
 
@@ -68,9 +68,9 @@ The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend
         "@context": {
           "@vocab": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:zaphod-beeblebrox",
-        "@type": "https://openminds.om-i.org/types/Person",
-        "preferredName": "Zaphod Beeblebrox"
+        "@id": "INSTANCE-IDENTIFIER",
+        "@type": "https://openminds.om-i.org/types/SCHEMA-NAME",
+        "PROPERTY-NAME": "PROPERTY-VALUE"
       }
 
    .. code-tab:: json
@@ -80,12 +80,16 @@ The IRIs used in ``"@type"`` and in the property namespace (``"@vocab"``) depend
         "@context": {
           "@vocab": "https://openminds.ebrains.eu/vocab/"
         },
-        "@id": "_:zaphod-beeblebrox",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "preferredName": "Zaphod Beeblebrox"
+        "@id": "INSTANCE-IDENTIFIER",
+        "@type": "https://openminds.ebrains.eu/MODULE-NAME/SCHEMA-NAME",
+        "PROPERTY-NAME": "PROPERTY-VALUE"
       }
 
-The following chapters show how openMINDS instances are connected into a linked metadata structure.
+The applicable namespace pattern can be found in the corresponding schema specification for the openMINDS version you are using.
+
+.. note::
+
+   In openMINDS v3.0 and earlier, schema type IRIs include ``MODULE-NAME`` as an additional path component. While modularization continues to be used for maintenance and schema dependency logic, it is no longer reflected in the namespace to simplify IRIs.
 
 .. _previous chapter: jsonld_introduction.html
 .. _Person schema: https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html
