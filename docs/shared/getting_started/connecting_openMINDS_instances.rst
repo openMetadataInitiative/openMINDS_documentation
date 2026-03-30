@@ -63,7 +63,7 @@ Embedded typed objects
 
 Some properties expect embedded objects instead of links.
 
-For example, the Organization schema defines the property `membership`_, which expects an embedded object array with items of schema type `Membership`_.
+For example, the Organization schema defines the property `membership <membership_property_>`_, which expects an embedded object array with items of schema type `Membership <membership_schema_>`_.
 
 Although a Membership object is defined by its own schema, its properties are directly provided within the Organization instance:
 
@@ -166,9 +166,9 @@ The following chapter shows how these interconnected instances are organized int
 
 .. _Organization: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html
 .. _countryOfFormation: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#countryofformation
-.. _membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#membership
+.. _membership_property: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#membership
 .. _SovereignState: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/sovereignState.html
-.. _Membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
+.. _membership_schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
 .. _type: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#countryofformation
 .. _OrganizationType: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/organizationType.html
 
