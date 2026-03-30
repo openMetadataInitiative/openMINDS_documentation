@@ -9,7 +9,7 @@ In openMINDS, metadata is structured as interconnected objects. These objects ar
 
 Both are defined by separate schemas and are represented differently in openMINDS instances, as shown below.
 
-To demonstrate this, we use the following Organization instance `Organization schema`_, which is gradually extended throughout this page:
+To demonstrate this, we use the following instance of schema type `Organization`_, which is gradually extended throughout this page:
 
 .. code-block:: json
 
@@ -27,7 +27,7 @@ Linking instances
 
 Some properties in openMINDS schemas expect links to other instances.
 
-For example, the Organization schema requires, in addition to the string property ``"name"``, the property `countryOfFormation`_, which refers to an instance of type `SovereignState schema`_.
+For example, the Organization schema requires, in addition to the string property ``"name"``, the property `countryOfFormation`_, which refers to an instance of schema type `SovereignState`_.
  
 A minimal SovereignState instance could look like this:
 
@@ -42,7 +42,7 @@ A minimal SovereignState instance could look like this:
      "name": "Vogonsphere"
    }
 
-This instance can then be referenced from the Organization instance:
+Using the ``"@id"`` of this SovereignState instance, the Organization instance can reference it as a JSON object:
 
 .. code-block:: json
 
@@ -58,14 +58,12 @@ This instance can then be referenced from the Organization instance:
      "name": "Vogon Constructor Fleet, Earth Demolition Subdivision"
    }
 
-The link is written as a JSON object that contains an ``"@id"`` key-value pair referencing the identifier of the target instance.
-
 Embedded typed objects
 ######################
 
 Some properties expect embedded objects instead of links.
 
-For example, the Organization schema defines the property `membership`_, which expects an embedded object array with items of type `Membership schema`_.
+For example, the Organization schema defines the property `membership`_, which expects an embedded object array with items of schema type `Membership`_.
 
 Although a Membership object is defined by its own schema, its properties are directly provided within the Organization instance:
 
@@ -106,7 +104,7 @@ Linking openMINDS library instances
 
 For selected schemas, the openMINDS framework provides curated `instance libraries`_. If desired, these globally defined library instances can be linked in the same way as user-defined instances.
 
-For example, the Organization schema requires the property ``type``, which expects a linked instance of type `OrganizationType schema`_.
+For example, the Organization schema requires the property `type`_, which expects a linked instance of schema type `OrganizationType`_.
 
 Instead of defining an individual instance (as we did above for SouvereignState), we use the `openMINDS OrganizationType library`_ and simply reference the desired type (`organizational unit`_) using its openMINDS-defined ``"@id"``:
 
@@ -166,12 +164,13 @@ By combining linked instances, embedded objects, and optional references to glob
 
 The following chapter shows how these interconnected instances are organized into openMINDS metadata collections.
 
-.. _Organization schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html
+.. _Organization: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html
 .. _countryOfFormation: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#countryofformation
 .. _membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#membership
-.. _SovereignState schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/sovereignState.html
-.. _Membership schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
-.. _OrganizationType schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/organizationType.html
+.. _SovereignState: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/sovereignState.html
+.. _Membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
+.. _type: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#countryofformation
+.. _OrganizationType: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/organizationType.html
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _openMINDS OrganizationType library: https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/organizationType.html
