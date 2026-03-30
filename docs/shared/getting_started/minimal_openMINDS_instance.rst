@@ -24,9 +24,9 @@ A minimal "Person" instance can therefore look like this:
         "@context": {
           "@vocab": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:zaphod-beeblebrox",
+        "@id": "_:pv-jeltz",
         "@type": "https://openminds.om-i.org/types/Person",
-        "preferredName": "Zaphod Beeblebrox"
+        "preferredName": "Prostetnic Vogon Jeltz"
       }
 
    .. code-tab:: json
@@ -36,18 +36,18 @@ A minimal "Person" instance can therefore look like this:
         "@context": {
           "om": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:zaphod-beeblebrox",
+        "@id": "_:pv-jeltz",
         "@type": "https://openminds.om-i.org/types/Person",
-        "om:preferredName": "Zaphod Beeblebrox"
+        "om:preferredName": "Prostetnic Vogon Jeltz"
       }
 
    .. code-tab:: json
       :caption: expanded
 
       {
-        "@id": "_:zaphod-beeblebrox",
+        "@id": "_:pv-jeltz",
         "@type": "https://openminds.om-i.org/types/Person",
-        "https://openminds.om-i.org/props/preferredName": "Zaphod Beeblebrox"
+        "https://openminds.om-i.org/props/preferredName": "Prostetnic Vogon Jeltz"
       }
 
 As explained in the previous page, the instance representations **compact-1**, **compact-2**, and **expanded** are equivalent and differ only in how property names are written.
