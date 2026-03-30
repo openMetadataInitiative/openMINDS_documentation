@@ -65,7 +65,7 @@ Embedded typed objects
 
 Some properties expect embedded objects instead of links.
 
-For example, the Organization schema defines the property ``membership``, which expects an embedded object array with items of type `Membership schema`_.
+For example, the Organization schema defines the property `membership`_, which expects an embedded object array with items of type `Membership schema`_.
 
 Although a Membership object is defined by its own schema, its properties are directly provided within the Organization instance:
 
@@ -166,6 +166,8 @@ By combining linked instances, embedded objects, and optional references to glob
 
 The following chapter shows how these interconnected instances are organized into openMINDS metadata collections.
 
+.. _Organization schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html
+.. _membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#membership
 .. _SovereignState schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/sovereignState.html
 .. _Membership schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
 .. _OrganizationType schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/organizationType.html
