@@ -1,6 +1,6 @@
-#####################
-openMINDS collections
-#####################
+##############################
+openMINDS metadata collections
+##############################
 
 An openMINDS metadata collection is composed of multiple linked instances. The instances of such a collection can either be stored in separate JSON-LD files in a dedicated directory or all together within one collection JSON-LD file. 
 
