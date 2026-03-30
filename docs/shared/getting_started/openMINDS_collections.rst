@@ -1,279 +1,150 @@
-##############################
+###################################
 openMINDS metadata collections
-##############################
+###################################
 
-An openMINDS metadata collection is composed of multiple linked instances. The instances of such a collection can either be stored in separate JSON-LD files in a dedicated directory or all together within one collection JSON-LD file. 
+openMINDS instances are typically not used in isolation but combined into collections of interconnected metadata.
 
-In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minimal collection which included a "Person" instance linked to a "ContactInformation" instance and with an embedded "Affiliation" that links to a "Consortium" instance. In the following we extended this initial collection by adding three more "Person" instances that are affiliated to the same "Consortium" instance.
+Building on the structures introduced in the previous chapter, the current instances (Person, ContactInformation, and Location) form only partially connected components. To form a coherent metadata graph, these components need to be linked through additional instances.
+
+To establish such connections, we introduce an Organization instance that links to the existing Person and Location instances. This creates a fully connected metadata graph that can be organized as an openMINDS metadata collection.
+
+Storing collections
+###################
+
+openMINDS metadata collections can be stored in two main ways:
+
+- as multiple JSON-LD files (one instance per file) organized in a directory  
+- as a single JSON-LD file containing all instances in a graph structure  
+
+---
 
 Collection directory
 ####################
 
-The instances of the above stated collection could be stored in separate files:
+In a directory-based collection, each instance is stored in a separate JSON-LD file.
 
-.. tabs::
+Example instances:
+
+.. tabs:: collection-files
 
    .. code-tab:: json
-      :caption: arthur-dent.jsonld
+      :caption: pv-jeltz.jsonld
 
       {
         "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
+          "@vocab": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:arthur-dent",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "Dent",
-        "givenName": "Arthur"
-      }
-
-   .. code-tab:: json
-      :caption: ford-prefect.jsonld
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:ford-prefect",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "Prefect",
-        "givenName": "Ford"
-      }
-
-   .. code-tab:: json
-      :caption: heart-of-gold-crew.jsonld
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:heart-of-gold-crew",
-        "@type": "https://openminds.ebrains.eu/core/Consortium",
-        "fullName": "Heart of Gold Spacecraft Crew"
-      }
-
-   .. code-tab:: json
-      :caption: tricia-marie-mcmillan.jsonld
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:tricia-marie-mcmillan",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "alternateName": [
-          "Trillian Astra"
-        ],
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "McMillan",
-        "givenName": "Tricia Marie"
-      }
-
-   .. code-tab:: json
-      :caption: zaphod-beeblebrox.jsonld
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:zaphod-beeblebrox",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
+        "@id": "_:pv-jeltz",
+        "@type": "https://openminds.om-i.org/types/Person",
         "contactInformation": {
-          "@id": "_:zaphod-beeblebrox_email"
+          "@id": "_:pv-jeltz_email"
         },
-        "familyName": "Beeblebrox",
-        "givenName": "Zaphod"
+        "preferredName": "Prostetnic Vogon Jeltz"
       }
 
    .. code-tab:: json
-      :caption: zaphod-beeblebrox_email.jsonld
+      :caption: pv-jeltz_email.jsonld
 
       {
         "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
+          "@vocab": "https://openminds.om-i.org/props/"
         },
-        "@id": "_:zaphod-beeblebrox_email",
-        "@type": "https://openminds.ebrains.eu/core/ContactInformation",
-        "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
+        "@id": "_:pv-jeltz_email",
+        "@type": "https://openminds.om-i.org/types/ContactInformation",
+        "email": "pv.jeltz@planning.vogon-constructor-fleet.gal"
       }
 
-These separate files should be stored in a dedicated collection directory. The organization of files within such a directory is flexible. In our example we present the files as a flat list (**flat**) or grouped into subdirectories for each type (**grouped**):
+   .. code-tab:: json
+      :caption: cottington-location.jsonld
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.om-i.org/props/"
+        },
+        "@id": "_:cottington-location",
+        "@type": "https://openminds.om-i.org/types/Location",
+        "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
+        "geoCoordinates": {
+          "@type": "https://openminds.om-i.org/types/GeoCoordinates",
+          "elevation": 128.0,
+          "latitude": 51.8437,
+          "longitude": -2.9213
+        },
+        "country": {
+          "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
+        }
+      }
+
+These files can be organized in different ways:
 
 .. tabs:: collection-directory
 
-   .. code-tab:: markdown
+   .. code-tab:: text
       :caption: flat
 
       myCollection
-      |-- arthur-dent.jsonld
-      |-- ford-prefect.jsonld
-      |-- heart-of-gold-crew.jsonld
-      |-- tricia-marie-mcmillan.jsonld
-      |-- zaphod-beeblebrox.jsonld
-      `-- zaphod-beeblebrox_email.jsonld
+      |-- pv-jeltz.jsonld
+      |-- pv-jeltz_email.jsonld
+      `-- cottington-location.jsonld
 
-   .. code-tab:: markdown
-      :caption: grouped
+   .. code-tab:: text
+      :caption: grouped by schema
 
       myCollection
-      |-- consortia
-      |   `-- heart-of-gold-crew.jsonld
+      |-- persons
+      |   `-- pv-jeltz.jsonld
       |-- contactInformations
-      |   `-- zaphod-beeblebrox_email.jsonld
-      `-- persons
-          |-- arthur-dent.jsonld
-          |-- ford-prefect.jsonld
-          |-- tricia-marie-mcmillan.jsonld
-          `-- zaphod-beeblebrox.jsonld
+      |   `-- pv-jeltz_email.jsonld
+      `-- locations
+          `-- cottington-location.jsonld
 
-If the collection contains instances with sensitive information, these instances can be stored in a protected subdirectory. For our example directories above that could look like this:
+The organization of files within the directory is flexible. Instances can be stored in a flat structure or grouped by schema type.
 
-.. tabs:: collection-directory
-
-   .. code-tab:: markdown
-      :caption: flat
-
-      myCollection
-      |-- private
-      |   `-- zaphod-beeblebrox_email.jsonld
-      `-- public
-          |-- arthur-dent.jsonld
-          |-- ford-prefect.jsonld
-          |-- heart-of-gold-crew.jsonld
-          |-- tricia-marie-mcmillan.jsonld
-          `-- zaphod-beeblebrox.jsonld
-
-
-   .. code-tab:: markdown
-      :caption: grouped
-
-      myCollection
-      |-- private
-      |   `-- contactInformations
-      |       `-- zaphod-beeblebrox_email.jsonld
-      `-- public
-          |-- consortia
-          |   `-- heart-of-gold-crew.jsonld
-          `-- persons
-              |-- arthur-dent.jsonld
-              |-- ford-prefect.jsonld
-              |-- tricia-marie-mcmillan.jsonld
-              `-- zaphod-beeblebrox.jsonld
+---
 
 Collection file
 ###############
 
-It is also possible to store all instances of an openMINDS metadata collection into a single JSON-LD file in form of a simple graph object. In such a case the JSON-LD keyword ``"@context"`` can be globally defined for all instances listed under the JSON-LD keyword ``"@graph"``:
+Alternatively, all instances of a collection can be stored in a single JSON-LD file using the ``"@graph"`` keyword.
+
+The ``"@graph"`` keyword defines a list of instances that together form the metadata graph. In this case, the ``"@context"`` can be defined once for all instances:
 
 .. code-block:: json
    :caption: myCollection.jsonld
 
    {
      "@context": {
-       "@vocab": "https://openminds.ebrains.eu/vocab/"
+       "@vocab": "https://openminds.om-i.org/props/"
      },
      "@graph": [
        {
-         "@id": "_:arthur-dent",
-         "@type": "https://openminds.ebrains.eu/core/Person",
-         "affiliation": [
-           {
-             "@type": "https://openminds.ebrains.eu/core/Affiliation",
-             "memberOf": {
-               "@id": "_:heart-of-gold-crew"
-             }
-           }
-         ],
-         "familyName": "Dent",
-         "givenName": "Arthur"
-       },
-       {
-         "@id": "_:ford-prefect",
-         "@type": "https://openminds.ebrains.eu/core/Person",
-         "affiliation": [
-           {
-             "@type": "https://openminds.ebrains.eu/core/Affiliation",
-             "memberOf": {
-               "@id": "_:heart-of-gold-crew"
-             }
-           }
-         ],
-         "familyName": "Prefect",
-         "givenName": "Ford"
-       },
-       {
-         "@id": "_:heart-of-gold-crew",
-         "@type": "https://openminds.ebrains.eu/core/Consortium",
-         "fullName": "Heart of Gold Spacecraft Crew"
-       },
-       {
-         "@id": "_:tricia-marie-mcmillan",
-         "@type": "https://openminds.ebrains.eu/core/Person",
-         "alternateName": [
-           "Trillian Astra"
-         ],
-         "affiliation": [
-           {
-             "@type": "https://openminds.ebrains.eu/core/Affiliation",
-             "memberOf": {
-               "@id": "_:heart-of-gold-crew"
-             }
-           }
-         ],
-         "familyName": "McMillan",
-         "givenName": "Tricia Marie"
-       },
-       {
-         "@id": "_:zaphod-beeblebrox",
-         "@type": "https://openminds.ebrains.eu/core/Person",
-         "affiliation": [
-           {
-             "@type": "https://openminds.ebrains.eu/core/Affiliation",
-             "memberOf": {
-               "@id": "_:heart-of-gold-crew"
-             }
-           }
-         ],
+         "@id": "_:pv-jeltz",
+         "@type": "https://openminds.om-i.org/types/Person",
          "contactInformation": {
-           "@id": "_:zaphod-beeblebrox_email"
+           "@id": "_:pv-jeltz_email"
          },
-         "familyName": "Beeblebrox",
-         "givenName": "Zaphod"
+         "preferredName": "Prostetnic Vogon Jeltz"
        },
        {
-         "@id": "_:zaphod-beeblebrox_email",
-         "@type": "https://openminds.ebrains.eu/core/ContactInformation",
-         "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
+         "@id": "_:pv-jeltz_email",
+         "@type": "https://openminds.om-i.org/types/ContactInformation",
+         "email": "pv.jeltz@planning.vogon-constructor-fleet.gal"
+       },
+       {
+         "@id": "_:cottington-location",
+         "@type": "https://openminds.om-i.org/types/Location",
+         "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
+         "geoCoordinates": {
+           "@type": "https://openminds.om-i.org/types/GeoCoordinates",
+           "elevation": 128.0,
+           "latitude": 51.8437,
+           "longitude": -2.9213
+         },
+         "country": {
+           "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
+         }
        }
      ]
    }
+
+Both approaches represent the same underlying metadata graph and can be used depending on workflow and tooling.
