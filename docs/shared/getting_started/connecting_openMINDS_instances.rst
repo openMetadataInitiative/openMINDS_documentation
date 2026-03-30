@@ -24,9 +24,9 @@ A minimal ContactInformation instance could look like this:
      "@context": {
        "@vocab": "https://openminds.om-i.org/props/"
      },
-     "@id": "_:zaphod-beeblebrox_email",
+     "@id": "_:pv-jeltz_email",
      "@type": "https://openminds.om-i.org/types/ContactInformation",
-     "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
+     "email": "pv.jeltz@planning.vogon-constructor-fleet.gal"
    }
 
 This instance can then be referenced from a Person instance:
@@ -40,9 +40,9 @@ This instance can then be referenced from a Person instance:
      "@id": "_:zaphod-beeblebrox",
      "@type": "https://openminds.om-i.org/types/Person",
      "contactInformation": {
-       "@id": "_:zaphod-beeblebrox_email"
+       "@id": "_:pv-jeltz_email"
      },
-     "preferredName": "Zaphod Beeblebrox"
+     "preferredName": "Prostetnic Vogon Jeltz"
    }
 
 The link is written as a JSON object that contains an ``"@id"`` key-value pair referencing the identifier of the target instance.
@@ -64,7 +64,7 @@ Although the structure of the embedded object is specified by the `GeoCoordinate
      },
      "@id": "_:cottington-location",
      "@type": "https://openminds.om-i.org/types/Location",
-     "address": "42B Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
+     "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
      "geoCoordinates": {
        "@type": "https://openminds.om-i.org/types/GeoCoordinates",
        "elevation": 128.0,
