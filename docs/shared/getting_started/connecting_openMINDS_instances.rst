@@ -37,7 +37,7 @@ This instance can then be referenced from a Person instance:
      "@context": {
        "@vocab": "https://openminds.om-i.org/props/"
      },
-     "@id": "_:zaphod-beeblebrox",
+     "@id": "_:pv-jeltz",
      "@type": "https://openminds.om-i.org/types/Person",
      "contactInformation": {
        "@id": "_:pv-jeltz_email"
@@ -99,7 +99,7 @@ Instead of defining an individual instance, the desired country (`United Kingdom
      },
      "@id": "_:cottington-location",
      "@type": "https://openminds.om-i.org/types/Location",
-     "address": "42B Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
+     "address": "Vogon Planning Annex 12-B (Earth Liaison Office), Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
      "geoCoordinates": {
        "@type": "https://openminds.om-i.org/types/GeoCoordinates",
        "elevation": 128.0,
