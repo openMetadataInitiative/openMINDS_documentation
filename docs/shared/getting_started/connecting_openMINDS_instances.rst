@@ -167,6 +167,7 @@ By combining linked instances, embedded objects, and optional references to glob
 The following chapter shows how these interconnected instances are organized into openMINDS metadata collections.
 
 .. _Organization schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html
+.. _countryOfFormation: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#countryofformation
 .. _membership: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actor/organization.html#membership
 .. _SovereignState schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/controlledTerms/sovereignState.html
 .. _Membership schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/miscellaneous/membership.html
