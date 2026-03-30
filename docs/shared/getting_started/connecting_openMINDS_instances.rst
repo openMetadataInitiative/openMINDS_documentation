@@ -115,13 +115,17 @@ Library instances are referenced via their openMINDS-defined ``"@id"`` and can b
 
 The namespace of these ``"@id"`` values depends on the openMINDS version:
 
-.. code-block:: text
+.. tabs:: instance-id-namespace
 
-   v4.0+:
-   "https://openminds.om-i.org/instances/SCHEMA-NAME/INSTANCE-NAME"
+   .. code-tab:: text
+      :caption: v4.0+
 
-   ≤ v3.0:
-   "https://openminds.ebrains.eu/instances/SCHEMA-NAME/INSTANCE-NAME"
+      "https://openminds.om-i.org/instances/SCHEMA-NAME/INSTANCE-NAME"
+
+   .. code-tab:: text
+      :caption: ≤ v3.0
+
+      "https://openminds.ebrains.eu/instances/SCHEMA-NAME/INSTANCE-NAME"
 
 Be aware that in an ``"@id"``, the ``SCHEMA-NAME`` is written in lowerCamelCase, in contrast to the UpperCamelCase notation used in ``"@type"``.
 
@@ -133,7 +137,7 @@ The exact ``"@id"`` of a library instance for a given openMINDS version can be f
 
 ----
 
-By combining linked instances, embedded objects, and optional references to globally provided openMINDS library instances, openMINDS metadata can represent complex graph structures while supporting interoperability and integration across Linked Data.
+By combining linked instances, embedded objects, and optional references to globally provided openMINDS library instances, openMINDS metadata can represent complex graph structures, which are organized as metadata collections.
 
 .. _Person schema: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actors/person.html
 .. _contactInformation: https://openminds.docs.om-i.org/en/latest/schema_specifications/core/actors/person.html#contactinformation
