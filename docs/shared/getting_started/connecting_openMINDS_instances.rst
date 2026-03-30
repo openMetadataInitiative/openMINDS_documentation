@@ -91,51 +91,41 @@ For example, the Location schema requires, besides ``"address"``, also the prope
 
 Instead of defining an individual instance, the desired country (`United Kingdom`_) can be referenced directly from the `openMINDS SovereignState library`_:
 
-.. tabs:: library-instance-version
+.. code-block:: json
 
-   .. code-tab:: json
-      :caption: v4.0+
+   {
+     "@context": {
+       "@vocab": "https://openminds.om-i.org/props/"
+     },
+     "@id": "_:cottington-location",
+     "@type": "https://openminds.om-i.org/types/Location",
+     "address": "42B Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
+     "geoCoordinates": {
+       "@type": "https://openminds.om-i.org/types/GeoCoordinates",
+       "elevation": 128.0,
+       "latitude": 51.8437,
+       "longitude": -2.9213
+     },
+     "country": {
+       "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
+     }
+   }
 
-      {
-        "@context": {
-          "@vocab": "https://openminds.om-i.org/props/"
-        },
-        "@id": "_:cottington-location",
-        "@type": "https://openminds.om-i.org/types/Location",
-        "address": "42B Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
-        "geoCoordinates": {
-          "@type": "https://openminds.om-i.org/types/GeoCoordinates",
-          "elevation": 128.0,
-          "latitude": 51.8437,
-          "longitude": -2.9213
-        },
-        "country": {
-          "@id": "https://openminds.om-i.org/instances/sovereignStates/UnitedKingdom"
-        }
-      }
+Library instances are referenced via their openMINDS-defined ``"@id"`` and can be reused wherever needed.
 
-   .. code-tab:: json
-      :caption: ≤ v3.0
+The namespace of these ``"@id"`` values depends on the openMINDS version:
 
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:cottington-location",
-        "@type": "https://openminds.ebrains.eu/core/Location",
-        "address": "42B Bypass Way, Cottington Fields, West Country Sector, UK, Earth",
-        "geoCoordinates": {
-          "@type": "https://openminds.ebrains.eu/core/GeoCoordinates",
-          "elevation": 128.0,
-          "latitude": 51.8437,
-          "longitude": -2.9213
-        },
-        "country": {
-          "@id": "https://openminds.ebrains.eu/instances/sovereignStates/UnitedKingdom"
-        }
-      }
+.. code-block:: text
 
-Library instances are referenced via their openMINDS-defined ``"@id"``, which are unique IRIs. Namespace differences between openMINDS versions therefore also affect the ``"@id"`` values used when linking library instances.
+   v4.0+:
+   "https://openminds.om-i.org/instances/SCHEMA-NAME/INSTANCE-NAME"
+
+   ≤ v3.0:
+   "https://openminds.ebrains.eu/instances/SCHEMA-NAME/INSTANCE-NAME"
+
+Be aware that in an ``"@id"``, the ``SCHEMA-NAME`` is written in lowerCamelCase, in contrast to the UpperCamelCase notation used in ``"@type"``.
+
+The exact ``"@id"`` of a library instance for a given openMINDS version can be found in the corresponding instance library entry.
 
 .. note::
 
