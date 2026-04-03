@@ -44,11 +44,11 @@ openMINDS is closely collaborating with the `InterLex Project`_ of the `SciCrunc
 
 .. toctree::
    shared/getting_started
-   shared/contribution_guidelines
+   shared/working_with_openminds
+   shared/supportive_tooling
    schema_specifications
    instance_libraries
-   shared/supportive_tooling
-   shared/working_with_openminds
+   shared/contribution_guidelines
    shared/glossary
 
 .. _Schema specifications: schema_specifications.html
