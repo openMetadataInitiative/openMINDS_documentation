@@ -172,3 +172,12 @@ Unlike a directory-based collection, where each file defines its own ``"@context
    }
 
 Both approaches represent the same underlying metadata graph and can be used depending on workflow and tooling.
+
+----
+
+Next steps
+##########
+
+You now understand how openMINDS metadata is structured as interconnected instances, how these instances are linked and embedded, and how they are organized into metadata collections.
+
+Working with openMINDS shows how these principles are applied to specific openMINDS models, such as research products, research data, and other domain-specific structures.
