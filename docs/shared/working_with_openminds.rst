@@ -25,6 +25,17 @@ The openMINDS schema model defines the schema graph, i.e., the logical structure
 
 Metadata collections represent metadata graphs composed of concrete instances that follow and realize this structure.
 
+Deployment scope
+################
+
+openMINDS can be applied at different levels depending on the use case:
+
+- **schema model only**: to define and structure metadata without providing concrete instances  
+- **instance libraries only**: to reuse standardized terminologies and reference data independently of the schema model  
+- **combined use**: to create complete metadata graphs using both schemas and instance libraries  
+
+The combined use of schemas and instance libraries provides the most semantically complete and interoperable solution.
+
 Modular application of openMINDS
 ################################
 
