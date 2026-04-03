@@ -29,9 +29,9 @@ Deployment scope
 
 openMINDS can be applied at different levels depending on the use case:
 
-- **schema model only**: to define and structure metadata without providing concrete instances  
-- **instance libraries only**: to reuse standardized terminologies and reference data independently of the schema model  
-- **combined use**: to create complete metadata graphs using both schemas and instance libraries  
+- **schema model only**: to create complete metadata graphs using only custom-defined instances  
+- **instance libraries only**: to use openMINDS-defined instances as shared semantic references  
+- **combined use**: to create complete metadata graphs using openMINDS-defined instances where available  
 
 The combined use of schemas and instance libraries provides the most semantically complete and interoperable solution.
 
