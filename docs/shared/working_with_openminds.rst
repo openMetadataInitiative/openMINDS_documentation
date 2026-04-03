@@ -54,3 +54,9 @@ The set of available extension modules is version-dependent and expands over tim
 ----
 
 The following pages introduce selected openMINDS submodels and demonstrate how they are applied in practice to represent different types of research objects as linked metadata graphs.
+
+.. toctree::
+   working_with_openminds/research_products
+   working_with_openminds/research_data
+   working_with_openminds/studied_specimens
+   working_with_openminds/research_activities
