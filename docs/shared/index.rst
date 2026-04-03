@@ -47,6 +47,7 @@ openMINDS is closely collaborating with the `InterLex Project`_ of the `SciCrunc
    shared/contribution_guidelines
    schema_specifications
    instance_libraries
+   shared/supportive_tooling
    shared/working_with_openminds
    shared/glossary
 
