@@ -22,7 +22,6 @@ To work effectively with openMINDS, it is important to distinguish between the f
 The relationship between these concepts can be summarized as follows:
 
 The openMINDS schema model defines the schema graph, i.e., the logical structure of schema types and their relations.
-
 Metadata collections represent metadata graphs composed of concrete instances that follow and realize this structure.
 
 Deployment scope
