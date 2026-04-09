@@ -24,7 +24,7 @@ This repository has two main branches: `pipeline` and `main`.
 
 The `main` branch contains cross-version resources such as logos and contribution guidelines.
 
-The `pipeline` branch contains the code that generates the version-specific `vX.x` branches for Read-the-Docs from the openMINDS schemas, instances, and cross-version content from `main`. The build is triggered by changes to the schemas and instances via a GitHub Action.
+The `pipeline` branch contains the code that generates the version-specific `vX.x` branches for Read-the-Docs from the openMINDS schemas, instances, and cross-version content from `main`. This process is triggered by changes to the schemas and instances via a GitHub Action.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
