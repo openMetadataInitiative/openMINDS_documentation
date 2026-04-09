@@ -46,8 +46,8 @@ To support this modular application, the openMINDS schema model is organized int
 
 At a high level, two types of modules can be distinguished:
 
-- **essential modules**: define the general structure of metadata descriptions. The core module provides the main entry points for general research product descriptions, while the controlledTerms module provides standardized terminologies that typically serve as descriptive endpoints of the model  
-- **extension modules**: provide modality- or technique-specific detail. They build on the core module and make use of controlledTerms to extend metadata descriptions for specific domains  
+- **essential modules**: define the general structure of metadata descriptions. The ``core`` module provides the main entry points for general research product descriptions, while the ``controlledTerms`` module provides standardized terminologies that typically serve as descriptive endpoints of the model  
+- **extension modules**: provide modality- or technique-specific detail. They build on the ``core`` module and make use of ``controlledTerms`` to extend metadata descriptions for specific domains  
 
 The set of available extension modules is version-dependent and expands over time as new domains and use cases are covered.
 
