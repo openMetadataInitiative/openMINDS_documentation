@@ -23,9 +23,9 @@ The following sections provide detailed guidelines for contributing to specific 
 
 .. toctree::
    contribution_guidelines/code_of_conduct
-   contribution_guidelines/metadata_instances
-   contribution_guidelines/metadata_schemas
-   contribution_guidelines/metadata_models
-   contribution_guidelines/vocabulary
+   contribution_guidelines/instance_guidelines
+   contribution_guidelines/schema_guidelines
+   contribution_guidelines/module_guidelines
+   contribution_guidelines/vocabulary_guidelines
 
 .. _code of conduct: contribution_guidelines/code_of_conduct.html
