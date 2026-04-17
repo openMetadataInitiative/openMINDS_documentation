@@ -22,7 +22,7 @@ Formatting
 - Use 2 spaces per nested level for indentation (no tabs).
 - Place a new line after commas ``,`` and after opening, non-empty braces ``{`` and brackets ``[``.
 - Use 1 space after in-line colons ``:`` and commas ``,``.
-- Include a new line after the final closing brace ``}``.
+- End the file with a trailing newline, in accordance with the POSIX standard.
 - Use UTF-8 encoding for string-values.
 - String-valued text fields may contain limited Markdown text formatting (e.g., hyperlinks, bold, italic).
 
