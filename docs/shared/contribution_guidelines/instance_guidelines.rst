@@ -116,10 +116,15 @@ Preferred ontologies by instance type:
 - UBERON: ``AgeCategory``, ``AnatomicalCavity``, ``MuscularStructure``, ``NervousSystemStructure``, ``Organ``, ``TissueStructure``, ``VascularStructure``
 - CHEBI: ``ChemicalMixture``, ``MolecularEntity``
 
-Preferred cross-references by instance type:
+- Preferred cross-references by instance type:
 
-- Wikidata: ``SovereignState``
-- PubChem: ``ChemicalMixture``, ``MolecularEntity``
+  - Wikidata: 
+
+    - ``SovereignState``
+
+  - PubChem: 
+
+    - ``ChemicalMixture``, ``MolecularEntity``
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
