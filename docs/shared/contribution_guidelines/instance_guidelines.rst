@@ -110,8 +110,9 @@ Ontologies and cross-references
 
 - Reference matching InterLex terms where available (as preferred or additional ontology identifiers).
 - Reference matching INCF KnowledgeSpace entries where available (as preferred or additional cross-references).
-- For specific instance types, use the following preferred ontologies:
-  - UBERON:
+
+- For specific instance types, use the following preferred ontologies:  
+  - UBERON  
     - AgeCategory
     - AnatomicalCavity
     - MuscularStructure
@@ -122,6 +123,7 @@ Ontologies and cross-references
   - CHEBI:
     - ChemicalMixture
     - MolecularEntity
+
 - For specific instance types, use the following preferred cross-references:
   - WikiData:
     - SovereignState
