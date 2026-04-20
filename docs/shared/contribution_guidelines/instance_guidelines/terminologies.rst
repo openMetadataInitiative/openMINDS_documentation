@@ -1,6 +1,6 @@
-#####################################
-Instance guidelines for terminologies
-#####################################
+######################
+Terminology Guidelines
+######################
 
 Instance libraries for terminologies follow schemas from the openMINDS controlledTerms module, which share a common conceptual structure.
 
