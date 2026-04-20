@@ -61,18 +61,18 @@ The human-readable label is derived from a type-specific source value (e.g., nam
 - preserve capitalization for proper names and abbreviations  
 - retain unreserved characters: letters (A–Z, a–z), digits (0–9), and the characters ``-``, ``_``, ``.``, ``~``  
 
-Guidelines for terminology instances
-####################################
+Instance guidelines for terminologies
+#####################################
 
 Instance libraries for terminologies follow schemas from the openMINDS controlledTerms module, which share a common conceptual structure.
 
-To ensure consistent naming, definitions, and cross-references, the following additional guidelines apply across all terminology instance libraries:
+To ensure consistent naming, definitions, and cross-references, the following additional guidelines apply across all terminology instance libraries.
 
 Expected fields
 ===============
 
-- Each instance contribution must at least define a ``name`` and a ``definition``.
-- For specified libraries preferred cross-references and/or ontology identifiers must be provided (see below).
+- Each instance contribution should at least define a ``name`` and a ``definition``.
+- For specified libraries, preferred cross-references and/or ontology identifiers should be provided (see below).
 
 Field conventions
 =================
@@ -81,23 +81,23 @@ Name and identifier
 -------------------
 
 - The ``"@id"`` label is derived from the ``name``.
-- Avoid abbreviations as primary names unless discussed.
+- Avoid abbreviations as primary names unless explicitly agreed.
 
 Definition
 ----------
 
 - Use a single-sentence structure: ``"[Term] is a [class] [qualifier] [characteristic/function]"``.
-- Aim for 20 words or fewer where possible.
+- Aim for ≤ 20 words where possible.
 - Avoid circular definitions.
 - Ensure the definition differentiates the term from others within the same class.
-- Avoid examples unless discussed.
+- Avoid examples unless explicitly agreed.
 
 Description
 -----------
 
-- Complement the definition with a standalone summary.
+- Provide a standalone summary complementing the definition.
 - Do not repeat the definition.
-- Aim for fewer than 300 words.
+- Aim for < 300 words.
 - External definitions may be included with citation where appropriate.
 
 Synonyms
@@ -105,21 +105,29 @@ Synonyms
 
 - Use exact synonyms, including commonly used abbreviations.
 
-Ontologies and cross references
--------------------------------
+Ontologies and cross-references
+------------------------------
 
-- If available, reference the matching InterLex term (as preferred or additional ontology).
-- If available, reference the matching INCF KnowledgeSpace entry (as preferred or additional cross reference).
-- If available, use the following ontologies as preferred ontology for identified types:
-  - XXX: 
-    - X
-    - Y
-    - Z
-- If available, use the following cross reference as preferred cro reference for identified types:
-  - XXX: 
-    - X
-    - Y
-    - Z
+- Reference matching InterLex terms where available (as preferred or additional ontology identifiers).
+- Reference matching INCF KnowledgeSpace entries where available (as preferred or additional cross-references).
+- For specific instance types, use the following preferred ontologies:
+  - UBERON:
+    - AgeCategory
+    - AnatomicalCavity
+    - MuscularStructure
+    - NervousSystemStructure
+    - Organ
+    - TissueStructure
+    - VascularStructure
+  - CHEBI:
+    - ChemicalMixture
+    - MolecularEntity
+- For specific instance types, use the following preferred cross-references:
+  - WikiData:
+    - SovereignState
+  - PubChem:
+    - ChemicalMixture
+    - MolecularEntity
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
