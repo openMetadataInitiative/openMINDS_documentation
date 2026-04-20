@@ -110,12 +110,14 @@ Ontologies and cross-references
 
 - Reference matching InterLex terms where available (as preferred or additional ontology identifiers).
 - Reference matching INCF KnowledgeSpace entries where available (as preferred or additional cross-references).
-- Preferred ontologies by instance type:
-  - UBERON: ``AgeCategory``, ``AnatomicalCavity``, ``MuscularStructure``, ``NervousSystemStructure``, ``Organ``, ``TissueStructure``, ``VascularStructure``
-  - CHEBI: ``ChemicalMixture``, ``MolecularEntity``
-- Preferred cross-references by instance type:
-  - Wikidata: ``SovereignState``
-  - PubChem: ``ChemicalMixture``, ``MolecularEntity``
+
+Preferred ontologies by instance type:
+- UBERON: ``AgeCategory``, ``AnatomicalCavity``, ``MuscularStructure``, ``NervousSystemStructure``, ``Organ``, ``TissueStructure``, ``VascularStructure``
+- CHEBI: ``ChemicalMixture``, ``MolecularEntity``
+
+Preferred cross-references by instance type:
+- Wikidata: ``SovereignState``
+- PubChem: ``ChemicalMixture``, ``MolecularEntity``
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
