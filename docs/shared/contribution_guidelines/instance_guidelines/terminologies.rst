@@ -46,19 +46,13 @@ Synonyms
 Ontologies and cross-references
 ===============================
 
-- Reference matching InterLex terms where available (as preferred or additional ontology identifiers).
-- Reference matching INCF KnowledgeSpace entries where available (as preferred or additional cross-references).
-- Preferred ontologies by instance type: 
-
-  - UBERON: ``AgeCategory``, ``AnatomicalCavity``, ``MuscularStructure``, ``NervousSystemStructure``, ``Organ``, ``TissueStructure``, ``VascularStructure``
-  - CHEBI: ``ChemicalMixture``, ``MolecularEntity``
-
-- Preferred cross-references by instance type:
-
-  - Wikidata: ``SovereignState``
-  - PubChem: ``ChemicalMixture``, ``MolecularEntity``
+- Reference matching `InterLex`_ terms where available (as preferred or additional ontology identifiers).
+- Reference matching `INCF KnowledgeSpace`_ entries where available (as preferred or additional cross-references).
+- Please use terms from selected preferred ontology or cross reference sources as specified in the `instance statistics`_.
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
 .. _linking openMINDS library instances: https://openminds.docs.om-i.org/en/latest/shared/getting_started/connecting_openMINDS_instances.html#linking-openminds-library-instances
-.. _InterLex: https://scicrunch.org/scicrunch/interlex/dashboard
+.. _InterLex: https://scicrunch.org/scicrunch/interlex/search
+.. _INCF KnowledgeSpace: https://knowledge-space.org/
+.. _instance statistics: https://openmetadatainitiative.github.io/openMINDS_instances/
