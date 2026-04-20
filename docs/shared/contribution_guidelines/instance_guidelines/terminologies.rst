@@ -7,22 +7,22 @@ Instance libraries for terminologies follow schemas from the openMINDS controlle
 To ensure consistent naming, definitions, and cross-references, the following additional guidelines apply across all terminology instance libraries.
 
 Expected fields
-###############
+===============
 
-- Each instance contribution should at least define a ``name`` and a ``definition``.
-- For specified libraries, preferred cross-references and/or ontology identifiers should be provided (see below).
+- Each instance contribution should define a ``name`` and a ``definition``.
+- Where preferred sources are defined for a terminology, corresponding cross-references and/or ontology identifiers should be provided (see below).
 
 Field conventions
-#################
+=================
 
 Name and identifier
-===================
+-------------------
 
-- The ``"@id"`` label is derived from the ``name``.
+- The ``"@id"`` label is derived from the ``name`` field.
 - Avoid abbreviations as primary names unless explicitly agreed.
 
 Definition
-==========
+----------
 
 - Use a single-sentence structure: ``"[Term] is a [class] [qualifier] [characteristic/function]"``.
 - Aim for ≤ 20 words where possible.
@@ -31,7 +31,7 @@ Definition
 - Avoid examples unless explicitly agreed.
 
 Description
-===========
+-----------
 
 - Provide a standalone summary complementing the definition.
 - Do not repeat the definition.
@@ -39,16 +39,16 @@ Description
 - External definitions may be included with citation where appropriate.
 
 Synonyms
-========
+--------
 
 - Use exact synonyms, including commonly used abbreviations.
 
 Ontologies and cross-references
-===============================
+-------------------------------
 
 - Reference matching `InterLex`_ terms where available (as preferred or additional ontology identifiers).
 - Reference matching `INCF KnowledgeSpace`_ entries where available (as preferred or additional cross-references).
-- Please use terms from selected preferred ontology or cross reference sources as specified in the `instance statistics`_.
+- Use preferred ontology and cross-reference sources as specified in the `instance statistics`_.
 
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
