@@ -61,6 +61,67 @@ The human-readable label is derived from a type-specific source value (e.g., nam
 - preserve capitalization for proper names and abbreviations  
 - retain unreserved characters: letters (A–Z, a–z), digits (0–9), and the characters ``-``, ``_``, ``.``, ``~``  
 
+Guidelines for terminology instances
+####################################
+
+Instance libraries for terminologies follow schemas from the openMINDS controlledTerms module, which share a common conceptual structure.
+
+To ensure consistent naming, definitions, and cross-references, the following additional guidelines apply across all terminology instance libraries:
+
+Expected fields
+===============
+
+- Each instance contribution must at least define a ``name`` and a ``definition``.
+- For specified libraries preferred cross-references and/or ontology identifiers must be provided (see below).
+
+Field conventions
+=================
+
+Name and identifier
+-------------------
+
+- The ``"@id"`` label is derived from the ``name``.
+- Avoid abbreviations as primary names unless discussed.
+
+Definition
+----------
+
+- Use a single-sentence structure: ``"[Term] is a [class] [qualifier] [characteristic/function]"``.
+- Aim for 20 words or fewer where possible.
+- Avoid circular definitions.
+- Ensure the definition differentiates the term from others within the same class.
+- Avoid examples unless discussed.
+
+Description
+-----------
+
+- Complement the definition with a standalone summary.
+- Do not repeat the definition.
+- Aim for fewer than 300 words.
+- External definitions may be included with citation where appropriate.
+
+Synonyms
+--------
+
+- Use exact synonyms, including commonly used abbreviations.
+
+Ontologies and cross references
+-------------------------------
+
+- If available, reference the matching InterLex term (as preferred or additional ontology).
+- If available, reference the matching INCF KnowledgeSpace entry (as preferred or additional cross reference).
+- If available, use the following ontologies as preferred ontology for identified types:
+  - XXX: 
+    - X
+    - Y
+    - Z
+- If available, use the following cross reference as preferred cro reference for identified types:
+  - XXX: 
+    - X
+    - Y
+    - Z
+
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
 .. _linking openMINDS library instances: https://openminds.docs.om-i.org/en/latest/shared/getting_started/connecting_openMINDS_instances.html#linking-openminds-library-instances
+.. _InterLex: https://scicrunch.org/scicrunch/interlex/dashboard
