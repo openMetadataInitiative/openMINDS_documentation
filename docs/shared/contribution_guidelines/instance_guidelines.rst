@@ -112,7 +112,7 @@ Ontologies and cross-references
 - Reference matching INCF KnowledgeSpace entries where available (as preferred or additional cross-references).
 
 - For specific instance types, use the following preferred ontologies:  
-  - UBERON  
+  - UBERON:  
     - AgeCategory
     - AnatomicalCavity
     - MuscularStructure
@@ -124,8 +124,8 @@ Ontologies and cross-references
     - ChemicalMixture
     - MolecularEntity
 
-- For specific instance types, use the following preferred cross-references:
-  - WikiData:
+- For specific instance types, use the following preferred cross-references:  
+  - WikiData:  
     - SovereignState
   - PubChem:
     - ChemicalMixture
