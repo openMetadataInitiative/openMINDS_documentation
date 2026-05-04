@@ -61,6 +61,17 @@ The human-readable label is derived from a type-specific source value (e.g., nam
 - preserve capitalization for proper names and abbreviations  
 - retain unreserved characters: letters (A–Z, a–z), digits (0–9), and the characters ``-``, ``_``, ``.``, ``~``  
 
+Type-specific conventions
+#########################
+
+The following sections define additional conventions for specific categories of instance libraries.
+
+.. toctree::
+   contribution_guidelines/instance_guidelines/terminologies
+   contribution_guidelines/instance_guidelines/content_types
+   contribution_guidelines/instance_guidelines/licenses
+   contribution_guidelines/instance_guidelines/atlases
+
 .. _instance libraries: https://openminds.docs.om-i.org/en/latest/instance_libraries.html
 .. _issue tracker: https://github.com/openMetadataInitiative/openMINDS_instances/issues
 .. _linking openMINDS library instances: https://openminds.docs.om-i.org/en/latest/shared/getting_started/connecting_openMINDS_instances.html#linking-openminds-library-instances
