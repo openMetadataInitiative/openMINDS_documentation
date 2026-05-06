@@ -69,6 +69,25 @@ accelerationFactor
 
 ------------
 
+.. _device_heading:
+
+******
+device
+******
+
+Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/device
+   :value type: | linked object of type
+                | `MRIScanner <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRIScanner.html>`_
+   :instructions: Add the MRI Scanner used.
+
+`BACK TO TOP <MRIScannerUsage_>`_
+
+------------
+
 .. _diffusionEncodingParameters_heading:
 
 ***************************
