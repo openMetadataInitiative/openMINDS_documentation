@@ -4,6 +4,7 @@ ControlledTerms
 
 - `AgeCategory <controlledTerms/ageCategory.html>`_
 - `AnatomicalAxesOrientation <controlledTerms/anatomicalAxesOrientation.html>`_
+- `BehavioralTask <controlledTerms/behavioralTask.html>`_
 - `BiologicalSex <controlledTerms/biologicalSex.html>`_
 - `CellType <controlledTerms/cellType.html>`_
 - `ContributionType <controlledTerms/contributionType.html>`_
@@ -44,6 +45,7 @@ ControlledTerms
 
    controlledTerms/ageCategory
    controlledTerms/anatomicalAxesOrientation
+   controlledTerms/behavioralTask
    controlledTerms/biologicalSex
    controlledTerms/cellType
    controlledTerms/contributionType
