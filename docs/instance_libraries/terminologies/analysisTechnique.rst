@@ -18,6 +18,7 @@ Related schema specification: `AnalysisTechnique <https://openminds-documentatio
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 4-points congruent sets alignment is a fast and robust alignment technique for 3D point sets without pre-filtering or denoising the data, even if the data are noisy and/or contaminated with outliers ([Aiger et al., 2008](https://doi.org/10.1145/1360612.1360684)).
    :name: 4-points congruent sets alignment
+   :synonym: 4-points congruent sets, 4-points congruent sets registration, 4PCS, 4PCS alignment, 4PCS registration
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -33,6 +34,7 @@ GrubbsTest
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'Grubbs test' is a statistical test, first published by [Grubbs (1950)](https://doi.org/10.1214/aoms/1177729885), used to detect outliers in univariate data that are assumed to come from a normally distributed population. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Grubbs%27s_test)]
    :name: Grubbs' test
+   :synonym: Grubbs test, extreme studentized deviate test, maximum normalized residual test
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -63,6 +65,7 @@ ICABasedDenoisingTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: An 'ICA based denoising technique' removes independent components from input data to reduce noise while preserving the features of interest in the data.
    :name: ICA based denoising technique
+   :synonym: ICA based denoising, ICA based denoising method, ICA-based denoising, ICA-based denoising method, ICA-based denoising technique, independent component analysis based denoising technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -78,6 +81,7 @@ Isomap
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A manifold learning algorithm used for computing a quasi-isometric, low-dimensional embedding of a set of high-dimensional data points to perform a nonlinear dimensionality reduction. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isomap)]
    :name: Isomap
+   :synonym: isomap
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -93,6 +97,7 @@ MannWhitneyUTest
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'Mann–Whitney U test' is a nonparametric test of the null hypothesis that, for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)]
    :name: Mann–Whitney U test
+   :synonym: MWU test, MWW test, Mann–Whitney–Wilcoxon test, WMW test, Wilcoxon rank-sum test, Wilcoxon–Mann–Whitney test
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -108,6 +113,7 @@ ShapiroWilkTest
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'Shapiro–Wilk test' is a statistical test of normality of a complete sample, first described by [Shapiro and Wilk (1965)](https://doi.org/10.1093/biomet/52.3-4.591). [adapted from [wikipedia](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test)]
    :name: Shapiro-Wilk test
+   :synonym: Shapiro-Wilk normality test
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -123,6 +129,7 @@ SpearmansRankOrderCorrelation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'Spearman's rank-order correlation' is the nonparametric version of the Pearson product-moment correlation measuring the strength and direction of association between a set of two ranked variables. [adapted from [Laerd.com](https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php)]
    :name: Spearman's rank-order correlation
+   :synonym: Spearman’s correlation, Spearman’s correlation test, Spearman’s rank correlation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -153,6 +160,7 @@ activationLikelihoodEstimation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: An 'activation likelihood estimation' is a coordinate-based meta-analysis of neuroimaging data that determines the above-chance convergence of activation probabilities between experiments (i.e., not between foci). [adapted from [Eickhoff et al., 2011](https://dx.doi.org/10.1016%2Fj.neuroimage.2011.09.017)]
    :name: activation likelihood estimation
+   :synonym: ALE, ALE analysis, ALE meta-analysis, activation likelihood estimation analysis, activation likelihood estimation meta-analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -226,6 +234,7 @@ biasFieldCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'bias field correction' is a mathematical technique to remove a corrupting, low frequency signal from magnetic resonance images. This bias field signal is typically caused by inhomogeneities in the magnetic ﬁelds of the magnetic resonance imaging machine.
    :name: bias field correction
+   :synonym: BFC
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -241,6 +250,7 @@ bootstrapAggregating
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A specialized machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_aggregating)]
    :name: bootstrap aggregating
+   :synonym: bagging, bagging ensemble learning, bagging ensemble method, bootstrap aggregation, ensemble learning bagging
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -270,6 +280,7 @@ boundaryBasedRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The term 'boundary-based registration' refers to feature based image registration methods which utilize a boundary which can be identified in the source and target image.
    :name: boundary-based registration
+   :synonym: BBR
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -299,6 +310,7 @@ combinedVolumeSurfaceRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The term 'combined volume-surface registration' refers to an image registration framework which utilizes information from the brain surface and the brain volume to perform the registration (cf. [Postelnicu et al. (2009)](https://doi.org/10.1109/TMI.2008.2004426)).
    :name: combined volume–surface registration
+   :synonym: CVS registration
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -342,6 +354,7 @@ connected-componentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'connected-component analysis' is an algorithmic application of graph theory, where subsets of connected components are uniquely labeled based on a given heuristic. [adapted from: [wikipedia](https://en.wikipedia.org/wiki/Connected-component_labeling)]
    :name: connected-component analysis
+   :synonym: CCA, CCL, connected-component labeling
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -371,6 +384,7 @@ convolution
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: In functional analysis, 'convolution' is a mathematical operation on two functions (f and g) producing a third function (f * g) that expresses how the shape of one is modified by the other. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Convolution)]
    :name: convolution
+   :synonym: convolution technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -471,6 +485,7 @@ dictionaryLearning
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Dictionary learning' is a branch of signal processing and machine learning that aims at finding a frame (called dictionary) in which some training data admits a sparse representation.
    :name: dictionary learning
+   :synonym: sparse dictionary learning
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -486,6 +501,7 @@ diffeomorphicRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Diffeomorphic registration' refers to a suite of algorithms that register or build correspondences between dense coordinate systems in medical imaging by ensuring the solutions are diffeomorphic.
    :name: diffeomorphic registration
+   :synonym: diffeomorphic mapping, large deformation diffeomorphic metric mapping
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -503,6 +519,7 @@ dynamicCausalModeling
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103618
    :name: dynamic causal modeling
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0103618
+   :synonym: DCM, dynamic causal model
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -518,6 +535,7 @@ eyeMovementAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Eye movement analysis' refers to a group of techniques used to analyze eye movements from video or images.
    :name: eye movement analysis
+   :synonym: eye motion analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -562,6 +580,7 @@ geneticRiskScore
    :definition: A genetic risk score is an estimate of the cumulative contribution of genetic factors to a specific outcome of interest in an individual (Igo et al, 2019).
    :description: [described in: Igo, R. P., Jr, Kinzy, T. G., & Cooke Bailey, J. N. (2019). Genetic Risk Scores. Current protocols in human genetics, 104(1), e95. https://doi.org/10.1002/cphg.95]
    :name: genetic risk score
+   :synonym: GRS
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -577,6 +596,7 @@ globalSignalRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'global signal regression' is a denoising technique where the global signal is removed from the time series of each voxel through linear regression. [adapted from: [Murphy & Fox, 2017](https://dx.doi.org/10.1016%2Fj.neuroimage.2016.11.052)]
    :name: global signal regression
+   :synonym: GSR
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -649,6 +669,7 @@ imageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: An 'image registration' is a process of bringing a set of images into the same coordinate system.
    :name: image registration
+   :synonym: spatial registration
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -721,6 +742,7 @@ isometricMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A superclass of distance-preserving transformations between metric spaces, often used to reduce dimensionality of data by embedding one space into another. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isometry)]
    :name: isometric mapping
+   :synonym: isometry
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -736,6 +758,7 @@ k-meansClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'k-means clustering' is a centroid-based cluster analysis technique that aims to partition n observations into a pre-defined number of k clusters by assigning each observation to the cluster with the nearest mean (centroid).
    :name: k-means clustering
+   :synonym: k-means, k-means cluster analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -810,6 +833,7 @@ macromolecularTissueVolumeImageProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: Magnetic resonance imaging analysis technique that provides a quantitative estimate of the macromolecular tissue volume within the image. [adapted from [Mezer et al., (2013)](https://doi.org/10.1038/nm.3390)].
    :name: macromolecular tissue volume image processing
+   :synonym: MTV estimation, MTV image processing, macromolecular tissue volume estimation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -839,6 +863,7 @@ magnetizationTransferSaturationImageProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: Magnetization transfer estimation method that improves the contrast between white matter, gray matter, and cerebrospinal fluid, as well as the correlation with macromolecular content [adapted from [Longoni et al., (2023)](https://doi.org/10.1177/13524585221137500)].
    :name: magnetization transfer saturation image processing
+   :synonym: MTsat estimation, MTsat image processing, magnetization transfer saturation estimation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -884,6 +909,7 @@ maximumLikelihoodEstimation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Maximum likelihood estimation' is a statistical analysis technique that estimates the parameters of an assumed probability distribution for some observed data by maximizing a likelihood function so that, under the assumed statistical model, the observed data is most probable. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)]
    :name: maximum likelihood estimation technique
+   :synonym: MLE, maximum likelihood estimation technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -955,6 +981,7 @@ modelBasedStimulationArtifactCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'model-based stimulation artifact correction' is a model-based analysis technique for removing stimulation artifacts from intracranial electroencephalography signals to uncover the cortico-cortical evoked potentials caused by the stimulation (cf. [Trebaul et al. (2016)](https://doi.org/10.1016/j.jneumeth.2016.03.002)).
    :name: model-based stimulation artifact correction
+   :synonym: model-based artifact correction
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -969,6 +996,7 @@ morphometry
    :@id: https://openminds.ebrains.eu/instances/analysisTechnique/morphometry
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :name: morphometry
+   :synonym: morphometric analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -984,6 +1012,7 @@ motionAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Motion analysis' refers to a group of analysis techniques used to measure from video/images the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.
    :name: motion analysis
+   :synonym: movement analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1014,6 +1043,7 @@ multi-scaleIndividualComponentClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'multi-scale individual component clustering' is a multi-scale, unsupervised cluster analysis technique to group individual, independent components of a single-object/single-subject independent component analysis (ICA) from an object-pool/subject-pool (cf. [Naveau et al, 2012](https://doi.org/10.1007/s12021-012-9145-2)).
    :name: multi-scale individual component clustering
+   :synonym: MICCA, multi-scale individual component cluster algorithm
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1029,6 +1059,7 @@ multiVoxelPatternAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'multi-voxel pattern analysis' is considered as a supervised classification problem where a classifier attempts to capture the relationships between spatial patterns of functional magnetic resonance imaging activity and experimental conditions ([Mahmoudi et al., 2012](https://doi.org/10.1155/2012/961257), [Davatzikos et al., 2005](https://doi.org/10.1016/j.neuroimage.2005.08.009)).
    :name: multi-voxel pattern analysis
+   :synonym: MVPA
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1044,6 +1075,7 @@ multipleLinearRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'multiple linear regression' is a linear approach for modelling the relationship between a scalar response and multiple explanatory variables. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Linear_regression)]
    :name: multiple linear regression
+   :synonym: MLR, multi-linear regression, multilinear regression, multiple regression
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1059,6 +1091,7 @@ multivariateAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: Any statistical analysis of data where multiple measurements are made on each experimental unit and where the relationships among multivariate measurements and their structure are important. [adapted from [Olkin and Sampson, 2001](https://doi.org/10.1016/B0-08-043076-7/00472-1)]
    :name: multivariate analysis
+   :synonym: MVA, multivariate statistics
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1088,6 +1121,7 @@ nonlinearImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'nonlinear image registration' is a process of bringing a set of images into the same coordinate system using nonlinear transformation.
    :name: nonlinear image registration
+   :synonym: non-linear image registration
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1103,6 +1137,7 @@ nonlinearTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not preserving straight lines.
    :name: nonlinear transformation
+   :synonym: non-linear transformation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1118,6 +1153,7 @@ nonrigidImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'nonrigid image registration' is a process of bringing a set of images into the same coordinate system using nonrigid transformation.
    :name: nonrigid image registration
+   :synonym: non-rigid image registration
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1132,6 +1168,7 @@ nonrigidMotionCorrection
    :@id: https://openminds.ebrains.eu/instances/analysisTechnique/nonrigidMotionCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :name: nonrigid motion correction
+   :synonym: non-rigid motion correction
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1147,6 +1184,7 @@ nonrigidTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'nonrigid transformation' is a specific linear transformation using combinations of rotations, translations, reflections, scaling, shearing, and perspective projections to map coordinates between two coordinate spaces.
    :name: nonrigid transformation
+   :synonym: non-rigid transformation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1162,6 +1200,7 @@ nuisanceRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Nuisance regression' is an image processing technique which seeks to attenuate non-neural BOLD fluctuations from measurable noise sources such as scanner drift and head motion, as well as periodic physiological signals. [adapted from [Hallquist et al. 2013](https://doi.org/10.1016%2Fj.neuroimage.2013.05.116)]
    :name: nuisance regression
+   :synonym: NR
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1179,6 +1218,7 @@ pathwayAnalysis
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0778897
    :name: pathway analysis
    :preferredOntologyIdentifier: http://edamontology.org/operation_3928
+   :synonym: PA, biological pathway modelling, biological pathway prediction, functional enrichment analysis, functional pathway analysis, pathway comparison, pathway modelling, pathway prediction, pathway simulation
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1208,6 +1248,7 @@ phaseSynchronizationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'phase synchronization analysis' detects and quantifies synchronization between two time series.
    :name: phase synchronization analysis
+   :synonym: PS analysis, PSA
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1223,6 +1264,7 @@ principalComponentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'principal component analysis' is a statistical technique for reducing the dimensionality of a dataset by linearly transforming the data into a new coordinate system where (most of) the variation in the data can be described with fewer dimensions than the initial data. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)]
    :name: principal component analysis
+   :synonym: PCA
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1295,6 +1337,7 @@ ratiometry
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: Quantitative analysis technique utilizing the ratio of two signals or responses obtained from a sample.
    :name: ratiometry
+   :synonym: ratiometric analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1414,6 +1457,7 @@ signalFilteringTechnique
    :interlexIdentifier: http://uri.interlex.org/ilx_0739623
    :name: signal filtering technique
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/151
+   :synonym: filtering, signal filtering
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1431,6 +1475,7 @@ signalProcessingTechnique
    :interlexIdentifier: http://uri.interlex.org/ilx_0739633
    :name: signal processing technique
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/sigproc
+   :synonym: signal processing
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1446,6 +1491,7 @@ sliceTimingCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Slice timing correction' is a preprocessing technique applied to functional magnetic resonance image data in order to correct for temporal offsets between 2D image slices during the data acquisition. [adapted from [Parker and Razlighi, 2019](https://doi.org/10.3389/fnins.2019.00821)]
    :name: slice timing correction
+   :synonym: STC
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1461,6 +1507,7 @@ spectralPowerAutoSegmentationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'spectral power auto-segmentation technique' makes use of the power spectrum along the time axis of individual pixels or voxels in an image to automatically generate a segmentation.
    :name: spectral power auto-segmentation technique
+   :synonym: spectral power image auto-segmentation technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1477,6 +1524,7 @@ spikeSorting
    :definition: 'Spike sorting' is a class of techniques used in the analysis of extracellular electrophysiological data to extract the activity of one or more neurons from the background electrical noise by making use of the typical waveforms action potentials (spikes) create in the recorded neuronal signal.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739628
    :name: spike sorting
+   :synonym: spike sorting technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1492,6 +1540,7 @@ stochasticOnlineMatrixFactorization
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Stochastic online matrix factorization' is a matrix-factorization algorithm that scales to input matrices with both huge number of rows and columns [(Mensch et al., 2018)](https://doi.org/10.1109/TSP.2017.2752697).
    :name: stochastic online matrix factorization
+   :synonym: SOMF
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1521,6 +1570,7 @@ supportVectorMachineClassifier
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'support-vector machine classifier' is a supervised machine learning technique that analyzes data for classification.
    :name: support-vector machine classifier
+   :synonym: SVC, SVM, SVM classifier, SVM learning, support-vector machine, support-vector machine learning
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1536,6 +1586,7 @@ supportVectorMachineRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: A 'Support-Vector Regression Algorithm' is a supervised machine learning technique used to estimate the relationship between a dependent and a number of independent variables.
    :name: support-vector regression algorithm
+   :synonym: SVR, SVR algorithm, support vector regression, support vector regression algorithm, support-vector regression
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1550,6 +1601,7 @@ surfaceProjection
    :@id: https://openminds.ebrains.eu/instances/analysisTechnique/surfaceProjection
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :name: surface projection
+   :synonym: surface texture projection
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1565,6 +1617,7 @@ temporalFiltering
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: 'Temporal filtering' is a functional image signal processing technique that aims to remove or attenuate frequencies that vary along the time axis of the raw signal. [adapted from [Wikibooks](https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing/Processing/Steps/Temporal_Filtering)]
    :name: temporal filtering
+   :synonym: temporal filtering technique, temporal image filtering, temporal image filtering technique
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1609,6 +1662,7 @@ univariateAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: Any statistical analysis that is carried out on only one (dependent) variable of the data to summarize or describe that variable. [adapted from [Dandilands, 2014](https://doi.org/10.1007/978-94-007-0753-5_3108)]
    :name: univariate analysis
+   :synonym: univariate statistics
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1652,6 +1706,7 @@ zScoreAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :definition: The 'z-score analysis' is a statistical normalization technique where the z-score is calculated by subtracting the population mean from an individual raw score (observed data point) and dividing the difference by the population standard deviation. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Standard_score)]
    :name: z-score analysis
+   :synonym: standard score analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 

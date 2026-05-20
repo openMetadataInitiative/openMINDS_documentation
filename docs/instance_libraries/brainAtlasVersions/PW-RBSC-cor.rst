@@ -17,12 +17,16 @@ PW-RBSC-cor_6th-ed-Bregma-LIA
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
+   :accessibility: `paidAccess <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/productAccessibility.html#paidaccess>`_
+   :coordinateSpace: `PW-RBSC-corT_v2004-Bregma-LIA <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/PW-RBSC-corT.html#pw-rbsc-cort-v2004-bregma-lia>`_
    :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :fullDocumentation: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: 6th ed. (Bregma, LIA)
    :versionInnovation: The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4].
 
@@ -39,12 +43,16 @@ PW-RBSC-cor_6th-ed-Bregma-RIA
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
+   :accessibility: `paidAccess <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/productAccessibility.html#paidaccess>`_
+   :coordinateSpace: `PW-RBSC-corT_v2004-Bregma-RIA <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/PW-RBSC-corT.html#pw-rbsc-cort-v2004-bregma-ria>`_
    :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :fullDocumentation: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: 6th ed. (Bregma, RIA)
    :versionInnovation: The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4].
 
@@ -61,12 +69,16 @@ PW-RBSC-cor_6th-ed-Interaural-LSA
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
+   :accessibility: `paidAccess <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/productAccessibility.html#paidaccess>`_
+   :coordinateSpace: `PW-RBSC-corT_v2004-Interaural-LSA <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/PW-RBSC-corT.html#pw-rbsc-cort-v2004-interaural-lsa>`_
    :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :fullDocumentation: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: 6th ed. (Interaural, LSA)
    :versionInnovation: The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4].
 
@@ -83,12 +95,16 @@ PW-RBSC-cor_6th-ed-Interaural-RSA
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
+   :accessibility: `paidAccess <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/productAccessibility.html#paidaccess>`_
+   :coordinateSpace: `PW-RBSC-corT_v2004-Interaural-RSA <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/PW-RBSC-corT.html#pw-rbsc-cort-v2004-interaural-rsa>`_
    :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :fullDocumentation: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
    :releaseDate: 2006-11-02
    :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: 6th ed. (Interaural, RSA)
    :versionInnovation: The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4].
 

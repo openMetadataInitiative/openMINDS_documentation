@@ -35,6 +35,7 @@ axon
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101043
    :name: axon
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1770195789
+   :synonym: fiber
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -54,6 +55,7 @@ axonTerminal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:0043679#axon-terminus
    :name: axon terminal
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao2007137787
+   :synonym: axon terminus
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -71,6 +73,7 @@ dendrite
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103021
    :name: dendrite
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1211023249
+   :synonym: dendritic branch
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -123,6 +126,7 @@ nerveFiber
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006134#nerve-fiber
    :name: nerve fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006134
+   :synonym: neurofibra, neurofibrum
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -138,6 +142,7 @@ neurite
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
    :definition: A 'neurite' is a small neuronal process on developing neurons that ultimately grow out into axons or dendrites under the control of growth stimulating or inhibiting factors from their direct extracellular environment.
    :name: neurite
+   :synonym: neurite outgrowth, neuronal process
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -155,6 +160,7 @@ neurofilament
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107475
    :name: neurofilament
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1316272517
+   :synonym: type IV intermediate filament
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -172,6 +178,7 @@ nucleus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107735
    :name: nucleus
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1702920020
+   :synonym: cell nucleus
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -204,6 +211,7 @@ synapticBouton
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111400
    :name: synaptic bouton
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao187426937
+   :synonym: pre-synaptic bouton
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -221,6 +229,7 @@ synapticProtein
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111412
    :name: synaptic protein
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao936599761
+   :synonym: synaptic vesicle associated protein
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 

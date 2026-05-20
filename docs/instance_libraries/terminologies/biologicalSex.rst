@@ -39,6 +39,7 @@ hermaphrodite
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104963
    :name: hermaphrodite
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0001340
+   :synonym: intersex
 
 `BACK TO TOP <Terminologies: BiologicalSex library_>`_
 

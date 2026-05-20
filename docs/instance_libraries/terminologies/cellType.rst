@@ -18,6 +18,7 @@ D1ReceptorExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses D1 receptors.
    :name: D1 receptor expressing neuron
+   :synonym: D1 dopamine receptor expressing cell, D1 dopamine receptor expressing neuron, D1 receptor expressing cell, D1R expressing cell, D1R expressing neuron, DRD1 expressing cell, DRD1 expressing neuron, dopamine receptor D1 expressing cell, dopamine receptor D1 expressing neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -33,6 +34,7 @@ D2ReceptorExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses D2 receptors.
    :name: D2 receptor expressing neuron
+   :synonym: D2 dopamine receptor expressing cell, D2 dopamine receptor expressing neuron, D2 receptor expressing cell, D2R expressing cell, D2R expressing neuron, DRD2 expressing cell, DRD2 expressing neuron, dopamine receptor D2 expressing cell, dopamine receptor D2 expressing neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -50,6 +52,7 @@ PurkinjeCell
    :interlexIdentifier: http://uri.interlex.org/ilx_0101974
    :name: Purkinje cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao471801888
+   :synonym: Corpuscles of Purkinje, Purkinje neuron, Purkinje's corpuscles, Purkyne cell, cerebellar Punkinje cell, cerebellar Punkinje neuron, cerebellum Purkinje cell, cerebellum Purkinje neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -65,6 +68,7 @@ aromataseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses aromatase.
    :name: aromatase expressing neuron
+   :synonym: aromatase expressing cell, aromatase-positive cell, aromatase-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -81,6 +85,7 @@ astrocyte
    :definition: 'Astrocytes' are a class of large, star-shaped neuroglial (macroglial) cells in the central nervous system.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100947
    :name: astrocyte
+   :synonym: astroglial cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -111,6 +116,7 @@ calbindinExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses calbindin.
    :name: calbindin expressing neuron
+   :synonym: CALB+ cell, CALB+ neuron, CALB-expressing cell, CALB-expressing neuron, CALB-positive cell, CALB-positive neuron, calbindin expressing cell, calbindin-positive cell, calbindin-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -126,6 +132,7 @@ calretininExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses calretinin.
    :name: calretinin expressing neuron
+   :synonym: CR+ cell, CR+ neuron, calretinin expressing cell, calretinin-positive cell, calretinin-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -158,6 +165,7 @@ cerebellumBasketCell
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:666951243#cerebellum-basket-cell
    :name: cerebellum basket cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao666951243
+   :synonym: cerebellar basket cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -176,6 +184,7 @@ cerebellumGolgiCell
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:129#golgi-cell
    :name: cerebellum Golgi cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1415726815
+   :synonym: Golgi cell, Golgi neuron, cerebellar Golgi cell, cerebellar Golgi neuron, cerebellum Golgi neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -194,6 +203,7 @@ cerebellumGranuleCell
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:128#cerebellum-granule-cell
    :name: cerebellum granule cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_128
+   :synonym: cerebellar granule cell, cerebellar granule neuron, cerebellum granule neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -212,6 +222,7 @@ cerebellumStellateNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:130#cerebellum-stellate-cell
    :name: cerebellum stellate neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_130
+   :synonym: cerebellar stellate cell, cerebellar stellate neuron, cerebellum stellate cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -227,6 +238,7 @@ cholecystokininExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses cholecystokinin.
    :name: cholecystokinin expressing neuron
+   :synonym: CCK+ cell, CCK+ neuron, CCK-positive cell, CCK-positive neuron, cholecystokinin expressing cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -242,6 +254,7 @@ cholineAcetyltransferaseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses choline acetyltransferase.
    :name: choline acetyltransferase expressing neuron
+   :synonym: ChAT+ cell, ChAT+ neuron, ChAT-expressing cell, ChAT-expressing neuron, ChAT-positive cell, ChAT-positive neuron, choline acetyltransferase expressing cell, choline acetyltransferase-positive cell, choline acetyltransferase-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -257,6 +270,7 @@ cholinergicInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: An inhibitory interneuron which mainly uses the neurotrasmitter acetylcholine (ACh).
    :name: cholinergic interneuron
+   :synonym: CIN
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -275,6 +289,7 @@ cholinergicNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXNEURNT:090802#cholinergic-neuron
    :name: cholinergic neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_148005
+   :synonym: ACh neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -293,6 +308,7 @@ corticalBasketCell
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:56#neocortex-basket-cell
    :name: cortical basket cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_56
+   :synonym: basket cell, cortical basket neuron, neocortex basket cell, neocortical basket cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -325,6 +341,7 @@ dopaminergicNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron
    :name: dopaminergic neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_147835
+   :synonym: DA neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -340,6 +357,7 @@ excitatoryNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: An 'excitatory neuron' releases neurotransmitters (e.g. glutamate) that have a deperpolarizing effect on the post-synaptic neuron, facilitating the generation of an action potential.
    :name: excitatory neuron
+   :synonym: excitatory cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -355,6 +373,7 @@ fastSpikingInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A parvalbumin positive GABAergic interneuron with a high-frequency firing pattern.
    :name: fast spiking interneuron
+   :synonym: FSI
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -371,6 +390,7 @@ glialCell
    :definition: A 'glial cell' is a non-neuronal cell of the nervous system. Glial cells provide physical support, respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104634
    :name: glial cell
+   :synonym: neuroglial cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -386,6 +406,7 @@ granuleNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: The term 'granule neuron' refers to a set of neuron types typically found in granular layers across brain regions whose only common feature is that they all have very small cell bodies [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Granule_cell)].
    :name: granule neuron
+   :synonym: granule cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -404,6 +425,7 @@ hippocampusCA1PyramidalNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell
    :name: hippocampus CA1 pyramidal neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao830368389
+   :synonym: CA1 pyramidal neuron, cornu ammonis 1 pyramidal neuron, hippocampal CA1 pyramidal cell, hippocampus CA1 pyramidal cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -419,6 +441,7 @@ inhibitoryNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: An 'inhibitory neuron' releases neurotransmitters (e.g. GABA) that have a hyperpolarizing effect on the post-synaptic neuron, making it difficult to generate an action potential.
    :name: inhibitory neuron
+   :synonym: inhibitory cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -465,6 +488,7 @@ mainOlfactoryBulbDeepTuftedNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A subclass of neurons situated in the innermost (deep) layer of the external plexiform layer of the main olfactory bulb.
    :name: main olfactory bulb deep tufted neuron
+   :synonym: deep tufted cell of the main olfactory bulb, deep tufted neuron of the main olfactory bulb, main olfactory bulb deep tufted cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -482,6 +506,7 @@ mainOlfactoryBulbExternalTuftedNeuron
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107943
    :name: main olfactory bulb external tufted neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_82555
+   :synonym: external tuftes cell of the main olfactory bulb, external tuftes neuron of the main olfactory bulb, main olfactory bulb external tufted cell, olfactory bulb external tufted cell, olfactory bulb main tufted cell external
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -500,6 +525,7 @@ mainOlfactoryBulbGranuleNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:123#olfactory-bulb-main-granule-cell
    :name: main olfactory bulb granule neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_123
+   :synonym: granule cell of the main olfactory bulb, granule cell of the olfactory bulb, granule neuron of the main olfactory bulb, granule neuron of the olfactory bulb, main olfactory bulb granule cell, olfactory bulb (main) granule cell, olfactory bulb granule neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -518,6 +544,7 @@ mainOlfactoryBulbMiddleTuftedNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:121#olfactory-bulb-main-tufted-cell
    :name: main olfactory bulb middle tufted neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_121
+   :synonym: main olfactory bulb middle tufted cell, middle tufted cell of the main olfactory bulb, middle tufted neuron of the main olfactory bulb, olfactory bulb (main) tufted cell (middle)
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -536,6 +563,7 @@ mainOlfactoryBulbMitralNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:120#olfactory-bulb-main-mitral-cell
    :name: main olfactory bulb mitral neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_120
+   :synonym: main olfactory bulb mitral cell, mitral neuron, mitral neuron of the main olfactory bulb, olfactory bulb (main) mitral cell, olfactory bulb (main) mitral neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -554,6 +582,7 @@ mainOlfactoryBulbPeriglomerularNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXCELL:091202#olfactory-bulb-main-periglomerular-cell
    :name: main olfactory bulb periglomerular neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_cell_091202
+   :synonym: PG cell, PGC, main olfactory bulb periglomerular cell, periglomerular cell of the main olfactory bulb, periglomerular neuron, periglomerular neuron of the main olfactory bulb
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -569,6 +598,7 @@ mainOlfactoryBulbSuperficialTuftedNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A subclass of neurons situated in the outermost (superficial) layer of the external plexiform layer of the main olfactory bulb.
    :name: main olfactory bulb superficial tufted neuron
+   :synonym: main olfactory bulb superficial tufted cell, superficial tufted cell of the main olfactory bulb, superficial tufted neuron of the main olfactory bulb
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -584,6 +614,7 @@ mainOlfactoryBulbTuftedNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Principle neurons of the mammalian main olfactory bulb.
    :name: main olfactory bulb tufted neuron
+   :synonym: main olfactory bulb tufted cell, tufted cell of the main olfactory bulb, tufted neuron of the main olfactory bulb
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -632,6 +663,7 @@ neocortexLayer2-3PyramidalNeuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:49#neocortex-pyramidal-cell-layer-2-3
    :name: neocortex layer 2/3 pyramidal neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_49
+   :synonym: layer 2/3 pyramidal cell, layer 2/3 pyramidal neuron, neocortex layer 2/3 pyramidal neuron, neocortex pyramidal layer 2/3 cell, superficial pyramidal neuron, supericial pyramidal cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -648,6 +680,7 @@ neocortexLayer5TuftedPyramidalNeuron
    :definition: An excitatory neuron type with a pyramidal-shaped cell body found in layer 5 of the neocortex and projects to subcortical areas.
    :interlexIdentifier: http://uri.interlex.org/ilx_0738209
    :name: neocortex layer 5 tufted pyramidal neuron
+   :synonym: L5 TPC, L5 tufted pyramidal cell, TL5 neuron, layer 5 tufted pyramidal cell, layer 5 tufted pyramidal neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -666,6 +699,7 @@ neostriatumCholinergicInterneuron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell
    :name: neostriatum cholinergic interneuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1866881837
+   :synonym: CIN, cholinergic striatal neuron, giant cholinergic interneuron, large striatal aspiny neuron, neostriatial cholinergic interneuron, neostriatum cholinergic cell, neostriatum giant cell of Kolliker, striatal cholinergic interneuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -683,6 +717,7 @@ neostriatumDirectPathwaySpinyNeuron
    :interlexIdentifier: http://uri.interlex.org/ilx_0107404
    :name: neostriatum direct pathway spiny neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_149135
+   :synonym: dMSN, direct pathway medium spiny neuron, direct pathway medium-sized spiny neuron, neostriatial direct pathway spiny neuron, striatal direct pathway spiny neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -700,6 +735,7 @@ neostriatumIndirectPathwaySpinyNeuron
    :interlexIdentifier: http://uri.interlex.org/ilx_0107405
    :name: neostriatum indirect pathway spiny neuron
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_149136
+   :synonym: iMSN, indirect pathway medium spiny neuron, indirect pathway medium-sized spiny neuron, neostriatial indirect pathway spiny neuron, striatal indirect pathway spiny neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -716,6 +752,7 @@ neuron
    :definition: A 'neuron' is a basic cellular unit of nervous tissue which can receive, conduct, and transmit electrical impulses.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107497
    :name: neuron
+   :synonym: nerve cell, neurone
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -731,6 +768,7 @@ neuropeptideYExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses neuropeptide Y.
    :name: neuropeptide Y expressing neuron
+   :synonym: NPY+ cell, NPY+ neuron, NPY-expressing cell, NPY-expressing neuron, NPY-positive cell, NPY-positive neuron, neuropeptide Y expressing cell, neuropeptide Y-positive cell, neuropeptide Y-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -746,6 +784,7 @@ nitricOxideSynthaseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses nitric oxide synthase.
    :name: nitric oxide synthase expressing neuron
+   :synonym: NOS+ cell, NOS+ neuron, NOS-expressing cell, NOS-expressing neuron, NOS-positive cell, NOS-positive neuron, nitric oxide synthase expressing cell, nitric oxide synthase-positive cell, nitric oxide synthase-positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -761,6 +800,7 @@ parvalbuminExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses parvalbumin.
    :name: parvalbumin expressing neuron
+   :synonym: PV+ cell, PV+ neuron, PV-positive cell, PV-positive neuron, parvalbumin expressing cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -806,6 +846,7 @@ pyramidalNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A 'pyramidal neuron' is a type of multipolar neuron that is characterized by a pyramidal shaped cell body (soma) and two distinct dendritic trees.
    :name: pyramidal neuron
+   :synonym: pyramidal cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -835,6 +876,7 @@ somatostatinExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses somatostatin.
    :name: somatostatin expressing neuron
+   :synonym: SST+ cell, SST+ neuron, SST-positive cell, SST-positive neuron, somatostatin expressing cell, somatostatin positive cell, somatostatin positive neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -912,6 +954,7 @@ striatumMediumSpinyNeuron
    :interlexIdentifier: http://uri.interlex.org/ilx_0784362
    :name: striatum medium spiny neuron
    :preferredOntologyIdentifier: http://uri.interlex.org/npo/uris/neurons/35
+   :synonym: MSN, SPN, spiny projection neuron, striatal medium spiny neuron
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -930,6 +973,7 @@ vascularEndothelialCell
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1543450574#vascular-endothelial-cell
    :name: vascular endothelial cell
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1543450574
+   :synonym: endothelial cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -946,6 +990,7 @@ vascularSmoothMuscleCell
    :definition: A smooth muscle cell assocatiated with the vasculature.
    :name: vascular smooth muscle cell
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CL_0000359
+   :synonym: VSMC, vascular associated smooth muscle cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
@@ -961,6 +1006,7 @@ vasoactiveIntestinalPeptideExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses vasoactive-intestinal peptide.
    :name: vasoactive-intestinal peptide expressing neuron
+   :synonym: VIP+ cell, VIP+ neuron, VIP-positive cell, VIP-positive neuron, vasoactive-intestinal peptide expressing cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 

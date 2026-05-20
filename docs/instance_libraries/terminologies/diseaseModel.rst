@@ -112,6 +112,7 @@ strokeModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed during stroke in humans or animals.
    :description: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event. A model of stroke displays some or all of the pathological processes that are observed during stroke in humans or animals.
    :name: stroke model
+   :synonym: CVA model, cerebral infaction model, cerebrovascular accident model, cerebrovascular disease model, stroke disorder model
 
 `BACK TO TOP <Terminologies: DiseaseModel library_>`_
 

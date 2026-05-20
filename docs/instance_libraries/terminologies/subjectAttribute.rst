@@ -123,6 +123,7 @@ deceased
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
    :definition: An organism that is no longer living.
    :name: deceased
+   :synonym: dead
 
 `BACK TO TOP <Terminologies: SubjectAttribute library_>`_
 
@@ -138,6 +139,7 @@ drugged
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
    :definition: A temporary state of an organism in which it is under the influence of a sedative, narcotic or any other typye of drug.
    :name: drugged
+   :synonym: dosed, drug treated
 
 `BACK TO TOP <Terminologies: SubjectAttribute library_>`_
 

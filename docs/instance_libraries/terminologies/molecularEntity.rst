@@ -19,6 +19,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :definition: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole (Pittsburgh compound B) is used as a positron emission tomography tracer to increase contrast of beta-amyloid plaques in neuronal tissue.
    :name: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/2826731
+   :synonym: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole, 2-{4-[(11C)Methylamino]phenyl}-1,3-benzothiazol-6-ol, BTA-1, PiB, Pittsburgh B, Pittsburgh Compound B, benzothiazole-1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -37,6 +38,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:42334#2-4-2-hydroxyethyl-piperazin-1-yl-ethanesulfonic-acid
    :name: 4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_42334
+   :synonym: 2-[4-(2-hydroxyethyl)piperazin-1-yl]ethane-1-sulfonic acid, HEPES
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -55,6 +57,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5891#5-ht1a-receptor-2
    :name: 5-HT1A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5890
+   :synonym: 1A receptor, 5-HT1A, 5-HT1A serotonin receptor, serotonin 1A receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -73,6 +76,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6386#5-ht1b-receptor-3
    :name: 5-HT1B receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6386
+   :synonym: 1B receptor, 5-HT1B, 5-HT1B serotonin receptor, serotonin 1B receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -91,6 +95,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6742#5-ht2a-receptor-1
    :name: 5-HT2A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6741
+   :synonym: 2A receptor, 5-HT2A, 5-HT2A serotonin receptor, serotonin 2A receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -108,6 +113,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :interlexIdentifier: http://uri.interlex.org/ilx_0492260
    :name: 5-HT2 receptor
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0018621
+   :synonym: 5-HT2, 5-HT2 serotonin receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -126,6 +132,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6151#5-ht4-receptor-1
    :name: 5-HT4 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6151
+   :synonym: 5-HT4, 5-HT4 serotonin receptor, 5-hydroxytryptamine 4 receptor, serotonin receptor 4
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -143,6 +150,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000015189#sodium-dependent-serotonin-transporter
    :name: 5-HT transporter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015189
+   :synonym: 5-HTT, SERT, sodium-dependent serotonin transporter
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -161,6 +169,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103368
    :name: 6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3899541
+   :synonym: 6,7-dinitroquinoxaline-2,3-dione, DNQX
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -178,6 +187,7 @@ A1Receptor
    :interlexIdentifier: http://uri.interlex.org/ilx_0100146
    :name: A1 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5717
+   :synonym: A1, adenosine A1 receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -196,6 +206,7 @@ A2AReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:7728#a2a-receptor
    :name: A2A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_7727
+   :synonym: A2A, adenosine A2A receptor, adenosine A2a receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -214,6 +225,7 @@ AMPAReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5251#ampa-type-glutamate-gated-cationic-channel
    :name: AMPA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5251
+   :synonym: AMPA-type glutamate-gated cationic channel, AMPAR, ionotropic AMPA receptor, ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor, ionotropic glutamate AMPA receptor, quisqualate receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -233,6 +245,7 @@ ATP
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15422#atp
    :name: ATP
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15422
+   :synonym: H4atp, adenosine 5'-triphosphate, adenosine triphosphate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -250,6 +263,7 @@ AlexaFluor594
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:51248#alexa-fluor-594
    :name: Alexa Fluor 594
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_51248
+   :synonym: Alexa 594
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -267,6 +281,7 @@ BAPTA
    :description: BAPTA is a white solid. It is used in research to chelate Ca2+. It is a component of some fluorescent calcium ion indicators such as Calcium Green and Oregon Green 488 BAPTA-1 and -2 (OGB-1, OGB2). [adapted from Wikipedia (https://en.wikipedia.org/wiki/BAPTA)]
    :name: BAPTA
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_60888
+   :synonym: 1,2-Bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid, 1,2-Bis(o-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid, 2,2',2'',2'''-[ethane-1,2-diylbis(oxy-2,1-phenylenenitrilo)]tetraacetic acid, Bapeta
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -285,6 +300,7 @@ Beta-Amyloid40
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090708#beta-amyloid-40
    :name: Beta-Amyloid 40
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_13181
+   :synonym: Abeta40, AbetaX-40, Amyloid-Beta 40
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -303,6 +319,7 @@ D-AP5
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100867
    :name: D-AP5
    :preferredOntologyIdentifier: https://purl.obolibrary.org/obo/CHEBI_138644
+   :synonym: 5-Phosphono-D-norvaline, D-2-Amino-5-phosphonopentanoic acid, D-2-amino-5-phosphonopentanoic acid, D-2-amino-5-phosphonovaleric acid, D-2-amino-5-phosphopentanoic acid, D-2-amino-5-phosphovaleric acid, D-AP-5, D-AP-5 acid, D-AP5 acid, D-APV, D-APV acid, D-Norvaline, 5-phosphono-
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -321,6 +338,7 @@ D1Receptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5845#d1-receptor-1
    :name: D1 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5845
+   :synonym: D(1A) dopamine receptor, D1, D1 dopamine receptor, D1R, DRD1, dopamine receptor D1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -339,6 +357,7 @@ D2Receptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5833#d2-receptor-3
    :name: D2 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5833
+   :synonym: D(2) dopamine receptor, D2, D2 dopamine receptor, D2R, DRD2, dopamine receptor D2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -357,6 +376,7 @@ DAB
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:90994#3-3-diaminobenzidine
    :name: DAB
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_90994
+   :synonym: 3,3'-diaminobenzidine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -372,6 +392,7 @@ Fluoro-Emerald
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluoro-Emerald is a fluorescent dextran derivative (dextran, fluorescein, 10,000 MW) used for tracing studies in the nervous system.
    :name: Fluoro-Emerald
+   :synonym: Fluoro Emerald, FluoroEmerald
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -390,6 +411,7 @@ Fluoro-Gold
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:1012018#fluorogold
    :name: Fluoro-Gold
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_30125
+   :synonym: Fluoro Gold, FluoroGold
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -408,6 +430,7 @@ Fluoro-Ruby
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLX:65982#fluoro-ruby
    :name: Fluoro-Ruby
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_65982
+   :synonym: Fluoro Ruby, FluoroRuby
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -424,6 +447,7 @@ GABA-AReceptor
    :definition: The GABA-A receptor is an ionotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:1902711#gaba-a-receptor-complex
    :name: GABA-A receptor
+   :synonym: GABA A receptor, GABAA, GABA_A
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -439,6 +463,7 @@ GABA-A_BZ
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
    :name: GABA-A/BZ
+   :synonym: GABA A receptor/BZ , GABA A receptor/benzodiazepine site, GABA-A/benzodiazepine site, GABAA/BZ , GABAA/benzodiazepine site, GABA_A/BZ, GABA_A/benzodiazepine site
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -456,6 +481,7 @@ GABA-BReceptor
    :interlexIdentifier: http://uri.interlex.org/ilx_0104503
    :name: GABA-B receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_090801
+   :synonym: GABA B receptor, GABAB, GABA_B
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -474,6 +500,7 @@ GABAReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:1902710#gaba-receptor-complex
    :name: GABA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006001
+   :synonym: GABAR, gamma-aminobutyric acid receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -493,6 +520,7 @@ GTP
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15996#gtp
    :name: GTP
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15996
+   :synonym: 5'-GTP, H4gtp, guanosine 5'-triphosphate, guanosine 5'-triphosphoric acid, guanosine triphosphate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -509,6 +537,7 @@ GTPDisodiumSalt
    :definition: A GTP (guanosine 5'-triphosphate) molecule bonded with two sodium ions (Na+), forming a salt hydrate.
    :name: GTP, disodium salt
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/135818278
+   :synonym: 5'-triphospho-guanosine; hydrate; sodium salt, Guanosine 5'-triphosphate sodium salt hydrate, Na2GTP, disodium;[[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-oxidophosphoryl] hydrogen phosphate;dihydrate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -526,6 +555,7 @@ JNKMapKinaseScaffoldProtein2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000010161#c-jun-amino-terminal-kinase-interacting-protein-2
    :name: JNK MAP kinase scaffold protein 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000010161
+   :synonym: C-Jun-amino-terminal kinase-interacting protein 2, IB-2 , JIP-2, JNK-interacting protein 2, islet-brain-2, mitogen-activated protein kinase 8-interacting protein 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -544,6 +574,7 @@ M1Receptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:7352#m1-receptor-1
    :name: M1 receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000001613
+   :synonym: M1, M1 AChR, M1 acetylcholine receptor, cholinergic receptor, muscarinic 1, muscarinic acetylcholine receptor 1, muscarinic acetylcholine receptor M1, muscarinic acetylcholine receptor type 1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -562,6 +593,7 @@ M2Receptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:7953#m2-receptor-2
    :name: M2 receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000001614
+   :synonym: M2, M2 AChR, M2 acetylcholine receptor, muscarinic acetylcholine receptor 2, muscarinic acetylcholine receptor M2, muscarinic acetylcholine receptor type 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -580,6 +612,7 @@ M3Receptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6135#m3-receptor
    :name: M3 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6131
+   :synonym: M3, M3 AChR, M3 acetylcholine receptor, muscarinic acetylcholine receptor 3, muscarinic acetylcholine receptor M3, muscarinic acetylcholine receptor type 3
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -598,6 +631,7 @@ NMDAReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5250#nmda-type-glutamate-gated-cationic-channel
    :name: NMDA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5250
+   :synonym: NMDA-type glutamate-gated cationic channel, NMDAR, ionotropic NMDA receptor, ionotropic glutamate N-methyl-D-aspartate receptor, ionotropic glutamate NMDA receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -617,6 +651,7 @@ QX-314
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:46937#qx-314
    :name: QX-314
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_46937
+   :synonym: (2-((2,6-dimethylphenyl)amino)-2-oxoethyl)-triethylazanium, 2-((2,6-Dimethylphenyl)amino)-N,N,N-triethyl-2-oxoethanaminium, 2-[(2,6-dimethylphenyl)amino]-N,N,N-triethyl-2-oxoethanaminium, QX 314, [2-[(2,6-dimethylphenyl)amino]-2-oxoethyl]-triethylazanium
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -634,6 +669,7 @@ acetylcholine
    :interlexIdentifier: http://uri.interlex.org/ilx_0100240
    :name: acetylcholine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao185580330
+   :synonym: ACh
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -649,6 +685,7 @@ alpha-1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-1 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :name: alpha-1 receptor
+   :synonym: alpha 1, alpha-1 adrenergic receptor, alpha1, α1 adrenergic receptor, α1 receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -664,6 +701,7 @@ alpha-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-2 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :name: alpha-2 receptor
+   :synonym: alpha 2, alpha-2 adrenergic receptor, alpha2, α2 adrenergic receptor, α2 receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -681,6 +719,7 @@ alpha-4Beta-2Receptor
    :interlexIdentifier: http://uri.interlex.org/ilx_0597802
    :name: alpha-4 beta-2 receptor
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0356600
+   :synonym: alpha-4 beta-2 nicotinic receptor, alpha-4 beta-2 receptor, nicotinic acetylcholine alpha4beta2 receptor, nicotinic receptor alpha4beta2, α4β2 receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -715,6 +754,7 @@ barium
    :description: Barium is a chemical element; it has symbol Ba and atomic number 56. It is the fifth element in group 2; and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]
    :name: barium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37133
+   :synonym: Ba
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -749,6 +789,7 @@ biotinylatedDextranAmine
    :interlexIdentifier: http://uri.interlex.org/ilx_0450726
    :name: biotinylated dextran amine
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0205506
+   :synonym: B-DA, BDA, biotin dextran amine, biotinylated dextranamine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -766,6 +807,7 @@ brainDerivedNeurotrophicFactor
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101140
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090401#bdnf
    :name: brain-derived neurotrophic factor
+   :synonym: BDNF, abrineurin
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -783,6 +825,7 @@ c-FOS
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000007597#proto-oncogene-c-fos
    :name: c-FOS
    :preferredOntologyIdentifier: https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0314702
+   :synonym: D12Rfj, D12Rfj1, FBJ osteosarcoma oncogene, Fos, c-f, c-fos, cF, cFos
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -801,6 +844,7 @@ calbindin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:1006006#calbindin-28k
    :name: calbindin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006006
+   :synonym: 28kDa, CALB1, calbindin 1, calbindin D28K, calbindin-D(28k)
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -819,6 +863,7 @@ calciumCalmodulinProteinKinaseII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000003197#calcium-calmodulin-dependent-protein-kinase-ii-chain
    :name: calcium calmodulin protein kinase II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000003197
+   :synonym: Ca2+/calmodulin-dependent protein kinase II, CaMKII, calcium/calmodulin-dependent protein kinase type II
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -836,6 +881,7 @@ calciumCalmodulinProteinKinaseIIAlphaChain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000003199#calcium-calmodulin-dependent-protein-kinase-type-ii-alpha-chain
    :name: calcium calmodulin protein kinase II alpha chain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000003199
+   :synonym: Ca2+/calmodulin-dependent protein kinase 2 alpha chain, Ca2+/calmodulin-dependent protein kinase II alpha chain, CaM kinase 2 subunit alpha, CaM kinase II subunit alpha, CaMK2 subunit alpha, CaMK2a, CaMKII subunit alpha, CaMKIIa, calcium/calmodulin-dependent protein kinase type 2 alpha chain, calcium/calmodulin-dependent protein kinase type II alpha chain
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -855,6 +901,7 @@ calciumChloride
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:3312#calcium-dichloride
    :name: calcium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_3312
+   :synonym: CaCl2, E509, calcium dichloride (1:2), calcium(II) chloride
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -873,6 +920,7 @@ calretinin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5#calretinin
    :name: calretinin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5717
+   :synonym: 29kDa calbindin, CAB29, CALB2, CR, calbindin 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -892,6 +940,7 @@ carbonDioxide
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16526#carbon-dioxide
    :name: carbon dioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16526
+   :synonym: CO2, E290, carbonic acid gas, carbonic anhydride, carbonic dioxide, carbonic oxide, dry ice
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -910,6 +959,7 @@ cesiumSulfate
    :interlexIdentifier: http://uri.interlex.org/ilx_0514068
    :name: cesium sulfate
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/25137
+   :synonym: Cs2O4S, Cs2SO4, caesium sulfate, caesium sulphate, cesium sulphate, dicesium sulfate, dicesium;sulfate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -927,6 +977,7 @@ cholecystokinin
    :interlexIdentifier: http://uri.interlex.org/ilx_0102124
    :name: cholecystokinin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5068
+   :synonym: CCK
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -945,6 +996,7 @@ choline
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15354#choline
    :name: choline
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15354
+   :synonym: (2-hydroxyethyl)trimethylammonium, 2-hydroxy-N,N,N-trimethylethanaminium, bilineurine, choline cation, choline ion
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -962,6 +1014,7 @@ cholineAcetyltransferase
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102129
    :name: choline acetyltransferase
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao722953401
+   :synonym: ChAT, choline acetylase
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -980,6 +1033,7 @@ cyclicAdenosineMonophosphate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17489#3-5-cyclic-amp
    :name: cyclic adenosine monophosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17489
+   :synonym: 3',5'-cyclic AMP, 3',5'-cylic adenosine monophosphate, adenosine 3',5'-cyclic monophosphate, cAMP, cyclic AMP
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -997,6 +1051,7 @@ diboronTrioxide
    :description:  Diboron trioxide is a colorless transparent solid, almost always glassy (amorphous), which can be crystallized only with great difficulty. It is also called boric oxide or boria. It has many important industrial applications, chiefly in ceramics as a flux for glazes and enamels and in the production of glasses. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]
    :name: diboron trioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30163
+   :synonym: boria, boric anhydride, boric oxide, boron oxide, boron sesquioxide, boron trioxide
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1016,6 +1071,7 @@ dimethylSulfoxide
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:28262#dimethyl-sulfoxide
    :name: dimethyl sulfoxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28262
+   :synonym: DMSO, Decap, Deltan, Demasorb, Demavet, Demeso, Demsodrox, Dermasorb, Dimexide, Dimexidum, Dipirartril-tropico, Dolicur, Doligur, Domoso, Dromisol, Durasorb, Gamasol 90, Hyadur, Infiltrina, Kemsol, Rimso 50, Sclerosol, Somipront, Syntexan, dimethyl sulfoxide BP, dimethyl sulfur oxide, dimethyl sulphoxide, dimethyl sulpoxide, methyl sulfoxide, methylsulfinylmethane, sulfinylbis-methane, sulfinylbismethane, sulfinyldimethane
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1033,6 +1089,7 @@ dinitrogen
    :description: At standard temperature and pressure, two atoms of the element nitrogen bond to form N2, a colorless and odorless diatomic gas. N2 forms about 78% of Earth's atmosphere, making it the most abundant uncombined element in air. Because of the volatility of nitrogen compounds, nitrogen is relatively rare in the solid parts of the Earth. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Nitrogen)]
    :name: dinitrogen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17997
+   :synonym: N2, N≡N, nitrogen
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1051,6 +1108,7 @@ dioxygen
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15379#dioxygen
    :name: dioxygen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15379
+   :synonym: O2, diatomic oxygen, dioxidene, molecular oxygen, oxygen, oxygen gas
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1069,6 +1127,7 @@ dopamine
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:18243#dopamine
    :name: dopamine
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_18243
+   :synonym: DA, deoxyepinephrine, dopamin, dopamine HCl, hydroxyltyramine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1087,6 +1146,7 @@ dopamineTransporter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090512#dopamine-transporter
    :name: dopamine transporter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015188
+   :synonym: DAT, dopamine active transporter
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1104,6 +1164,7 @@ dynorphin
    :interlexIdentifier: http://uri.interlex.org/ilx_0103624
    :name: dynorphin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5097
+   :synonym: Dyn
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1122,6 +1183,7 @@ edeticAcid
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:4735#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
    :name: edetic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_4735
+   :synonym: (ethylenedinitrilo)tetraacetic acid, 2,2',2'',2'''-(ethane-1,2-diylbis(azanetriyl))tetraacetic acid, 2,2',2'',2'''-(ethane-1,2-diyldinitrilo)tetraacetic acid, 2-([2-[bis(carboxymethyl)amino]ethyl](carboxymethyl)amino)acetic acid, EDTA, EDTA (chelating agent), H4edta, N,N'-1,2-Ethane diylbis-(N-(carboxymethyl)glycine), N,N'-1,2-ethanediylbis[N-(carboxymethyl)glycine], edathamil, edetic acid, ethylene-N,N'-biscarboxymethyl-N,N'-diglycine, ethylenediamine-N,N,N',N'-tetraacetic acid, ethylenediaminetetraacetic acid, ethylenedinitrilotetraacetic acid, {[-(BIS-CARBOXYMETHYL-AMINO)-ETHYL]-CARBOXYMETHYL-AMINO}-ACETIC
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1140,6 +1202,7 @@ egtazicAcid
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:30740#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
    :name: egtazic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30740
+   :synonym: 3,12-bis(carboxymethyl)-6,9-dioxa-3,12-diazatetradecanedioic acid, EGTA, H4egta, [ethylenebis(oxyethylenenitrilo)]tetraacetic acid, ethylene glycol bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid, ethylene glycol-O,O'-bis(2-aminoethyl)-N,N,N',N'-tetraacetic acid
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1157,6 +1220,7 @@ enkephalin
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103826
    :name: enkephalin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5096
+   :synonym: Enk
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1193,6 +1257,7 @@ ethanol
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16236#ethanol
    :name: ethanol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16236
+   :synonym: Cologne spirit, EtOH, absolute alcohol, alcohol, drinking alcohol, ethyl alcohol, ethyl hydroxide, ethylene hydrate, ethylic alcohol, ethylol, grain alcohol, hydroxyethane, methylcarbinol
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1208,6 +1273,7 @@ excitatoryAminoAcidTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporters are a subclass of glutamate transporters that remove glutamate from the synaptic cleft and extrasynaptic sites via glutamate reuptake into glial cells and neurons.
    :name: excitatory amino acid transporter
+   :synonym: EAAT
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1226,6 +1292,7 @@ excitatoryAminoAcidTransporter1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014974#excitatory-amino-acid-transporter-1
    :name: excitatory amino acid transporter 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_0000149744
+   :synonym: EAAT1, GLAST-1, glutamate aspartate transporter 1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1244,6 +1311,7 @@ excitatoryAminoAcidTransporter2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014973#excitatory-amino-acid-transporter-2
    :name: excitatory amino acid transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014973
+   :synonym: EAAT2, GLT-1, SLC1A2, glutamate transporter 1, solute carrier family 1 member 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1262,6 +1330,7 @@ excitatoryAminoAcidTransporter3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014972#excitatory-amino-acid-transporter-3
    :name: excitatory amino acid transporter 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014972
+   :synonym: EAAT3
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1280,6 +1349,7 @@ excitatoryAminoAcidTransporter4
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014977#excitatory-amino-acid-transporter-4
    :name: excitatory amino acid transporter 4
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014977
+   :synonym: EAAT4
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1297,6 +1367,7 @@ excitatoryAminoAcidTransporter5
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014978#excitatory-amino-acid-transporter-5
    :name: excitatory amino acid transporter 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014978
+   :synonym: EAAT5
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1347,6 +1418,7 @@ formaldehyde
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16842#formaldehyde
    :name: formaldehyde
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16842
+   :synonym: Formol, carbonyl hydride, formalin (aqueous solution), methanal, methanone, methyl aldehyde, methylene glycol, methylene oxide, oxomethane
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1364,6 +1436,7 @@ gabazine
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0572043
    :name: gabazine
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0142643
+   :synonym: SR 95531, SR-95531, SR95531
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1383,6 +1456,7 @@ gadolinium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:35729#gadolinium-molecular-entity
    :name: gadolinium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_35729
+   :synonym: Gd
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1401,6 +1475,7 @@ galanin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5074#galanin
    :name: galanin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5074
+   :synonym: GAL
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1419,6 +1494,7 @@ gluconicAcid
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0402003
    :name: gluconic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_33198
+   :synonym: (2R,3S,4R,5R)-2,3,4,5,6-Pentahydroxyhexanoic acid, HOCH2(CHOH)4CO2H, dextronic acid
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1437,6 +1513,7 @@ glucose
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17234#glucose
    :name: glucose
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17234
+   :synonym: D-gluco-hexose, D-glucopyranose, D-glucose, glukose
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1455,6 +1532,7 @@ glutamate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1744435799#glutamate
    :name: glutamate
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1744435799
+   :synonym: GLU, GLUT, Glu, Glut
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1473,6 +1551,7 @@ glutamateTransporter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1399894198#glutamate-transporter
    :name: glutamate transporter
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1399894198
+   :synonym: GLT
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1491,6 +1570,7 @@ glycerol
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17754#glycerol
    :name: glycerol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17754
+   :synonym: 1,2,3-propanetriol, 1,2,3-trihydroxypropane, 1,2,3-trioxypropane, glycerin, glycerine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1508,6 +1588,7 @@ glycineTransporter2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000015190#sodium-and-chloride-dependent-glycine-transporter-2
    :name: glycine transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015190
+   :synonym: GlyT2, glycine transporter type 2, sodium- and chloride-dependent glycine transporter 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1525,6 +1606,7 @@ growthFactor
    :interlexIdentifier: http://uri.interlex.org/ilx_0104801
    :name: growth factor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1671627152
+   :synonym: GF
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1541,6 +1623,7 @@ halothane
    :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
    :name: halothane
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3562
+   :synonym: 1,1,1-trifluoro-2-bromo-2-chloroethane, 1,1,1-trifluoro-2-chloro-2-bromoethane, 1-bromo-1-chloro-2,2,2-trifluoroethane, 2,2,2-trifluoro-1-chloro-1-bromoethane, 2-bromo-2-chloro-1,1,1-trifluoroethane, Narcotane, Phthorothanum, Rhodialothan, bromochlorotrifluoroethane, fluothane
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1576,6 +1659,7 @@ insulinLikeGrowthFactor1
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105523
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000009182#insulin-like-growth-factor-i
    :name: insulin-like growth factor 1
+   :synonym: IGF-1, IGF-I, IGF1, Igf-1, Igf-I, Igf1, insulin-like growth factor I
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1609,6 +1693,7 @@ iodine
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:24860#iodine-molecular-entity
    :name: iodine
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24860
+   :synonym: I
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1627,6 +1712,7 @@ ionotropicGlutamateReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090501#ionotropic-glutamate-receptor
    :name: ionotropic glutamate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090501
+   :synonym: iGluR
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1644,6 +1730,7 @@ iperoxo
    :interlexIdentifier: http://uri.interlex.org/ilx_0630403
    :name: iperoxo
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000598130
+   :synonym: 4-[(4,5-Dihydro-3-isoxazolyl)oxy]-N,N,N-trimethyl-2-butyn-1-aminium iodide
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1662,6 +1749,7 @@ iron
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:24873#iron-molecular-entity
    :name: iron
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24873
+   :synonym: Fe, Ferrum
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1680,6 +1768,7 @@ isoflurane
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:6015#isoflurane
    :name: isoflurane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_6015
+   :synonym: Aerrane, Ethane, Forane, Forene
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1698,6 +1787,7 @@ kainateReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5252#kainate-glutamate-gated-cationic-channel
    :name: kainate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5252
+   :synonym: KAR, ionotropic glutamate kainate receptor, ionotropic kainate receptor, kainate glutamate-gated cationic channel, kainic acid receptor
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1715,6 +1805,7 @@ kallikrein-relatedPeptidase8
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000009614#kallikrein-1-related-peptidase-b8
    :name: kallikrein-related peptidase 8
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000009614
+   :synonym: KLK8, Nop, neuropsin
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1733,6 +1824,7 @@ ketamine
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFSTD:DB01221#ketamine
    :name: ketamine
    :preferredOntologyIdentifier: https://www.drugbank.ca/drugs/DB01221
+   :synonym: (-)-ketamine, (S)-(-)-ketamine, (S)-ketamine, Cl 581 base, I-ketamine, esketamine, ketaject, ketalar, ketalor, ketanest
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1750,6 +1842,7 @@ luciferYellow
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0439021
    :name: lucifer yellow
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0068243
+   :synonym: LY
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1766,6 +1859,7 @@ magnesiumATP
    :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
    :name: magnesium ATP
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
+   :synonym: MgATP
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1783,6 +1877,7 @@ magnesiumChloride
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:6636#magnesium-dichloride
    :name: magnesium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_6636
+   :synonym: E511, MgCl2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1801,6 +1896,7 @@ magnesiumSulfate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32599#magnesium-sulfate
    :name: magnesium sulfate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32599
+   :synonym: Elliotts B Solution, English salt, Epsom salts, Kieserite (as monohydrate), MgSO4, Sal amarum, Sal anglicum, Sal catharticum, Sal seidlitense, Salts of England, bath salt, bitter salt, hair salt, magnesium sulfate anhydrous, magnesium sulfate dried, magnesium sulfate heptahydrate, magnesium sulphate hydrate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1837,6 +1933,7 @@ metabotropicGlutamateReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090503#metabotropic-glutamate-receptor
    :name: metabotropic glutamate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090503
+   :synonym: GRM, glutamate metabotropic, mGluR, mGluRs
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1854,6 +1951,7 @@ metabotropicGlutamateReceptor1
    :interlexIdentifier: http://uri.interlex.org/ilx_0106891
    :name: metabotropic glutamate receptor 1
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090504
+   :synonym: GRM1, MGluR1, glutamate metabotropic 1, glutamate metabotropic receptor 1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1872,6 +1970,7 @@ metabotropicGlutamateReceptor2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000008264#metabotropic-glutamate-receptor-2
    :name: metabotropic glutamate receptor 2
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090505
+   :synonym: GRM2, MGluR2, glutamate metabotropic 2, glutamate metabotropic receptor 2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1890,6 +1989,7 @@ metabotropicGlutamateReceptor3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000008265#metabotropic-glutamate-receptor-3
    :name: metabotropic glutamate receptor 3
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090506
+   :synonym: GRM3, MGluR3, glutamate metabotropic 3, glutamate metabotropic receptor 3
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1907,6 +2007,7 @@ metabotropicGlutamateReceptor5
    :interlexIdentifier: http://uri.interlex.org/ilx_0106895
    :name: metabotropic glutamate receptor 5
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090508
+   :synonym: GRM5, MGluR5, glutamate metabotropic 5, glutamate metabotropic receptor 5
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1925,6 +2026,7 @@ methanol
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17790#methanol
    :name: methanol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17790
+   :synonym: Carbinol, Columbian spirits, MeOH, hydroxymethane, methyl alcohol, methyl hydroxide, methylene hydrate, primary alcohol, methylic alcohol, methylol, pyroligneous spirit, wood alcohol, wood naphtha, wood spirit
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1942,6 +2044,7 @@ monopotassiumPhosphate
    :description: Monopotassium phosphate, is often used as a fertilizer, food additive, and buffering agent. This salt often cocrystallizes with dipotassium salt as well as with phosphoric acid. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monopotassium_phosphate)]
    :name: monopotassium phosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_63036
+   :synonym: KDP, KH2PO4, MKP, monobasic potassium phosphate, monopotassium dihydrogen phosphate, monopotassium monophosphate, monopotassium phosphate, potassium dihydrogen phosphate, potassium phosphate monobasic
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1960,6 +2063,7 @@ monosodiumPhosphate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:37585#sodium-dihydrogenphosphate
    :name: monosodium phosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37585
+   :synonym: E339, MSP, NaH2PO4, monobasic sodium phosphate, phosphoric acid, monosodium salt, sodium biphosphate, sodium dihydrogen phosphate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1977,6 +2081,7 @@ muscimol
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0485557
    :name: muscimol
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0014231
+   :synonym: agarin, pantherine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2013,6 +2118,7 @@ neuroligin-3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000011256#neuroligin-3
    :name: neuroligin-3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000011256
+   :synonym: KIAA1480, NL3, NLGN3, gliotactin homolog
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2030,6 +2136,7 @@ neuronalNuclearAntigen
    :interlexIdentifier: http://uri.interlex.org/ilx_0107517
    :name: neuronal nuclear antigen
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_152221
+   :synonym: NeuN
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2045,6 +2152,7 @@ neurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'neurotrophic factor' is a family of biomolecules that support growth, survival, and differentiation of both developing and mature neurons.
    :name: neurotrophic factor
+   :synonym: NTF
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2062,6 +2170,7 @@ nickel
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107575
    :name: nickel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28112
+   :synonym: Ni, niccolum
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2080,6 +2189,7 @@ parvalbumin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6#parvalbumin
    :name: parvalbumin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6
+   :synonym: PV, Pvalb
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2099,6 +2209,7 @@ pentobarbital
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:7983#pentobarbital
    :name: pentobarbital
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7983
+   :synonym: Dorxssital, Ethaminal, Mebubarbital, Mebumal, Nebralin, Nembutal, Nembutal Sodium, Neodorm, pentabarbital, pentabarbitone, pentobarbital Sodium, pentobarbitone, pentobarbiturate, pentobarbituric acid, sodium pentobarbital
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2115,6 +2226,7 @@ pentobarbitalSodium
    :definition: Sodium salt of pentobarbital, which is most common form of pentobarbital.
    :name: pentobarbital sodium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7984
+   :synonym: Nembutal
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2132,6 +2244,7 @@ phosphocreatineSodium
    :description: Phosphocreatine is a phosphorylated form of creatine that serves as a rapidly mobilizable reserve of high-energy phosphates in skeletal muscle, myocardium and the brain to recycle ATP. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phosphocreatine)]
    :name: phosphocreatine sodium
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/9571077
+   :synonym: Na2-phosphocreatine, creatine phosphate disodium salt, disodium phosphocreatine, phosphocreatine sodium salt, sodium phosphocreatine
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2151,6 +2264,7 @@ potassiumChloride
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32588#potassium-chloride
    :name: potassium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32588
+   :synonym: E508, KCl, Sylvite, muriate of potash
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2168,6 +2282,7 @@ potassiumGluconate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32032#potassium-gluconate
    :name: potassium gluconate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32032
+   :synonym: D-Gluconic acid potassium salt, E577, Potassium D-gluconate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2187,6 +2302,7 @@ propofol
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:44915#propofol
    :name: propofol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_44915
+   :synonym: 2,6-Diisopropylphenol, Diisopropylphenol, Diprivan, Disoprivan, Disoprofol, propofol
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2204,6 +2320,7 @@ siliconDioxide
    :description: In many parts of the world, silica is the major constituent of sand. Silica is abundant as it comprises several minerals and as a synthetic products. All forms are white or colorless, although impure samples can be colored.  Silicon dioxide is a common fundamental constituent of glass.
    :name: silicon dioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30563
+   :synonym: crystalline silica, pure Silica, quartz, silica, silica sand, silicea, silicic oxide, silicon(IV) oxide
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2220,6 +2337,8 @@ silverAmmonium
    :definition: Silver ammonium is an inorganic compound with chemical formula AgNH4.
    :name: Silver ammonium
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/57440423
+   :synonym:
+   :synonym:
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2237,6 +2356,7 @@ silverNitrate
    :description: Silver nitrate is a versatile precursor to many other silver compounds, such as those used in photography. It is far less sensitive to light than the halides. It was once called lunar caustic because silver was called luna by ancient alchemists who associated silver with the moon. In solid silver nitrate, the silver ions are three-coordinated in a trigonal planar arrangement.
    :name: Silver nitrate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32130
+   :synonym: Argentous nitrate, Lapis infernalis, Nitric acid silver(1+) salt, Silver(I) nitrate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2253,6 +2373,7 @@ sodiumATP
    :definition: Sodium ATP is a compound of sodium and an ATP molecule.
    :name: sodium ATP
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/23675355
+   :synonym: ATP Na salt, ATP xsodium, ATP-Na, NaATP, sodium ATP, sodium adenosine triphosphate, sodium adenosine-5'-triphosphate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2270,6 +2391,7 @@ sodiumBicarbonate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32139#sodium-hydrogencarbonate
    :name: sodium bicarbonate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32139
+   :synonym: E500, NaHCO3, baking soda, bicarbonate of soda, bicarbonate, sodium, carbonic acid monosodium salt, hydrogen carbonate, sodium, soda, baking, sodium hydrogen carbonate, sodium hydrogencarbonate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2287,6 +2409,7 @@ sodiumChloride
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:26710#sodium-chloride
    :name: sodium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26710
+   :synonym: NaCl, common salt, halite, regular salt, rock salt, saline, sea salt, table salt
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2303,6 +2426,7 @@ sodiumGTP
    :definition: Sodium GTP is a compound of sodium and a GTP molecule.
    :name: sodium GTP
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/136636089
+   :synonym: 5'-GTP sodium salt, Na-GTP, NaGTP, guanosine 5'-(tetrahydrogen triphosphate) sodium salt, sodium GTP, xSodium (2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9(6H)-yl)-4-hydroxy-2-(((hydroxy((hydroxy(phosphonooxy)phosphoryl)oxy)phosphoryl)oxy)methyl)tetrahydrofuran-3-olate
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2320,6 +2444,7 @@ strychnine
    :description: Strychnine is used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions. The most common source is from the seeds of the Strychnos nux-vomica tree.  [adapted from Wikipedia (https://en.wikipedia.org/wiki/Strychnine)]
    :name: strychnine
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28973
+   :synonym: Boomer-rid, Certox, Gopher bait, Gopher-gitter, Hare-Rid, Kwik-kil, Mole death, Mouse-nots, Mouse-rid, Mouse-tox, Ro-Dex, Sanaseed, Strychninum, strychnidin-10-one
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2338,6 +2463,7 @@ sucrose
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17992#sucrose
    :name: sucrose
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17992
+   :synonym: 1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside, Cane sugar, Saccharose, Sugar, White sugar, β-D-Fruf-(2↔1)-α-D-Glcp
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2355,6 +2481,7 @@ tungsten
    :description: Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name. The free element is remarkable for its robustness, especially the fact that it has the highest melting point of all known elements, melting at 3,422 °C (6,192 °F; 3,695 K). It also has the highest boiling point, at 5,930 °C (10,706 °F; 6,203 K). Its density is 19.30 grams per cubic centimetre (0.697 lb/cu in), comparable with that of uranium and gold, and much higher (about 1.7 times) than that of lead. Polycrystalline tungsten is an intrinsically brittle and hard material (under standard conditions, when uncombined), making it difficult to work into metal. However, pure single-crystalline tungsten is more ductile and can be cut with a hard-steel hacksaw.
    :name: tungsten
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_27998
+   :synonym: wolfram
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2370,6 +2497,7 @@ vesicularGlutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporters are a subclass of glutamate transporters that move glutamate from the cell cytoplasm into synaptic vesicles.
    :name: vesicular glutamate transporter
+   :synonym: VGLUT
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2388,6 +2516,7 @@ vesicularGlutamateTransporter1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:1006007#vesicular-glutamate-transporter-1
    :name: vesicular glutamate transporter 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014963
+   :synonym: VGLUT1
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2406,6 +2535,7 @@ vesicularGlutamateTransporter2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:1006009#vesicular-glutamate-transporter-2
    :name: vesicular glutamate transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014962
+   :synonym: VGLUT2
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2423,6 +2553,7 @@ vesicularGlutamateTransporter3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014964#vesicular-glutamate-transporter-3
    :name: vesicular glutamate transporter 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014964
+   :synonym: SLC17A8, VGLUT3, solute carrier family 17 member 8
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2442,6 +2573,7 @@ water
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15377#water
    :name: water
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15377
+   :synonym: H2O, dihydrogen monoxide (DHMO) (parody name), dihydrogen oxide, hydric acid, hydrogen hydroxide (HH or HOH), hydrogen oxide, hydrohydroxic acid, hydrol[2], hydroxic acid, hydroxoic acid, hydroxylic acid, neutral liquid, κ1-hydroxylhydrogen(0), μ-Oxidodihydrogen
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2459,6 +2591,7 @@ xenon
    :description: Xenon is a chemical element; it has symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]
    :name: xenon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_36910
+   :synonym: Xe
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 

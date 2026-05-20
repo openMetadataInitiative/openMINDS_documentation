@@ -20,6 +20,7 @@ anatomy
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739411
    :name: anatomy
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Anatomy
+   :synonym: anatomical approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -37,6 +38,7 @@ behavior
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739413
    :name: behavior
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Behavior
+   :synonym: behavioral approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -70,6 +72,7 @@ cellBiology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739391
    :name: cell biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Cellular
+   :synonym: cellular approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -170,6 +173,7 @@ clinicalResearch
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739401
    :name: clinical research
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Clinical
+   :synonym: clinical approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -204,6 +208,7 @@ developmentalBiology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739412
    :name: developmental biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Developmental
+   :synonym: developmental approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -221,6 +226,7 @@ ecology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739389
    :name: ecology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Ecology
+   :synonym: ecological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -255,6 +261,7 @@ epidemiology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739400
    :name: epidemiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology
+   :synonym: epidemiological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -289,6 +296,7 @@ ethology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739388
    :name: ethology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Ethology
+   :synonym: ethological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -306,6 +314,7 @@ evolutionaryBiology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739392
    :name: evolutionary biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Evolution
+   :synonym: evolutionary approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -323,6 +332,7 @@ expression
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739397
    :name: expression
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Expression
+   :synonym: molecular expression approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -389,6 +399,7 @@ histology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739399
    :name: histology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Histology
+   :synonym: histological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -455,6 +466,7 @@ morphology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739403
    :name: morphology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Morphology
+   :synonym: morphological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -472,6 +484,7 @@ multimodalResearch
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739395
    :name: multimodal research
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Multimodal
+   :synonym: multimodal approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -570,6 +583,7 @@ pathology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
    :definition: Any experimental approach that aims to identify or classify the causes and effects of diseases, disorders, injuries, or other abnormal biology.
    :name: pathology
+   :synonym: pathological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
@@ -604,6 +618,7 @@ physiology
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739410
    :name: physiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Physiology
+   :synonym: physiological approach
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 

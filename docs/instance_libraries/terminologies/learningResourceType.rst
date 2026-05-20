@@ -48,6 +48,7 @@ slideDeck
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A set of slides for a visual presentation.
    :name: slide deck
+   :synonym: presentation slides, slides
 
 `BACK TO TOP <Terminologies: LearningResourceType library_>`_
 

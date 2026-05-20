@@ -20,6 +20,7 @@ alphaActivity
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100494
    :name: alpha activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0100494
+   :synonym: alpha, alpha oscillation, alpha rhythm, alpha wave, alpha-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 
@@ -37,6 +38,7 @@ betaActivity
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101243
    :name: beta activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0101243
+   :synonym: beta, beta oscillation, beta rhythm, beta wave, beta-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 
@@ -54,6 +56,7 @@ gammaActivity
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104539
    :name: gamma activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0104539
+   :synonym: gamma, gamma oscillation, gamma rhythm, gamma wave, gamma-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 

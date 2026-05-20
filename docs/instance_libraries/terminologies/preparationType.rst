@@ -20,6 +20,7 @@ exVivo
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739736
    :name: ex vivo
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/88
+   :synonym: ex vivo technique
 
 `BACK TO TOP <Terminologies: PreparationType library_>`_
 
@@ -54,6 +55,7 @@ inSitu
    :interlexIdentifier: http://uri.interlex.org/ilx_0739593
    :name: in situ
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu
+   :synonym: in situ technique
 
 `BACK TO TOP <Terminologies: PreparationType library_>`_
 
@@ -71,6 +73,7 @@ inUtero
    :interlexIdentifier: http://uri.interlex.org/ilx_0739675
    :name: in utero
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/90
+   :synonym: in utero technique
 
 `BACK TO TOP <Terminologies: PreparationType library_>`_
 
@@ -88,6 +91,7 @@ inVitro
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739568
    :name: in vitro
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro
+   :synonym: in vitro technique
 
 `BACK TO TOP <Terminologies: PreparationType library_>`_
 
@@ -105,6 +109,7 @@ inVivo
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739622
    :name: in vivo
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/89
+   :synonym: in vivo technique
 
 `BACK TO TOP <Terminologies: PreparationType library_>`_
 

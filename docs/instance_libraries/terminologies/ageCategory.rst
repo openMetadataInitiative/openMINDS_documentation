@@ -18,6 +18,7 @@ adolescent
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.
    :name: adolescent
+   :synonym: puberty
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -35,6 +36,7 @@ adult
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729043
    :name: adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000113
+   :synonym: adult stage, post-juvenile adult, post-juvenile adult stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -52,6 +54,7 @@ embryo
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735599
    :name: embryo
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000068
+   :synonym: embryo stage, embryonic stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -69,6 +72,7 @@ infant
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735063
    :name: infant
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034920
+   :synonym: infant stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -86,6 +90,7 @@ juvenile
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730395
    :name: juvenile
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034919
+   :synonym: juvenile stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -103,6 +108,7 @@ lateAdult
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725713
    :name: late adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007222
+   :synonym: elderly, elderly stage, geriatric, geriatric stage, late adult stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -120,6 +126,7 @@ neonate
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732178
    :name: neonate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007221
+   :synonym: neonatal stage, neonate stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -137,6 +144,7 @@ perinatal
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724163
    :name: perinatal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012101
+   :synonym: perinatal stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -154,6 +162,7 @@ primeAdult
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733125
    :name: prime adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018241
+   :synonym: adulthood stage, prime adult stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
@@ -169,6 +178,7 @@ youngAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
    :name: young adult
+   :synonym: early adult, early adult stage, young adult stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 

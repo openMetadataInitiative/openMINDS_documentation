@@ -17,8 +17,11 @@ SWMA_2018
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SWMA_2018
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: SWMA
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `MNI-ICBM152_nonlinear-2009c-asym <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/MNI-ICBM152.html#mni-icbm152-nonlinear-2009c-asym>`_
    :fullName: Atlas of Superficial White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/SWMA_2018.html>`_
+   :license: `CC-BY-NC-SA-4.0 <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/licenses.html#cc-by-nc-sa-4-0>`_
    :shortName: Superficial White Matter Atlas
    :versionIdentifier: 2018
    :versionInnovation: This is the first released version of this brain atlas.

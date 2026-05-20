@@ -41,6 +41,7 @@ heart
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000948#heart
    :name: heart
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000948
+   :synonym: chambered heart, vertebrate heart
 
 `BACK TO TOP <Terminologies: Organ library_>`_
 
@@ -96,6 +97,7 @@ skin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002097#skin-of-body
    :name: skin
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002097
+   :synonym: entire skin, skin organ
 
 `BACK TO TOP <Terminologies: Organ library_>`_
 
