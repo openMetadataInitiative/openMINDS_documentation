@@ -21,6 +21,7 @@ duraMater
    :name: dura mater
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002363#dura-mater-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002363
+   :synonym: dura mater of neuraxis, pachymeninges
 
 `BACK TO TOP <Terminologies: TissueStructure library_>`_
 

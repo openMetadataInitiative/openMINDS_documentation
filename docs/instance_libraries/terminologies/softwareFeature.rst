@@ -62,6 +62,7 @@ applicationProgrammingInterface
    :definition: A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.
    :name: application programming interface
    :preferredCrossReference: https://www.wikidata.org/entity/Q165194
+   :synonym: API
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -93,6 +94,7 @@ commandLineInterface
    :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
    :name: command line interface
    :preferredCrossReference: https://www.wikidata.org/entity/Q189053
+   :synonym: CLI
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -183,6 +185,7 @@ graphicalUserInterface
    :definition: A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.
    :name: graphical user interface
    :preferredCrossReference: https://www.wikidata.org/entity/Q782543
+   :synonym: GUI
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 

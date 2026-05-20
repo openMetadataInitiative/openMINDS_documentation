@@ -35,6 +35,7 @@ axon
    :name: axon
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao1770195789
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0101043
+   :synonym: fiber
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -51,8 +52,10 @@ axonTerminal
    :definition: The distal terminations of axons which are specialized for the release of neurotransmitters.
    :description: Also included are varicosities along the course of axons which have similar specializations and also release transmitters. Presynaptic terminals in both the central and peripheral nervous systems are included (MSH).
    :name: axon terminal
+   :otherCrossReference: http://uri.neuinfo.org/nif/nifstd/sao2007137787
    :preferredCrossReference: https://knowledge-space.org/wiki/GO:0043679#axon-terminus
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0101049
+   :synonym: axon terminus
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -70,6 +73,7 @@ dendrite
    :name: dendrite
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao1211023249
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0103021
+   :synonym: dendritic branch
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -119,8 +123,10 @@ nerveFiber
    :@type: https://openminds.om-i.org/types/SubcellularEntity
    :definition: A threadlike extension of a nerve cell within the nervous system which consists of an axon and, if myelinated, a myelin sheath.
    :name: nerve fiber
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0485634
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006134#nerve-fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006134
+   :synonym: neurofibra, neurofibrum
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -136,6 +142,7 @@ neurite
    :@type: https://openminds.om-i.org/types/SubcellularEntity
    :definition: A 'neurite' is a small neuronal process on developing neurons that ultimately grow out into axons or dendrites under the control of growth stimulating or inhibiting factors from their direct extracellular environment.
    :name: neurite
+   :synonym: neurite outgrowth, neuronal process
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -153,6 +160,7 @@ neurofilament
    :name: neurofilament
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao1316272517
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0107475
+   :synonym: type IV intermediate filament
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -170,6 +178,7 @@ nucleus
    :name: nucleus
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao1702920020
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0107735
+   :synonym: cell nucleus
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -202,6 +211,7 @@ synapticBouton
    :name: synaptic bouton
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao187426937
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0111400
+   :synonym: pre-synaptic bouton
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
@@ -219,6 +229,7 @@ synapticProtein
    :name: synaptic protein
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/sao936599761
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0111412
+   :synonym: synaptic vesicle associated protein
 
 `BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 

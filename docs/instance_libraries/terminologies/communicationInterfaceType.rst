@@ -18,6 +18,7 @@ OSAPI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: An application programming interface that allows applications to interact with the underlying operating system.
    :name: OS API
+   :synonym: operating system API
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -33,6 +34,7 @@ RESTAPI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: An application programming interface that conforms to the representational state transfer (REST) architectural style, typically using the HTTP(S) protocol with JSON or XML documents.
    :name: REST API
+   :synonym: RESTful API, Representational State Transfer API
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -48,6 +50,7 @@ RPCAPI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: An application programming interface that allows remote functions in external servers to be called as if they were local functions.
    :name: RPC API
+   :synonym: Remote Procedure Call API
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -63,6 +66,7 @@ SOAPAPI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: An application programming interface that uses the Simple Object Access Protocol (SOAP).
    :name: SOAP API
+   :synonym: Simple Object Access Protocol API
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -78,6 +82,7 @@ commandLineInterface
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: A means of interacting with software through text-based commands entered in a terminal or shell.
    :name: command line interface
+   :synonym: CLI
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -93,6 +98,7 @@ desktopGUI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: A graphical user interface that runs as a native application on a desktop computer.
    :name: desktop GUI
+   :synonym: desktop application, desktop graphical user interface
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -108,6 +114,7 @@ emailCommunication
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: A means of interacting with a service through sending and receiving e-mail.
    :name: email communication
+   :synonym: e-mail communication, e-mail interface, email interface
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -123,6 +130,7 @@ libraryAPI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: An application programming interface implemented as a library for a specific programming language.
    :name: library API
+   :synonym: programming language API
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -153,6 +161,7 @@ mobileGUI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: A graphical user interface that runs as a native app on a mobile phone.
    :name: mobile GUI
+   :synonym: mobile graphical user interface
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 
@@ -168,6 +177,7 @@ webGUI
    :@type: https://openminds.om-i.org/types/CommunicationInterfaceType
    :definition: A graphical user interface that runs in a web browser, typically implemented in HTML, Javascript and CSS.
    :name: web GUI
+   :synonym: web-based graphical user interface, web-browser interface
 
 `BACK TO TOP <Terminologies: CommunicationInterfaceType library_>`_
 

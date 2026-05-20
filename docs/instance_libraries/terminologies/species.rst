@@ -19,6 +19,7 @@ berghiaStephanieae
    :definition: The species *Berghia stephanieae* belongs to the family of *aeolidiidae* (family of sea slugs, shell-less marine gastropod molluscs).
    :name: Berghia stephanieae
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_1287507
+   :synonym: aeolidiella stephanieae
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -34,7 +35,9 @@ bosTaurus
    :@type: https://openminds.om-i.org/types/Species
    :definition: Cattle (Bos taurus) are large, domesticated, bovid ungulates widely kept as livestock.
    :name: Bos taurus
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101393
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+   :synonym: bovine, cow, dairy cow, domestic cattle, domestic cow, ox
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -50,7 +53,9 @@ caenorhabditisElegans
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Caenorhabditis elegans* (C. elegans) belongs to the family of *rhabditidae* (roundworms).
    :name: Caenorhabditis elegans
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101548
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
+   :synonym: C. elegans
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -67,6 +72,7 @@ callithrixJacchus
    :definition: The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).
    :name: Callithrix jacchus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9483
+   :synonym: callithrix jacchus jacchus, common marmoset, white ear-tufted marmoset, white-tufted-ear marmoset
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -83,6 +89,7 @@ cervusElaphus
    :definition: The species *Cervus elaphus* (red deer) belongs to the family of *cervidae* (deers).
    :name: Cervus elaphus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9860
+   :synonym: red deer
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -99,6 +106,7 @@ chlorocebusAethiopsSabaeus
    :definition: The species *Chlorocebus aethiops sabaeus* (green monkey) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Chlorocebus aethiops sabaeus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60711
+   :synonym: cercopithecus aethiops sabaeus, cercopithecus sabaeus, cercopithecus sabeus, chlorocebus aethiops sabeus, chlorocebus sabaeus, chlorocebus sabeus, green monkey
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -115,6 +123,7 @@ chlorocebusPygerythrus
    :definition: The species *Chlorocebus pygerythrus* (vervet marmoset) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Chlorocebus pygerythrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60710
+   :synonym: cercopithecus aethiops pygerythrus, cercopithecus pygerythrus, chlorocebus aethiops pygerythrus, vervet, vervet marmoset, vervet monkey
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -130,7 +139,9 @@ cricetulusGriseus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The Chinese hamster (Cricetulus griseus or Cricetulus aureus) is a rodent in the genus Cricetulus of the subfamily Cricetidae.
    :name: Cricetulus griseus
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102635
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10029
+   :synonym: Chinese hamster, Cricetulus aureus
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -146,8 +157,10 @@ danioRerio
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).
    :name: Danio rerio
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0783580
    :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7955
+   :synonym: Brachydanio rerio, Brachydanio rerio frankei, Cyprinus rerio, Danio frankei, Danio rerio frankei, leopard danio, zebra danio, zebra fish, zebrafish
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -163,7 +176,9 @@ drosophilaMelanogaster
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Drosophila melanogaster* (fruit fly) belongs to the family of *Drosophilidae*.
    :name: Drosophila melanogaster
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0103567
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
+   :synonym: fruit fly
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -179,7 +194,9 @@ felisCatus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.
    :name: Felis catus
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101690
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9685
+   :synonym: Felis domesticus, Felis silvestris catus, cat, domestic cat, house cat
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -195,8 +212,10 @@ homoSapiens
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).
    :name: Homo sapiens
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0105114
    :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:9606#human
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
+   :synonym: homo sapien, human, man
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -212,7 +231,9 @@ macacaFascicularis
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Macaca fascicularis
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0485278
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9541
+   :synonym: crab eating macaque, crab-eating macaque, cynomolgus macaque, cynomolgus monkey, long-tailed macaque, macaca cynomolgus, macaca irus
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -228,7 +249,9 @@ macacaFuscata
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Macaca fuscata
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0105773
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9542
+   :synonym: japanese macaque, japanese monkey
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -244,7 +267,9 @@ macacaMulatta
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Macaca mulatta
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0110118
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
+   :synonym: rhesus macaque, rhesus monkey
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -261,6 +286,7 @@ macacaNemestrina
    :definition: The species *Macaca nemestrina* (southern pig-tailed macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Macaca nemestrina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9545
+   :synonym: Sunda pig-tailed macaque, Sundaland pig-tailed macaque, beruk, pig-tailed macaque, pigtail macaque, pigtail monkey
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -277,6 +303,7 @@ merionesUnguiculatus
    :definition: The Mongolian gerbil, also referred to as the Mongolian jird (Meriones unguiculatus), is a rodent belonging to the subfamily Gerbillinae. [Wikipedia]
    :name: Meriones unguiculatus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10047
+   :synonym: Mongolian gerbil, Mongolian jird
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -293,6 +320,7 @@ monodelphisDomestica
    :definition: The species *Monodelphis domestica* (gray short-tailed opossum) belongs to the family of *didelphidae* (American possums).
    :name: Monodelphis domestica
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_13616
+   :synonym: gray short-tailed opossum
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -308,8 +336,10 @@ musMusculus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).
    :name: Mus musculus
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0107134
    :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:10090#mouse
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+   :synonym: house mouse, mouse
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -326,6 +356,7 @@ mustelaPutorius
    :definition: The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).
    :name: Mustela putorius
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9668
+   :synonym: european polecat, putorius putorius
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -341,7 +372,9 @@ mustelaPutoriusFuro
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).
    :name: Mustela putorius furo
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0104165
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9669
+   :synonym: black ferret, domestic ferret, ferret, mustela furo
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -358,6 +391,7 @@ ovisAries
    :definition: The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).
    :name: Ovis aries
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9940
+   :synonym: domestic sheep, sheep
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -375,6 +409,7 @@ quiscalusMexicanus
    :description: It is a medium-sized, highly social passerine bird native to North and South America. Great-tailed grackles are medium-sized, highly social passerine birds (38–46 cm with males weighing 203–265 g and females 115–142 g) native to North and South America. Both sexes have long tails. Wingspan ranges between 48 and 58 cm. Males are iridescent black with a purple-blue sheen on the feathers of the head and upper body, while females are brown with darker wings and tail. Adults of both sexes have bright yellow eyes, while juveniles of both sexes have brown eyes and brown plumage like females (except for streaks on the breast). Great-tailed grackles, particularly the adult males, have a keel-shaped tail that they can fold vertically by aligning the two halves. [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Great-tailed_grackle)]
    :name: Quiscalus mexicanus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_64278
+   :synonym: great-tailed grackle
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -390,8 +425,10 @@ rattusNorvegicus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).
    :name: Rattus norvegicus
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0109658
    :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:10116#rat
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+   :synonym: brown rat, norway rat, rat
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -407,8 +444,10 @@ susScrofaDomesticus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Sus scrofa domesticus* (domestic pig) belongs to the family of suidae (suids).
    :name: Sus scrofa domesticus
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0739770
    :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:9825#sus-scrofa-domesticus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9825
+   :synonym: domestic pig, sus domestica, sus domesticus, sus scrofa domestica
 
 `BACK TO TOP <Terminologies: Species library_>`_
 
@@ -425,6 +464,7 @@ trachemysScriptaElegans
    :definition: The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae ([Wikipedia](https://en.wikipedia.org/wiki/Red-eared_slider)).
    :name: Trachemys scripta elegans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_31138
+   :synonym: Chrysemys scripta elegans, Emys elegans, Pseudemys scripta elegans, pond slider, red-eared slider, red-eared terrapin
 
 `BACK TO TOP <Terminologies: Species library_>`_
 

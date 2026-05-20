@@ -17,9 +17,13 @@ AMBA_CCFv3-2015
    :@id: https://openminds.om-i.org/instances/anatomicalAtlasVersion/AMBA_CCFv3-2015
    :@type: https://openminds.om-i.org/types/AnatomicalAtlasVersion
    :abbreviation: AMBA
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
+   :coordinateFramework: `AMB-CCF_v3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/commonCoordinateFrameworks.html#amb-ccf-v3>`_
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2015.html>`_
+   :isVersionOf: `AMBA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/anatomicalAtlases.html#amba>`_
    :shortName: Allen Mouse Brain Atlas
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: CCFv3, 2015
 
 `BACK TO TOP <AnatomicalAtlasVersions: AMBA library_>`_
@@ -35,9 +39,13 @@ AMBA_CCFv3-2017
    :@id: https://openminds.om-i.org/instances/anatomicalAtlasVersion/AMBA_CCFv3-2017
    :@type: https://openminds.om-i.org/types/AnatomicalAtlasVersion
    :abbreviation: AMBA
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
+   :coordinateFramework: `AMB-CCF_v3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/commonCoordinateFrameworks.html#amb-ccf-v3>`_
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2017.html>`_
+   :isVersionOf: `AMBA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/anatomicalAtlases.html#amba>`_
    :shortName: Allen Mouse Brain Atlas
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: CCFv3, 2017
 
 `BACK TO TOP <AnatomicalAtlasVersions: AMBA library_>`_

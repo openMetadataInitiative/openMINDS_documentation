@@ -48,6 +48,7 @@ electronicallySignedModification
    :@type: https://openminds.om-i.org/types/ModificationForm
    :definition: Modification is executed using legally recognized electronic signature systems.
    :name: electronically signed modification
+   :synonym: e-signed modification
 
 `BACK TO TOP <Terminologies: ModificationForm library_>`_
 
@@ -78,6 +79,7 @@ physicallySignedModification
    :@type: https://openminds.om-i.org/types/ModificationForm
    :definition: Modification is executed by physical signatures of the required parties.
    :name: physically signed modification
+   :synonym: signed modification
 
 `BACK TO TOP <Terminologies: ModificationForm library_>`_
 

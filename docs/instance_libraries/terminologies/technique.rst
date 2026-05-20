@@ -75,6 +75,7 @@ DABStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In a 'DAB staining', the organic compound DAB (3, 3'-diaminobenzidine) is oxidized in presence of peroxidase and hydrogen peroxide resulting in deposition of a brown, alcohol-insoluble precipitate which can be used in immunohistochemical and blotting applications.
    :name: DAB staining
+   :synonym: 3,3′-Diaminobenzidine staining
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -91,6 +92,7 @@ DAPiStaining
    :definition: A nuclear-specific staining technique where DAPi (4′,6-diamidino-2-phenylindole) is used as a dye.
    :description: DAPi, or 4′,6-diamidino-2-phenylindole, is a blue fluorescent dye that bind strongly to adenine-thymine (AT) rich regions in DNA. It is used extensively in fluorescence microscopy and can be used on both fixated and living cells.
    :name: DAPi staining
+   :synonym: 4′,6-diamidino-2-phenylindole staining, DAPi stain
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -106,7 +108,9 @@ DNAMethylationAnalysis
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A 'DNA methylation analysis' studies chromosomal patterns of DNA or histone modification by methyl groups ([modified from Nature.com](https://www.nature.com/subjects/methylation-analysis)).
    :name: DNA methylation analysis
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0779582
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0779582
+   :synonym: methylation analysis
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -122,7 +126,9 @@ DNASequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]
    :name: DNA sequencing
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0783031
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0000626
+   :synonym: DNA sequencing assay, DNA-Seq, deoxyribonucleic acid sequencing, deoxyribonucleic acid sequencing assay
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -140,6 +146,7 @@ GolgiStaining
    :name: Golgi staining
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2243
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0104713
+   :synonym: Golgi method, black reaction
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -155,6 +162,7 @@ HEStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An 'H&E staining' combines the two histological stains hematoxylin and eosin which highlight a large portion of microscopic anatomy in a tissue. It is therefore the most widely used stain in medical and histopathological diagnosis.
    :name: H&E staining
+   :synonym: HE staining, hematoxylin and eosin staining, hematoxylin-eosin staining
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -169,6 +177,7 @@ HPCSimulation
    :@id: https://openminds.om-i.org/instances/technique/HPCSimulation
    :@type: https://openminds.om-i.org/types/Technique
    :name: HPC simulation
+   :synonym: High Performance Computing simulation
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -185,6 +194,7 @@ HoechstStaining
    :definition: A nuclear-specific staining technique where a Hoechst dye is used.
    :description: Hoechst dyes are part of a family of blue fluorescent dye that bind to DNA. It acts similarly as DAPi and can also be used on both fixated and living cells.
    :name: Hoechst staining
+   :synonym: Hoechst stain
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -200,6 +210,7 @@ NisslStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: The term 'Nissl staining' refers to various basic dyes (e.g., aniline, thionine, cresyl violet) that selectively label negatively charged molecules (e.g., DNA, RNA) and are therefore typically used to highlight important structural features of cell bodies.
    :name: Nissl staining
+   :synonym: Nissl, Nissl method
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -215,7 +226,9 @@ RNASequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'RNA sequencing' refers to a group of techniques that are used to (directly or indirectly) determine the order of nucleotides (nucleic acid sequence) in RNA.
    :name: RNA sequencing
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0782092
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0001177
+   :synonym: RNA sequencing assay, RNA-Seq, ribonucleic acid sequencing, ribonucleic acid sequencing assay
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -291,6 +304,7 @@ TimmsStaining
    :name: Timm's staining
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0107265
+   :synonym: Timm's stain, Timm's sulfide silver staining
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -362,7 +376,9 @@ angiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Imaging technique for anatomical and structural details of the vascular system [adapted from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK557477/)].
    :name: angiography
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/87
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739420
+   :synonym: angiographic technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -394,6 +410,7 @@ autoradiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Autoradiography' is a photography technique that creates images of a radioactive source (e.g., molecules or fragments of molecules that have been radioactively labeled) by the direct exposure to an imaging media (e.g., X-ray film or nuclear emulsion)
    :name: autoradiography
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0439300
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0439300
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -409,6 +426,7 @@ avidinBiotinComplexStaining
    :@id: https://openminds.om-i.org/instances/technique/avidinBiotinComplexStaining
    :@type: https://openminds.om-i.org/types/Technique
    :name: avidin-biotin complex staining
+   :synonym: ABC staining
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -439,6 +457,7 @@ biocytinStaining
    :definition: In 'biocytin staining' the chemical compound biocytin is used to highlight morphological details of nerve cells.
    :description: Biocytin staining is a technique commonly used in combination with intracellular electrophysiology for post-hoc recovery of morphological details of the studied neurons. For this, the chemical compound biocytin is included in the electrode in order to fill the studied cell. It allows for the visualisation of the dendritic arborization and the regions targeted by the axons of the studied neurons.
    :name: biocytin staining
+   :synonym: biocytin filling, biocytin labeling
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -454,7 +473,9 @@ bloodSampling
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Blood sampling' is the process of obtaining blood from a body for purpose of medical diagnosis and/or evaluation of an indication for treatment, further medical tests or other procedures.
    :name: blood sampling
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0782225
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_1110095
+   :synonym: blood collection, blood harvesting
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -470,6 +491,7 @@ brightfieldMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Brightfield microscopy is an optical microscopy techniques, in which illumination light is transmitted through the sample and the contrast is generated by the absorption of light in dense areas of the specimen.
    :name: brightfield microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/238
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739719
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -530,6 +552,7 @@ coherentAntiStokesRamanSpectroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A nonlinear Raman spectroscopy technique that employs multiple photons to address molecular vibrations, and produces a coherent signal. It uses a Stokes frequency stimulation beam and an anti-Stokes frequency beam is observed [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Coherent_anti-Stokes_Raman_spectroscopy)].
    :name: coherent anti-Stokes Raman spectroscopy
+   :synonym: CARS, coherent anti-Stokes Raman scattering spectroscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -545,6 +568,7 @@ coherentStokesRamanSpectroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A nonlinear Raman spectroscopy technique that employs multiple photons to address molecular vibrations, and produces a coherent signal. It uses an anti-Stokes frequency stimulation beam and a Stokes frequency beam is observed [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Coherent_anti-Stokes_Raman_spectroscopy)].
    :name: coherent Stokes Raman spectroscopy
+   :synonym: CSRS
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -560,6 +584,7 @@ computerTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Computer tomogoraphy' is a noninvasive medical imaging technique where a computer generates multiple X-ray scans to obtain detailed internal 3D image of the body.
    :name: computer tomography
+   :synonym: CAT, CT, computed axial tomography, computed tomography, computertomography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -576,7 +601,9 @@ confocalMicroscopy
    :definition: Confocal microscopy is a specialized fluorescence microscopy technique that uses pinholes to reject out-of-focus light.
    :description: Confocal microscopy focuses light onto a defined spot at a specific depth within a fluorescent sample to eliminate out-of-focus glare, and increase resolution and contrast in the micrographs.
    :name: confocal microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/157
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739731
+   :synonym: confocal microscopy technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -621,6 +648,7 @@ cortico-corticalEvokedPotentialMapping
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Cortico-cortical evoked potential (CCEP) mapping is used to identify the effective connectivity between distinct neuronal populations based on multiple CCEP measurements across (parts of) the brain in response to direct electrical stimulation (typically at various locations).
    :name: cortico-cortical evoked potential mapping
+   :synonym: CCEP mapping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -650,6 +678,7 @@ cryosectioning
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Cutting of specimen in cryo/freezing conditions typically resulting in micromillimeter thin slices.
    :name: cryosectioning
+   :synonym: cryosection procedure, frozen section procedure
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -681,6 +710,7 @@ darkfieldMicroscopy
    :definition: Darkfield microscopy is an optical microscopy technique in which illumination light is transmitted through the sample so that it does not directly enter the optics and contrast is generated by the differential scattering of light within the specimen.
    :description: Darkfield microscopy is an optical microscopy technique that generates contrast by differentially filtering scatter and unscattered light. Specifically it transmits scattered light and blocks unscattered light. The effect is to make the areas of a transparent sample that scatter light appear brighter than those that do not scatter light. A dark background is used (i.e. the light source is not directly behind the sample in the optical path) so that unscattered light does not overwhelm the scattered light.
    :name: darkfield microscopy
+   :synonym: dark field microscopy, dark-field microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -696,7 +726,9 @@ differentialInterferenceContrastMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An optical microscopy technique, used to enhance the contrast in unstained, transparent samples [taken from [Wikipedia](https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy)].
    :name: differential interference contrast microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739494
+   :synonym: DIC, DIC microscopy, IR DIC video microscopy, IR-DIC
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -712,6 +744,7 @@ diffusionFixationTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Diffusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by submerging specimen in a fixative.
    :name: diffusion fixation technique
+   :synonym: drop fixation
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -727,6 +760,7 @@ diffusionSpectrumMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Advanced magnetic resonance imaging (MRI) and image processing technique that enhances the contrast of fiber crossings and complex intravoxel fiber orientation distributions [[Zhang et al., 2018](https://doi.org/10.1371/journal.pone.0203271), [Wedeen et al., 2008](https://doi.org/10.1016/j.neuroimage.2008.03.036), [Wedeen et al., 2000](https://cds.ismrm.org/ismrm-2000/PDF1/0082.pdf)].
    :name: diffusion spectrum magnetic resonance imaging
+   :synonym: DSI, Fourier diffusion MRI, Fourier diffusion magnetic resonance imaging, Fourier-transform diffusion MRI, Fourier-transform diffusion magnetic resonance imaging, diffusion spectrum image processing, diffusion spectrum imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -770,6 +804,7 @@ dualViewInvertedSelectivePlaneIlluminationMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Dual-view inverted selective plane illumination microscopy is a specialized light sheet microscopy technique that allows for dual views of the samples while mounted on an inverted microscope.
    :name: dual-view inverted selective plane illumination microscopy
+   :synonym: diSPIM, dual-view inverted light sheet fluorescence microscopy, dual-view inverted light sheet microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -785,6 +820,7 @@ electrocardiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Electrocardiography is a non-invasive technique used to record the electrical activity of a heart using electrodes placed on the skin. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Electrocardiography)]
    :name: electrocardiography
+   :synonym: ECG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -800,6 +836,7 @@ electrocorticography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Electrocorticography', short ECoG, is an intracranial electroencephalography technique in which electrodes are placed (subdural or epidural) on the exposed surface of the brain to record electrical activity from the cerebral cortex.
    :name: electrocorticography
+   :synonym: ECoG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -843,7 +880,9 @@ electronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Electron microscopy describes any microscopy technique that uses electrons to generate contrast.
    :name: electron microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739513
+   :synonym: EM
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -859,7 +898,9 @@ electronTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Electron tomography is a microscopy technique that takes a series of images of a thick sample at different angles (tilts) so that tomography can be applied to increase the resolution of the ticker sample.
    :name: electron tomography
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0461087
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0512939
+   :synonym: electron microscope tomography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -890,7 +931,9 @@ electroporation
    :definition: A microbiology technique in which an electrical field is applied to cells in order to increase the permeability of the cell membrane.
    :description: 'Electroporation' is a process in which a significant increase in the electrical conductivity and permeability of the cell plasma membrane is caused by an externally applied electrical field. It is usually used in molecular biology as a way of introducing some substance into a cell, such as loading it with a molecular probe, a drug that can change the cell's function, or a piece of coding DNA.
    :name: electroporation
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/electroporation
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739748
+   :synonym: electropermeabilization
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -907,7 +950,9 @@ enzymeLinkedImmunosorbentAssay
    :definition: The 'enzyme-linked immunosorbent assay' is a commonly used analytical biochemistry assay for the quantitative determination of antibodies, first described by [Engvall and Perlmann (1972)](https://www.jimmunol.org/content/109/1/129.abstract). [adapted from [wikipedia](https://en.wikipedia.org/wiki/ELISA)]
    :description: This immunoassay utilizes an antibody labeled with an enzyme marker such as horseradish peroxidase. While either the enzyme or the antibody is bound to an immunosorbent substrate, they both retain their biologic activity; the change in enzyme activity as a result of the enzyme-antibody-antigen reaction is proportional to the concentration of the antigen and can be measured spectrophotometrically or with the naked eye. Many variations of the method have been developed.
    :name: enzyme-linked immunosorbent assay
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0484188
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0007526
+   :synonym: ELISA
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -923,6 +968,7 @@ epidermalElectrophysiologyTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: The term 'epidermal electrophysiology technique' describes a subclass of non-invasive electrophysiology techniques where one or several electrodes are placed on the outermost cell layer of an organism (epidermis) to measure electrical properties.
    :name: epidermal electrophysiology technique
+   :synonym: epidermal electrophysiology
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -952,7 +998,9 @@ epifluorescentMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Epifluorescent microscopy comprises all widefield microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
    :name: epifluorescent microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/243
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739632
+   :synonym: WFM, epifluorescence microscopy, widefield epifluorescence microscopy, widefield fluorescence microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -983,7 +1031,9 @@ eyeMovementTracking
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Eye movement tracking' refers to a group of techniques used to record the eye movement and/or position of a living specimen over a given period of time.
    :name: eye movement tracking
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0417680
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0493574
+   :synonym: eye motion tracking, eye tracking
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1000,6 +1050,7 @@ fixationTechnique
    :definition: Fixation is a technique to preserve specimen permanently as faithfully as possible compared to the living state.
    :description: Fixation is a two-step process in which 1) all normal life functions are terminated and 2) the structure of the tissue is stabilized (preserved). The fixation of tissue can be achieved by chemical or physical (e.g. heating, freezing) means.
    :name: fixation technique
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0739717
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739717
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1016,6 +1067,7 @@ fluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Fluorescence microscopy comprises any type of microscopy where the specimen can be made to fluoresce (emit energy as visible light), typically by illuminating it with light of specific wavelengths.
    :name: fluorescence microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0780848
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHMO_0000087
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1032,7 +1084,9 @@ focusedIonBeamScanningElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Focused ion beam scanning electron microscopy is a serial section scanning electron microscopy technique where a focused ion beam is used to ablate the surface of a specimen.
    :name: focused ion beam scanning electron microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/245
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739434
+   :synonym: FIB-SEM, FIB/SEM, FIBSEM, focused ion beam scanning electron microscoscopy technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1048,6 +1102,7 @@ functionalMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen.
    :name: functional magnetic resonance imaging
+   :synonym: fMRI, functional MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1105,8 +1160,10 @@ genomeWideAssociationStudy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A 'genome-wide association study' is an analysis technique comparing the allele frequencies of all available (or a whole genome representative set of) polymorphic markers in unrelated individuals with a specific symptom or disease condition, and those of healthy controls to identify markers associated with a specific disease or condition.
    :name: genome-wide association study
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0104603
    :preferredCrossReference: https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies
    :preferredOntologyIdentifier: http://edamontology.org/topic_3517
+   :synonym: GWA study, GWAS, GWAS analysis, WGA study, WGAS, genetic association study, genome association studies, whole genome association study
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1122,6 +1179,7 @@ heavyMetalNegativeStaining
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) is applied on a sample to reveal its structural details for electron microscopy.
    :name: heavy metal negative staining
+   :synonym: heavy metal salt staining, heavy metal staining, negative staining
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1179,6 +1237,7 @@ highFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 3 Tesla (or higher but below 7 Tesla).
    :name: high-field functional magnetic resonance imaging
+   :synonym: HF fMRI, HF functional MRI, HF functional magnetic resonance imaging, high-field fMRI, high-field functional MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1194,6 +1253,7 @@ highFieldMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Any medical imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: high-field magnetic resonance imaging
+   :synonym: HF MRI, HF magnetic resonance imaging, HF unspecified magnetic resonance imaging, high-field MRI, high-field unspecified magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1209,6 +1269,7 @@ highFieldStructuralMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images with static information of the scanned body.
    :name: high-field structural magnetic resonance imaging
+   :synonym: HF MRI, HF magnetic resonance imaging, HF sMRI, HF structural MRI, HF structural magnetic resonance imaging, high-field MRI, high-field magnetic resonance imaging, high-field structural MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1224,6 +1285,7 @@ highThroughputScanning
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.
    :name: high-throughput scanning
+   :synonym: high throughput scanning
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1253,6 +1315,7 @@ immunohistochemistry
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In 'immunohistochemistry' antigens or haptens are detected and visualized in cells of a tissue sections by exploiting the principle of antibodies binding specifically to antigens in biological tissues.
    :name: immunohistochemistry
+   :synonym: IHC
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1309,7 +1372,9 @@ infraredDifferentialInterferenceContrastVideoMicroscopy
    :@id: https://openminds.om-i.org/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :name: infrared differential interference contrast video microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739494
+   :synonym: IR DIC video microscopy, IR-DIC
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1340,7 +1405,9 @@ intracellularElectrophysiology
    :definition: A technique used to measure electrical properties of a single cell, e.g. a neuron.
    :description: 'Intracellular electrophysiology' describes a group of techniques used to measure with precision the voltage across, or electrical currents passing through, neuronal or other cellular membranes by inserting an electrode inside the neuron.
    :name: intracellular electrophysiology
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/222
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739521
+   :synonym: intracellular recording
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1384,6 +1451,7 @@ intraperitonealInjection
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An 'intraperitoneal injection' is the administration of a substance into the peritoneum (abdominal cavity) via a needle or tube.
    :name: intraperitoneal injection
+   :synonym: IP, IP injection, i.p., i.p. injection
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1399,6 +1467,7 @@ intravenousInjection
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An 'intravenous injection' is the administration of a substance into a vein or veins via a needle or tube.
    :name: intravenous injection
+   :synonym: IV, IV injection, i.v., i.v. injection
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1442,7 +1511,9 @@ lightMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Light microscopy, also referred to as optical microscopy, comprises any type of microscopy technique that uses visible light to generate magnified images of small objects.
    :name: light microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0780269
    :preferredOntologyIdentifier: http://edamontology.org/topic_3385
+   :synonym: LM, optical microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1458,7 +1529,9 @@ lightSheetFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Lightsheet fluorescence microscopy is a fluorescence microscopy technique that uses a thin sheet of light to excite only fluorophores within the plane of illumination.
    :name: light sheet fluorescence microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/lightSheetMicroscopyFluorescent
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739693
+   :synonym: LSFM, SPIM, light sheet microscopy, selective plane illumination microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1474,7 +1547,9 @@ magneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Any medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: magnetic resonance imaging
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0741208
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0741208
+   :synonym: MRI, unspecified magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1504,6 +1579,7 @@ magnetizationTransferImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that exploits the contrast between tissues where 1H protons are (i) bound to macromolecules, (ii) in free water, and (iii) in water of hydration layer between macromolecules and free water.
    :name: magnetization transfer imaging
+   :synonym: MT imaging, MTI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1519,7 +1595,9 @@ magnetoencephalography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Magnetoencephalography' is a noninvasive neuroimaging technique for studying brain activity by recording magnetic fields produced by electrical currents occurring naturally in the brain, using very sensitive magnetometers. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Magnetoencephalography)]
    :name: magnetoencephalography
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/163
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0741209
+   :synonym: MEG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1549,7 +1627,9 @@ microComputedTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Micro computed tomography' uses X-rays to create cross-sections of physical objects with resolution in the micrometer range that can be used to recreate 3-dimensional models [adapted from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_microtomography)].
    :name: micro computed tomography
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0489243
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0514122
+   :synonym: X-ray micro computed tomography, X-ray microtomography, micro CT, microtomography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1566,7 +1646,9 @@ microtomeSectioning
    :definition: A technique used to cut specimen in thin slices using a microtome.
    :description: The microtome cutting thickness can range between 50 nanometer and 100 micrometer.
    :name: microtome sectioning
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/212
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739422
+   :synonym: microtomy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1582,6 +1664,7 @@ motionCapture
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Motion capture' refers to a group of techniques used to measure the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.
    :name: motion capture
+   :synonym: motion tracking, movement tracking
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1625,6 +1708,7 @@ multiPhotonFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Multi photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two or more photons with longer wavelength than the emitted light.
    :name: multi photon fluorescence microscopy
+   :synonym: MPM, multi photon microscopy, multi-photon fluorescence microscopy, multi-photon microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1671,6 +1755,7 @@ myelinWaterImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that provides in vivo measurement of myelin.
    :name: myelin water imaging
+   :synonym: MWI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1686,6 +1771,7 @@ nearInfraredSpectroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A noninvasive technique that uses the differential absorption properties of hemoglobin and myoglobin to evaluate tissue oxygenation and indirectly can measure regional hemodynamics and blood flow [taken from [Interlex](http://uri.interlex.org/base/ilx_0488397)].
    :name: near infrared spectroscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0488397
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0028692
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1716,6 +1802,7 @@ nonlinearOpticalMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Microscopic imaging techniques that utilize nonlinear responses of light-matter interactions which occur with high-intensity illumination, such as from lasers, and specialized light signal detection instrumentation to produce images without the need for dyes or fluorescent labels. [taken from [Interlex](http://uri.interlex.org/base/ilx_0436517)].
    :name: nonlinear optical microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0436517
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000623844
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1747,6 +1834,7 @@ opticalCoherenceTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Imaging technique that combines interferometry with short-coherence-length light to obtain micrometer-level depth resolution. Transverse scanning of the light beam is used to form two- and three-dimensional images, reflected from biological tissue or scattering media [Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Optical_coherence_tomography)].
    :name: optical coherence tomography
+   :synonym: OCT
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1762,6 +1850,7 @@ opticalCoherenceTomographyAngiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Imaging technique that uses laser light reflectance of the surface from moving red blood cells to create detailed images of blood vessels over time [Adapted from [EyeWiki](https://eyewiki.aao.org/Optical_Coherence_Tomography_Angiography)].
    :name: optical coherence tomography angiography
+   :synonym: OCT-A
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1792,6 +1881,7 @@ oralAdministration
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In an 'oral administration' a substance is taken through the mouth.
    :name: oral administration
+   :synonym: PO, p.o., per os
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1850,6 +1940,7 @@ perfusionTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Perfusion is a technique to distribute fluid through the circulatory system or lymphatic system to an organ or a tissue.
    :name: perfusion technique
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0739602
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739602
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1880,7 +1971,9 @@ phaseContrastMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Optical microscopy technique that converts phase shifts in light passing through a transparent specimen to brightness changes in the image [taken from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_microscopy)].
    :name: phase contrast microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/158
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739510
+   :synonym: PCM, phase-contrast microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1896,6 +1989,7 @@ phaseContrastXRayComputedTomography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Phase-contrast x-ray computed tomography' is a non-invasive x-ray imaging technique for three-dimensional observation of organic matter without application of a contrast medium ([Momose, Takeda, and Itai (1995)](https://doi.org/10.1063/1.1145931)).
    :name: phase‐contrast x‐ray computed tomography
+   :synonym: PCT, PCX‐CT, phase‐contrast CT, phase‐contrast computed tomography, x-ray phase-contrast computed tomography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1911,6 +2005,7 @@ phaseContrastXRayImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Phase-contrast x-ray imaging' is a general term for different x-ray techniques that use changes in the phase of an x-ray beam passing through an object leading to images with improved soft tissue contrast without the application of a contrast medium. (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_X-ray_imaging))
    :name: phase-contrast x-ray imaging
+   :synonym: phase-sensitive x-ray imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1954,7 +2049,9 @@ photoplethysmography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.
    :name: photoplethysmography
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0487650
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0026056
+   :synonym: PPG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1970,7 +2067,9 @@ polarizedLightMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Polarized light microscopy comprises all optical microscopy techniques involving polarized light.
    :name: polarized light microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0485478
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0013816
+   :synonym: polarized-light microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2101,6 +2200,7 @@ quantitativeMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Any magnetic resonance imaging technique that generates images of a specimen based on the physical parameters of the local tissue microstructural environment.
    :name: quantitative magnetic resonance imaging
+   :synonym: qMRI, quantitative MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2116,6 +2216,7 @@ quantitativeSusceptibilityMapping
    :@type: https://openminds.om-i.org/types/Technique
    :definition: MRI technique, where the voxel intensity is linear proportional to the underlying tissue [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Quantitative_susceptibility_mapping)].
    :name: quantitative susceptibility mapping
+   :synonym: QSM
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2131,6 +2232,7 @@ receptiveFieldMapping
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In 'receptive field mapping' a distinct set of physiological stimuli is used to evoke a sensory neuronal response in specific organisms to define its respective sensory space (receptive field).
    :name: receptive field mapping
+   :synonym: RF mapping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2174,6 +2276,7 @@ retinotopicMapping
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In 'retinotopic mapping' the retina is repeatedly stimulated in such a way that the response of neurons, particularly within the visual stream, can be mapped to the location of the stimulus on the retina.
    :name: retinotopic mapping
+   :synonym: retinal mapping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2219,7 +2322,9 @@ scanningElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Scanning electron microscopy is a microscopy technique to produce images of a specimen by scanning the surface with focused beam of electrons.
    :name: scanning electron microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/scanningElectronMicroscopy
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739710
+   :synonym: SEM, scanning electron microscopy technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2263,6 +2368,7 @@ serialBlockFaceScanningElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Serial block face scanning electron microscopy is a serial section scanning electron microscopy technique where an ultramicrotome is used to remove the surface layer of a specimen.
    :name: serial block face scanning electron microscopy
+   :synonym: SB-SEM, SBEM, serial blockface SEM
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2294,7 +2400,9 @@ sharpElectrodeIntracellularElectrophysiology
    :definition: An intracellular electrophysiology technique where a microelectrode/micropipette is used to measure electrical properties of a single cell, e.g. a neuron.
    :description: This technique uses a fine-tipped micropipette/microelectrode that is inserted into the neuron, allowing direct recording of electrical events generated by the neuron (membrane potential, resistance, time constant, synaptic potentials and action potentials).
    :name: sharp electrode intracellular electrophysiology
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/sharpElectrodeEphys
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739713
+   :synonym: sharp electrode recording, sharp electrode technique, sharp intracellular electrode recording, sharp intracellular electrode technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2313,6 +2421,7 @@ silverStaining
    :name: silver staining
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_152217
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0110626
+   :synonym: silver stain
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2384,6 +2493,7 @@ singleGeneAnalysis
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A 'single gene analysis' is a genetic test (sequencing technique) to check for any genetic changes in a specific gene.
    :name: single gene analysis
+   :synonym: single gene sequencing, single gene test
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2399,7 +2509,9 @@ singleNucleotidePolymorphismDetection
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Single nucleotide polymorphism detection' refers to a group of techniques that are used to scan for new polymorphisms and to determine the allele(s) of a known polymorphism in target sequences (adapted from [Kwok and Chen, 2003](https://doi.org/10.21775/cimb.005.043)).
    :name: single nucleotide polymorphism detection
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0780321
    :preferredOntologyIdentifier: http://edamontology.org/operation_0484
+   :synonym: SNP calling, SNP detection, SNP discovery
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2415,6 +2527,7 @@ sodiumMRI
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Sodium MRI' is a specialised magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of the distribution of sodium in the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Sodium_MRI)]
    :name: sodium MRI
+   :synonym: Na MRI, Na-MRI, Sodium-MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2444,6 +2557,7 @@ standardization
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Standardization' is the process of providing (meta)data according to a consensus of different parties (e.g., firms, users, interest groups, organizations and governments).
    :name: standardization
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0479520
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0018674
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -2460,6 +2574,7 @@ stereoelectroencephalography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: In 'stereoelectroencephalography' depth electrodes (typically linear electrode arrays) are stereotactically implanted in the brain of a subject in order to record or stimulate electrographic activity of otherwise inaccessible brain regions. [cf. [wikipedia](https://en.wikipedia.org/wiki/Stereoelectroencephalography), or [Gholipour et al. 2020](https://doi.org/10.1016/j.clineuro.2019.105640)]
    :name: stereoelectroencephalography
+   :synonym: SEEG, sEEG, stereo electroencephalogaphy, stereo-EEG, stereotactic electroencephalogaphy, stereotactic-EEG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2475,6 +2590,7 @@ stereology
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An imaging assay that is used for the three-dimensional interpretation of planar sections of materials or tissues.
    :name: stereology
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/79
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739729
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -2505,6 +2621,7 @@ structuralMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images with static information of the scanned body.
    :name: structural magnetic resonance imaging
+   :synonym: MRI, magnetic resonance imaging, sMRI, structural MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2534,6 +2651,7 @@ subcutaneousInjection
    :@type: https://openminds.om-i.org/types/Technique
    :definition: An 'subcutenous injection' is the administration of a substance under all the layers of the skin via a needle or tube.
    :name: subcutaneous injection
+   :synonym: SC, SC injection, s.c., s.c. injection
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2563,7 +2681,9 @@ superResolutionMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Techniques in optical microscopy that allow images to have resolutions higher than those imposed by the diffraction limit, due to the diffraction of light [taken from [Wikipedia](https://en.wikipedia.org/wiki/Super-resolution_microscopy)].
    :name: super resolution microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/218
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739445
+   :synonym: super-resolution microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2579,6 +2699,7 @@ susceptibilityWeightedImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: MRI sequence, used with fully flow compensated, long echo, gradient recalled echo (GRE) pulse sequence. Acquires images sensitive to venous blood, hemorrhage and iron storage. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Susceptibility_weighted_imaging)].
    :name: susceptibility weighted imaging
+   :synonym: BOLD venographic imaging, SWI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2608,6 +2729,7 @@ time-of-flightMagneticResonanceAngiography
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Time-of-flight magnetic resonance angiography' is a non-invasive, non-contrast-enhanced technique used to visualize both arterial and venous vessels with high spatial resolution. Note: it provides no information regarding directionality nor flow velocity quantification. [adapted from:  [Ferreira and Ramalho, 2013](https://doi.org/10.1002/9781118434550.ch7)]
    :name: time-of-flight magnetic resonance angiography
+   :synonym: TOF, TOF MRA, TOF angiography, TOF magnetic resonance angiography, time-of-flight, time-of-flight MR angiography, time-of-flight MRA, time-of-flight angiography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2651,6 +2773,7 @@ transcardialPerfusionFixationTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Transcardial perfusion fixation is a technique to distribute fixatives throughout tissue via the heart.
    :name: transcardial perfusion fixation technique
+   :synonym: intracardiac perfusion fixation technique, intracardial perfusion fixation technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2666,7 +2789,9 @@ transcardialPerfusionTechnique
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Transcardial perfusion is a technique to distribute fluid throughout tissue via the heart.
    :name: transcardial perfusion technique
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/167
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739695
+   :synonym: intracardiac perfusion technique, intracardial perfusion technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2682,6 +2807,7 @@ transmissionElectronMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through a specimen to produce an image.
    :name: transmission electron microscopy
+   :synonym: TEM
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2697,7 +2823,9 @@ twoPhotonFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.
    :name: two-photon fluorescence microscopy
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/twoPhoton
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739658
+   :synonym: 2-photon excitation microscopy, 2-photon fluorescence microscopy, 2-photon microscopy, 2PEF, TPEF, TPM, two-photon excitation fluorescence microscopy, two-photon excitation microscopy, two-photon microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2713,6 +2841,7 @@ ultraHighFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 7 Tesla (or higher).
    :name: ultra high-field functional magnetic resonance imaging
+   :synonym: UHF fMRI, UHF functional MRI, UHF functional magnetic resonance imaging, ultra high-field fMRI, ultra high-field functional MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2728,6 +2857,7 @@ ultraHighFieldMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Any medical imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: ultra high-field magnetic resonance imaging
+   :synonym: UHF MRI, UHF magnetic resonance imaging, UHF unspecified magnetic resonance imaging, ultra high-field MRI, ultra high-field unspecified magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2758,6 +2888,7 @@ ultraHighFieldStructuralMagneticResonanceImaging
    :@type: https://openminds.om-i.org/types/Technique
    :definition: A magnetic resonance imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images with static information of the scanned body.
    :name: ultra high-field structural magnetic resonance imaging
+   :synonym: UHF MRI, UHF magnetic resonance imaging, UHF sMRI, UHF structural MRI, UHF structural magnetic resonance imaging, ultra high-field MRI, ultra high-field magnetic resonance imaging, ultra high-field structural MRI
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2859,6 +2990,7 @@ weightedCorrelationNetworkAnalysis
    :@type: https://openminds.om-i.org/types/Technique
    :definition: Weighted correlation network analysis is a widely used data mining method for studying networks based on pairwise correlations between variables. While it can be applied to most high-dimensional data sets, it has been most widely used in genomic applications. [adopted from: [wikipedia](https://en.wikipedia.org/wiki/Weighted_correlation_network_analysis)]
    :name: weighted correlation network analysis
+   :synonym: WGCNA, weighted gene co-expression network analysis
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2889,7 +3021,9 @@ wholeGenomeSequencing
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Whole genome sequencing' is a genetic test (sequencing technique) to determine the entire, or nearly the entire, DNA sequence of an organism's genome at a single time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing)]
    :name: whole genome sequencing
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0492452
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000621306
+   :synonym: WGS, complete genome sequencing, entire genome sequencing, full genome sequencing
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 

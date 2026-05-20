@@ -48,6 +48,7 @@ holdingPotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Measured membrane potential during a voltage-clamp protocol.
    :name: holding potential
+   :synonym: measured holding potential
 
 `BACK TO TOP <Terminologies: MeasuredQuantity library_>`_
 
@@ -63,6 +64,7 @@ inputResistance
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Total resistance observed by the amplifier during an electrophysiological recording.
    :name: input resistance
+   :synonym: access resistance
 
 `BACK TO TOP <Terminologies: MeasuredQuantity library_>`_
 
@@ -124,6 +126,7 @@ seriesResistance
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Resistance of the electrode during an electrophysiological recording.
    :name: series resistance
+   :synonym: access resistance, electrode resistance
 
 `BACK TO TOP <Terminologies: MeasuredQuantity library_>`_
 

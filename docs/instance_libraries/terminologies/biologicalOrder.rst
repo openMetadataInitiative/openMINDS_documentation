@@ -18,7 +18,9 @@ carnivora
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Carnivora* (carnivore) belongs to the class *Mammalia* (mammals).
    :name: Carnivora
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101675
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_33554
+   :synonym: carnivore
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -34,6 +36,7 @@ cypriniformes
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Cypriniformes* belongs to the class *Actinopterygii* (ray-finned fishes).
    :name: Cypriniformes
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0737279
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0005508
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
@@ -50,6 +53,7 @@ didelphimorphia
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).
    :name: Didelphimorphia
+   :synonym: opossums
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -65,7 +69,9 @@ nudibranchia
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Nudibranchia* (nudibranchs) belongs to the class *Gastropoda* (gastropods).
    :name: Nudibranchia
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0107805
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_70849
+   :synonym: nudibranchs
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -81,6 +87,7 @@ primates
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Primates* belongs to the class *Mammalia* (mammals).
    :name: Primates
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0486298
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0017579
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
@@ -97,7 +104,9 @@ rodentia
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).
    :name: Rodentia
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0110175
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9989
+   :synonym: rodents
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 

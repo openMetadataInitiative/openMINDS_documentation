@@ -18,6 +18,7 @@ AMPL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: AMPL
    :preferredCrossReference: https://www.wikidata.org/entity/Q295250
+   :synonym: A Mathematical Programming Language
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -138,6 +139,7 @@ IGORPro
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
    :name: IGOR Pro
+   :synonym: IGOR Pro programming language
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 

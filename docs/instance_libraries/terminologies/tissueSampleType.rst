@@ -18,6 +18,7 @@ biopsySample
    :@type: https://openminds.om-i.org/types/TissueSampleType
    :definition: Typically very small sample of tissue that was excised from a living or deceased multicellular organism body.
    :name: biopsy sample
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0782394
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0002650
 
 `BACK TO TOP <Terminologies: TissueSampleType library_>`_

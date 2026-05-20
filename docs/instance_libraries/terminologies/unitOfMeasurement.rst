@@ -19,6 +19,7 @@ ampere
    :definition: An electric current unit which is equal to the constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed 1 m apart in vacuum, would produce between these conductors a force equal to 2 x 10^[-7] newton per meter of length.
    :name: ampere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000011
+   :synonym: A
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -35,6 +36,7 @@ arcdegree
    :definition: An arcdegree is a measurement of a plane angle in which one full rotation is 360 degrees.
    :name: arcdegree
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000185
+   :synonym: arc degree, degree, degree of arc, °
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -121,6 +123,7 @@ degreeCelsius
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: The 'degree Celsius' is a unit of temperature on the Celsius scale where the freezing point of water is at 0 °C and the boiling point of water is at 100 °C under standard atmospheric pressure.
    :name: degree Celsius
+   :synonym: Celsius, degree, °C
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -136,6 +139,7 @@ degreeFahrenheit
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: The 'degree Fahrenheit' is a unit of temperature on the Fahrenheit scale where the freezing point of water is at 32 °F and the boiling point of water is at 212 °F under standard atmospheric pressure.
    :name: degree Fahrenheit
+   :synonym: Fahrenheit, degree, °F
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -151,6 +155,7 @@ degreeRankine
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: The 'degree Rankine' is a unit of temperature on the Rankine scale where the freezing point of water is at 491.67 °R and the boiling point of water is at 671.64102 °R under standard atmospheric pressure.
    :name: degree Rankine
+   :synonym: Rankine, degree, °R, °Ra
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -194,6 +199,7 @@ gigaohm
    :@id: https://openminds.om-i.org/instances/unitOfMeasurement/gigaohm
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :name: gigaohm
+   :synonym: GΩ
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -224,6 +230,7 @@ hertz
    :definition: Unit of frequency equivalent to one event per second
    :name: hertz
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000106
+   :synonym: Hz, cycles per second, events per second
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -281,6 +288,7 @@ kilohertz
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Unit of frequency equivalent to one thousand events per second
    :name: kilohertz
+   :synonym: kHz, kilocycles per second, kiloevents per second
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -323,6 +331,7 @@ megaohm
    :@id: https://openminds.om-i.org/instances/unitOfMeasurement/megaohm
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :name: megaohm
+   :synonym: MΩ
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -353,6 +362,7 @@ microampere
    :definition: An electric current unit current which is equal to one millionth of an ampere or 10^[-6] A.
    :name: microampere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000038
+   :synonym: µA
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -367,6 +377,7 @@ microgramPerMilliliter
    :@id: https://openminds.om-i.org/instances/unitOfMeasurement/microgramPerMilliliter
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :name: microgram per milliliter
+   :synonym: ug/ml, µg/ml
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -396,6 +407,7 @@ micromolar
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Micromolar is a decimal fraction of molar concentration describing the amount of substance (measured in micromole) in one liter solution.
    :name: micromolar
+   :synonym: uM, µM, µmol*m⁻³, µmol/l, µmol/m³
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -411,6 +423,7 @@ milligramPerKilogramBodyWeight
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: A milligram of a substance per kilogram of the body weight of the subject taking the substance.
    :name: milligram per kilogram body weight
+   :synonym: mg/kg
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -425,6 +438,7 @@ milligramPerMilliliter
    :@id: https://openminds.om-i.org/instances/unitOfMeasurement/milligramPerMilliliter
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :name: milligram per milliliter
+   :synonym: mg/ml
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -468,6 +482,7 @@ millimolar
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Millimolar is a decimal fraction of molar concentration that describes a solution as millimole per one liter of a solution.
    :name: millimolar
+   :synonym: 10^-3 mol/L, mM, mol/m^3
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -498,6 +513,7 @@ millisiemens
    :definition: An electrical conduction unit which is equal to one thousandth of a siemen or 10^[-3] siemens.
    :name: millisiemens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010002
+   :synonym: mS
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -514,6 +530,7 @@ millivolt
    :definition: An electric potential difference unit which is equal to one thousandth of a volt or 10^[-3] V.
    :name: millivolt
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000247
+   :synonym: mV
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -543,6 +560,7 @@ molar
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Molar is a measure of concentration that describes a solution as moles of solute per one liter of a solution.
    :name: molar
+   :synonym: 10^3 mol/m^3, M, mol/L
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -572,6 +590,7 @@ nanoampere
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: An electric current unit current which is equal to one thousand millionth of an ampere or 10^[-9] A.
    :name: nanoampere
+   :synonym: nA
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -587,6 +606,7 @@ nanomolar
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Nanomolar is a decimal fraction of molar concentration describing the amount of substance (measured in nanomole) in one liter solution.
    :name: nanomolar
+   :synonym: nM, nmol*m⁻³, nmol/l, nmol/m³
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -602,6 +622,7 @@ ohm
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: The SI derived unit of electrical resistance, named after German physicist Georg Ohm, equal to 1 V/A
    :name: ohm
+   :synonym: Ω
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -617,6 +638,7 @@ percentage
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: A 'percentage' (from Latin per centum 'by a hundred') is a quantity expressed as a fraction of 100 (amount of something in each hundred).
    :name: percent
+   :synonym: %, pc, pct, percent
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -633,6 +655,7 @@ picoampere
    :definition: An electric current unit current which is equal to one trillionth of an ampere or 10^[-12] A.
    :name: picoampere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010054
+   :synonym: pA
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -648,6 +671,7 @@ postnatalDay
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: 'Postnatal day' is a specific unit to measure the age of an organism that is born live (viviparous animals), starting with the day of birth (postnatal day 0, or short: P0).
    :name: postnatal day
+   :synonym: P
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -664,6 +688,7 @@ radian
    :definition: A 'radian' is the SI unit for measuring angles. One 'radian' defines the arc of a circle with the same length as the radius of that circle.
    :name: radian
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000123
+   :synonym: rad
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -694,6 +719,7 @@ siemens
    :definition: An electrical conduction unit which is equal to A/V.
    :name: siemens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000264
+   :synonym: S
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -724,6 +750,7 @@ volt
    :definition: An electric potential difference unit which is equal to the work per unit charge. One volt is the potential difference required to move one coulomb of charge between two points in a circuit while using one joule of energy.
    :name: volt
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010054
+   :synonym: V
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -739,6 +766,7 @@ volumePerVolumePercentage
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Percentage of volume of one liquid dissolved in another liquid, where the volume of both liquids have the same unit
    :name: volume per volume percentage
+   :synonym: % v/v, percent v/v, v/v %, v/v percent, volume percent
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -784,6 +812,7 @@ weightPerVolumePercentage
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: Percentage of weight or mass of a dissolved, solid substance in a total volume of a solution. As per definition, the volume of a liquid is expressed in milliliter (ml) and the mass of a solute in grams (g)
    :name: weight per volume percentage
+   :synonym: % w/v, mass/volume percent, percent w/v, w/v %, w/v percent
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
@@ -799,6 +828,7 @@ weightPerWeightPercentage
    :@type: https://openminds.om-i.org/types/UnitOfMeasurement
    :definition: The percentage of a particular substance within a mixture, as measured by weight or mass and expressed in the same unit
    :name: weight per weight percentage
+   :synonym: % w/w, mass percent, percent w/w, w/w %, w/w percent, weight percent
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 

@@ -37,6 +37,7 @@ head
    :description: The head is the anterior-most division of the body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000033)]
    :name: head
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000033
+   :synonym: head (volume)
 
 `BACK TO TOP <Terminologies: ExternalBodyRegion library_>`_
 
