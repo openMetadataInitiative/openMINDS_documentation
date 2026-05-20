@@ -20,6 +20,7 @@ carnivora
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101675
    :name: Carnivora
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_33554
+   :synonym: carnivore
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -52,6 +53,7 @@ didelphimorphia
    :@type: https://openminds.om-i.org/types/BiologicalOrder
    :definition: The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).
    :name: Didelphimorphia
+   :synonym: opossums
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -69,6 +71,7 @@ nudibranchia
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107805
    :name: Nudibranchia
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_70849
+   :synonym: nudibranchs
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
@@ -103,6 +106,7 @@ rodentia
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110175
    :name: Rodentia
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9989
+   :synonym: rodents
 
 `BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 

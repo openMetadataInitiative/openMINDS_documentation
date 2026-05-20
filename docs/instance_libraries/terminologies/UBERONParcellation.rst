@@ -210,6 +210,7 @@ AmmonsHorn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001954#hippocampus
    :name: Ammon's horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001954
+   :synonym: ammon gyrus, ammon horn, hippocampus major, hippocampus proper, hippocampus proprius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -227,6 +228,7 @@ BarringtonsNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007632#barrington-s-nucleus
    :name: Barrington's nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007632
+   :synonym: nucleus of Barrington
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -245,6 +247,7 @@ C1SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006469#first-cervical-spinal-cord-segment
    :name: C1 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006469
+   :synonym: C1 cervical spinal cord, C1 segment, C1 spinal cord segment, first cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -263,6 +266,7 @@ C2SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006489#second-cervical-spinal-cord-segment
    :name: C2 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006489
+   :synonym: C2 segment, C2 spinal cord segment, second cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -281,6 +285,7 @@ C3SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006488#third-cervical-spinal-cord-segment
    :name: C3 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006488
+   :synonym: C3 segment, C3 spinal cord segment, third cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -299,6 +304,7 @@ C4SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006490#forth-cervical-spinal-cord-segment
    :name: C4 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006490
+   :synonym: C4 segment, C4 spinal cord segment, forth cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -317,6 +323,7 @@ C5SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006491#fifth-cervical-spinal-cord-segment
    :name: C5 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006491
+   :synonym: C5 segment, C5 spinal cord segment, fifth cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -335,6 +342,7 @@ C6SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006492#sixth-cervical-spinal-cord-segment
    :name: C6 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006492
+   :synonym: C6 segment, C6 spinal cord segment, sixth cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -353,6 +361,7 @@ C7SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006493#seventh-cervical-spinal-cord-segment
    :name: C7 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006493
+   :synonym: C7 segment, C7 spinal cord segment, seventh cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -370,6 +379,7 @@ C8SegmentOfCervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006469#eighth-cervical-spinal-cord-segment
    :name: C8 segment of cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006470
+   :synonym: C8 segment, C8 spinal cord segment, eighth cervical spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -389,6 +399,7 @@ CA1Alveus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014570#ca1-alveus-1
    :name: CA1 alveus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014570
+   :synonym: alveus of the CA1 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -408,6 +419,7 @@ CA1FieldOfHippocampus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003881#ca1
    :name: CA1 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003881
+   :synonym: CA1, CA1 field, CA1 field of Ammon's horn, CA1 field of cornu ammonis, cornu ammonis 1, hippocampus CA1, prosubiculum = distal ca1, regio i cornus ammonis, regio i hippocampi proprii, regio superior, regio superior of the hippocampus, region 1 of Ammon's horn, region i of ammon's horn, region i of hippocampus proper
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -427,6 +439,7 @@ CA1StratumLacunosumMoleculare
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014557#ca1-stratum-lacunosum-moleculare-1
    :name: CA1 stratum lacunosum moleculare
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014557
+   :synonym: CA1 part of stratum lacunosum moleculare, lacunar-molecular layer of CA1 field, stratum lacunosum moleculare of the CA1 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -446,6 +459,7 @@ CA1StratumOriens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014552#ca1-stratum-oriens-1
    :name: CA1 stratum oriens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014552
+   :synonym: CA1 part of stratum oriens, oriens layer of CA1 field, stratum oriens of the CA1 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -465,6 +479,7 @@ CA1StratumRadiatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014554#ca1-stratum-radiatum-1
    :name: CA1 stratum radiatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014554
+   :synonym: CA1 part of stratum radiatum, radiate layer of CA1 field, stratum radiatum of the CA1 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -484,6 +499,7 @@ CA2FieldOfHippocampus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003882#ca2
    :name: CA2 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003882
+   :synonym: CA2, CA2 field, CA2 field of Ammon's horn, CA2 field of cornu ammonis, hippocampus CA2, regio ii cornus ammonis, regio ii hippocampi proprii, region 2 of Ammon's horn, region II of ammon's horn, region II of hippocampus proper
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -502,6 +518,7 @@ CA2StratumLacunosumMoleculare
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014558#ca2-stratum-lacunosum-moleculare-1
    :name: CA2 stratum lacunosum moleculare
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014558
+   :synonym: CA2 part of stratum lacunosum moleculare, lacunar-molecular layer of CA2 field, stratum lacunosum moleculare of the CA2 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -520,6 +537,7 @@ CA2StratumOriens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014551#ca2-stratum-oriens-1
    :name: CA2 stratum oriens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014551
+   :synonym: CA2 part of stratum oriens, oriens layer of CA2 field, stratum oriens of the CA2 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -539,6 +557,7 @@ CA2StratumRadiatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014555#ca2-stratum-radiatum-1
    :name: CA2 stratum radiatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014555
+   :synonym: CA2 part of stratum radiatum, radiate layer of CA2 field, stratum radiatum of the CA2 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -558,6 +577,7 @@ CA3Alveus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014571#ca3-alveus-1
    :name: CA3 alveus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014571
+   :synonym: alveus of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -577,6 +597,7 @@ CA3FieldOfHippocampus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003883#ca3
    :name: CA3 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003883
+   :synonym: CA3, CA3 field, CA3 field of Ammon's horn, CA3 field of cornu ammonis, hippocampus CA3, regio III cornus ammonis, regio III hippocampi proprii, regio inferior, region 3 of Ammon's horn, region III of ammon's horn, region III of hippocampus proper
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -595,6 +616,7 @@ CA3StratumLacunosumMoleculare
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014559#ca3-stratum-lacunosum-moleculare-1
    :name: CA3 stratum lacunosum moleculare
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014559
+   :synonym: CA3 part of stratum lacunosum moleculare, lacunar-molecular layer of CA3 field, stratum lacunosum moleculare of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -613,6 +635,7 @@ CA3StratumLucidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014560#ca3-stratum-lucidum-1
    :name: CA3 stratum lucidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014560
+   :synonym: stratum lucidum of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -631,6 +654,7 @@ CA3StratumOriens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014553#ca3-stratum-oriens-1
    :name: CA3 stratum oriens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014553
+   :synonym: CA3 part of stratum oriens, oriens layer of CA3 field, stratum oriens of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -650,6 +674,7 @@ CA3StratumRadiatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014556#ca3-stratum-radiatum-1
    :name: CA3 stratum radiatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014556
+   :synonym: CA3 part of stratum radiatum, radiate layer of CA3 field, stratum radiatum of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -668,6 +693,7 @@ CA4FieldOfHippocampus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003884#ca4-field-of-hippocampus
    :name: CA4 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003884
+   :synonym: CA4, CA4 field, CA4 field of Ammon's horn, CA4 field of cornu ammonis, hippocampus CA4, regio IV cornus ammonis, regio IV hippocampi proprii, region 4 of Ammon's horn, region IV of ammon's horn, region IV of hippocampus proper
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -686,6 +712,7 @@ GruenebergGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013208#grueneberg-ganglion
    :name: Grueneberg ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013208
+   :synonym: Grüneberg ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -703,6 +730,7 @@ HenlesFiberLayer
    :description: This layer contains bundles of unmyelinated cone and rod photoreceptor axons terminating in the pedicles and spherules that synapse in the retinal outer plexiform layer (OPL). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8000005)]
    :name: Henle's fiber layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_8000005
+   :synonym: HFL, Henle fiber layer, nerve fiber layer of Henle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -757,6 +785,7 @@ MerkelNerveEnding
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012456#merkel-nerve-ending
    :name: Merkel nerve ending
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012456
+   :synonym: Merkel's disc, Merkel's disk, Merkel's receptor, Merkel's tactile disc
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -775,6 +804,7 @@ MeyersLoopOfOpticRadiation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035935#meyer-s-loop-of-optic-radiation
    :name: Meyer's loop of optic radiation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035935
+   :synonym: Meyer's loop, inferior optic radiation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -883,6 +913,7 @@ PacinianCorpuscle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003719#pacinian-corpuscle
    :name: Pacinian corpuscle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003719
+   :synonym: corpuscle of golgi-mazzoni, corpusculum lamellosum, golgi-mazzoni corpuscle, lamellar corpuscle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -918,6 +949,7 @@ PurkinjeCellLayerOfCerebellarCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002979#purkinje-cell-layer-of-cerebellar-cortex-1
    :name: Purkinje cell layer of cerebellar cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002979
+   :synonym: Purkinje cell layer, cerebellar Purkinje cell layer, cerebellum Purkinje cell layer, cerebellum Purkinje layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -953,6 +985,7 @@ ReissnersFiber
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011357#reissner-s-fiber
    :name: Reissner's fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011357
+   :synonym: Reissner's fibre
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -971,6 +1004,7 @@ RuffiniNerveEnding
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012457#ruffini-nerve-ending
    :name: Ruffini nerve ending
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012457
+   :synonym: Ruffini's corpuscle, corpusculum sensorium fusiforme
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -990,6 +1024,7 @@ SommersSector
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
    :name: Sommer's sector
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
+   :synonym: sommer's sector
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1044,6 +1079,7 @@ abdomenNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003429#abdomen-nerve
    :name: abdomen nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003429
+   :synonym: nerve of abdomen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1098,6 +1134,7 @@ abdominalNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035773#abdominal-nerve-plexus
    :name: abdominal nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035773
+   :synonym: abdominal aortic nerve plexus, abdominal aortic plexus, plexus aorticus abdominalis, plexus aortique abdominal@fr, plexus nervosus aorticus abdominalis, preaortic nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1116,6 +1153,7 @@ abducensNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001646#abducens-nerve-1
    :name: abducens nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001646
+   :synonym: abducens VI nerve, abducens nerve [VI], abducens nerve tree, abducent nerve [VI], lateral rectus nerve, nervus abducens, nervus abducens [VI], sixth cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1135,6 +1173,7 @@ abducensNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002682#abducens-nucleus-1
    :name: abducens nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002682
+   :synonym: abducens VI nucleus, abducens motor nucleus, abducens nerve nucleus, abducent nucleus, motor nucleus VI, nVI, nucleus nervi abducentis, nucleus of abducens nerve, nucleus of abducens nerve (VI), sixth cranial nerve nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1172,6 +1211,7 @@ accessoryBasalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1
    :name: accessory basal amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002885
+   :synonym: accessory basal nucleus of amygdala, basal amygdaloid nucleus, medial part, basomedial nucleus (accessory basal nucleus), basomedial nucleus (de olmos)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1209,6 +1249,7 @@ accessoryCuneateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002864#accessory-cuneate-nucleus-1
    :name: accessory cuneate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002864
+   :synonym: external cuneate nucleus, lateral cuneate nucleus, nucleus of corpus restiforme
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1228,6 +1269,7 @@ accessoryMedullaryLaminaOfGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002763#accessory-medullary-lamina
    :name: accessory medullary lamina of globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002763
+   :synonym: accessory medullar lamina of pallidum, accessory medullary lamina, accessory medullary lamina of corpus striatum, accessory medullary lamina pallidus, incomplete medullary lamina of globus pallidus, lamina medullaris accessoria corporis striati
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1265,6 +1307,7 @@ accessoryNerveFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006117#accessory-nerve-fiber-bundle-1
    :name: accessory nerve fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006117
+   :synonym: accessory nerve fibers, accessory nerve tract, eleventh cranial nerve fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1284,6 +1327,7 @@ accessoryNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014615#accessory-nerve-root-1
    :name: accessory nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014615
+   :synonym: root of accessory nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1302,6 +1346,7 @@ accessoryNucleusOfOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013598#accessory-nucleus-of-optic-tract
    :name: accessory nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013598
+   :synonym: nuclei accessorii tractus optici, nucleus of accessory optic system, terminal nucleus of accessory optic tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1320,6 +1365,7 @@ accessoryOlfactoryBulb
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004069#accessory-olfactory-bulb
    :name: accessory olfactory bulb
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004069
+   :synonym: accessory (vomeronasal) bulb, olfactory bulb accessory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1337,6 +1383,7 @@ accessoryOlfactoryBulbExternalPlexiformLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019289#accessory-olfactory-bulb-external-plexiform-layer
    :name: accessory olfactory bulb external plexiform layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019289
+   :synonym: AOB, outer plexiform layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1354,6 +1401,7 @@ accessoryOlfactoryBulbGlomerularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007631#accessory-olfactory-bulb-glomerular-layer
    :name: accessory olfactory bulb glomerular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007631
+   :synonym: AOB, glomerular layer, accessory olfactory bulb, glomerular layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1371,6 +1419,7 @@ accessoryOlfactoryBulbGranuleCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015244#accessory-olfactory-bulb-granule-cell-layer
    :name: accessory olfactory bulb granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015244
+   :synonym: AOB, granular layer, accessory olfactory bulb, granular layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1388,6 +1437,7 @@ accessoryOlfactoryBulbInternalPlexiformLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019290#accessory-olfactory-bulb-internal-plexiform-layer
    :name: accessory olfactory bulb internal plexiform layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019290
+   :synonym: AOB, internal plexiform layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1405,6 +1455,7 @@ accessoryOlfactoryBulbMitralCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015432#accessory-olfactory-bulb-mitral-cell-layer
    :name: accessory olfactory bulb mitral cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015432
+   :synonym: accessory olfactory bulb, mitral layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1440,6 +1491,7 @@ accessoryPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035567#accessory-pretectal-nucleus
    :name: accessory pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035567
+   :synonym: APN, nucleus praetectalis accessorius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1458,6 +1510,7 @@ accessoryXINerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002019#accessory-nerve
    :name: accessory XI nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002019
+   :synonym: Willis' nerve, accessory XI, accessory nerve, accessory nerve [XI], cervical accessory nerve, cranial nerve XI, eleventh cranial nerve, nervus accessorius [XI], pars spinalis nervus accessorius, radix spinalis nervus accessorius, spinal accessory nerve, spinal accessory nerve tree, spinal part of accessory nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1493,6 +1546,7 @@ accessoryXINerveNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0020358#accessory-xi-nerve-nucleus
    :name: accessory XI nerve nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0020358
+   :synonym: accessory neural nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1511,6 +1565,7 @@ accessoryXINerveSpinalComponent
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009674#accessory-xi-nerve-spinal-component
    :name: accessory XI nerve spinal component
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009674
+   :synonym: spinal part of the accessory nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1528,6 +1583,7 @@ acousticoFacialVIIVIIIGanglionComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012175#acoustico-facial-vii-viii-ganglion-complex
    :name: acoustico-facial VII-VIII ganglion complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012175
+   :synonym: acousticofacial ganglion, facio-acoustic ganglion, facio-acoustic ganglion complex VII-VIII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1547,6 +1603,7 @@ adenohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002196#adenohypophysis-1
    :name: adenohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002196
+   :synonym: anterior hypophysis, anterior lobe (hypophysis), anterior lobe of hypophysis, anterior lobe of pituitary, anterior lobe of pituitary gland, anterior pituitary, lobus anterior (glandula pituitaria), lobus anterior hypophysis, pituitary gland, anterior lobe
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1565,6 +1622,7 @@ agranularInsularCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034893#agranular-insular-cortex
    :name: agranular insular cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034893
+   :synonym: dysgranular insular cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1584,6 +1642,7 @@ alarCentralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003013#alar-central-lobule-1
    :name: alar central lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003013
+   :synonym: ala centralis, alae of central lobule, lobules II, III of vermis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1656,6 +1715,7 @@ ambientGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036164#ambient-gyrus
    :name: ambient gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036164
+   :synonym: ambiens gyrus, gyrus ambiens
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1674,6 +1734,7 @@ amiculumOfDentateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002568#amiculum-of-dentate-nucleus-1
    :name: amiculum of dentate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002568
+   :synonym: dentate nuclear amiculum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1691,6 +1752,7 @@ amiculumOfInferiorOlive
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035938#amiculum-of-inferior-olive
    :name: amiculum of inferior olive
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035938
+   :synonym: amiculum of olive, amiculum of the olive, amiculum olivae, amiculum olivare, inferior olive amiculum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1746,6 +1808,7 @@ amygdala
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001876#amygdala-1
    :name: amygdala
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001876
+   :synonym: amygdaloid body, amygdaloid complex, amygdaloid nuclear complex, amygdaloid nuclear groups, archistriatum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1832,6 +1895,7 @@ amygdalopiriformTransitionArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034989#amygdalopiriform-transition-area
    :name: amygdalopiriform transition area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034989
+   :synonym: postpiriform transition area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1851,6 +1915,7 @@ angularGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002686#angular-gyrus-1
    :name: angular gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002686
+   :synonym: middle part of inferior parietal lobule, preoccipital gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1887,6 +1952,7 @@ ankleNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003446#ankle-nerve
    :name: ankle nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003446
+   :synonym: nerve of ankle, tarsal region nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1942,6 +2008,7 @@ ansaLenticularis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009641#ansa-lenticularis-1
    :name: ansa lenticularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009641
+   :synonym: ansa lenticularis in thalamo, ansa lenticularis in thalamus, ventral peduncle of lateral forebrain bundle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1959,6 +2026,7 @@ ansaPeduncularis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034896#ansa-peduncularis
    :name: ansa peduncularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034896
+   :synonym: ansa peduncularis in thalamo, ansa peduncularis in thalamus, peduncular loop
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1977,6 +2045,7 @@ ansiformLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005348#ansiform-lobule
    :name: ansiform lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005348
+   :synonym: ansiform lobule of cerebellum, ansiform lobule of cerebellum [hVIIa], lobuli semilunares cerebelli, lobulus ansiformis cerebelli, lobulus ansiformis cerebelli [h vii a], semilunar lobules of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1995,6 +2064,7 @@ ansiformLobuleCrusI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005976#hemispheric-lobule-viia
    :name: ansiform lobule crus I
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005976
+   :synonym: crus I of the ansiform lobule (HVII), crus primum lobuli ansiformis cerebelli [h vii a], first crus of ansiform lobule of cerebellum [hVIIa], hemispheric lobule VIIA, lobulus ansiform crus I, lobulus semilunaris superior, lobulus semilunaris superior cerebelli, posterior superior lobule, semilunar lobule-2 (superior), superior semilunar lobule, superior semilunar lobule of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2013,6 +2083,7 @@ ansiformLobuleCrusII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005977#ansiform-lobule-crus-ii
    :name: ansiform lobule crus II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005977
+   :synonym: crus II of the ansiform lobule (HVII), crus secundum lobuli ansiformis cerebelli [hVII A], hemispheric lobule VIIBi, inferior semilunar lobule, inferior semilunar lobule of cerebellum, lobulus ansiform crus II, lobulus semilunaris inferior, lobulus semilunaris inferior cerebelli, posterior inferior lobule, second crus of ansiform lobule of cerebellum [hVIIa], semilunar lobule-2 (inferior)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2031,6 +2102,7 @@ ansoparamedianFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014468#ansoparamedian-fissure-of-cerebellum
    :name: ansoparamedian fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014468
+   :synonym: ansoparamedian fissure, fissura ansoparamedianis, fissura lunogracilis, lunogracile fissure, lunogracile fissure of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2049,6 +2121,7 @@ anteriorAmygdaloidArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002890#anterior-amygdaloid-area-1
    :name: anterior amygdaloid area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002890
+   :synonym: anterior amygaloid area, anterior amygdalar area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2066,6 +2139,7 @@ anteriorAscendingLimbOfLateralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002670#anterior-ascending-limb-of-lateral-sulcus-1
    :name: anterior ascending limb of lateral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002670
+   :synonym: anterior ascending limb of lateral fissure, anterior ascending ramus of lateral sulcus, ascending branch of lateral sulcus, ascending ramus of lateral cerebral sulcus, ascending ramus of sylvian fissure, middle ramus of lateral fissure, ramus ascendens sulci lateralis cerebri, superior branch of lateral fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2084,6 +2158,7 @@ anteriorCalcarineSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002582#anterior-calcarine-sulcus-1
    :name: anterior calcarine sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002582
+   :synonym: anterior calcarine fissure, sulcus calcarinus anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2156,6 +2231,7 @@ anteriorColumnOfFornix
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1
    :name: anterior column of fornix
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002940
+   :synonym: anterior crus of fornix, anterior pillar of fornix, columna fornicis anterior, fornix, crus anterius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2175,6 +2251,7 @@ anteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000935#anterior-commissure-1
    :name: anterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000935
+   :synonym: anterior cerebral commissure, commissura anterior cerebri, commissura rostralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2194,6 +2271,7 @@ anteriorCommissureAnteriorPart
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003039#anterior-commissure-anterior-part-1
    :name: anterior commissure anterior part
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003039
+   :synonym: anterior commissure pars anterior, anterior commissure, anterior part, anterior part of anterior commissure, commissura anterior, crus anterius, commissura anterior, pars anterior, commissura anterior, pars olfactoria, commissura rostralis, pars anterior, olfactory limb of anterior commissure, olfactory part of anterior commissure, pars anterior commissurae anterioris, pars olfactoria commissurae anterioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2211,6 +2289,7 @@ anteriorCoronaRadiata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022425#anterior-corona-radiata
    :name: anterior corona radiata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022425
+   :synonym: anterior portion of corona radiata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2246,6 +2325,7 @@ anteriorDivisionOfBedNucleiOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011173#anterior-division-of-bed-nuclei-of-stria-terminalis
    :name: anterior division of bed nuclei of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011173
+   :synonym: anterior nuclei of stria terminalis, bed nuclei of the stria terminalis, anterior division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2263,6 +2343,7 @@ anteriorHorizontalLimbOfLateralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002669#anterior-horizontal-limb-of-lateral-sulcus-1
    :name: anterior horizontal limb of lateral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002669
+   :synonym: anterior branch of lateral sulcus, anterior horizontal limb of lateral fissure, anterior horizontal ramus of lateral fissure, anterior ramus of lateral cerebral sulcus, horizontal limb of lateral fissure, horizontal ramus of sylvian fissure, ramus anterior sulci lateralis cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2282,6 +2363,7 @@ anteriorHornOfLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002651#anterior-horn-of-lateral-ventricle-1
    :name: anterior horn of lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002651
+   :synonym: cornu anterius (ventriculi lateralis), cornu anterius ventriculi lateralis, cornu frontale (ventriculi lateralis), cornu frontale ventriculi lateralis, frontal horn of lateral ventricle, ventriculus lateralis, cornu anterius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2299,6 +2381,7 @@ anteriorHypothalamicCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002694#anterior-hypothalamic-commissure-1
    :name: anterior hypothalamic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002694
+   :synonym: anterior hypothalamic commissure (Ganser), anterior hypothalamic decussation of Ganser
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2317,6 +2400,7 @@ anteriorHypothalamicRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002550#anterior-hypothalamic-region-1
    :name: anterior hypothalamic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002550
+   :synonym: anterior hypothalamic area, chiasmal zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2353,6 +2437,7 @@ anteriorLateralLineNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000425#anterior-lateral-line-nerve
    :name: anterior lateral line nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000425
+   :synonym: rostral lateral line nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2372,6 +2457,7 @@ anteriorLimbOfInternalCapsule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014526#anterior-limb-of-internal-capsule-1
    :name: anterior limb of internal capsule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014526
+   :synonym: capsula interna, pars anterior, crus anterius capsulae internae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2391,6 +2477,7 @@ anteriorLobeOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002131#anterior-lobe-of-cerebellum
    :name: anterior lobe of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002131
+   :synonym: anterior cerebellar lobe, anterior lobe of the cerebellum, cerebellar anterior lobe, cerebellum anterior lobe
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2409,6 +2496,7 @@ anteriorMacula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000168#anterior-macula
    :name: anterior macula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000168
+   :synonym: am
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2445,6 +2533,7 @@ anteriorMedianFissureOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035319#anterior-median-fissure-of-spinal-cord
    :name: anterior median fissure of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035319
+   :synonym: fissura mediana anterior medullae spinalis, ventral median fissure of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2463,6 +2552,7 @@ anteriorMedianOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002701#anterior-median-oculomotor-nucleus-1
    :name: anterior median oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002701
+   :synonym: anterior medial visceral nucleus, anterior median nucleus of oculomotor nerve, anterior median nucleus of oculomotor nuclear complex, nucleus visceralis anteromedialis, ventral medial nucleus of oculomotor nerve, ventral medial visceral nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2481,6 +2571,7 @@ anteriorMesencephalicCentralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005052#anterior-mesencephalic-central-artery
    :name: anterior mesencephalic central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005052
+   :synonym: AMCtA, rostral mesencephalic central artery
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2517,6 +2608,7 @@ anteriorNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002788#anterior-nuclear-group-1
    :name: anterior nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002788
+   :synonym: anterior nuclear group of thalamus, anterior nuclei of thalamus, anterior nucleus of thalamus, anterior thalamic group, anterior thalamic nuclei, anterior thalamus, nuclei anterior thalami, nuclei anteriores (thalami), nuclei anteriores thalami, nuclei thalamicus anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2536,6 +2628,7 @@ anteriorNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002634#anterior-nucleus-of-hypothalamus-1
    :name: anterior nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002634
+   :synonym: anterior hypothalamic nucleus, area hypothalamica rostralis, fundamental gray substance, parvocellular nucleus of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2624,6 +2717,7 @@ anteriorOccipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002906#anterior-occipital-sulcus-1
    :name: anterior occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002906
+   :synonym: ascending limb of the inferior temporal sulcus, posterior inferior temporal sulcus, sulci occipitales superiores, sulcus annectans, sulcus occipitalis anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2643,6 +2737,7 @@ anteriorOlfactoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002266#anterior-olfactory-nucleus-1
    :name: anterior olfactory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002266
+   :synonym: nucleus retrobulbaris [a8], retrobulbar nucleus [a8]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2695,6 +2790,7 @@ anteriorParahippocampalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022383#anterior-parahippocampal-gyrus
    :name: anterior parahippocampal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022383
+   :synonym: parahippocampal gyrus, anterior division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2713,6 +2809,7 @@ anteriorParaventricularNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000434#anterior-paraventricular-nucleus-of-thalamus
    :name: anterior paraventricular nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000434
+   :synonym: anterior paraventricular nucleus, ventral paraventricular nucleus of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2748,6 +2845,7 @@ anteriorParolfactorySulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002919#anterior-parolfactory-sulcus-1
    :name: anterior parolfactory sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002919
+   :synonym: paraolfactory sulcus, sulcus parolfactorius anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2767,6 +2865,7 @@ anteriorPerforatedSubstance
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018141#anterior-perforated-substance-1
    :name: anterior perforated substance
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018141
+   :synonym: anterior perforated area, anterior perforated space, olfactory area (mai), substantia perforata anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2785,6 +2884,7 @@ anteriorPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034918#anterior-pretectal-nucleus-1
    :name: anterior pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034918
+   :synonym: anterior (ventral /principal) pretectal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2803,6 +2903,7 @@ anteriorQuadrangularLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1
    :name: anterior quadrangular lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003015
+   :synonym: anterior crescentic lobule of cerebellum, anterior quadrangular lobule of cerebellum, anterior quadrangular lobule of cerebellum [H IV et V], anterior semilunar lobule, lobulus quadrangularis (pars rostralis), lobulus quadrangularis anterior cerebelli [h iv et v], semilunar lobule-1 (anterior)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2820,6 +2921,7 @@ anteriorSegmentOfParacentralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035932#anterior-segment-of-paracentral-lobule
    :name: anterior segment of paracentral lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035932
+   :synonym: anterior part of paracentral lobule, medial segment of precentral gyrus, paracentral lobule, anterior part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2838,6 +2940,7 @@ anteriorSpinocerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002987#anterior-spinocerebellar-tract-1
    :name: anterior spinocerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002987
+   :synonym: Gower's tract, Gowers' tract, ventral spinocerebellar tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2873,6 +2976,7 @@ anteriorSuperiorAlveolarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035646#anterior-superior-alveolar-nerve
    :name: anterior superior alveolar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035646
+   :synonym: anterior superior dental nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2925,6 +3029,7 @@ anteriorTemporalFusiformGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022396#anterior-temporal-fusiform-gyrus
    :name: anterior temporal fusiform gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022396
+   :synonym: occipitotemporal (fusiform) gyrus, anterior division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2942,6 +3047,7 @@ anteriorThalamicPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022237#anterior-thalamic-peduncle
    :name: anterior thalamic peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022237
+   :synonym: anterior peduncle, frontal peduncle, frontal thalamic peduncle, pedunculus rostralis thalami, rostral peduncle of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2960,6 +3066,7 @@ anteriorThalamicRadiation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034746#anterior-thalamic-radiation
    :name: anterior thalamic radiation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034746
+   :synonym: anterior radiation of thalamus, radiatio thalami anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2978,6 +3085,7 @@ anteriorTransverseTemporalArea41
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006095#anterior-transverse-termporal-area-41
    :name: anterior transverse temporal area 41
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006095
+   :synonym: B09-41, BA41, Brodmann (1909) area 41, Brodmann area 41, Brodmann area 41, anterior transverse temporal, Brodmann's area 41, area 41 of Brodmann, area 41 of Brodmann-1909, area temporalis transversa anterior, principle auditory receptive areas
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2997,6 +3105,7 @@ anteriorTransverseTemporalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002773#anterior-transverse-temporal-gyrus-1
    :name: anterior transverse temporal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002773
+   :synonym: anterior transverse convolution of heschl, anterior transverse temporal convolution of heschl, first transverse gyrus of Heschl, great transverse gyrus of Heschl
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3033,6 +3142,7 @@ anterodorsalNucleusOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014521#anterodorsal-nucleus-of-medial-geniculate-body-1
    :name: anterodorsal nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014521
+   :synonym: anterodorsal nucleus of medial geniculate complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3051,6 +3161,7 @@ anterodorsalNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002679#anterodorsal-nucleus
    :name: anterodorsal nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002679
+   :synonym: anterior dorsal thalamic nucleus, anterodorsal nucleus, anterodorsal nucleus of the thalamus, anterodorsal thalamic nucleus, nucleus anterior dorsalis, nucleus anterior dorsalis thalami, nucleus anterior thalami dorsalis, nucleus anterodorsalis, nucleus anterodorsalis (hassler), nucleus anterodorsalis thalami, nucleus anterosuperior, nucleus thalamicus anterodorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3103,6 +3214,7 @@ anteromedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002681#anteromedial-nucleus
    :name: anteromedial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002681
+   :synonym: anteromedial nucleus, anteromedial nucleus of the thalamus, anteromedial thalamic nucleus, nucleus anterior medialis, nucleus anterior medialis thalami, nucleus anterior thalami medialis, nucleus anteromedialis (hassler), nucleus anteromedialis thalami, nucleus thalamicus anteromedialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3155,6 +3267,7 @@ anteroventralCochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002830#anteroventral-cochlear-nucleus-1
    :name: anteroventral cochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002830
+   :synonym: anterior part of anterior cochlear nucleus, anteroventral auditory nucleus, nucleus magnocellularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3191,6 +3304,7 @@ anteroventralNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002685#anteroventral-nucleus
    :name: anteroventral nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002685
+   :synonym: anterior ventral nucleus of thalamus, anteroprincipal thalamic nucleus, anteroventral nucleus, anteroventral nucleus of the thalamus, anteroventral thalamic nucleus, nucleus anterior thalami ventralis, nucleus anterior ventralis, nucleus anteroinferior, nucleus anteroventralis, nucleus anteroventralis thalami, nucleus thalamicus anteroprincipalis, nucleus thalamicus anteroventralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3295,6 +3409,7 @@ apexOfSpinalCordDorsalHorn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004678#apex-of-spinal-cord-dorsal-horn-1
    :name: apex of spinal cord dorsal horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004678
+   :synonym: apex columnae posterioris, apex cornu posterioris medullae spinalis, apex of dorsal gray column, apex of dorsal gray column of spinal cord, apex of dorsal horn of spinal cord, apex of posterior horn of spinal cord, apex of spinal cord posterior horn
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3348,6 +3463,7 @@ arachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002362#arachnoid-mater
    :name: arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002362
+   :synonym: arachnoid, arachnoid mater of neuraxis, arachnoid membrane
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3419,6 +3535,7 @@ archicortex
    :description: A portion of the cerebral cortex that, with the paleocortex, develops in association with the olfactory system, and which is phylogenetically older than the neocortex and lacks its layered structure. The embryonic archicortex corresponds to the cortex of the dentate gyrus and hippocampus in mature mammals. Being part of the limbic system, it has functions related to emotions and formation of memory. Signals being sent from the limbic lobe to the hippocampal formations can go via the archicortex as an intermediate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961)]
    :name: archicortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002961
+   :synonym: archipallium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3457,6 +3574,7 @@ arcuateFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035937#arcuate-fasciculus
    :name: arcuate fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035937
+   :synonym: arcuate fascicle, cerebral arcuate fasciculus, fasciculus arcuatus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3476,6 +3594,7 @@ arcuateNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001932#arcuate-nucleus-of-hypothalamus-1
    :name: arcuate nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001932
+   :synonym: arcuate hypothalamic nucleus, arcuate nucleus, arcuate nucleus-2, arcuate periventricular nucleus, infundibular hypothalamic nucleus, infundibular nucleus, infundibular periventricular nucleus, nucleus arcuatus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3494,6 +3613,7 @@ arcuateNucleusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002865#arcuate-nucleus-of-medulla-1
    :name: arcuate nucleus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002865
+   :synonym: arcuate hypothalamic nucleus of medulla, arcuate nucleus of hypothalamus of medulla, arcuate nucleus-1, arcuate nucleus-2 of medulla, arcuate periventricular nucleus of medulla, infundibular hypothalamic nucleus of medulla, infundibular nucleus of medulla, infundibular periventricular nucleus of medulla, medial arcuate nucleus, medulla arcuate hypothalamic nucleus, medulla arcuate nucleus, medulla arcuate nucleus of hypothalamus, medulla arcuate nucleus-2, medulla arcuate periventricular nucleus, medulla infundibular hypothalamic nucleus, medulla infundibular nucleus, medulla infundibular periventricular nucleus, nucleus arciformis pyramidalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3568,6 +3688,7 @@ areaXOfVentralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002687#area-x
    :name: area X of ventral lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002687
+   :synonym: anteromedial part of ventral lateral posterior nucleus (jones), area X, area X of Olszewski, nucleus lateralis intermedius mediodorsalis situs ventralis medialis, nucleus ventralis oralis, pars posterior (dewulf), nucleus ventrooralis internus (hassler), nucleus ventrooralis internus, superior part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3586,6 +3707,7 @@ armNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003433#arm-nerve
    :name: arm nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003433
+   :synonym: brachial region nerve, nerve of arm, nerve of brachial region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3659,6 +3781,7 @@ arthropodSensillum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002536#arthropod-sensillum
    :name: arthropod sensillum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002536
+   :synonym: sensillum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3694,6 +3817,7 @@ asteriscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000315#asteriscus
    :name: asteriscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000315
+   :synonym: lagenar otolith, lagenolith
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3731,6 +3855,7 @@ auditoryRadiation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022262#auditory-radiation
    :name: auditory radiation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022262
+   :synonym: acoustic radiation, geniculotemporal radiation, geniculotemporal tract, radiatio acustica
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3749,6 +3874,7 @@ autonomicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001805#autonomic-ganglion
    :name: autonomic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001805
+   :synonym: autonomic nervous system ganglion, ganglion of autonomic nervous system, ganglion of visceral nervous system, visceral nervous system ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3767,6 +3893,7 @@ autonomicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034728#autonomic-nerve
    :name: autonomic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034728
+   :synonym: nervus visceralis, visceral nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3785,6 +3912,7 @@ autonomicNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001816#autonomic-nerve-plexus
    :name: autonomic nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001816
+   :synonym: autonomic plexus, plexus autonomicus, plexus nervosus visceralis, plexus visceralis, visceral nerve plexus, visceral plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3803,6 +3931,7 @@ autonomicNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002410#autonomic-nervous-system
    :name: autonomic nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002410
+   :synonym: autonomic division of peripheral nervous system, autonomic part of peripheral nervous system, divisio autonomica systematis nervosi peripherici, pars autonomica systematis nervosi peripherici, peripheral autonomic nervous system, visceral nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3821,6 +3950,7 @@ axillaryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001493#axillary-nerve
    :name: axillary nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001493
+   :synonym: circumflex humeral nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3838,6 +3968,7 @@ axillaryNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002442#axillary-nerve-trunk
    :name: axillary nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002442
+   :synonym: right axillary neural trunk, trunk of right axillary nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3856,6 +3987,7 @@ axonTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001018#nerve-tract
    :name: axon tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001018
+   :synonym: axonal tract, neuraxis tract, tract of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3874,6 +4006,7 @@ backNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004215#back-nerve
    :name: back nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004215
+   :synonym: nerve of back
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3966,6 +4099,7 @@ basalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1
    :name: basal amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002887
+   :synonym: basolateral amygaloid nucleus, basolateral amygdalar nucleus, basolateral amygdaloid nucleus, basolateral nucleus (de olmos), intermediate principal nucleus, nucleus amygdalae basalis lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4022,6 +4156,7 @@ basalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002420#basal-ganglion
    :name: basal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002420
+   :synonym: basal ganglion of telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4041,6 +4176,7 @@ basalNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006098#basal-nuclear-complex-1
    :name: basal nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006098
+   :synonym: basal nuclei, basal nuclei of the forebrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4060,6 +4196,7 @@ basalNucleusOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010010#basal-nucleus
    :name: basal nucleus of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010010
+   :synonym: Meynert's nucleus, basal magnocellular nucleus (substantia innominata), basal nuclei of Meynert, basal nucleus, basal nucleus of Meynert, basal substance of telencephalon, ganglion of Meynert, nucleus basalis, nucleus basalis of Meynert, substantia basalis telencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4079,6 +4216,7 @@ basalPartOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1
    :name: basal part of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002567
+   :synonym: basal portion of pons, base of pons, basilar part of pons, pars basilaris pontis, pons proper, ventral pons, ventral portion of pons
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4096,6 +4234,7 @@ basalPlateMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005240#basal-plate-medulla-oblongata
    :name: basal plate medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005240
+   :synonym: medulla oblongata basal plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4113,6 +4252,7 @@ basalPlateMetencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005239#basal-plate-metencephalon
    :name: basal plate metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005239
+   :synonym: metencephalon basal plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4131,6 +4271,7 @@ basalVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035530#basal-vein
    :name: basal vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035530
+   :synonym: basal vein of rosenthal, rosenthal's vein
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4148,6 +4289,7 @@ basalVentralMedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034993#basal-ventral-medial-nucleus-of-thalamus
    :name: basal ventral medial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034993
+   :synonym: basal ventral medial thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4185,6 +4327,7 @@ basolateralAmygdaloidNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006107#basolateral-nuclear-complex
    :name: basolateral amygdaloid nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006107
+   :synonym: BL, amygdalar basolateral nucleus, amygdaloid basolateral complex, basolateral amygdala, basolateral nuclear complex, basolateral nuclear group, basolateral nuclei of amygdala, basolateral subdivision of amygdala, pars basolateralis (Corpus amygdaloideum), vicarious cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4222,6 +4365,7 @@ bedNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001880#bed-nucleus-of-stria-terminalis-1
    :name: bed nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001880
+   :synonym: bed nucleus of the stria terminalis, bed nucleus stria terminalis (Johnson), bed nucleus striae terminalis, intercalate nucleus of stria terminalis, interstitial nucleus of stria terminalis, nuclei of stria terminalis, nucleus of stria terminalis, nucleus striae terminalis, stria terminalis nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4258,6 +4402,7 @@ bloodBrainBarrier
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000120#blood-brain-barrier
    :name: blood brain barrier
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000120
+   :synonym: blood-brain barrier
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4277,6 +4422,7 @@ bloodCerebrospinalFluidBarrier
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003210#blood-cerebrospinal-fluid-barrier
    :name: blood-cerebrospinal fluid barrier
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003210
+   :synonym: blood-CSF barrier
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4295,6 +4441,7 @@ bloodNerveBarrier
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003209#blood-nerve-barrier
    :name: blood nerve barrier
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003209
+   :synonym: blood-nerve barrier
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4314,6 +4461,7 @@ bodyOfCaudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002630#body-of-caudate-nucleus-1
    :name: body of caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002630
+   :synonym: caudate nuclear body, corpus (caudatus)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4333,6 +4481,7 @@ bodyOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015510#body-of-corpus-callosum
    :name: body of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015510
+   :synonym: corpus callosum body, truncus corporis callosi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4352,6 +4501,7 @@ bodyOfFornix
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004680#body-of-fornix-1
    :name: body of fornix
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004680
+   :synonym: body of fornix of forebrain, column of fornix, columna fornicis, columns of fornix, fornix body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4371,6 +4521,7 @@ bodyOfLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002655#body-of-lateral-ventricle-1
    :name: body of lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002655
+   :synonym: central part of lateral ventricle, corpus ventriculi lateralis, lateral ventricular body, pars centralis (ventriculi lateralis), pars centralis ventriculi lateralis, ventriculus lateralis, corpus, ventriculus lateralis, pars centralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4389,6 +4540,7 @@ brachialNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001814#brachial-nerve-plexus
    :name: brachial nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001814
+   :synonym: brachial plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4408,6 +4560,7 @@ brachiumOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003025#brachium-of-inferior-colliculus-1
    :name: brachium of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003025
+   :synonym: brachium of medial geniculate, inferior brachium, inferior collicular brachium, inferior colliculus brachium, inferior quadrigeminal brachium, peduncle of inferior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4427,6 +4580,7 @@ brachiumOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002580#brachium-of-superior-colliculus-1
    :name: brachium of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002580
+   :synonym: superior brachium, superior collicular brachium, superior colliculus brachium, superior quadrigeminal brachium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4463,6 +4617,7 @@ brainArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005397#brain-arachnoid-mater
    :name: brain arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005397
+   :synonym: arachnoidea mater cranialis, arachnoidea mater encephali, brain arachnoid matter, cranial arachnoid mater
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4482,6 +4637,7 @@ brainBloodVessel
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
    :name: brain blood vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003499
+   :synonym: blood vessel of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4517,6 +4673,7 @@ brainCoronalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013596#brain-coronal-sulcus
    :name: brain coronal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013596
+   :synonym: coronal sulcus of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4535,6 +4692,7 @@ brainDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002092#brain-dura-mater
    :name: brain dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002092
+   :synonym: cranial dura mater, dura mater cranialis, dura mater encephali, dura mater of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4573,6 +4731,7 @@ brainEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005357#brain-ependyma
    :name: brain ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005357
+   :synonym: ependyma of ventricular system of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4592,6 +4751,7 @@ brainGrayMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter
    :name: brain gray matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003528
+   :synonym: brain grey matter, brain grey substance, gray matter of brain, grey matter of brain, grey substance of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4630,6 +4790,7 @@ brainMeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx
    :name: brain meninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003547
+   :synonym: brain meninges, meninges of brain, meninx of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4648,6 +4809,7 @@ brainPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003549#brain-pia-mater
    :name: brain pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003549
+   :synonym: brain pia mater of neuraxis, pia mater of brain, pia mater of neuraxis of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4667,6 +4829,7 @@ brainVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004086#cerebral-ventricular-cavity
    :name: brain ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004086
+   :synonym: cerebral ventricle, region of ventricular system of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4705,6 +4868,7 @@ brainWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003544#brain-white-matter
    :name: brain white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003544
+   :synonym: brain white matter of neuraxis, brain white substance, white matter of brain, white matter of neuraxis of brain, white substance of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4724,6 +4888,7 @@ brainstem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002298#brainstem-1
    :name: brainstem
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002298
+   :synonym: brain stem, truncus encephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4796,6 +4961,7 @@ buccalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013646#buccal-nerve
    :name: buccal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013646
+   :synonym: buccinator nerve, long buccal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4832,6 +4998,7 @@ calcarAvisOfTheLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035970#calcar-avis-of-the-lateral-ventricle
    :name: calcar avis of the lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035970
+   :synonym: hippocampus minor
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4851,6 +5018,7 @@ calcarineSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002586#calcarine-sulcus-1
    :name: calcarine sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002586
+   :synonym: calcarine fissure, sulcus calcarinus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4921,6 +5089,7 @@ callosalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002920#callosal-sulcus-1
    :name: callosal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002920
+   :synonym: sulcus corporis callosi, sulcus of corpus callosum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4939,6 +5108,7 @@ canalOfSchlemm
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004029#canal-of-schlemm
    :name: canal of Schlemm
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004029
+   :synonym: Schlemm's canal, scleral sinus, scleral venous sinus, sinus venosus of sclera, sinus venosus sclerae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4957,6 +5127,7 @@ capsuleOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002627#capsule-of-medial-geniculate-body-1
    :name: capsule of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002627
+   :synonym: capsula corporis geniculati medialis, medial geniculate body capsule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4975,6 +5146,7 @@ capsuleOfRedNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002941#capsule-of-red-nucleus-1
    :name: capsule of red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002941
+   :synonym: red nuclear capsule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5011,6 +5183,7 @@ cardiacGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014463#cardiac-ganglion
    :name: cardiac ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014463
+   :synonym: Wrisberg ganglion, cardiac ganglia set, cardiac ganglion of Wrisberg, ganglia cardiaca, ganglion of Wrisberg
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5029,6 +5202,7 @@ cardiacNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002008#cardiac-nerve-plexus
    :name: cardiac nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002008
+   :synonym: autonomic nerve plexus of heart, autonomic plexus of heart, cardiac plexus, heart autonomic nerve plexus, heart autonomic plexus, plexus cardiacus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5047,6 +5221,7 @@ carotidSinusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009009#carotid-sinus-nerve
    :name: carotid sinus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009009
+   :synonym: Hering sinus nerve, carotid branch of glossopharyngeal nerve, ramus sinus carotici, ramus sinus carotici nervi glossopharyngei, ramus sinus carotici nervus glossopharyngei, sinus nerve of Hering
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5153,6 +5328,7 @@ caudalCentralOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002957#caudal-central-oculomotor-nucleus-1
    :name: caudal central oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002957
+   :synonym: caudal central nucleus, caudal central nucleus of oculomotor nerve, oculomotor nerve central caudal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5205,6 +5381,7 @@ caudalIntralaminarNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019295#caudal-intralaminar-nuclear-group
    :name: caudal intralaminar nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019295
+   :synonym: caudal group of intralaminar nuclei, posterior group of intralaminar nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5222,6 +5399,7 @@ caudalLinearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013733#caudal-linear-nucleus
    :name: caudal linear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013733
+   :synonym: CLi, posterior linear nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5258,6 +5436,7 @@ caudalMiddleFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006445#caudal-middle-frontal-gyrus-1
    :name: caudal middle frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006445
+   :synonym: posterior part of middle frontal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5346,6 +5525,7 @@ caudalPartOfSpinalTrigeminalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002866#caudal-part-of-spinal-trigeminal-nucleus-1
    :name: caudal part of spinal trigeminal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002866
+   :synonym: caudal nucleus, caudal nucleus (kandell), spinal trigeminal nucleus, caudal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5364,6 +5544,7 @@ caudalPartOfVentralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002608#caudal-part-of-ventral-lateral-nucleus-1
    :name: caudal part of ventral lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002608
+   :synonym: dorsal part of ventral lateral posterior nucleus (jones), nucleus dorsooralis (van buren), nucleus lateralis intermedius mediodorsalis situs dorsalis, nucleus ventralis lateralis, pars caudalis, ventral lateral nucleus, caudal part, ventral lateral thalamic nucleus, caudal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5382,6 +5563,7 @@ caudalPartOfVentralPosterolateralNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002781#caudal-part-of-ventral-posterolateral-nucleus
    :name: caudal part of ventral posterolateral nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002781
+   :synonym: caudal part of ventral posterolateral nucleus, ventral posterior lateral nucleus (ilinsky), ventral posterolateral nucleus, caudal part, ventral posterolateral thalamic nucleus, caudal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5435,6 +5617,7 @@ caudalPontineReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002963#caudal-pontine-reticular-nucleus-1
    :name: caudal pontine reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002963
+   :synonym: pontine reticular nucleus, caudal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5487,6 +5670,7 @@ caudalRootOfAbducensNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009908#caudal-root-of-abducens-nerve
    :name: caudal root of abducens nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009908
+   :synonym: radix caudalis nervi abducentis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5505,6 +5689,7 @@ caudalSegmentOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005845#caudal-segment-of-spinal-cord
    :name: caudal segment of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005845
+   :synonym: coccygeal segment of spinal cord, coccygeal segments of spinal cord [1-3], pars coccygea medullae spinalis, segmenta coccygea medullae spinalis [1-3]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5522,6 +5707,7 @@ caudalTuberalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000482#caudal-tuberal-nucleus
    :name: caudal tuberal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000482
+   :synonym: posterior tuberal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5539,6 +5725,7 @@ caudalTuberculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000633#caudal-tuberculum
    :name: caudal tuberculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000633
+   :synonym: posterior tubercle, posterior tuberculum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5575,6 +5762,7 @@ caudate-putamen
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
    :name: caudate-putamen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
+   :synonym: caudate putamen, caudateputamen, caudoputamen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5594,6 +5782,7 @@ caudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1
    :name: caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001873
+   :synonym: caudatus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5630,6 +5819,7 @@ cavumSeptumPellucidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009857#cavum-septum-pellucidum
    :name: cavum septum pellucidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009857
+   :synonym: cave of septum pellucidum, cavum of septum pellucidum, septum pellucidum cave, ventriculus septi pellucidi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5648,6 +5838,7 @@ celiacGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002262#celiac-ganglion
    :name: celiac ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002262
+   :synonym: coeliac ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5666,6 +5857,7 @@ celiacNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002010#celiac-nerve-plexus
    :name: celiac nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002010
+   :synonym: celiac plexus, coeliac plexus, plexus coeliacus, plexus nervosus coeliacus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5685,6 +5877,7 @@ centralAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002883#central-amygdaloid-nucleus-1
    :name: central amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002883
+   :synonym: central amygdala, central nucleus of amygda, central nucleus of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5703,6 +5896,7 @@ centralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005020#central-artery
    :name: central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005020
+   :synonym: CtA
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5721,6 +5915,7 @@ centralCanalOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002291#spinal-cord-central-canal
    :name: central canal of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002291
+   :synonym: canalis centralis, central canal, spinal cord central canal, ventricle of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5738,6 +5933,7 @@ centralCaudalThalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000182#central-caudal-thalamic-nucleus
    :name: central caudal thalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000182
+   :synonym: central posterior thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5775,6 +5971,7 @@ centralDorsalNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003034#central-dorsal-nucleus
    :name: central dorsal nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003034
+   :synonym: central dorsal nucleus, nucleus centralis dorsalis thalami, nucleus centralis superior lateralis, nucleus centralis superior lateralis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5792,6 +5989,7 @@ centralGraySubstance
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035011#central-gray-substance
    :name: central gray substance
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035011
+   :synonym: central grey substance, substantia grisea centralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5810,6 +6008,7 @@ centralGraySubstanceOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002867#central-gray-substance-of-medulla-1
    :name: central gray substance of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002867
+   :synonym: central gray matter, medullary central gray substance
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5829,6 +6028,7 @@ centralGraySubstanceOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003040#central-gray-substance-of-midbrain-1
    :name: central gray substance of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003040
+   :synonym: anulus of cerebral aqueduct, central (periaqueductal) gray, midbrain periaqueductal grey, periaqueductal gray, periaqueductal gray matter, periaqueductal gray of tegmentum, periaqueductal grey, periaqueductal grey matter, periaqueductal grey substance
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5847,6 +6047,7 @@ centralGraySubstanceOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002968#central-gray-substance-of-pons-1
    :name: central gray substance of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002968
+   :synonym: central gray of pons, griseum centrale pontis, pontine central gray
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5865,6 +6066,7 @@ centralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003036#central-lateral-nucleus-1
    :name: central lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003036
+   :synonym: central lateral nucleus of thalamus, central lateral thalamic nucleus, centrolateral thalamic nucleus, nucleus centralis lateralis of thalamus, nucleus centralis lateralis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5884,6 +6086,7 @@ centralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003021#central-lobule-1
    :name: central lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003021
+   :synonym: central lobule of cerebellum, central lobule of cerebellum [II and III], lobulus centralis cerebelli [ii et iii]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5903,6 +6106,7 @@ centralMedialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001923#central-medial-nucleus-1
    :name: central medial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001923
+   :synonym: central medial nucleus of thalamus, central medial nucleus thalamus (rioch 1928), central medial thalamic nucleus, nucleus centralis medialis, nucleus centralis medialis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5920,6 +6124,7 @@ centralMedullaryReticularNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035940#central-medullary-reticular-nuclear-complex
    :name: central medullary reticular nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035940
+   :synonym: central group (medullary reticular formation), central medullary reticular complex, central medullary reticular group, nuclei centrales myelencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5938,6 +6143,7 @@ centralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :name: central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001017
+   :synonym: CNS, systema nervosum centrale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5956,6 +6162,7 @@ centralNervousSystemCellPartCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011215#central-nervous-system-cell-part-cluster
    :name: central nervous system cell part cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011215
+   :synonym: cell part cluster of neuraxis, neuraxis layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5974,6 +6181,7 @@ centralNervousSystemGrayMatterLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016548#central-nervous-system-gray-matter-layer
    :name: central nervous system gray matter layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016548
+   :synonym: CNS gray matter layer, CNS grey matter layer, gray matter layer of neuraxis, grey matter layer of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5992,6 +6200,7 @@ centralNervousSystemWhiteMatterLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016549#central-nervous-system-white-matter-layer
    :name: central nervous system white matter layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016549
+   :synonym: CNS white matter layer, white matter layer of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6027,6 +6236,7 @@ centralNucleusOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002563#central-nucleus-of-inferior-colliculus-1
    :name: central nucleus of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002563
+   :synonym: chief nucleus of inferior colliculus, inferior colliculus, central nucleus, nucleus centralis colliculi inferioris, nucleus of inferior colliculus (Crosby)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6080,6 +6290,7 @@ centralOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002960#central-oculomotor-nucleus-1
    :name: central oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002960
+   :synonym: central nucleus of perlia, nucleus of perlia, spitzka's nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6097,6 +6308,7 @@ centralPartOfMediodorsalNucleusOfTheThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035113#central-part-of-mediodorsal-nucleus-of-the-thalamus
    :name: central part of mediodorsal nucleus of the thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035113
+   :synonym: mediodorsal nucleus of the thalamus, central part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6115,6 +6327,7 @@ centralPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035566#central-pretectal-nucleus
    :name: central pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035566
+   :synonym: nucleus praetectalis centralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6167,6 +6380,7 @@ centralRetinalArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001620#central-retinal-artery
    :name: central retinal artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001620
+   :synonym: Zinn's artery, central artery of retina, retinal artery
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6185,6 +6399,7 @@ centralRetinalVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001673#central-retinal-vein
    :name: central retinal vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001673
+   :synonym: retinal vein
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6204,6 +6419,7 @@ centralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002916#central-sulcus-1
    :name: central sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002916
+   :synonym: central cerebral sulcus, central fissure, central sulcus of Rolando, fissure of Rolando, rolandic fissure, sulcus centralis, sulcus centralis (rolandi), sulcus centralis cerebri, sulcus of Rolando
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6221,6 +6437,7 @@ centralSulcusOfInsula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035925#central-sulcus-of-insula
    :name: central sulcus of insula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035925
+   :synonym: central fissure of insula, central fissure of island, central insula sulcus, central insular sulcus, fissura centralis insulae, sulcus centralis insulae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6294,6 +6511,7 @@ centromedianNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002972#centromedian-nucleus
    :name: centromedian nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002972
+   :synonym: central magnocellular nucleus of thalamus, central nucleus-1, centre median nucleus, centromedian nucleus, centromedian thalamic nucleus, centrum medianum, centrum medianum thalami, noyau centre median of Luys, nucleus centralis centralis, nucleus centralis thalami (Hassler), nucleus centri mediani thalami, nucleus centromedianus, nucleus centromedianus thalami, nucleus centrum medianum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6312,6 +6530,7 @@ centrumSemiovale
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008967#centrum-semiovale
    :name: centrum semiovale
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008967
+   :synonym: centrum ovale, corpus medullare cerebri, medullary center, substantia centralis medullaris cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6349,6 +6568,7 @@ cerebellarCentralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005021#cerebellar-central-artery
    :name: cerebellar central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005021
+   :synonym: CCtA
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6367,6 +6587,7 @@ cerebellarCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006847#cerebellar-commissure
    :name: cerebellar commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006847
+   :synonym: commissura cerebelli, commissure of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6386,6 +6607,7 @@ cerebellarCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002129#cerebellar-cortex-1
    :name: cerebellar cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002129
+   :synonym: cortex of cerebellar hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6439,6 +6661,7 @@ cerebellarHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002245#cerebellar-hemisphere-1
    :name: cerebellar hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002245
+   :synonym: cerebellum hemisphere, hemisphere of cerebellum, hemisphere of cerebellum [H II - H X], hemispherium cerebelli [H II - H X], hemispherium cerebelli [hII-hX]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6458,6 +6681,7 @@ cerebellarLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004130#cytoarchitectural-part-of-the-cerebellar-cortex
    :name: cerebellar layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004130
+   :synonym: cell layer of cerebellar cortex, cytoarchitectural part of the cerebellar cortex, gray matter layer of cerebellum, layer of cerebellar cortex, layer of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6477,6 +6701,7 @@ cerebellarNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002130#deep-cerebellar-nuclear-complex
    :name: cerebellar nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002130
+   :synonym: central nuclei, cerebellar nuclei, deep cerebellar nuclear complex, deep cerebellar nuclei, intracerebellar nuclei, intrinsic nuclei of cerebellum, nuclei cerebelli, roof nuclei-2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6513,6 +6738,7 @@ cerebellarPeduncularComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002474#cerebellar-penducular-complex
    :name: cerebellar peduncular complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002474
+   :synonym: cerebellar peduncles, cerebellar peduncles and decussations, cerebellar peduncles set, cerebellum peduncles, pedunculi cerebellares
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6532,6 +6758,7 @@ cerebellarPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004008#cerebellar-plate
    :name: cerebellar plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004008
+   :synonym: cerebellum plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6551,6 +6778,7 @@ cerebellarVermis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004720#vermis
    :name: cerebellar vermis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004720
+   :synonym: cerebellum vermis, vermal parts of the cerebellum, vermal regions, vermis cerebelli [I-X], vermis of cerebellum, vermis of cerebellum [I-X]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6569,6 +6797,7 @@ cerebellomedullaryCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004049#cerebellomedullary-cistern
    :name: cerebellomedullary cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004049
+   :synonym: great cistern
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6606,6 +6835,7 @@ cerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002037#cerebellum-1
    :name: cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002037
+   :synonym: epencephalon-1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6624,6 +6854,7 @@ cerebellumAnteriorVermis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003941#vermis-of-the-anterior-lobe-of-the-cerebellum
    :name: cerebellum anterior vermis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003941
+   :synonym: anterior cerebellum vermis, anterior vermis of cerebellum, part of vermal region, vermis lobus anterior, vermis of anterior lobe, vermis of anterior lobe of cerebellum, vermis of the anterior lobe of the cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6642,6 +6873,7 @@ cerebellumExternalGranuleCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008829#outer-granular-layer-of-cerebellar-cortex
    :name: cerebellum external granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008829
+   :synonym: outer granular layer of cerebellar cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6661,6 +6893,7 @@ cerebellumFissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003980#cerebellum-fissure
    :name: cerebellum fissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003980
+   :synonym: cerebellar fissure, fissurae cerebelli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6680,6 +6913,7 @@ cerebellumGloboseNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002613#globose-nucleus
    :name: cerebellum globose nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002613
+   :synonym: globose nucleus, medial interposed nucleus, medial interpositus (globose) nucleus, medial interpositus nucleus, nucleus interpositus posterior, posterior interposed nucleus, posterior interpositus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6698,6 +6932,7 @@ cerebellumHemisphereLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004003#cerebellum-hemisphere-lobule
    :name: cerebellum hemisphere lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004003
+   :synonym: cerebellar hemisphere lobule, lobule of cerebellar hemisphere, lobule of hemisphere of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6715,6 +6950,7 @@ cerebellumHemisphericLobuleII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023998#cerebellum-hemispheric-lobule-ii
    :name: cerebellum hemispheric lobule II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023998
+   :synonym: hemispheric lobule ii, lobule H II of Larsell, lobule II of cerebellar hemisphere, lobule II of hemisphere of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6732,6 +6968,7 @@ cerebellumHemisphericLobuleIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023999#cerebellum-hemispheric-lobule-iii
    :name: cerebellum hemispheric lobule III
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023999
+   :synonym: hemispheric lobule III, lobule H III of Larsell, lobule III of cerbellar hemisphere, lobule III of hemisphere of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6749,6 +6986,7 @@ cerebellumHemisphericLobuleIV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024000#cerebellum-hemispheric-lobule-iv
    :name: cerebellum hemispheric lobule IV
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024000
+   :synonym: hemispheric lobule IV, lobule H IV of Larsell, lobule IV of cerebellar hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6766,6 +7004,7 @@ cerebellumHemisphericLobuleV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024001#cerebellum-hemispheric-lobule-v
    :name: cerebellum hemispheric lobule V
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024001
+   :synonym: hemispheric lobule V, lobule H V of Larsell, lobule V of cerebellar hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6783,6 +7022,7 @@ cerebellumHemisphericLobuleVII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024003#cerebellum-hemispheric-lobule-vii
    :name: cerebellum hemispheric lobule VII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024003
+   :synonym: hemispheric lobule VII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6801,6 +7041,7 @@ cerebellumHemisphericLobuleX
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x
    :name: cerebellum hemispheric lobule X
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024009
+   :synonym: hemispheric lobule X
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6820,6 +7061,7 @@ cerebellumIntermediateZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004006#cerebellar-paravermis
    :name: cerebellum intermediate zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004006
+   :synonym: cerebellar paravermis, cerebellum intermediate hemisphere, intermediate part of spinocerebellum, intermediate zone, paravermis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6837,6 +7079,7 @@ cerebellumInternalGranuleCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008830#inner-granular-layer-of-cerebellar-cortex
    :name: cerebellum internal granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008830
+   :synonym: inner granular layer of cerebellar cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6856,6 +7099,7 @@ cerebellumInterpositusNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004073#interpositus-nucleus
    :name: cerebellum interpositus nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004073
+   :synonym: interposed nucleus of cerebellum, interposed nucleus of the cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6874,6 +7118,7 @@ cerebellumLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005293#lobe-parts-of-the-cerebellar-cortex
    :name: cerebellum lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005293
+   :synonym: cerebellar lobe, lobe of cerebellum, lobe parts of the cerebellar cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6892,6 +7137,7 @@ cerebellumLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004004#lobular-parts-of-the-cerebellar-cortex
    :name: cerebellum lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004004
+   :synonym: lobular parts of the cerebellar cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6910,6 +7156,7 @@ cerebellumMarginalLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer
    :name: cerebellum marginal layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034708
+   :synonym: marginal zone of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6928,6 +7175,7 @@ cerebellumPosteriorVermis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004009#cerebellum-posterior-vermis
    :name: cerebellum posterior vermis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004009
+   :synonym: posterior cerebellum vermis, vermis lobus posterior, vermis of posterior lobe, vermis of posterior lobe of cerebellum, vermis of the posterior lobe of the cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6983,6 +7231,7 @@ cerebellumVermisCulmen
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007763#culmen
    :name: cerebellum vermis culmen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007763
+   :synonym: cerebellum culmen, culmen lobule, neuraxis culmen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7002,6 +7251,7 @@ cerebellumVermisLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004070#cerebellum-vermis-lobule
    :name: cerebellum vermis lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004070
+   :synonym: lobule of vermis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7020,6 +7270,7 @@ cerebellumVermisLobuleI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004074#vermic-lobule-i
    :name: cerebellum vermis lobule I
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004074
+   :synonym: lingula (I), lingula of anterior cerebellum vermis, lingula of cerebellum, lobule I of cerebellum vermis, neuraxis lingula, vermic lobule I
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7037,6 +7288,7 @@ cerebellumVermisLobuleII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004075#cerebellum-vermis-lobule-ii
    :name: cerebellum vermis lobule II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004075
+   :synonym: lobule II, lobule II of cerebellum vermis, vermic lobule II
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7054,6 +7306,7 @@ cerebellumVermisLobuleIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004076#cerebellum-vermis-lobule-iii
    :name: cerebellum vermis lobule III
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004076
+   :synonym: lobule III, lobule III of cerebellum vermis, vermic lobule III
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7071,6 +7324,7 @@ cerebellumVermisLobuleIV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004077#cerebellum-vermis-lobule-iv
    :name: cerebellum vermis lobule IV
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004077
+   :synonym: lobule IV of cerebellum vermis, vermic lobule IV
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7090,6 +7344,7 @@ cerebellumVermisLobuleIX
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004078#cerebellum-vermis-lobule-ix
    :name: cerebellum vermis lobule IX
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004078
+   :synonym: cerebellar posterior vermis lobule IX, lobule IX of cerebellar posterior vermis, lobule IX of cerebellum vermis, neuraxis uvula, uvula (IX), uvula [vermis], uvula of cerebellum, uvula of vermis of cerebellum, vermic lobule IX
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7107,6 +7362,7 @@ cerebellumVermisLobuleV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004079#cerebellum-vermis-lobule-v
    :name: cerebellum vermis lobule V
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004079
+   :synonym: lobule V, lobule V (culmen and quadrangular lobule, posterior part), lobule V of cerebellum vermis, vermic lobule V
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7124,6 +7380,7 @@ cerebellumVermisLobuleVI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004080#cerebellum-vermis-lobule-vi
    :name: cerebellum vermis lobule VI
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004080
+   :synonym: declive (VI), declive of cerebellum, declive of vermis of cerebellum, lobule VI (declive and simplex lobule), lobule VI of cerebellum vermis, neuraxis declive, vermic lobule vi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7141,6 +7398,7 @@ cerebellumVermisLobuleVII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004081#cerebellum-vermis-lobule-vii
    :name: cerebellum vermis lobule VII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004081
+   :synonym: folium-tuber vermis (VII), lobule VII of cerebellum vermis, vermic lobule VII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7159,6 +7417,7 @@ cerebellumVermisLobuleVIIA
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005345#cerebellum-vermis-lobule-viia
    :name: cerebellum vermis lobule VIIA
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005345
+   :synonym: folium of vermis of cerebellum, vermic lobule VIIA
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7176,6 +7435,7 @@ cerebellumVermisLobuleVIIAf
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036044#cerebellum-vermis-lobule-viiaf
    :name: cerebellum vermis lobule VIIAf
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036044
+   :synonym: VIIAf, lobule VIIAf/crus I (folium and superior semilunar lobule)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7193,6 +7453,7 @@ cerebellumVermisLobuleVIIAt
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036065#cerebellum-vermis-lobule-viiat
    :name: cerebellum vermis lobule VIIAt
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036065
+   :synonym: VIIAt, lobule VIIAt/crus II (tuber and inferior semilunar lobule)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7210,6 +7471,7 @@ cerebellumVermisLobuleVIIB
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005346#cerebellum-vermis-lobule-viib
    :name: cerebellum vermis lobule VIIB
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005346
+   :synonym: lobule VII B of vermis, neuraxis tuber, tuber of vermis of cerebellum, vermic lobule VIIb
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7227,6 +7489,7 @@ cerebellumVermisLobuleVIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004082#cerebellum-vermis-lobule-viii
    :name: cerebellum vermis lobule VIII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004082
+   :synonym: cerebellum lobule VIII, lobule VIII of cerebellum vermis, neuraxis pyramis, neuraxis pyramus, pyramis, pyramis of vermis of cerebellum, pyramus (VIII), pyramus of cerebellum, pyramus of vermis of cerebellum, vermic lobule VIII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7245,6 +7508,7 @@ cerebellumVermisLobuleX
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004083#vermic-lobule-x
    :name: cerebellum vermis lobule X
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004083
+   :synonym: lobule X of cerebellum vermis, neuraxis nodule, neuraxis nodulus, nodulus (X), nodulus of cerebellum, nodulus of vermis of cerebellum, vermic lobule X
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7283,6 +7547,7 @@ cerebralCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000956#cerebral-cortex-1
    :name: cerebral cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000956
+   :synonym: cortex of cerebral hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7302,6 +7567,7 @@ cerebralCortexMarginalLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014935#cerebral-cortex-marginal-layer
    :name: cerebral cortex marginal layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014935
+   :synonym: cortical marginal layer, cortical marginal zone, future cortical layer I
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7320,6 +7586,7 @@ cerebralCortexNeuropil
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013693#cerebral-cortex-neuropil
    :name: cerebral cortex neuropil
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013693
+   :synonym: neuropil of cerebral cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7373,6 +7640,7 @@ cerebralCrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002631#cerebral-crus-1
    :name: cerebral crus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002631
+   :synonym: cerebral peduncle (clinical definition), crura cerebri, crus cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7410,6 +7678,7 @@ cerebralHemisphereGrayMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005401#cerebral-hemisphere-gray-matter
    :name: cerebral hemisphere gray matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005401
+   :synonym: cerebral gray matter, cerebral grey matter, cerebral hemisphere grey matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7429,6 +7698,7 @@ cerebralHemisphereWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002437#cerebral-white-matter
    :name: cerebral hemisphere white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002437
+   :synonym: cerebral white matter, white matter structure of cerebral hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7446,6 +7716,7 @@ cerebralNerveFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022248#cerebral-nerve-fasciculus
    :name: cerebral nerve fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022248
+   :synonym: cerebral fascicle, cerebral fasciculus, nerve fascicle of telencephalon, telencephalic fascicle, telencephalic nerve fascicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7463,6 +7734,7 @@ cerebralNuclei
    :description: One of three components of the cerebrum that is a composite structure of the endbrain defined on the basis of origin from the ventricular ridge of the embryonic Encephalon. It consists of the extended striatum and the extended pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8440012)]
    :name: cerebral nuclei
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_8440012
+   :synonym: CNU
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7482,6 +7754,7 @@ cerebralPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002623#cerebral-peduncle-1
    :name: cerebral peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002623
+   :synonym: peduncle of midbrain, pedunculus cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7501,6 +7774,7 @@ cerebralSubcortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex
    :name: cerebral subcortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000454
+   :synonym: cerebral medulla
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7537,6 +7811,7 @@ cerebrocerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014644#cerebrocerebellum
    :name: cerebrocerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014644
+   :synonym: cerebellum lateral hemisphere, cerebellum lateral zone, neocerebellum, pontocerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7555,6 +7830,7 @@ cervicalDivisionOfCordSpinalCentralCanal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014542#cervical-spinal-cord-central-canal
    :name: cervical division of cord spinal central canal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014542
+   :synonym: cervical spinal cord central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7572,6 +7848,7 @@ cervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002834#cervical-dorsal-root-ganglion-1
    :name: cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002834
+   :synonym: cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7590,6 +7867,7 @@ cervicalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001991#cervical-ganglion
    :name: cervical ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001991
+   :synonym: cervical sympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7608,6 +7886,7 @@ cervicalNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003725#cervical-nerve-plexus
    :name: cervical nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003725
+   :synonym: cervical plexus, plexus cervicalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7626,6 +7905,7 @@ cervicalSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002726#cervical-spinal-cord-1
    :name: cervical spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002726
+   :synonym: cervical segment of spinal cord, cervical segments of spinal cord [1-8], pars cervicalis medullae spinalis, segmenta cervicalia medullae spinalis [1-8
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7644,6 +7924,7 @@ cervicalSpinalCordDorsalColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005841#cervical-spinal-cord-dorsal-column-1
    :name: cervical spinal cord dorsal column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005841
+   :synonym: cervical segment of dorsal funiculus of spinal cord, cervical spinal cord posterior column, dorsal funiculus of cervical segment of spinal cord, dorsal white column of cervical segment of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7751,6 +8032,7 @@ cervicalSpinalCordVentralColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005854#cervical-spinal-cord-ventral-column-1
    :name: cervical spinal cord ventral column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005854
+   :synonym: cervical spinal cord anterior column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7769,6 +8051,7 @@ cervicalSpinalCordVentralCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007836#cervical-spinal-cord-ventral-commissure-1
    :name: cervical spinal cord ventral commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007836
+   :synonym: cervical spinal cord anterior commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7823,6 +8106,7 @@ cervicalSympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034901#cervical-sympathetic-nerve-trunk
    :name: cervical sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034901
+   :synonym: cervical part of sympathetic trunk, cervical sympathetic chain, cervical sympathetic trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7841,6 +8125,7 @@ cervicothoracicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002441#cervicothoracic-ganglion
    :name: cervicothoracic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002441
+   :synonym: cervicothoracic sympathetic ganglion, ganglion cervicothoracicum, ganglion stellatum, stellate ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7876,6 +8161,7 @@ chemosensoryOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000005#chemosensory-organ
    :name: chemosensory organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000005
+   :synonym: chemosensory sensory organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7894,6 +8180,7 @@ chestNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003432#chest-nerve
    :name: chest nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003432
+   :synonym: anterior thoracic region nerve, anterolateral part of thorax nerve, front of thorax nerve, nerve of anterior thoracic region, nerve of anterolateral part of thorax, nerve of chest, nerve of front of thorax
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7912,6 +8199,7 @@ chiasmaticCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002898#chiasmatic-cistern-1
    :name: chiasmatic cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002898
+   :synonym: cisterna chiasmatica, cisterna chiasmatis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7948,6 +8236,7 @@ chordaTympaniBranchOfFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009675#chorda-tympani-branch-of-facial-nerve
    :name: chorda tympani branch of facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009675
+   :synonym: chorda tympani, facial VII nerve chorda tympani branch, parasympathetic root of submandibular ganglion, radix parasympathica ganglii submandibularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7967,6 +8256,7 @@ choroidPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001886#choroid-plexus-1
    :name: choroid plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001886
+   :synonym: chorioid plexus, plexus choroideus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8005,6 +8295,7 @@ choroidPlexusEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003911#choroid-plexus-epithelium
    :name: choroid plexus epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003911
+   :synonym: choroid plexus epithelial tissue, epithelial tissue of chorioid plexus of cerebral hemisphere, epithelial tissue of choroid plexus, epithelium of choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8024,6 +8315,7 @@ choroidPlexusOfFourthVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002290#choroid-plexus-of-fourth-ventricle
    :name: choroid plexus of fourth ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002290
+   :synonym: chorioid plexus of cerebral hemisphere of fourth ventricle, chorioid plexus of fourth ventricle, choroid plexus fourth ventricle, fourth ventricle chorioid plexus of cerebral hemisphere, fourth ventricle choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8043,6 +8335,7 @@ choroidPlexusOfLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002307#choroid-plexus-of-lateral-ventricle
    :name: choroid plexus of lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002307
+   :synonym: chorioid plexus of cerebral hemisphere of lateral ventricle, chorioid plexus of lateral ventricle, choroid plexus telencephalic ventricle, lateral ventricle chorioid plexus of cerebral hemisphere, lateral ventricle choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8061,6 +8354,7 @@ choroidPlexusOfTectalVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007299#choroid-plexus-of-tectal-ventricle
    :name: choroid plexus of tectal ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007299
+   :synonym: choroid plexus tectal ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8080,6 +8374,7 @@ choroidPlexusOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002288#choroid-plexus-of-third-ventricle
    :name: choroid plexus of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002288
+   :synonym: chorioid plexus of cerebral hemisphere of third ventricle, chorioid plexus of third ventricle, choroid plexus third ventricle, diencephalic choroid plexus, third ventricle chorioid plexus of cerebral hemisphere, third ventricle choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8099,6 +8394,7 @@ choroidPlexusStroma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005206#choroid-plexus-stroma
    :name: choroid plexus stroma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005206
+   :synonym: choroid plexus stromal matrix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8117,6 +8413,7 @@ choroidPlexusVascularCircuit
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005219#choroid-plexus-vascular-circuit
    :name: choroid plexus vascular circuit
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005219
+   :synonym: CVC
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8135,6 +8432,7 @@ ciliaryMarginalZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003065#ciliary-marginal-zone
    :name: ciliary marginal zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003065
+   :synonym: peripheral growth zone, retinal ciliary marginal zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8154,6 +8452,7 @@ cingulateCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003027#cingulate-cortex-1
    :name: cingulate cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003027
+   :synonym: cingulate neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8171,6 +8470,7 @@ cingulateCortexCingulum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022428#cingulate-cortex-cingulum
    :name: cingulate cortex cingulum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022428
+   :synonym: cingulum (cingulate gyrus), cingulum bundle in cingulate cortex, cingulum bundle in cingulate gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8190,6 +8490,7 @@ cingulateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002967#cingulate-gyrus-1
    :name: cingulate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002967
+   :synonym: cingulate area, cingulate region, falciform lobe, upper limbic gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8209,6 +8510,7 @@ cingulateSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002710#cingulate-sulcus-1
    :name: cingulate sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002710
+   :synonym: calloso-marginal sulcus, callosomarginal fissure, callosomarginal sulcus, cingulate fissure, sulcus callosomarginalis, sulcus cingulatus, sulcus cinguli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8228,6 +8530,7 @@ cingulumOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003961#cingulum-of-brain
    :name: cingulum of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003961
+   :synonym: cingulum bundle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8283,6 +8586,7 @@ circularSulcusOfInsula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002713#circular-sulcus-of-insula-1
    :name: circular sulcus of insula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002713
+   :synonym: central lobe marginal branch of cingulate sulcus, central lobe marginal ramus of cingulate sulcus, central lobe marginal sulcus, circular fissure, circular insular sulcus, circular sulcus (of reil), circuminsular sulcus, cortex of island marginal branch of cingulate sulcus, cortex of island marginal ramus of cingulate sulcus, cortex of island marginal sulcus, insula lobule marginal branch of cingulate sulcus, insula lobule marginal ramus of cingulate sulcus, insula lobule marginal sulcus, insula marginal branch of cingulate sulcus, insula marginal ramus of cingulate sulcus, insula marginal sulcus, insular cortex marginal branch of cingulate sulcus, insular cortex marginal ramus of cingulate sulcus, insular cortex marginal sulcus, insular lobe marginal branch of cingulate sulcus, insular lobe marginal ramus of cingulate sulcus, insular lobe marginal sulcus, insular region marginal branch of cingulate sulcus, insular region marginal ramus of cingulate sulcus, insular region marginal sulcus, island of reil marginal branch of cingulate sulcus, island of reil marginal ramus of cingulate sulcus, island of reil marginal sulcus, limiting fissure, marginal branch of cingulate sulcus of central lobe, marginal branch of cingulate sulcus of cortex of island, marginal branch of cingulate sulcus of insula, marginal branch of cingulate sulcus of insula lobule, marginal branch of cingulate sulcus of insular cortex, marginal branch of cingulate sulcus of insular lobe, marginal branch of cingulate sulcus of insular region, marginal branch of cingulate sulcus of island of reil, marginal insular sulcus, marginal ramus of cingulate sulcus of central lobe, marginal ramus of cingulate sulcus of cortex of island, marginal ramus of cingulate sulcus of insula, marginal ramus of cingulate sulcus of insula lobule, marginal ramus of cingulate sulcus of insular cortex, marginal ramus of cingulate sulcus of insular lobe, marginal ramus of cingulate sulcus of insular region, marginal ramus of cingulate sulcus of island of reil, marginal sulcus of central lobe, marginal sulcus of cortex of island, marginal sulcus of insula, marginal sulcus of insula lobule, marginal sulcus of insular cortex, marginal sulcus of insular lobe, marginal sulcus of insular region, marginal sulcus of island of reil, sulcus circularis insulae, sulcus marginalis insulae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8302,6 +8606,7 @@ circumventricularOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005408#circumventricular-organ-1
    :name: circumventricular organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005408
+   :synonym: CVO, circumventricular organ of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8319,6 +8624,7 @@ cisternOfLaminaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002897#cistern-of-lamina-terminalis-1
    :name: cistern of lamina terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002897
+   :synonym: cisterna lamina terminalis, lamina terminalis cistern
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8337,6 +8643,7 @@ claustralAmygdaloidArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1
    :name: claustral amygdaloid area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002729
+   :synonym: claustrum diffusa, claustrum parvum, ventral claustrum, ventral portion of claustrum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8356,6 +8663,7 @@ claustrumOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002023#claustrum
    :name: claustrum of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002023
+   :synonym: claustrum, dorsal claustrum, dorsal portion of claustrum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8391,6 +8699,7 @@ clivusOfFoveaCentralis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002823#clivus-of-fovea-centralis-1
    :name: clivus of fovea centralis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002823
+   :synonym: clivus of macula lutea, fovea centralis clivus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8409,6 +8718,7 @@ coccygealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009629#coccygeal-nerve
    :name: coccygeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009629
+   :synonym: coccygeal spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8427,6 +8737,7 @@ coccygealNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035768#coccygeal-nerve-plexus
    :name: coccygeal nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035768
+   :synonym: coccygeal plexus, plexus coccygeus, plexus coccygien@fr
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8445,6 +8756,7 @@ cochlearGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000395#cochlear-ganglion
    :name: cochlear ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000395
+   :synonym: Corti's ganglion, cochlear part of vestibulocochlear ganglion, ganglion of Corti, spiral ganglion, vestibulocochlear VIII ganglion cochlear component
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8463,6 +8775,7 @@ cochlearNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004727#cochlear-nerve
    :name: cochlear nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004727
+   :synonym: auditory nerve, cochlear root of acoustic nerve, cochlear root of eighth cranial nerve, vestibulocochlear VIII nerve cochlear component
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8482,6 +8795,7 @@ cochlearNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002610#cochlear-nuclear-complex-1
    :name: cochlear nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002610
+   :synonym: cochlear nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8500,6 +8814,7 @@ cochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001720#cochlear-nucleus
    :name: cochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001720
+   :synonym: cochlear VIII nucleus, cochlear nucleus of acoustic nerve, cochlear nucleus of eighth cranial nerve, nucleus of cochlear nerve, statoacoustic (VIII) nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8537,6 +8852,7 @@ collateralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002716#collateral-sulcus-1
    :name: collateral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002716
+   :synonym: collateral fissure, sulcus collateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8556,6 +8872,7 @@ collectionOfBasalGanglia
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010011#basal-ganglia
    :name: collection of basal ganglia
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010011
+   :synonym: basal ganglia, basal ganglia set, basal nuclei (basal ganglia), set of basal ganglia
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8628,6 +8945,7 @@ commissuralNucleusOfVagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002868#commissural-nucleus-of-vagus-nerve-1
    :name: commissural nucleus of vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002868
+   :synonym: commissural nucleus-1, nucleus of inferior commissure, nucleus of inferior commisure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8646,6 +8964,7 @@ commissureOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011590#commissure-of-diencephalon
    :name: commissure of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011590
+   :synonym: diencephalon commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8664,6 +8983,7 @@ commissureOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003028#commissure-of-inferior-colliculus-1
    :name: commissure of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003028
+   :synonym: caudal colliculus commissure, commissure of caudal colliculus, commissure of inferior colliculi, commissure of posterior colliculus, commissure of posterior corpus quadrigeminum, inferior collicular commissure, inferior colliculus commissure, posterior colliculus commissure, posterior corpus quadrigeminum commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8682,6 +9002,7 @@ commissureOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002583#commissure-of-superior-colliculus-1
    :name: commissure of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002583
+   :synonym: anterior colliculus commissure, anterior corpus quadrigeminum commissure, commissure of anterior colliculus, commissure of anterior corpus quadrigeminum, commissure of cranial colliculus, commissure of optic tectum, commissure of superior colliculi, cranial colliculus commissure, intertectal commissure, optic tectum commissure, superior colliculus commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8699,6 +9020,7 @@ commissureOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019294#commissure-of-telencephalon
    :name: commissure of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019294
+   :synonym: telencephalic commissures
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8734,6 +9056,7 @@ commonFibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001324#common-fibular-nerve
    :name: common fibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001324
+   :synonym: common peroneal nerve, extrernal peroneal nerve, lateral popliteal nerve, nervus peroneus communis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8770,6 +9093,7 @@ conusMedullaris
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005437#conus-medullaris
    :name: conus medullaris
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005437
+   :synonym: medullary cone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8806,6 +9130,7 @@ coreOfNucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012170#core-of-nucleus-accumbens-1
    :name: core of nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012170
+   :synonym: core region of nucleus accumbens, nucleus accumbens core
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8825,6 +9150,7 @@ coronaRadiataOfNeuraxis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004682#corona-radiata
    :name: corona radiata of neuraxis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004682
+   :synonym: corona radiata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8843,6 +9169,7 @@ corporaQuadrigemina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002259#corpora-quadrigemina
    :name: corpora quadrigemina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002259
+   :synonym: colliculi, quadrigeminal body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8897,6 +9224,7 @@ corpusCerebelli
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000188#corpus-cerebelli
    :name: corpus cerebelli
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000188
+   :synonym: cerebellar corpus, corpus cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8934,6 +9262,7 @@ cortexOfCerebralLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016529#cortex-of-cerebral-lobe
    :name: cortex of cerebral lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016529
+   :synonym: cortex of cerebral hemisphere lobe, cortex of lobe of cerebral hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8953,6 +9282,7 @@ corticalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002891#cortical-amygdaloid-nucleus-1
    :name: cortical amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002891
+   :synonym: posterior cortical amygdaloid nucleus, posterior cortical nucleus of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8990,6 +9320,7 @@ corticalLayerI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005390#cortical-layer-i
    :name: cortical layer I
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005390
+   :synonym: cerebral cortex, layer 1, lamina molecularis isocorticis [lamina I], layer 1 of neocortex, layer I of neocortex, molecular layer of cerebral cortex, molecular layer of isocortex [layer i], molecular layer of neocortex, neocortex layer 1, neocortex layer I, neocortex molecular layer, neocortex plexiform layer, plexiform layer of neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9009,6 +9340,7 @@ corticalLayerII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005391#cortical-layer-ii
    :name: cortical layer II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005391
+   :synonym: cerebral cortex, layer 2, external granular layer of isocortex [layer II], external granular layer of neocortex, external granule cell layer of neocortex, lamina granularis externa isocorticis [lamina ii], layer II of neocortex, neocortex layer 2, neocortex layer II
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9028,6 +9360,7 @@ corticalLayerIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005392#cortical-layer-iii
    :name: cortical layer III
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005392
+   :synonym: cerebral cortex, layer 3, external pyramidal cell layer, external pyramidal cell layer of neocortex, external pyramidal layer of isocortex [layer iii], external pyramidal layer of neocortex, lamina pyramidalis externa isocorticis [lamina iii], layer 3 of neocortex, layer III of neocortex, neocortex external pyramidal cell layer, neocortex layer 3, neocortex layer III
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9047,6 +9380,7 @@ corticalLayerIV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005393#cortical-layer-iv
    :name: cortical layer IV
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005393
+   :synonym: cerebral cortex, layer 4, internal granular layer of isocortex [layer iv], internal granular layer of neocortex, internal granule cell layer of neocortex, lamina granularis interna isocorticis [lamina iv], layer 4 of neocortex, layer IV of neocortex, neocortex internal granule cell layer, neocortex layer 4, neocortex layer IV, neocortical internal granule cell layer, neocortical layer IV
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9066,6 +9400,7 @@ corticalLayerV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005394#cortical-layer-v
    :name: cortical layer V
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005394
+   :synonym: betz' cells, cerebral cortex, layer 5, internal pyramidal cell layer of neocortex, internal pyramidal layer of isocortex [layer v], internal pyramidal layer of neocortex, lamina pyramidalis interna isocorticis [lamina v], layer 5 of neocortex, layer V of neocortex, neocortex internal pyramidal cell layer, neocortex layer 5, neocortex layer V, neocortical layer 5, neocortical layer V
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9085,6 +9420,7 @@ corticalLayerVI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005395#cortical-layer-vi
    :name: cortical layer VI
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005395
+   :synonym: cerebral cortex, layer 6, lamina multiformis isocorticis [lamina vi], layer VI of neocortex, multiform layer of isocortex [layer vi], multiform layer of neocortex, neocortex layer 6, neocortex layer VI, neocortex multiform layer, neocortical layer 6, neocortical layer VI, pleiomorphic layer of neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9103,6 +9439,7 @@ corticalPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005343#cortical-plate
    :name: cortical plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005343
+   :synonym: cerebral cortex cortical plate, future cortical layers II-VI, neocortex cortical plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9139,6 +9476,7 @@ corticalSubplate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004035#cortical-subplate
    :name: cortical subplate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004035
+   :synonym: cerebral cortex subplate, subplate, subplate zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9194,6 +9532,7 @@ corticomedialNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006108#corticomedial-nuclear-complex-1
    :name: corticomedial nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006108
+   :synonym: CMA, amygdalar corticomedial nucleus, corticomedial nuclear group, corticomedial nuclei of amygdala, pars corticomedialis (Corpus amygdaloideum), set of corticomedial nuclei of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9212,6 +9551,7 @@ corticopontineFibers
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022271#corticopontine-fibers
    :name: corticopontine fibers
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022271
+   :synonym: cortico-pontine fibers, cortico-pontine fibers, pontine part, corticopontine fibers of pons, corticopontine fibers set, corticopontine fibres, fibrae corticopontinae, tractus corticopontinus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9231,6 +9571,7 @@ corticospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002707#pyramidal-tract
    :name: corticospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002707
+   :synonym: corticospinal fibers, fasciculus cerebro-spinalis, fasciculus pyramidalis, fibrae corticospinales, pyramid (Willis), tractus cortico-spinalis, tractus corticospinalis, tractus pyramidalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9249,6 +9590,7 @@ corticotectalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002556#corticotectal-tract-1
    :name: corticotectal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002556
+   :synonym: corticotectal fibers, corticotectal fibres, fibrae corticotectales
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9267,6 +9609,7 @@ cranialGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001714#cranial-ganglion-part-of-peripheral-nervous-system
    :name: cranial ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001714
+   :synonym: cranial ganglion part of peripheral nervous system, cranial ganglion/nerve, cranial nerve ganglion, cranial neural ganglion, cranial neural tree organ ganglion, ganglion of cranial nerve, ganglion of cranial neural tree organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9285,6 +9628,7 @@ cranialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001785#cranial-nerve
    :name: cranial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001785
+   :synonym: cranial neural tree organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9304,6 +9648,7 @@ cranialNerveII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000941#optic-nerve
    :name: cranial nerve II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000941
+   :synonym: 02 optic nerve, cranial II, nervus opticus, nervus opticus [II], optic II, optic II nerve, optic nerve [II], second cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9322,6 +9667,7 @@ cranialNerveNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000126#cranial-nerve-nucleus
    :name: cranial nerve nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000126
+   :synonym: cranial neural nucleus, nucleus of cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9358,6 +9704,7 @@ cranialSensoryGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009992#cranial-sensory-ganglion
    :name: cranial sensory ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009992
+   :synonym: cranial nerve sensory ganglion, ganglion sensorium cranialium, ganglion sensorium nervi cranialis, sensory ganglion of cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9376,6 +9723,7 @@ cristaAmpullarisNeuroepithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006935#crista-ampullaris-neuroepithelium
    :name: crista ampullaris neuroepithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006935
+   :synonym: epithelium of crista of ampulla of semicircular duct of membranous labyrinth
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9394,6 +9742,7 @@ cristaOfAmpullaOfAnteriorSemicircularDuctOfMembranousLaybrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007274#crista-of-ampulla-of-anterior-semicircular-duct-of-membranous-laybrinth
    :name: crista of ampulla of anterior semicircular duct of membranous laybrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007274
+   :synonym: anterior crista ampullaris, anterior semicircular canal sensory patch, rostral crista
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9412,6 +9761,7 @@ cristaOfAmpullaOfLateralSemicircularDuctOfMembranousLaybrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007276#crista-of-ampulla-of-lateral-semicircular-duct-of-membranous-laybrinth
    :name: crista of ampulla of lateral semicircular duct of membranous laybrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007276
+   :synonym: lateral crista ampullaris, lateral semicircular canal sensory patch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9430,6 +9780,7 @@ cristaOfAmpullaOfPosteriorSemicircularDuctOfMembranousLaybrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007275#crista-of-ampulla-of-posterior-semicircular-duct-of-membranous-laybrinth
    :name: crista of ampulla of posterior semicircular duct of membranous laybrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007275
+   :synonym: caudal crista, posterior crista ampullaris, posterior semicircular canal sensory patch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9501,6 +9852,7 @@ cuneateFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005832#cuneate-fasciculus
    :name: cuneate fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005832
+   :synonym: cuneatus tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9520,6 +9872,7 @@ cuneateFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002642#cuneate-fasciculus-of-medulla-1
    :name: cuneate fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002642
+   :synonym: fasciculus cuneatus (myelencephali)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9538,6 +9891,7 @@ cuneateFasciculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005835#cuneate-fasciculus-of-spinal-cord
    :name: cuneate fasciculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005835
+   :synonym: burdach's tract, cuneate fascicle of spinal cord, fasciculus cuneatus, tract of Burdach
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9556,6 +9910,7 @@ cuneateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002045#cuneate-nucleus-1
    :name: cuneate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002045
+   :synonym: Burdach's nucleus, burdachs nucleus, cuneate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9574,6 +9929,7 @@ cuneiformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002696#cuneiform-nucleus-1
    :name: cuneiform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002696
+   :synonym: parabigeminal area (mai)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9593,6 +9949,7 @@ cuneocerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002640#cuneocerebellar-tract-1
    :name: cuneocerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002640
+   :synonym: cuneocerebellar fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9612,6 +9969,7 @@ cuneusCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006092#cuneus-cortex-1
    :name: cuneus cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006092
+   :synonym: cuneate lobule, cuneus, cuneus gyrus, cuneus of hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9665,6 +10023,7 @@ decussationOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007425#decussation-of-diencephalon
    :name: decussation of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007425
+   :synonym: diencephalon decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9683,6 +10042,7 @@ decussationOfMedialLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002643#decussation-of-medial-lemniscus-1
    :name: decussation of medial lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002643
+   :synonym: decussation of lemnisci, decussation of lemniscus, decussation of medial lemnisci, medial lemniscus decussation, medullary sensory decussation, sensory decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9702,6 +10062,7 @@ decussationOfSuperiorCerebellarPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002588#decussation-of-superior-cerebellar-peduncle-1
    :name: decussation of superior cerebellar peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002588
+   :synonym: Wernekink's decussation, decussatio pedunculorum cerebellarium superiorum, decussation of brachium conjunctivum, decussation of superior cerebellar peduncles, superior cerebellar peduncle decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9721,6 +10082,7 @@ decussationOfTrochlearNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002787#decussation-of-trochlear-nerve-1
    :name: decussation of trochlear nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002787
+   :synonym: decussatio fibrarum nervorum trochlearium, decussation of trochlear nerve (IV), decussation of trochlear nerve fibers, trochlear neural decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9757,6 +10119,7 @@ deepFibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035207#deep-fibular-nerve
    :name: deep fibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035207
+   :synonym: deep peroneal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9774,6 +10137,7 @@ deepGrayLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006789#deep-gray-layer-of-superior-colliculus
    :name: deep gray layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006789
+   :synonym: deep grey layer of superior colliculus, lamina VI of superior colliculus, lamina colliculi superioris vi, layer VI of superior colliculus, stratum griseum profundum, stratum griseum profundum colliculi superioris, stratum griseum profundum of superior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9846,6 +10210,7 @@ deepWhiteLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006790#deep-white-layer-of-superior-colliculus
    :name: deep white layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006790
+   :synonym: lamina VII of superior colliculus, lamina colliculi superioris vii, layer VII of superior colliculus, stratum album profundum, stratum album profundum of superior colliculus, stratum medullare profundum colliculi superioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9864,6 +10229,7 @@ densocellularPartOfMedialDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002645#densocellular-part-of-medial-dorsal-nucleus-1
    :name: densocellular part of medial dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002645
+   :synonym: nucleus medialis dorsalis paralamellaris (Hassler), nucleus medialis dorsalis, pars densocellularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9883,6 +10249,7 @@ dentateGyrusGranuleCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005381#dentate-gyrus-granule-cell-layer-1
    :name: dentate gyrus granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005381
+   :synonym: DG granule cell layer, granular layer of dentate gyrus, stratum granulare gyri dentati
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9936,6 +10303,7 @@ dentateGyrusMolecularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004679#dentate-gyrus-molecular-layer-1
    :name: dentate gyrus molecular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004679
+   :synonym: molecular layer of dentate gyrus, stratum moleculare gyri dentati
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9990,6 +10358,7 @@ dentateGyrusOfHippocampalFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001885#dentate-gyrus
    :name: dentate gyrus of hippocampal formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001885
+   :synonym: area dentata, dentate area (dentate gyrus), dentate gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10043,6 +10412,7 @@ dentateGyrusSubgranularZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009952#dentate-gyrus-subgranular-zone
    :name: dentate gyrus subgranular zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009952
+   :synonym: subgranular zone, subgranular zone of dentate gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10062,6 +10432,7 @@ dentateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002132#dentate-nucleus-1
    :name: dentate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002132
+   :synonym: dentate cerebellar nucleus, lateral cerebellar nucleus, lateral nucleus of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10081,6 +10452,7 @@ dentatothalamicTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002594#dentatothalamic-tract-1
    :name: dentatothalamic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002594
+   :synonym: dentatothalamic fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10134,6 +10506,7 @@ developingNeuroepithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034705#developing-neuroepithelium
    :name: developing neuroepithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034705
+   :synonym: embryonic neuroepithelium, neuroepithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10153,6 +10526,7 @@ diagonalBandOfBroca
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002741#diagonal-band
    :name: diagonal band of Broca
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002741
+   :synonym: broca's diagonal band, broca's diagonal gyrus, diagonal band, diagonal gyrus, olfactory fasciculus, olfactory radiations of Zuckerkandl
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10188,6 +10562,7 @@ diaphragmaSellae
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035416#diaphragma-sellae
    :name: diaphragma sellae
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035416
+   :synonym: sellar diaphragm
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10241,6 +10616,7 @@ diencephalicWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003931#predominantly-white-regional-part-of-diencephalon
    :name: diencephalic white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003931
+   :synonym: diencephalic tract/commissure, predominantly white regional part of diencephalon, white matter of diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10260,6 +10636,7 @@ diencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001894#diencephalon-1
    :name: diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001894
+   :synonym: between brain, interbrain, mature diencephalon, thalamencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10278,6 +10655,7 @@ diencephalonArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003558#diencephalon-arachnoid-mater
    :name: diencephalon arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003558
+   :synonym: arachnoid mater of between brain, arachnoid mater of diencephalon, arachnoid mater of interbrain, arachnoid mater of mature diencephalon, arachnoid mater of neuraxis of between brain, arachnoid mater of neuraxis of diencephalon, arachnoid mater of neuraxis of interbrain, arachnoid mater of neuraxis of mature diencephalon, arachnoid of between brain, arachnoid of diencephalon, arachnoid of interbrain, arachnoid of mature diencephalon, between brain arachnoid, between brain arachnoid mater, between brain arachnoid mater of neuraxis, diencephalon arachnoid, diencephalon arachnoid mater of neuraxis, interbrain arachnoid, interbrain arachnoid mater, interbrain arachnoid mater of neuraxis, mature diencephalon arachnoid, mature diencephalon arachnoid mater, mature diencephalon arachnoid mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10296,6 +10674,7 @@ diencephalonDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003564#diencephalon-dura-mater
    :name: diencephalon dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003564
+   :synonym: between brain dura mater, between brain dura mater of neuraxis, diencephalon dura mater of neuraxis, dura mater of between brain, dura mater of diencephalon, dura mater of interbrain, dura mater of mature diencephalon, dura mater of neuraxis of between brain, dura mater of neuraxis of diencephalon, dura mater of neuraxis of interbrain, dura mater of neuraxis of mature diencephalon, interbrain dura mater, interbrain dura mater of neuraxis, mature diencephalon dura mater, mature diencephalon dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10313,6 +10692,7 @@ diencephalonLateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005591#diencephalon-lateral-wall
    :name: diencephalon lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005591
+   :synonym: lateral wall diencephalic region, lateral wall diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10330,6 +10710,7 @@ diencephalonMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009580#diencephalon-mantle-layer
    :name: diencephalon mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009580
+   :synonym: diencephalon lateral wall mantle layer, mantle layer lateral wall diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10348,6 +10729,7 @@ diencephalonPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003553#diencephalon-pia-mater
    :name: diencephalon pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003553
+   :synonym: between brain pia mater, between brain pia mater of neuraxis, diencephalon pia mater of neuraxis, interbrain pia mater, interbrain pia mater of neuraxis, mature diencephalon pia mater, mature diencephalon pia mater of neuraxis, pia mater of between brain, pia mater of diencephalon, pia mater of interbrain, pia mater of mature diencephalon, pia mater of neuraxis of between brain, pia mater of neuraxis of diencephalon, pia mater of neuraxis of interbrain, pia mater of neuraxis of mature diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10366,6 +10748,7 @@ diencephalonSubarachnoidSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005218#diencephalon-subarachnoid-space
    :name: diencephalon subarachnoid space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005218
+   :synonym: subarachnoid space diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10419,6 +10802,7 @@ diffuseReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002869#diffuse-reticular-nucleus-1
    :name: diffuse reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002869
+   :synonym: Koelliker-Fuse nucleus, Kolloker-Fuse nucleus, Kölliker-Fuse nucleus, kolliker-Fuse nucleus, nucleus of Kolliker-Fuse, nucleus subparabrachialis, subparabrachial nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10437,6 +10821,7 @@ digastricBranchOfFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011315#digastric-branch-of-facial-nerve
    :name: digastric branch of facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011315
+   :synonym: digastric branch of facial nerve (CN VII), facial nerve, digastric branch, nerve to posterior belly of digastric, ramus digastricus (nervus facialis), ramus digastricus nervus facialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10455,6 +10840,7 @@ digitNerveOfManus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003447#digit-nerve-of-manus
    :name: digit nerve of manus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003447
+   :synonym: digit of hand nerve, digit of terminal segment of free upper limb nerve, digitus manus nerve, finger nerve, hand digit nerve, nerve of digit of hand, nerve of digit of terminal segment of free upper limb, nerve of digitus manus, nerve of finger, nerve of hand digit, nerve of terminal segment of free upper limb digit, terminal segment of free upper limb digit nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10474,6 +10860,7 @@ dorsalAccessoryInferiorOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007249#dorsal-accessory-olive
    :name: dorsal accessory inferior olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007249
+   :synonym: DAO, dorsal accessory olivary nucleus, dorsal accessory olive, inferior olivary complex, dorsal accessory olive, inferior olive, dorsal nucleus, nucleus olivaris accessorius posterior, posterior accessory olivary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10491,6 +10878,7 @@ dorsalAccessoryNucleusOfOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013599#dorsal-accessory-nucleus-of-optic-tract
    :name: dorsal accessory nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013599
+   :synonym: dorsal terminal nucleus of accessory optic tract, dorsal terminal nucleus of the accessory optic tract, nucleus accessorius posterior tractus optici, posterior accessory nucleus of optic tract, posterior terminal nucleus of accessory optic tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10527,6 +10915,7 @@ dorsalAcousticStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002790#dorsal-acoustic-stria-1
    :name: dorsal acoustic stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002790
+   :synonym: posterior acoustic stria, stria cochlearis posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10544,6 +10933,7 @@ dorsalAnteriorLateralLineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001312#dorsal-anterior-lateral-line-ganglion
    :name: dorsal anterior lateral line ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001312
+   :synonym: anterodorsal lateral line ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10614,6 +11004,7 @@ dorsalCapOfKooy
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014286#dorsal-cap-of-kooy-1
    :name: dorsal cap of Kooy
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014286
+   :synonym: dorsal cap of kooy
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10631,6 +11022,7 @@ dorsalCaudalThalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000647#dorsal-caudal-thalamic-nucleus
    :name: dorsal caudal thalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000647
+   :synonym: dorsal posterior thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10667,6 +11059,7 @@ dorsalCochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002829#dorsal-cochlear-nucleus-1
    :name: dorsal cochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002829
+   :synonym: dorsal division of cochlear nucleus, posterior cochlear nucleus, tuberculum acousticum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10757,6 +11150,7 @@ dorsalExternalArcuateFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006089#dorsal-external-arcuate-fiber-bundle-1
    :name: dorsal external arcuate fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006089
+   :synonym: dorsal external arcuate fibers, dorsal external arcuate tract, dorsal superficial arcuate fibers, external arcuate fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10775,6 +11169,7 @@ dorsalFuniculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002258#dorsal-funiculus-of-spinal-cord
    :name: dorsal funiculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002258
+   :synonym: dorsal funiculus, dorsal white column of spinal cord, funiculus dorsalis, funiculus posterior medullae spinalis, posterior funiculus, posterior funiculus of spinal cord, posterior white column of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10793,6 +11188,7 @@ dorsalGrayCommissureOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014631#spinal-cord-posterior-gray-commissure
    :name: dorsal gray commissure of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014631
+   :synonym: commissura grisea posterior medullae spinalis, dorsal gray commissure, dorsal grey commissure of spinal cord, posterior grey commissure of spinal cord, spinal cord posterior gray commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10811,6 +11207,7 @@ dorsalHornOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002256#spinal-cord-dorsal-horn
    :name: dorsal horn of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002256
+   :synonym: columna grisea posterior medullae spinalis, cornu dorsale, cornu posterius medullae spinalis, dorsal gray column of spinal cord, dorsal gray horn, dorsal gray matter of spinal cord, dorsal grey column of spinal cord, dorsal horn spinal cord, posterior gray column of spinal cord, posterior gray horn of spinal cord, posterior grey column of spinal cord, posterior horn of spinal cord, spinal cord dorsal horn, spinal cord posterior horn
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10830,6 +11227,7 @@ dorsalHypothalamicArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002954#dorsal-hypothalamic-area-1
    :name: dorsal hypothalamic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002954
+   :synonym: dorsal hypothalamic zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10848,6 +11246,7 @@ dorsalHypothalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014650#dorsal-hypothalamic-nucleus
    :name: dorsal hypothalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014650
+   :synonym: dorsal nucleus of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10884,6 +11283,7 @@ dorsalLateralGeniculateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002479#dorsal-nucleus-of-lateral-geniculate-body
    :name: dorsal lateral geniculate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002479
+   :synonym: lateral geniculate complex, dorsal part, lateral geniculate nucleus, dorsal part, nucleus dorsalis corporis geniculati lateralis, nucleus geniculatus lateralis pars dorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10903,6 +11303,7 @@ dorsalLongitudinalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003045#dorsal-longitudinal-fasciculus-1
    :name: dorsal longitudinal fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003045
+   :synonym: bundle of Schutz, fasciculus longitudinalis posterior, fasciculus of Schutz, posterior longitudinal fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10941,6 +11342,7 @@ dorsalLongitudinalFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002646#dorsal-longitudinal-fasciculus-of-medulla-1
    :name: dorsal longitudinal fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002646
+   :synonym: bundle of Schutz of medulla, fasciculus of Schutz of medulla, medulla bundle of Schutz, medulla dorsal longitudinal fasciculus, medulla fasciculus of Schutz, medulla posterior longitudinal fasciculus, posterior longitudinal fasciculus of medulla
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10960,6 +11362,7 @@ dorsalLongitudinalFasciculusOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003005#dorsal-longitudinal-fasciculus-of-midbrain-1
    :name: dorsal longitudinal fasciculus of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003005
+   :synonym: bundle of Schutz of midbrain, fasciculus of Schutz of midbrain, midbrain bundle of Schutz, midbrain dorsal longitudinal fasciculus, midbrain fasciculus of Schutz, midbrain posterior longitudinal fasciculus, posterior longitudinal fasciculus of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10997,6 +11400,7 @@ dorsalLongitudinalVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005031#dorsal-longitudinal-vein
    :name: dorsal longitudinal vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005031
+   :synonym: DLV
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11016,6 +11420,7 @@ dorsalMotorNucleusOfVagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002870#dorsal-motor-nucleus-of-vagus-nerve-1
    :name: dorsal motor nucleus of vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002870
+   :synonym: dorsal efferent nucleus of vagus, dorsal motor nucleus of the vagus (vagal nucleus), dorsal motor nucleus of vagus X nerve, dorsal vagal nucleus, nucleus alaris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11051,6 +11456,7 @@ dorsalNerveOfClitoris
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019198#dorsal-nerve-of-clitoris
    :name: dorsal nerve of clitoris
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019198
+   :synonym: nervus dorsalis clitoridis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11069,6 +11475,7 @@ dorsalNerveOfPenis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019197#dorsal-nerve-of-penis
    :name: dorsal nerve of penis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019197
+   :synonym: nervus dorsalis penis, nervus dorsalis penis <male>
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11156,6 +11563,7 @@ dorsalNucleusOfLateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003006#dorsal-nucleus-of-lateral-lemniscus-1
    :name: dorsal nucleus of lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003006
+   :synonym: dorsal nucleus of the lateral lemniscus, nucleus of the lateral lemniscus, dorsal part, nucleus posterior lemnisci lateralis, posterior nucleus of lateral lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11175,6 +11583,7 @@ dorsalNucleusOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002758#dorsal-nucleus-of-medial-geniculate-body-1
    :name: dorsal nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002758
+   :synonym: dorsal nucleus of medial geniculate complex, medial geniculate complex, dorsal part, medial geniculate nucleus, dorsal part, nucleus corporis geniculati medialis, pars dorsalis, nucleus dorsalis corporis geniculati medialis, nucleus geniculatus medialis fibrosus (hassler), nucleus geniculatus medialis pars dorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11193,6 +11602,7 @@ dorsalNucleusOfTrapezoidBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009053#dorsal-nucleus-of-trapezoid-body-1
    :name: dorsal nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009053
+   :synonym: nucleus dorsalis corporis trapezoidei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11211,6 +11621,7 @@ dorsalOcellus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003161#dorsal-ocellus
    :name: dorsal ocellus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003161
+   :synonym: ocellus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11229,6 +11640,7 @@ dorsalOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002964#dorsal-oculomotor-nucleus-1
    :name: dorsal oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002964
+   :synonym: dorsal nucleus of oculomotor nuclear complex, dorsal oculomotor cell column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11248,6 +11660,7 @@ dorsalPallidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006516#dorsal-pallidum
    :name: dorsal pallidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006516
+   :synonym: globus pallidus dorsal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11266,6 +11679,7 @@ dorsalPallium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014740#dorsal-pallium
    :name: dorsal pallium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014740
+   :synonym: area dorsalis telencephali, zona dorsalis, dorsal zone of dorsal telencephalic area, dorsal zone of dorsal telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11283,6 +11697,7 @@ dorsalParagigantocellularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016825#dorsal-paragigantocellular-nucleus
    :name: dorsal paragigantocellular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016825
+   :synonym: dorsal paragigantocellular reticular nucleus, paragigantocellular nucleus, dorsal part, posterior paragigantocellular reticular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11302,6 +11717,7 @@ dorsalParamedianReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016827#dorsal-paramedian-reticular-nucleus
    :name: dorsal paramedian reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016827
+   :synonym: dorsal paramedian nuclei of raphe, dorsal paramedian nucleus, posterior paramedian nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11355,6 +11771,7 @@ dorsalPlusVentralThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001897#thalamus
    :name: dorsal plus ventral thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001897
+   :synonym: wider thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11407,6 +11824,7 @@ dorsalRamusOfSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006839#dorsal-ramus-of-spinal-nerve
    :name: dorsal ramus of spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006839
+   :synonym: posterior primary ramus, posterior ramus of spinal nerve, ramus posterior nervi spinalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11426,6 +11844,7 @@ dorsalRapheNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002043#dorsal-raphe-nucleus-1
    :name: dorsal raphe nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002043
+   :synonym: cell group b7, dorsal nucleus of the raphe, dorsal nucleus raphe, dorsal raphe, inferior raphe nucleus, nucleus raphes dorsalis, nucleus raphes posterior, posterior raphe nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11444,6 +11863,7 @@ dorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000044#dorsal-root-ganglion-1
    :name: dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000044
+   :synonym: ganglion of dorsal root, ganglion spinalis, spinal ganglion, spinal ganglion part of peripheral nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11462,6 +11882,7 @@ dorsalRootOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002261#dorsal-root-of-spinal-cord
    :name: dorsal root of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002261
+   :synonym: dorsal root, dorsal root of spinal nerve, dorsal spinal nerve root, dorsal spinal root, posterior root of spinal nerve, radix dorsalis, radix posterior (nervus spinalis), radix sensoria (nervus spinalis), sensory root of spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11499,6 +11920,7 @@ dorsalStriatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005382#dorsal-striatum-1
    :name: dorsal striatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005382
+   :synonym: striatum dorsal region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11516,6 +11938,7 @@ dorsalSupraopticDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002697#dorsal-supraoptic-decussation-1
    :name: dorsal supraoptic decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002697
+   :synonym: Meynert's commissure, commissura supraoptica dorsalis, commissure of Meynert, dorsal supra-optic commissure, dorsal supraoptic commissure, dorsal supraoptic commissure (of ganser), dorsal supraoptic decussation (of Meynert), dorsal supraoptic decussation (of ganser), dorsal supraoptic decussation of Meynert, ganser's commissure, supraoptic commissure of Meynert, supraoptic commissures, dorsal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11551,6 +11974,7 @@ dorsalTegmentalDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003009#dorsal-tegmental-decussation-1
    :name: dorsal tegmental decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003009
+   :synonym: Meynert's decussation, decussatio tegmentalis posterior, dorsal fountain decussation, fountain decussation of Meynert, posterior tegmental decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11569,6 +11993,7 @@ dorsalTegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002143#dorsal-tegmental-nucleus-1
    :name: dorsal tegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002143
+   :synonym: dorsal tegmental nucleus (Gudden), dorsal tegmental nucleus of Gudden, gudden nucleus, nucleus tegmentalis dorsalis, nucleus tegmentalis posterior, posterior tegmental nucleus, von Gudden's nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11625,6 +12050,7 @@ dorsalTelencephalicCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005340#dorsal-telencephalic-commissure
    :name: dorsal telencephalic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005340
+   :synonym: dorsal commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11642,6 +12068,7 @@ dorsalThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004703#dorsal-thalamus
    :name: dorsal thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004703
+   :synonym: dorsal thalamus (Anthoney), thalamus dorsalis, thalamus proper, thalamus, pars dorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11660,6 +12087,7 @@ dorsalThoracicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002246#dorsal-thoracic-nucleus
    :name: dorsal thoracic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002246
+   :synonym: Clarke's column, Clarke's nucleus, Stilling-Clarke's column, Stilling-Clarke's nucleus, dorsal nucleus of Clarke, nucleus thoracicus dorsalis, nucleus thoracicus posterior, posterior thoracic nucleus, spinal cord dorsal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11679,6 +12107,7 @@ dorsalTrigeminalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002797#dorsal-trigeminal-tract-1
    :name: dorsal trigeminal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002797
+   :synonym: dorsal ascending trigeminal tract, dorsal division of trigeminal lemniscus, dorsal secondary ascending tract of v, dorsal secondary tract of v, dorsal trigeminal lemniscus, dorsal trigeminal pathway, dorsal trigeminothalamic tract, posterior trigeminothalamic tract, reticulothalamic tract, tractus trigeminothalamicus posterior, uncrossed dorsal trigeminothalamic tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11697,6 +12126,7 @@ dorsalVentricularRidgeOfPallium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014733#dorsal-ventricular-ridge-of-pallium
    :name: dorsal ventricular ridge of pallium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014733
+   :synonym: dorsal ventricular ridge
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11714,6 +12144,7 @@ dorsalZoneOfMedialEntorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018262#dorsal-zone-of-medial-entorhinal-cortex
    :name: dorsal zone of medial entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018262
+   :synonym: entorhinal area, medial part, dorsal zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11749,6 +12180,7 @@ dorsoRostralCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2007001#dorso-rostral-cluster
    :name: dorso-rostral cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2007001
+   :synonym: dorsorostral cluster, drc
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11768,6 +12200,7 @@ dorsolateralFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002649#dorsolateral-fasciculus
    :name: dorsolateral fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002649
+   :synonym: dorsolateral fasciculus, dorsolateral tract, lissauer's tract, posterolateral fasciculus, posterolateral tract, tract of Lissauer, tractus posterolateralis, zone of Lissauer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11786,6 +12219,7 @@ dorsolateralMotorNucleusOfVagalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002192#dorsolateral-motor-nucleus-of-vagal-nerve
    :name: dorsolateral motor nucleus of vagal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002192
+   :synonym: dlX
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11803,6 +12237,7 @@ dorsolateralOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014522#dorsolateral-oculomotor-nucleus
    :name: dorsolateral oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014522
+   :synonym: dorsolateral nucleus of oculomotor nuclear complex, nucleus dorsalis nervi oculomotorii, oculomotor nerve dorsolateral nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11820,6 +12255,7 @@ dorsolateralPartOfSupraopticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035928#dorsolateral-part-of-supraoptic-nucleus
    :name: dorsolateral part of supraoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035928
+   :synonym: pars dorsolateralis nuclei supraoptici
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11857,6 +12293,7 @@ dorsolateralPrefrontalCortexLayer1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035153#dorsolateral-prefrontal-cortex-layer-1
    :name: dorsolateral prefrontal cortex layer 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035153
+   :synonym: layer I of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11875,6 +12312,7 @@ dorsolateralPrefrontalCortexLayer2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035154#dorsolateral-prefrontal-cortex-layer-2
    :name: dorsolateral prefrontal cortex layer 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035154
+   :synonym: layer II of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11893,6 +12331,7 @@ dorsolateralPrefrontalCortexLayer3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035155#dorsolateral-prefrontal-cortex-layer-3
    :name: dorsolateral prefrontal cortex layer 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035155
+   :synonym: layer III of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11911,6 +12350,7 @@ dorsolateralPrefrontalCortexLayer4
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035156#dorsolateral-prefrontal-cortex-layer-4
    :name: dorsolateral prefrontal cortex layer 4
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035156
+   :synonym: granular layer IV of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11929,6 +12369,7 @@ dorsolateralPrefrontalCortexLayer5
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035157#dorsolateral-prefrontal-cortex-layer-5
    :name: dorsolateral prefrontal cortex layer 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035157
+   :synonym: layer V of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11947,6 +12388,7 @@ dorsolateralPrefrontalCortexLayer6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035158#dorsolateral-prefrontal-cortex-layer-6
    :name: dorsolateral prefrontal cortex layer 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035158
+   :synonym: layer VI of dorsolateral prefrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11983,6 +12425,7 @@ dorsomedialNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001934#dorsomedial-nucleus-of-hypothalamus-1
    :name: dorsomedial nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001934
+   :synonym: dorsomedial hypothalamic nucleus, dorsomedial nucleus of dorsal hypothalamus, dorsomedial nucleus of intermediate hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12018,6 +12461,7 @@ duraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002363#dura-mater-1
    :name: dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002363
+   :synonym: dura mater of neuraxis, pachymeninges
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12036,6 +12480,7 @@ duraMaterLymphVessel
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035608#dura-mater-lymph-vessel
    :name: dura mater lymph vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035608
+   :synonym: dural lymph vessel
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12053,6 +12498,7 @@ earlyMesencephalicVesicle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013147#early-mesencephalic-vesicle
    :name: early mesencephalic vesicle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013147
+   :synonym: mesencephalic vesicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12070,6 +12516,7 @@ earlyMidbrainVesicle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013148#early-midbrain-vesicle
    :name: early midbrain vesicle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013148
+   :synonym: midbrain vesicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12088,6 +12535,7 @@ earlyProsencephalicVesicle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006284#early-prosencephalic-vesicle
    :name: early prosencephalic vesicle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006284
+   :synonym: prosencephalic vesicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12140,6 +12588,7 @@ ectomeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007647#ectomeninx
    :name: ectomeninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007647
+   :synonym: future dura mater
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12175,6 +12624,7 @@ efferentNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006798#efferent-nerve
    :name: efferent nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006798
+   :synonym: nervus efferente
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12192,6 +12642,7 @@ eighthCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002844#eighth-cervical-dorsal-root-ganglion-1
    :name: eighth cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002844
+   :synonym: eighth cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12209,6 +12660,7 @@ eighthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002851#eighth-thoracic-dorsal-root-ganglion-1
    :name: eighth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002851
+   :synonym: eighth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12226,6 +12678,7 @@ eighthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006456#eighth-thoracic-spinal-cord-segment-1
    :name: eighth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006456
+   :synonym: T8 spinal cord segment, t8 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12262,6 +12715,7 @@ electrosensoryLateralLineLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002105#electrosensory-lateral-line-lobe
    :name: electrosensory lateral line lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002105
+   :synonym: ELL
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12279,6 +12733,7 @@ eleventhThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002854#eleventh-thoracic-dorsal-root-ganglion-1
    :name: eleventh thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002854
+   :synonym: eleventh thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12296,6 +12751,7 @@ eleventhThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006467#eleventh-thoracic-spinal-cord-segment-1
    :name: eleventh thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006467
+   :synonym: T11 spinal cord segment, t11 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12315,6 +12771,7 @@ emboliformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002602#emboliform-nucleus-1
    :name: emboliform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002602
+   :synonym: anterior interposed nucleus, anterior interpositus nucleus, cerebellar emboliform nucleus, cerebellum emboliform nucleus, embolus, lateral interpositus (emboliform) nucleus, nucleus interpositus anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12333,6 +12790,7 @@ embryonicIntraretinalSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006253#embryonic-intraretinal-space
    :name: embryonic intraretinal space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006253
+   :synonym: intraretinal space, intraretinal space of optic cup, intraretinal space of retina, retina intraretinal space
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12351,6 +12809,7 @@ eminentiaGranularis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002106#eminentia-granularis
    :name: eminentia granularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002106
+   :synonym: EG
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12369,6 +12828,7 @@ encapsulatedTactileReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035969#encapsulated-tactile-receptor
    :name: encapsulated tactile receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035969
+   :synonym: encapsulated nerve ending
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12422,6 +12882,7 @@ endomeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007646#endomeninx
    :name: endomeninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007646
+   :synonym: future leptomeninges, future leptomeninx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12495,6 +12956,7 @@ endopiriformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014284#endopiriform-nucleus-1
    :name: endopiriform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014284
+   :synonym: layer 4 of piriform cortex, layer IV of piriform cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12530,6 +12992,7 @@ entericGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001809#enteric-ganglion
    :name: enteric ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001809
+   :synonym: intramural ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12566,6 +13029,7 @@ entericNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002005#enteric-nervous-system-1
    :name: enteric nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002005
+   :synonym: PNS - enteric, enteric PNS
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12584,6 +13048,7 @@ entericPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000429#enteric-plexus
    :name: enteric plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000429
+   :synonym: enteric nerve plexus, intrinsic nerve plexus, plexus entericus, plexus nervosus entericus, sympathetic enteric nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12621,6 +13086,7 @@ entorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002728#entorhinal-cortex-1
    :name: entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002728
+   :synonym: entorhinal area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12639,6 +13105,7 @@ entorhinalCortexLayer1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022336#entorhinal-cortex-layer-1
    :name: entorhinal cortex layer 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022336
+   :synonym: molecular layer of entorhinal cortex, superficial plexiform layer of entorhinal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12677,6 +13144,7 @@ entorhinalCortexLayer3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022327#entorhinal-cortex-layer-3
    :name: entorhinal cortex layer 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022327
+   :synonym: entorhinal cortex, pyramidal layer, pyramidal layer of entorhinal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12714,6 +13182,7 @@ entorhinalCortexLayer5
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022325#entorhinal-cortex-layer-5
    :name: entorhinal cortex layer 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022325
+   :synonym: entorhinal cortex layer V
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12733,6 +13202,7 @@ entorhinalCortexLayer6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022329#entorhinal-cortex-layer-6
    :name: entorhinal cortex layer 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022329
+   :synonym: entorhinal cortex layer VI
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12751,6 +13221,7 @@ ependyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004670#ependyma
    :name: ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004670
+   :synonym: ependyma of neuraxis, ependymal epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12858,6 +13329,7 @@ epiphysialCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2007004#epiphysial-cluster
    :name: epiphysial cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2007004
+   :synonym: ec
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12894,6 +13366,7 @@ epithalamusMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013159#epithalamus-mantle-layer
    :name: epithalamus mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013159
+   :synonym: mantle layer epithalamus, mantle layer of epithalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12911,6 +13384,7 @@ epithalamusVentricularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013160#epithalamus-ventricular-layer
    :name: epithalamus ventricular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013160
+   :synonym: ventricular layer epithalamus, ventricular layer of epithalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12929,6 +13403,7 @@ epitheliumOfDuctusReuniens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003363#epithelium-of-ductus-reuniens
    :name: epithelium of ductus reuniens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003363
+   :synonym: ductus reuniens epithelial tissue, ductus reuniens epithelium, epithelial tissue of ductus reuniens
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12947,6 +13422,7 @@ epitheliumOfSaccule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003242#epithelium-of-saccule
    :name: epithelium of saccule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003242
+   :synonym: epithelial tissue of membranous labyrinth saccule, epithelial tissue of saccule, epithelial tissue of saccule of membranous labyrinth, epithelial tissue of sacculus (labyrinthus vestibularis), epithelium of membranous labyrinth saccule, epithelium of saccule of membranous labyrinth, epithelium of sacculus (labyrinthus vestibularis), membranous labyrinth saccule epithelial tissue, membranous labyrinth saccule epithelium, saccule epithelial tissue, saccule epithelium, saccule of membranous labyrinth epithelial tissue, saccule of membranous labyrinth epithelium, sacculus (labyrinthus vestibularis) epithelial tissue, sacculus (labyrinthus vestibularis) epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12965,6 +13441,7 @@ epitheliumOfUtricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003241#epithelium-of-utricle
    :name: epithelium of utricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003241
+   :synonym: epithelial tissue of membranous labyrinth utricle, epithelial tissue of utricle, epithelial tissue of utricle of membranous labyrinth, epithelial tissue of utriculus (labyrinthus vestibularis), epithelium of membranous labyrinth utricle, epithelium of utricle of membranous labyrinth, epithelium of utriculus (labyrinthus vestibularis), membranous labyrinth utricle epithelial tissue, membranous labyrinth utricle epithelium, utricle epithelial tissue, utricle epithelium, utricle of membranous labyrinth epithelial tissue, utricle of membranous labyrinth epithelium, utriculus (labyrinthus vestibularis) epithelial tissue, utriculus (labyrinthus vestibularis) epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13037,6 +13514,7 @@ externalMedullaryLaminaOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014534#external-medullary-lamina-of-thalamus
    :name: external medullary lamina of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014534
+   :synonym: external medullary lamina, lamella medullaris externa, lamina medullaris externa, lamina medullaris externa thalami, lamina medullaris lateralis thalami, lamina medullaris thalami externa
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13055,6 +13533,7 @@ externalNucleusOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002571#external-nucleus-of-inferior-colliculus-1
    :name: external nucleus of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002571
+   :synonym: nucleus externus colliculi inferioris, nucleus lateralis colliculi inferioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13092,6 +13571,7 @@ extrastriateCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014370#extrastriate-cortex
    :name: extrastriate cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014370
+   :synonym: extrastriate areas
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13129,6 +13609,7 @@ eyelidNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003437#eyelid-nerve
    :name: eyelid nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003437
+   :synonym: blepharon nerve, nerve of blepharon, nerve of eyelid, palpebral nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13165,6 +13646,7 @@ facialMotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003011#facial-motor-nucleus-1
    :name: facial motor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003011
+   :synonym: branchiomotor nucleus of facial nerve, facial nerve motor nucleus, motor nucleus VII, motor nucleus of VII, motor nucleus of facial nerve, nVII, nucleus motorius nervi facialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13183,6 +13665,7 @@ facialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001647#facial-nerve-1
    :name: facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001647
+   :synonym: branchiomeric cranial nerve, face nerve, facial VII, facial VII nerve, facial nerve [VII], facial nerve tree, nerve of face, nervus facialis, nervus facialis [vii], seventh cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13202,6 +13685,7 @@ facialNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004674#facial-nerve-root-1
    :name: facial nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004674
+   :synonym: central part of facial nerve, facial nerve fibers, facial neural root, fibrae nervi facialis, root of facial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13220,6 +13704,7 @@ facialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000127#facial-nucleus
    :name: facial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000127
+   :synonym: facial VII nucleus, facial nerve nucleus, nucleus of facial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13255,6 +13740,7 @@ falxCerebelli
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035425#falx-cerebelli
    :name: falx cerebelli
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035425
+   :synonym: cerebellar falx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13273,6 +13759,7 @@ falxCerebri
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006059#falx-cerebri
    :name: falx cerebri
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006059
+   :synonym: cerebral falx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13310,6 +13797,7 @@ fasciculusOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005838#fasciculus-of-brain
    :name: fasciculus of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005838
+   :synonym: brain fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13328,6 +13816,7 @@ fasciculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005837#fasciculus-of-spinal-cord
    :name: fasciculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005837
+   :synonym: spinal cord fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13347,6 +13836,7 @@ fasciolarGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002601#fasciolar-gyrus-1
    :name: fasciolar gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002601
+   :synonym: retrosplenial gyrus of hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13366,6 +13856,7 @@ fastigialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002153#fastigial-nucleus-1
    :name: fastigial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002153
+   :synonym: medial (fastigial) nucleus, medial cerebellar nucleus, nucleus fastigii, roof nucleus-1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13384,6 +13875,7 @@ femoralNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001267#femoral-nerve
    :name: femoral nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001267
+   :synonym: anterior crural nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13402,6 +13894,7 @@ fibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035652#fibular-nerve
    :name: fibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035652
+   :synonym: peroneal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13419,6 +13912,7 @@ fifthCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002842#fifth-cervical-dorsal-root-ganglion-1
    :name: fifth cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002842
+   :synonym: C5 dorsal root ganglion, fifth cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13437,6 +13931,7 @@ fifthLumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002859#fifth-lumbar-dorsal-root-ganglion-1
    :name: fifth lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002859
+   :synonym: L5 dorsal root ganglion, fifth lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13454,6 +13949,7 @@ fifthLumbarSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006447#fifth-lumbar-spinal-cord-segment-1
    :name: fifth lumbar spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006447
+   :synonym: L5 segment, L5 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13471,6 +13967,7 @@ fifthSacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002863#fifth-sacral-dorsal-root-ganglion-1
    :name: fifth sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002863
+   :synonym: fifth sacral spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13488,6 +13985,7 @@ fifthSacralSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006464#fifth-sacral-spinal-cord-segment-1
    :name: fifth sacral spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006464
+   :synonym: S5 segment, S5 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13505,6 +14003,7 @@ fifthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002848#fifth-thoracic-dorsal-root-ganglion-1
    :name: fifth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002848
+   :synonym: fifth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13522,6 +14021,7 @@ fifthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006453#fifth-thoracic-spinal-cord-segment-1
    :name: fifth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006453
+   :synonym: T5 spinal cord segment, t5 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13540,6 +14040,7 @@ filumTerminale
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005443#filum-terminale
    :name: filum terminale
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005443
+   :synonym: filum terminale segment of pia mater, pars pialis fili terminalis, terminal filum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13557,6 +14058,7 @@ filumTerminaleExternum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010270#filum-terminale-externum
    :name: filum terminale externum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010270
+   :synonym: external part of filum terminale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13574,6 +14076,7 @@ filumTerminaleInternum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010269#filum-terminale-internum
    :name: filum terminale internum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010269
+   :synonym: internal part of filum terminale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13609,6 +14112,7 @@ firstCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002838#first-cervical-dorsal-root-ganglion-1
    :name: first cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002838
+   :synonym: first cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13626,6 +14130,7 @@ firstLumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002857#first-lumbar-dorsal-root-ganglion-1
    :name: first lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002857
+   :synonym: first lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13643,6 +14148,7 @@ firstLumbarSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006448#first-lumbar-spinal-cord-segment-1
    :name: first lumbar spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006448
+   :synonym: L1 segment, L1 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13660,6 +14166,7 @@ firstSacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002860#first-sacral-dorsal-root-ganglion-1
    :name: first sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002860
+   :synonym: first sacral spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13677,6 +14184,7 @@ firstSacralSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006460#first-sacral-spinal-cord-segment-1
    :name: first sacral spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006460
+   :synonym: S1 segment, S1 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13694,6 +14202,7 @@ firstThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002845#first-thoracic-dorsal-root-ganglion-1
    :name: first thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002845
+   :synonym: first thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13711,6 +14220,7 @@ firstThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006457#first-thoracic-spinal-cord-segment-1
    :name: first thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006457
+   :synonym: T1 spinal cord segment, t1 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13730,6 +14240,7 @@ flocculonodularLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003012#flocculonodular-lobe-1
    :name: flocculonodular lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003012
+   :synonym: cerebellum flocculonodular lobe, flocculonodular lobe of cerebellum, lobus flocculonodularis, posterior lobe-2 of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13748,6 +14259,7 @@ flocculonodularLobeHemispherePortion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027331#flocculonodular-lobe-hemisphere-portion
    :name: flocculonodular lobe, hemisphere portion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027331
+   :synonym: hemispheric part of the flocculonodular lobe of the cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13767,6 +14279,7 @@ flocculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001063#flocculus-1
    :name: flocculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001063
+   :synonym: flocculus of cerebellum, neuraxis flocculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13785,6 +14298,7 @@ floorPlateOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003309#floor-plate-of-diencephalon
    :name: floor plate of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003309
+   :synonym: between brain floor plate, between brain floorplate, diencephalon floor plate, diencephalon floorplate, floor plate diencephalic region, floor plate diencephalon, floor plate of between brain, floor plate of interbrain, floor plate of mature diencephalon, floorplate diencephalon, floorplate of between brain, floorplate of diencephalon, floorplate of interbrain, floorplate of mature diencephalon, interbrain floor plate, interbrain floorplate, mature diencephalon floor plate, mature diencephalon floorplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13803,6 +14317,7 @@ floorPlateOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003311#floor-plate-of-medulla-oblongata
    :name: floor plate of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003311
+   :synonym: bulb floor plate, bulb floorplate, floor plate medulla oblongata, floor plate of bulb, floor plate of medulla oblonmgata, floor plate of metepencephalon, floorplate of bulb, floorplate of medulla oblongata, floorplate of medulla oblonmgata, floorplate of metepencephalon, medulla oblongata floor plate, medulla oblongata floorplate, medulla oblonmgata floor plate, medulla oblonmgata floorplate, metepencephalon floor plate, metepencephalon floorplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13821,6 +14336,7 @@ floorPlateOfMetencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003310#floor-plate-of-metencephalon
    :name: floor plate of metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003310
+   :synonym: epencephalon-2 floor plate, epencephalon-2 floorplate, floor plate metencephalon, floor plate of epencephalon-2, floorplate of epencephalon-2, floorplate of metencephalon, metencephalon floor plate, metencephalon floorplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13839,6 +14355,7 @@ floorPlateOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003307#floor-plate-of-midbrain
    :name: floor plate of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003307
+   :synonym: floor plate midbrain, floor plate midbrain region, floorplate of midbrain, midbrain floor plate, midbrain floorplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13857,6 +14374,7 @@ floorPlateOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003308#floor-plate-of-telencephalon
    :name: floor plate of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003308
+   :synonym: floor plate telencephalic region, floor plate telencephalon, floorplate of telencephalon, floorplate telencephalon, telencephalon floor plate, telencephalon floorplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13875,6 +14393,7 @@ floorPlateSpinalCordRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005723#floor-plate-spinal-cord-region
    :name: floor plate spinal cord region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005723
+   :synonym: floor plate spinal cord, floorplate spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13892,6 +14411,7 @@ forcepsMajorOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034676#forceps-major-of-corpus-callosum
    :name: forceps major of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034676
+   :synonym: forceps major, forceps occipitalis, major forceps, occipital forceps, posterior forceps, posterior forceps of corpus callosum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13909,6 +14429,7 @@ forcepsMinorOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034678#forceps-minor-of-corpus-callosum
    :name: forceps minor of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034678
+   :synonym: anterior forceps, anterior forceps of corpus callosum, forceps frontalis, forceps minor, frontal forceps, minor forceps
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13946,6 +14467,7 @@ forebrainArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003556#forebrain-arachnoid-mater
    :name: forebrain arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003556
+   :synonym: arachnoid mater of forebrain, arachnoid mater of neuraxis of forebrain, arachnoid of forebrain, forebrain arachnoid, forebrain arachnoid mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13964,6 +14486,7 @@ forebrainDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003561#forebrain-dura-mater
    :name: forebrain dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003561
+   :synonym: dura mater of forebrain, dura mater of neuraxis of forebrain, forebrain dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13999,6 +14522,7 @@ forebrainMeninges
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003548#forebrain-meninges
    :name: forebrain meninges
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003548
+   :synonym: forebrain meninx, meninges of forebrain, meninx of forebrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14018,6 +14542,7 @@ forebrainMidbrainBoundary
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005075#forebrain-midbrain-boundary
    :name: forebrain-midbrain boundary
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005075
+   :synonym: diencephalic-mesencephalic boundary, forebrain midbrain boundary, forebrain-midbrain boundary region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14036,6 +14561,7 @@ forebrainPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003550#forebrain-pia-mater
    :name: forebrain pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003550
+   :synonym: forebrain pia mater of neuraxis, pia mater of forebrain, pia mater of neuraxis of forebrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14071,6 +14597,7 @@ forelimbNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003441#forelimb-nerve
    :name: forelimb nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003441
+   :synonym: fore limb nerve, nerve of fore limb, nerve of forelimb, nerve of superior member, nerve of upper extremity
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14090,6 +14617,7 @@ fornixOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000052#fornix
    :name: fornix of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000052
+   :synonym: brain fornix, cerebral fornix, forebrain fornix, fornix of neuraxis, neuraxis fornix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14107,6 +14635,7 @@ fourthCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002841#fourth-cervical-dorsal-root-ganglion-1
    :name: fourth cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002841
+   :synonym: C4 dorsal root ganglion, fourth cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14125,6 +14654,7 @@ fourthLumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003943#forth-lumbar-dorsal-root-ganglion
    :name: fourth lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003943
+   :synonym: L4 dorsal root ganglion, forth lumbar dorsal root ganglion, fourth lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14142,6 +14672,7 @@ fourthLumbarSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006451#forth-lumbar-spinal-cord-segment
    :name: fourth lumbar spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006451
+   :synonym: L4 segment, L4 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14159,6 +14690,7 @@ fourthSacralSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006463#forth-sacral-spinal-cord-segment
    :name: fourth sacral spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006463
+   :synonym: S4 segment, S4 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14176,6 +14708,7 @@ fourthSacralSpinalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007713#forth-sacral-dorsal-root-ganglion
    :name: fourth sacral spinal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007713
+   :synonym: forth sacral dorsal root ganglion, fourth sacral dorsal root ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14193,6 +14726,7 @@ fourthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006452#forth-thoracic-spinal-cord-segment
    :name: fourth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006452
+   :synonym: T4 segment, T4 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14210,6 +14744,7 @@ fourthThoracicSpinalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007712#fourth-thoracic-dorsal-root-ganglion
    :name: fourth thoracic spinal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007712
+   :synonym: forth thoracic dorsal root ganglion, fourth thoracic dorsal root ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14229,6 +14764,7 @@ fourthVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002422#fourth-ventricle
    :name: fourth ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002422
+   :synonym: ventricle IV
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14248,6 +14784,7 @@ fourthVentricleAperture
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004668#fourth-ventricle-aperture
    :name: fourth ventricle aperture
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004668
+   :synonym: aperture of 4th ventricle, aperture of fourth ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14267,6 +14804,7 @@ fourthVentricleChoroidPlexusEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium
    :name: fourth ventricle choroid plexus epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004276
+   :synonym: chorioid plexus of cerebral hemisphere epithelial tissue of fourth ventricle, chorioid plexus of cerebral hemisphere epithelium of fourth ventricle, choroid plexus epithelial tissue of fourth ventricle, choroid plexus epithelium of fourth ventricle, epithelial tissue of chorioid plexus of cerebral hemisphere of fourth ventricle, epithelial tissue of choroid plexus of fourth ventricle, epithelium of chorioid plexus of cerebral hemisphere of fourth ventricle, epithelium of choroid plexus of fourth ventricle, fourth ventricle chorioid plexus of cerebral hemisphere epithelial tissue, fourth ventricle chorioid plexus of cerebral hemisphere epithelium, fourth ventricle choroid plexus epithelial tissue, fourth ventricle epithelial tissue of chorioid plexus of cerebral hemisphere, fourth ventricle epithelial tissue of choroid plexus, fourth ventricle epithelium of chorioid plexus of cerebral hemisphere, fourth ventricle epithelium of choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14305,6 +14843,7 @@ fourthVentricleEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma
    :name: fourth ventricle ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004644
+   :synonym: ependyma of fourth ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14323,6 +14862,7 @@ fourthVentricleLateralAperture
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture
    :name: fourth ventricle lateral aperture
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003992
+   :synonym: apertura lateralis, foramen of Key-Retzius, foramen of Luschka, foramen of Retzius, foramen of key and retzius, lateral aperture of fourth ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14341,6 +14881,7 @@ fourthVentricleMedianAperture
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003991#fourth-ventricle-median-aperture
    :name: fourth ventricle median aperture
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003991
+   :synonym: apertura mediana, foramen of Magendie, foramen of Majendie, median aperture of fourth ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14359,6 +14900,7 @@ foveaCentralis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001786#fovea
    :name: fovea centralis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001786
+   :synonym: centre of macula, fovea centralis in macula
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14396,6 +14938,7 @@ frontalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001870#frontal-cortex-1
    :name: frontal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001870
+   :synonym: cortex of frontal lobe, frontal lobe cortex, gray matter of frontal lobe, grey matter of frontal lobe
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14433,6 +14976,7 @@ frontalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016525#frontal-lobe-1
    :name: frontal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016525
+   :synonym: lobi frontales, lobus frontalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14451,6 +14995,7 @@ frontalNerveBranchOfOphthalmic
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000942#frontal-nerve-branch-of-ophthalmic
    :name: frontal nerve (branch of ophthalmic)
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000942
+   :synonym: frontal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14489,6 +15034,7 @@ frontalPole
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002795#frontal-pole-1
    :name: frontal pole
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002795
+   :synonym: polus frontalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14507,6 +15053,7 @@ frontalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014639#frontal-sulcus
    :name: frontal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014639
+   :synonym: frontal lobe sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14525,6 +15072,7 @@ frontoOrbitalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009836#fronto-orbital-gyrus-1
    :name: fronto-orbital gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009836
+   :synonym: orbito-frontal gyrus, orbitofrontal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14542,6 +15090,7 @@ frontoOrbitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002799#fronto-orbital-sulcus-1
    :name: fronto-orbital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002799
+   :synonym: fronto-orbital dimple, orbito-frontal sulcus, orbitofrontal sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14634,6 +15183,7 @@ funiculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006127#funiculus-of-spinal-cord
    :name: funiculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006127
+   :synonym: spinal cord funiculus, white column of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14653,6 +15203,7 @@ fusiformGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002766#fusiform-gyrus-1
    :name: fusiform gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002766
+   :synonym: gyrus occipitotemporalis lateralis, lateral occipitotemporal gyrus, medial occipitotemporal gyrus-1 (heimer), occipitotemporal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14670,6 +15221,7 @@ fusiformNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011175#fusiform-nucleus-of-stria-terminalis
    :name: fusiform nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011175
+   :synonym: bed nuclei of the stria terminalis, anterior division, fusiform nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14687,6 +15239,7 @@ futureBrainVesicle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013150#future-brain-vesicle
    :name: future brain vesicle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013150
+   :synonym: early brain vesicle, primitive brain vesicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14724,6 +15277,7 @@ futureHindbrainMeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010091#future-hindbrain-meninx
    :name: future hindbrain meninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010091
+   :synonym: future hindbrain meninges
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14760,6 +15314,7 @@ futureMeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007645#future-meninx
    :name: future meninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007645
+   :synonym: primary meninx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14852,6 +15407,7 @@ futurePterygopalatineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010128#future-pterygopalatine-ganglion
    :name: future pterygopalatine ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010128
+   :synonym: future Meckel ganglion, future Meckel's ganglion, future nasal ganglion, future palatine ganglion, future pterygopalatine ganglia, future sphenopalatine ganglion, future sphenopalatine parasympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14869,6 +15425,7 @@ futureSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006241#future-spinal-cord
    :name: future spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006241
+   :synonym: presumptive spinal cord, presumptive spinal cord neural keel, presumptive spinal cord neural plate, presumptive spinal cord neural rod
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14905,6 +15462,7 @@ ganglionOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003339#ganglion-of-central-nervous-system
    :name: ganglion of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003339
+   :synonym: central nervous system ganglion, ganglion of neuraxis, neuraxis ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14940,6 +15498,7 @@ ganglionOfPeripheralNervousSystem
    :description: A spatially aggregated collection of nerve cell bodies in the PNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections. (CUMBO). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003338)]
    :name: ganglion of peripheral nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003338
+   :synonym: peripheral nervous system ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14976,6 +15535,7 @@ ganglionicEminence
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004023#ganglionic-eminence
    :name: ganglionic eminence
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004023
+   :synonym: embryonic subventricular zone, embryonic/fetal subventricular zone, fetal subventricular zone, subependymal layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14994,6 +15554,7 @@ ganglionicLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001792#ganglionic-layer-of-retina
    :name: ganglionic layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001792
+   :synonym: GCL layer, RGC layer, ganglionic cell layer of retina, retina ganglion cell layer, retina ganglion layer, retinal ganglion cell layer, retinal ganglion layer, stratum ganglionicum (retina)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15029,6 +15590,7 @@ gastropodCerebralGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008942#gastropod-cerebral-ganglion
    :name: gastropod cerebral ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008942
+   :synonym: cerebral ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15081,6 +15643,7 @@ geniculateGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001700#geniculate-ganglion
    :name: geniculate ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001700
+   :synonym: facial VII ganglion, gVII, ganglion genicularum, genicular ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15099,6 +15662,7 @@ geniculatePlacode
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009124#geniculate-placode
    :name: geniculate placode
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009124
+   :synonym: epibranchial placode 1, facial epibranchial placode, facial placode
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15118,6 +15682,7 @@ genuOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015599#genu-of-corpus-callosum
    :name: genu of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015599
+   :synonym: corpus callosum genu
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15136,6 +15701,7 @@ genuOfFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014915#genu-of-facial-nerve
    :name: genu of facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014915
+   :synonym: genu nervi facialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15154,6 +15720,7 @@ germinalNeuroepithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004022#germinal-neuroepithelium
    :name: germinal neuroepithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004022
+   :synonym: germinal neuroepithelial layer, original neural tube
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15172,6 +15739,7 @@ gigantocellularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002155#gigantocellular-nucleus
    :name: gigantocellular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002155
+   :synonym: gigantocellular group, gigantocellular reticular nuclei, gigantocellular reticular nucleus, nucleus gigantocellularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15225,6 +15793,7 @@ glialLimitingMembrane
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018687#glial-limiting-membrane
    :name: glial limiting membrane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018687
+   :synonym: glia limitans
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15244,6 +15813,7 @@ globusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001875#globus-pallidus-1
    :name: globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001875
+   :synonym: pale body, paleostriatum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15262,6 +15832,7 @@ glossopharyngealGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001701#glossopharyngeal-ganglion
    :name: glossopharyngeal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001701
+   :synonym: ganglion of glossopharyngeal nerve, ganglion of glosspharyngeal nerve, glossopharyngeal IX ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15314,6 +15885,7 @@ glossopharyngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001649#glossopharyngeal-nerve-1
    :name: glossopharyngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001649
+   :synonym: glossopharyngeal IX, glossopharyngeal IX nerve, glossopharyngeal nerve [IX], glossopharyngeal nerve tree, nervus glossopharyngeus, nervus glossopharyngeus [ix], ninth cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15332,6 +15904,7 @@ glossopharyngealNerveFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006090#glossopharyngeal-nerve-fiber-bundle-1
    :name: glossopharyngeal nerve fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006090
+   :synonym: central part of glossopharyngeal nerve, glossopharyngeal nerve fibers, glossopharyngeal nerve tract, ninth cranial nerve fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15421,6 +15994,7 @@ gracileFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005821#gracile-fasciculus
    :name: gracile fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005821
+   :synonym: fasciculus gracilis, gracile fascicle, gracilis tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15440,6 +16014,7 @@ gracileFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002653#gracile-fasciculus-of-medulla-1
    :name: gracile fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002653
+   :synonym: Goll's tract, column of Goll, fasciculus of goll, gracile fascicle of medulla, medulla segment of fasciculus gracilis, medulla segment of gracile fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15458,6 +16033,7 @@ gracileFasciculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005826#gracile-fasciculus-of-spinal-cord
    :name: gracile fasciculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005826
+   :synonym: fasciculus gracilis (medulla spinalis), gracile fascicle of spinal cord, spinal cord segment of fasciculus gracilis, spinal cord segment of gracile fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15476,6 +16052,7 @@ gracileNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002161#gracile-nucleus-1
    :name: gracile nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002161
+   :synonym: Goll's nucleus, golls nucleus, nucleus gracilis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15528,6 +16105,7 @@ granularInsularCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034892#granular-insular-cortex
    :name: granular insular cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034892
+   :synonym: granular insula
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15563,6 +16141,7 @@ granularLayerOfCerebellarCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002956#granular-layer-of-cerebellar-cortex
    :name: granular layer of cerebellar cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002956
+   :synonym: cerebellar granular layer, cerebellar granule cell layer, cerebellar granule layer, cerebellum granule cell layer, cerebellum granule layer, granule cell layer of cerebellar cortex, stratum granulosum cerebelli, stratum granulosum corticis cerebelli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15598,6 +16177,7 @@ grayMatterLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006785#gray-matter-layer-of-superior-colliculus
    :name: gray matter layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006785
+   :synonym: gray matter of superior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15650,6 +16230,7 @@ grayMatterOfHindbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
    :name: gray matter of hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019263
+   :synonym: gray matter of the hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15685,6 +16266,7 @@ grayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002315#gray-matter-of-spinal-cord
    :name: gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002315
+   :synonym: gray substance of spinal cord, grey matter of spinal cord, grey substance of spinal cord, spinal cord gray matter, spinal cord grey matter, spinal cord grey substance, substantia grisea medullae spinalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15703,6 +16285,7 @@ grayMatterOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011300#predominantly-gray-regional-part-of-telencephalon
    :name: gray matter of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011300
+   :synonym: predominantly gray regional part of telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15721,6 +16304,7 @@ greatAuricularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008833#great-auricular-nerve
    :name: great auricular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008833
+   :synonym: nervus auricularis magnus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15739,6 +16323,7 @@ greatCerebralVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006666#great-cerebral-vein
    :name: great cerebral vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006666
+   :synonym: great cerebral vein of Galen, vein of Galen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15756,6 +16341,7 @@ greaterSplanchnicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018680#greater-splanchnic-nerve
    :name: greater splanchnic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018680
+   :synonym: greater thoracic splanchnic nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15792,6 +16378,7 @@ gustatoryEpitheliumOfPalate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014453#gustatory-epithelium-of-palate
    :name: gustatory epithelium of palate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014453
+   :synonym: palatal gustatory epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15810,6 +16397,7 @@ gustatoryEpitheliumOfTongue
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014452#gustatory-epithelium-of-tongue
    :name: gustatory epithelium of tongue
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014452
+   :synonym: lingual gustatory epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15846,6 +16434,7 @@ gustatoryOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003212#gustatory-organ
    :name: gustatory organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003212
+   :synonym: gustatory organ system organ, gustatory system organ, organ of gustatory organ system, organ of gustatory system, organ of taste system, taste organ, taste system organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15864,6 +16453,7 @@ gustatoryPore
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007691#gustatory-pore
    :name: gustatory pore
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007691
+   :synonym: porus gustatorius, taste pore
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15883,6 +16473,7 @@ gyrusRectus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004671#gyrus-rectus-1
    :name: gyrus rectus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004671
+   :synonym: medial part of gyri orbitales, rectal gyrus, rectus gyrus, straight gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15902,6 +16493,7 @@ habenula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001904#habenula-1
    :name: habenula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001904
+   :synonym: habenula complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15921,6 +16513,7 @@ habenularCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001909#habenular-commissure-1
    :name: habenular commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001909
+   :synonym: commissura habenularum, commissure habenularum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15975,6 +16568,7 @@ habenuloInterpeduncularTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002138#fasciculus-retroflexus
    :name: habenulo-interpeduncular tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002138
+   :synonym: Meynert's retroflex bundle, fasciculus retroflexus, fasciculus retroflexus (Meynert), habenulointerpeduncular fasciculus, habenulopeduncular tract, tractus habenulo-interpeduncularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16030,6 +16624,7 @@ headOfCaudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002626#head-of-caudate-nucleus-1
    :name: head of caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002626
+   :synonym: caput (caudatus), caudate nuclear head
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16083,6 +16678,7 @@ hemispherePartOfCerebellarAnteriorLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014647#hemispheric-part-of-the-anterior-lobe-of-the-cerebellum
    :name: hemisphere part of cerebellar anterior lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014647
+   :synonym: hemisphere of anterior lobe, hemisphere of anterior lobe of cerebellum, hemispherium lobus anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16101,6 +16697,7 @@ hemispherePartOfCerebellarPosteriorLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014648#hemispheric-part-of-the-posterior-lobe-of-the-cerebellum
    :name: hemisphere part of cerebellar posterior lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014648
+   :synonym: hemisphere of posterior lobe, hemisphere of posterior lobe of cerebellum, hemispherium lobus posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16119,6 +16716,7 @@ hemisphericLobuleVIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006121#hemispheric-lobule-viii
    :name: hemispheric lobule VIII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006121
+   :synonym: biventer 1 (HVIII), biventer lobule, biventral lobule, biventral lobule [h VIII], cuneiform lobe, dorsal parafloccularis [h VIII b], dorsal paraflocculus, lobulus biventer, lobulus biventer [h viii], lobulus biventralis, lobulus parafloccularis dorsalis [h viii b], paraflocculus dorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16138,6 +16736,7 @@ hilumOfDentateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002744#hilum-of-dentate-nucleus-1
    :name: hilum of dentate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002744
+   :synonym: dentate nuclear hilum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16156,6 +16755,7 @@ hilumOfInferiorOlivaryComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008333#hilum-of-inferior-olivary-complex
    :name: hilum of inferior olivary complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008333
+   :synonym: hilum nuclei olivaris inferioris, hilum of inferior olivary nucleus, inferior olivary hilum, inferior olive hilum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16173,6 +16773,7 @@ hilumOfNeuraxis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008332#hilum-of-neuraxis
    :name: hilum of neuraxis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008332
+   :synonym: neuraxis hilum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16192,6 +16793,7 @@ hilusOfDentateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002136#hilus-of-dentate-gyrus-1
    :name: hilus of dentate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002136
+   :synonym: dentate gyrus hilus, field CA4 of hippocampal formation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16229,6 +16831,7 @@ hindbrainArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003559#hindbrain-arachnoid-mater
    :name: hindbrain arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003559
+   :synonym: arachnoid mater of hindbrain, arachnoid mater of neuraxis of hindbrain, arachnoid of hindbrain, hindbrain arachnoid, hindbrain arachnoid mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16266,6 +16869,7 @@ hindbrainCorticalIntermediateZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034994#hindbrain-cortical-intermediate-zone
    :name: hindbrain cortical intermediate zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034994
+   :synonym: hindbrain mantle layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16284,6 +16888,7 @@ hindbrainDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003565#hindbrain-dura-mater
    :name: hindbrain dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003565
+   :synonym: dura mater of hindbrain, dura mater of neuraxis of hindbrain, hindbrain dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16302,6 +16907,7 @@ hindbrainMarginalLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034709#hindbrain-marginal-layer
    :name: hindbrain marginal layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034709
+   :synonym: marginal zone of hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16339,6 +16945,7 @@ hindbrainPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003554#hindbrain-pia-mater
    :name: hindbrain pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003554
+   :synonym: hindbrain pia mater of neuraxis, pia mater of hindbrain, pia mater of neuraxis of hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16357,6 +16964,7 @@ hindbrainSpinalCordBoundary
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005076#hindbrain-spinal-cord-boundary
    :name: hindbrain-spinal cord boundary
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005076
+   :synonym: hindbrain-spinal cord boundary region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16376,6 +16984,7 @@ hindbrainSubarachnoidSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005219#hindbrain-subarachnoid-space
    :name: hindbrain subarachnoid space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005219
+   :synonym: subarachnoid space hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16412,6 +17021,7 @@ hindbrainVesicle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013149#hindbrain-vesicle
    :name: hindbrain vesicle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013149
+   :synonym: rhombencephalic vesicle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16430,6 +17040,7 @@ hindlimbNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003442#hindlimb-nerve
    :name: hindlimb nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003442
+   :synonym: hind limb nerve, nerve of hind limb, nerve of hindlimb, nerve of inferior member, nerve of lower extremity
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16449,6 +17060,7 @@ hippocampalCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000908#commissure-of-fornix
    :name: hippocampal commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000908
+   :synonym: commissura hippocampi, commissure of fornix of forebrain, delta fornicis, dorsal hippocampal commissure, fornical commissure, fornix commissure, hippocampus commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16467,6 +17079,7 @@ hippocampalField
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003876#hippocampal-field
    :name: hippocampal field
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003876
+   :synonym: hippocampus subdivision, subdivision of hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16486,6 +17099,7 @@ hippocampalFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002421#hippocampal-formation
    :name: hippocampal formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002421
+   :synonym: hippocampus (Crosby)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16504,6 +17118,7 @@ hippocampalFormationOfGP94
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023862#hippocampal-formation-of-gp94-1
    :name: hippocampal formation of GP94
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023862
+   :synonym: hippocampal formation of gp94
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16522,6 +17137,7 @@ hippocampalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002899#hippocampal-sulcus-1
    :name: hippocampal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002899
+   :synonym: dentate fissure, hippocampal fissure, sulcus hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16541,6 +17157,7 @@ hippocampusAlveus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007639#alveus
    :name: hippocampus alveus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007639
+   :synonym: alveus, alveus of hippocampus, neuraxis alveus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16558,6 +17175,7 @@ hippocampusCortexCingulum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022430#hippocampus-cortex-cingulum
    :name: hippocampus cortex cingulum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022430
+   :synonym: cingulum (Ammon's horn), cingulum (hippocampus), cingulum bundle in hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16577,6 +17195,7 @@ hippocampusFimbria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002310#fimbria-of-hippocampus
    :name: hippocampus fimbria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002310
+   :synonym: fimbria hippocampus, fimbria of hippocampus, fimbria of the fornix, fimbria-fornix, hippocampal fimbria, neuraxis fimbria
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16612,6 +17231,7 @@ hippocampusMolecularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005368#hippocampal-molecular-layer
    :name: hippocampus molecular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005368
+   :synonym: hippocampal molecular layer, hippocampus stratum moleculare, molecular layer of hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16630,6 +17250,7 @@ hippocampusPyramidalLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002313#stratum-pyramidale-hippocampi
    :name: hippocampus pyramidal layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002313
+   :synonym: pyramidal cell layer of the hippocampus, pyramidal layer of hippocampus, stratum pyramidale, stratum pyramidale hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16648,6 +17269,7 @@ hippocampusStratumLacunosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005370#hippocampus-stratum-lacunosum
    :name: hippocampus stratum lacunosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005370
+   :synonym: lacunar layer of hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16666,6 +17288,7 @@ hippocampusStratumLacunosumMoleculare
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007640#stratum-lacunosum-moleculare
    :name: hippocampus stratum lacunosum moleculare
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007640
+   :synonym: lacunar-molecular layer of hippocampus, stratum hippocampi moleculare et substratum lacunosum, stratum lacunosum moleculare, stratum lacunosum-moleculare
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16702,6 +17325,7 @@ hippocampusStratumOriens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005371#stratum-oriens
    :name: hippocampus stratum oriens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005371
+   :synonym: oriens layer of hippocampus, oriens layer of the hippocampus, polymorphic layer of hippocampus, polymorphic layer of the hippocampus, stratum oriens, stratum oriens hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16720,6 +17344,7 @@ hippocampusStratumRadiatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005372#stratum-radiatum
    :name: hippocampus stratum radiatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005372
+   :synonym: radiate layer of hippocampus, stratum radiatum, stratum radiatum hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16738,6 +17363,7 @@ horizontalFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002815#horizontal-fissure-of-cerebellum
    :name: horizontal fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002815
+   :synonym: fissura horizontalis cerebelli, fissura intercruralis, fissura intercruralis cerebelli, great horizontal fissure, horizontal sulcus, intercrural fissure of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16756,6 +17382,7 @@ horizontalLimbOfTheDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006123#horizontal-limb-of-the-diagonal-band-1
    :name: horizontal limb of the diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006123
+   :synonym: crus horizontale striae diagonalis, diagonal band horizontal limb, hDBB, horizontal limb of diagonal band, horizontal limb of the diagonal band of Broca
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16774,6 +17401,7 @@ hyaloidArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery
    :name: hyaloid artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002270
+   :synonym: arteria hyaloidea
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16845,6 +17473,7 @@ hypogastricNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005303#hypogastric-nerve
    :name: hypogastric nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005303
+   :synonym: hypogastric nerve plexus, hypogastric plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16863,6 +17492,7 @@ hypoglossalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001650#hypoglossal-nerve-1
    :name: hypoglossal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001650
+   :synonym: cranial nerve XII, hypoglossal XII, hypoglossal XII nerve, hypoglossal nerve [XII], hypoglossal nerve tree, nervus hypoglossus [xii], twelfth cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16882,6 +17512,7 @@ hypoglossalNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004675#hypoglossal-nerve-fiber-bundle
    :name: hypoglossal nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004675
+   :synonym: central part of hypoglossal nerve, fibrae nervi hypoglossi, hypoglossal nerve fiber bundle, hypoglossal nerve fibers, hypoglossal nerve tract, root of hypoglossal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16900,6 +17531,7 @@ hypoglossalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002871#hypoglossal-nucleus-1
    :name: hypoglossal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002871
+   :synonym: hypoglossal XII nucleus, hypoglossal nerve nucleus, nucleus nervi hypoglossi, nucleus of hypoglossal nerve, twelfth cranial nerve nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16918,6 +17550,7 @@ hypothalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006568#hypothalamic-nucleus
    :name: hypothalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006568
+   :synonym: nucleus of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16937,6 +17570,7 @@ hypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001898#hypothalamus-1
    :name: hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001898
+   :synonym: preoptico-hypothalamic area, preoptico-hypothalamic region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16956,6 +17590,7 @@ induseumGriseum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015793#induseum-griseum
    :name: induseum griseum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015793
+   :synonym: indusium griseum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16973,6 +17608,7 @@ inferiorAlveolarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018405#inferior-alveolar-nerve
    :name: inferior alveolar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018405
+   :synonym: inferior dental nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16991,6 +17627,7 @@ inferiorBranchOfOculomotorNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015161#inferior-branch-of-oculomotor-nerve
    :name: inferior branch of oculomotor nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015161
+   :synonym: inferior ramus of oculomotor nerve, oculomotor nerve inferior division, ramus inferior (nervus oculomotorius [III]), ramus inferior nervi oculomotorii, ramus inferior nervus oculomotorii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17026,6 +17663,7 @@ inferiorCentralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1
    :name: inferior central nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002993
+   :synonym: inferior central nucleus (of roller), inferior central nucleus of raphe, inferior central tegmental nucleus, nucleus centralis inferior, nucleus tegmentalis centralis inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17045,6 +17683,7 @@ inferiorCerebellarPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002163#inferior-cerebellar-peduncle-1
    :name: inferior cerebellar peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002163
+   :synonym: corpus restiforme, restiform body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17081,6 +17720,7 @@ inferiorCervicalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002440#inferior-cervical-ganglion
    :name: inferior cervical ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002440
+   :synonym: variant cervical ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17100,6 +17740,7 @@ inferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001946#inferior-colliculus-1
    :name: inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001946
+   :synonym: caudal colliculus, posterior colliculus, posterior corpus quadrigeminum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17119,6 +17760,7 @@ inferiorFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002998#inferior-frontal-gyrus-1
    :name: inferior frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002998
+   :synonym: inferior frontal convolution
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17137,6 +17779,7 @@ inferiorFrontalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002761#inferior-frontal-sulcus-1
    :name: inferior frontal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002761
+   :synonym: inferior frontal fissure, sulcus f2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17155,6 +17798,7 @@ inferiorGlossopharyngealIXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005360#inferior-glossopharyngeal-ix-ganglion
    :name: inferior glossopharyngeal IX ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005360
+   :synonym: extracraniale ganglion, ganglion inferius (nervus glossopharygeus), ganglion inferius nervus glossopharyngei, ganglion of andersch, glossopharyngeal nerve inferior ganglion, glossopharyngeal nerve petrous ganglion, inferior ganglion of glossopharyngeal nerve, inferior glossopharyngeal ganglion, inferior glossopharyngeal ganglion of the glossopharyngeal (IX) nerve, ninth cranial nerve inferior ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17174,6 +17818,7 @@ inferiorHornOfTheLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006091#inferior-horn-of-the-lateral-ventricle-1
    :name: inferior horn of the lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006091
+   :synonym: cornu inferius (ventriculi lateralis), cornu inferius ventriculi lateralis, cornu temporale (ventriculi lateralis), cornu temporale ventriculi lateralis, inferior horn of lateral ventricle, temporal horn of lateral ventricle, ventriculus lateralis, cornu inferius, ventriculus lateralis, cornu temporale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17192,6 +17837,7 @@ inferiorHypogastricNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002014#inferior-hypogastric-nerve-plexus
    :name: inferior hypogastric nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002014
+   :synonym: inferior hypogastric plexus, pelvic nerve plexus, pelvic plexus, plexus hypogastricus inferior, plexus nervosus hypogastricus inferior, plexus nervosus pelvicus, plexus pelvicus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17209,6 +17855,7 @@ inferiorLateralOccipitalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022367#inferior-lateral-occipital-cortex
    :name: inferior lateral occipital cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022367
+   :synonym: lateral occipital cortex, inferior division, lateral occipital cortex, inferior division (OLI)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17280,6 +17927,7 @@ inferiorMesentericNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035770#inferior-mesenteric-nerve-plexus
    :name: inferior mesenteric nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035770
+   :synonym: inferior mesenteric plexus, plexus mesentericus inferior, plexus nervosus mesentericus inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17369,6 +18017,7 @@ inferiorOlivaryComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002127#inferior-olivary-complex-1
    :name: inferior olivary complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002127
+   :synonym: inferior olivary nuclear complex, inferior olive, oliva
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17404,6 +18053,7 @@ inferiorOliveBetaNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035019#inferior-olive-beta-nucleus
    :name: inferior olive, beta nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035019
+   :synonym: inferior olive beta subnucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17421,6 +18071,7 @@ inferiorOliveDorsalAccessoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013608#inferior-olive-dorsal-accessory-nucleus
    :name: inferior olive dorsal accessory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013608
+   :synonym: dorsal accessory nucleus of inferior olivary complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17438,6 +18089,7 @@ inferiorOliveMedialAccessoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013609#inferior-olive-medial-accessory-nucleus
    :name: inferior olive medial accessory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013609
+   :synonym: medial accessory nucleus of inferior olivary complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17455,6 +18107,7 @@ inferiorOliveVentralAccessoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013610#inferior-olive-ventral-accessory-nucleus
    :name: inferior olive ventral accessory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013610
+   :synonym: ventral accessory nucleus of inferior olivary complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17473,6 +18126,7 @@ inferiorPalpebralBranchOfInfraOrbitalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022296#inferior-palpebral-branch-of-infra-orbital-nerve
    :name: inferior palpebral branch of infra-orbital nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022296
+   :synonym: rami palpebrales inferiores nervi infraorbitalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17492,6 +18146,7 @@ inferiorParietalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006088#inferior-parietal-cortex-1
    :name: inferior parietal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006088
+   :synonym: inferior parietal lobule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17526,6 +18181,7 @@ inferiorPartOfVestibularGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002826#inferior-part-of-vestibular-ganglion-1
    :name: inferior part of vestibular ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002826
+   :synonym: pars inferior ganglionis vestibularis, vestibular ganglion inferior part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17544,6 +18200,7 @@ inferiorPetrosalSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007160#inferior-petrosal-sinus
    :name: inferior petrosal sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007160
+   :synonym: sinus petrosal inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17561,6 +18218,7 @@ inferiorPostcentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002914#inferior-postcentral-sulcus-1
    :name: inferior postcentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002914
+   :synonym: sulcus postcentralis inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17578,6 +18236,7 @@ inferiorPrecentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002764#inferior-precentral-sulcus-1
    :name: inferior precentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002764
+   :synonym: inferior part of precentral fissure, sulcus praecentralis inferior, sulcus precentralis inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17596,6 +18255,7 @@ inferiorPulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002982#inferior-pulvinar-nucleus-1
    :name: inferior pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002982
+   :synonym: nucleus pulvinaris inferior, nucleus pulvinaris inferior thalami, nucleus pulvinaris thalami, pars inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17665,6 +18325,7 @@ inferiorRostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002767#inferior-rostral-sulcus-1
    :name: inferior rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002767
+   :synonym: sulcus rostralis inferior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17718,6 +18379,7 @@ inferiorSalivatoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002872#inferior-salivatory-nucleus-1
    :name: inferior salivatory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002872
+   :synonym: inferior salivary nucleus, inferior salivatary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17737,6 +18399,7 @@ inferiorTemporalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002751#inferior-temporal-gyrus-1
    :name: inferior temporal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002751
+   :synonym: gyrus temporalis inferior, lateral occipitotemporal gyrus (heimer-83)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17755,6 +18418,7 @@ inferiorTemporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002969#inferior-temporal-sulcus-1
    :name: inferior temporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002969
+   :synonym: inferior temporal sulcus-1, middle temporal sulcus (szikla), second temporal sulcus, sulcus t2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17772,6 +18436,7 @@ inferiorThalamicPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022242#inferior-thalamic-peduncle
    :name: inferior thalamic peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022242
+   :synonym: inferior peduncle, pedunculus inferior thalami, pedunculus thalami caudalis, pedunculus thalami inferior, pedunculus thalamicus inferior, temporal peduncle, temporal thalamic peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17808,6 +18473,7 @@ inferiorVagusXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005363#inferior-vagus-x-ganglion
    :name: inferior vagus X ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005363
+   :synonym: ganglion inferius (nervus vagus), ganglion inferius nervi vagi, ganglion inferius nervus vagi, ganglion nodosum, inferior ganglion of vagus, inferior ganglion of vagus nerve, nodose ganglion, tenth cranial nerve nodose ganglion, vagus nerve inferior ganglion, vagus nerve nodose ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17827,6 +18493,7 @@ inferiorVestibularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001721#inferior-vestibular-nucleus
    :name: inferior vestibular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001721
+   :synonym: descending vestibular nucleus, spinal vestibular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17845,6 +18512,7 @@ infraOrbitalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018408#infra-orbital-nerve
    :name: infra-orbital nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018408
+   :synonym: infraorbital nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17862,6 +18530,7 @@ infundibularOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011358#infundibular-organ
    :name: infundibular organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011358
+   :synonym: infundibular organ of Boeke, ventral infundibular organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17880,6 +18549,7 @@ infundibularRecessOf3rdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006250#infundibular-recess-of-3rd-ventricle
    :name: infundibular recess of 3rd ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006250
+   :synonym: infundibular recess, infundibular recess of third ventricle, recessus infundibularis, recessus infundibuli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17898,6 +18568,7 @@ innerLimitingLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001794#inner-limiting-layer-of-retina
    :name: inner limiting layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001794
+   :synonym: inner limiting membrane, inner limiting membrane of retina, internal limiting lamina of retina, internal limiting membrane of retina, retina inner limiting membrane, retina internal limiting lamina, stratum limitans internum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17916,6 +18587,7 @@ innerNuclearLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001791#inner-nuclear-layer-of-retina
    :name: inner nuclear layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001791
+   :synonym: inner nuclear layer, intermediate cell layer, neural retina inner nuclear layer, retina inner nuclear layer, retinal inner nuclear layer, stratum nucleare internum, stratum nucleare internum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17934,6 +18606,7 @@ innerPlexiformLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001795#inner-plexiform-layer-of-retina
    :name: inner plexiform layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001795
+   :synonym: retina inner plexiform layer, retinal inner plexiform layer, stratum plexiforme internum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17970,6 +18643,7 @@ insectAdultCentralComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003632#adult-central-complex
    :name: insect adult central complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003632
+   :synonym: CX, adult central body complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18006,6 +18680,7 @@ insectAdultCerebralGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6110636#adult-cerebral-ganglion
    :name: insect adult cerebral ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6110636
+   :synonym: CRG
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18059,6 +18734,7 @@ insectBolwigOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6005805#bolwig-organ
    :name: insect Bolwig organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005805
+   :synonym: Bolwig's organ, embryonic Bolwig's organ, embryonic visual system, larval Bolwig's organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18077,6 +18753,7 @@ insectCentroPosteriorMedialSynapticNeuropilDomain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007070#centro-posterior-medial-synaptic-neuropil-domain
    :name: insect centro-posterior medial synaptic neuropil domain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007070
+   :synonym: centro-posterior medial neuropil, centro-posterior medial synaptic neuropil domain, larval central complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18095,6 +18772,7 @@ insectChaeta
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6005177#chaeta
    :name: insect chaeta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005177
+   :synonym: sensillum chaeticum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18149,6 +18827,7 @@ insectEmbryonicLarvalCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001919#embryonic-larval-central-nervous-system
    :name: insect embryonic/larval central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001919
+   :synonym: larval central nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18185,6 +18864,7 @@ insectEmbryonicLarvalNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001911#insect-embryonic-larval-nervous-system
    :name: insect embryonic/larval nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001911
+   :synonym: larval nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18221,6 +18901,7 @@ insectEmbryonicLarvalSensillum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007240#embryonic-larval-sensillum
    :name: insect embryonic/larval sensillum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007240
+   :synonym: larval sensillum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18294,6 +18975,7 @@ insectProtocerebrum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003627#protocerebrum
    :name: insect protocerebrum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003627
+   :synonym: protocerebral neuromere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18367,6 +19049,7 @@ insectSynapticNeuropilBlock
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6041000#synaptic-neuropil-block
    :name: insect synaptic neuropil block
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6041000
+   :synonym: level 1 neuropil
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18404,6 +19087,7 @@ insula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002022#insula-1
    :name: insula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002022
+   :synonym: central lobe, cortex of island, insula lobule, insular lobe, insular region, island of Reil, lobus insularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18421,6 +19105,7 @@ insularCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034891#insular-cortex
    :name: insular cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034891
+   :synonym: cortex of insula, insular neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18477,6 +19162,7 @@ intercalatedAmygdaloidNuclei
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002884#intercalated-amygdaloid-nuclei-1
    :name: intercalated amygdaloid nuclei
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002884
+   :synonym: intercalated amygdaloid nucleus, intercalated masses of nucleus amygdaloideus, intercalated nuclei of amygdala, intercalated nucleus of the amygdala, massa intercalata, massa intercalata of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18513,6 +19199,7 @@ intercostalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003727#intercostal-nerve
    :name: intercostal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003727
+   :synonym: anterior ramus of thoracic nerve, anterior ramus of thoracic spinal nerve, ramus anterior, nervus thoracicus, thoracic anterior ramus, ventral ramus of thoracic spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18567,6 +19254,7 @@ intermediateAcousticStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002952#intermediate-acoustic-stria-1
    :name: intermediate acoustic stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002952
+   :synonym: commissure of held, intermediate acoustic stria (held), intermediate acoustic stria of held
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18603,6 +19291,7 @@ intermediateHypothalamicRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002555#intermediate-hypothalamic-region-1
    :name: intermediate hypothalamic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002555
+   :synonym: area hypothalamica intermedia, intermediate hypothalamic area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18621,6 +19310,7 @@ intermediateLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006792#intermediate-layer-of-superior-colliculus
    :name: intermediate layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006792
+   :synonym: central zone of the optic tectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18656,6 +19346,7 @@ intermediateNucleusOfLateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007710#intermediate-nucleus-of-lateral-lemniscus
    :name: intermediate nucleus of lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007710
+   :synonym: nucleus of the lateral lemniscus, horizontal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18674,6 +19365,7 @@ intermediateOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002970#intermediate-oculomotor-nucleus-1
    :name: intermediate oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002970
+   :synonym: intermediate nucleus of oculomotor nuclear complex, intermediate oculomotor cell column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18728,6 +19420,7 @@ intermediatePeriventricularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002746#intermediate-periventricular-nucleus-1
    :name: intermediate periventricular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002746
+   :synonym: hPe, intermediate periventricular nucleus of hypothalamus, periventricular nucleus at the tuberal level
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18798,6 +19491,7 @@ intermediolateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002175#intermediolateral-nucleus
    :name: intermediolateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002175
+   :synonym: intermediolateral nucleus of spinal cord, nucleus intermediolateralis medullae spinalis, spinal cord intermediolateral nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18817,6 +19511,7 @@ internalArcuateFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006087#internal-arcuate-fiber-bundle-1
    :name: internal arcuate fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006087
+   :synonym: arcuate fibers medial lemniscus, fibrae arcuatae internae, internal arcuate fibers, internal arcuate fibres, internal arcuate tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18836,6 +19531,7 @@ internalCapsuleOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001887#internal-capsule
    :name: internal capsule of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001887
+   :synonym: brain internal capsule, internal capsule radiations
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18854,6 +19550,7 @@ internalCarotidNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002024#internal-carotid-nerve-plexus
    :name: internal carotid nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002024
+   :synonym: internal carotid plexus, plexus caroticus internus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18908,6 +19605,7 @@ internalMedullaryLaminaOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002762#internal-medullary-lamina-of-thalamus-1
    :name: internal medullary lamina of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002762
+   :synonym: envelope (involucrum medial) (Hassler), internal medullary lamina, lamina medullaris interna, lamina medullaris interna thalami, lamina medullaris medialis thalami, lamina medullaris thalami interna
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18926,6 +19624,7 @@ interoceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018389#interoceptor
    :name: interoceptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018389
+   :synonym: enteroceptor, visceroceptor
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18944,6 +19643,7 @@ interpeduncularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002145#interpeduncular-nucleus-1
    :name: interpeduncular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002145
+   :synonym: interpeduncular ganglion, interpeduncular nucleus of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18998,6 +19698,7 @@ interstitialNucleusOfCajal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002551#interstitial-nucleus-of-cajal-1
    :name: interstitial nucleus of Cajal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002551
+   :synonym: NIC, interstitial nucleus of medial longitudinal fasciculus, interstitial nucleus of medial longitudinal fasciculus (Crosby), nucleus interstitialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19034,6 +19735,7 @@ interthalamicAdhesion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006681#interthalamic-adhesion
    :name: interthalamic adhesion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006681
+   :synonym: interthalamic connection, middle commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19052,6 +19754,7 @@ interveningZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001341#intervening-zone
    :name: intervening zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001341
+   :synonym: IZ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19070,6 +19773,7 @@ interventricularForamenOfCNS
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003993#interventricular-foramen-of-cns
    :name: interventricular foramen of CNS
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003993
+   :synonym: foramen Monroi, foramen interventriculare, interventricular foramen, interventricular foramina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19088,6 +19792,7 @@ intraculminateFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035922#intraculminate-fissure-of-cerebellum
    :name: intraculminate fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035922
+   :synonym: fissura intraculminalis, intraculminate fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19107,6 +19812,7 @@ intralaminarNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002733#intralaminar-nuclear-group-1
    :name: intralaminar nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002733
+   :synonym: intralaminar nuclear complex, intralaminar nuclear group of thalamus, intralaminar nuclei of thalamus, intralaminar thalamic nuclei, nonspecific thalamic system, nuclei intralaminares (thalami), nuclei intralaminares thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19125,6 +19831,7 @@ intralingualSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002905#intralingual-sulcus-1
    :name: intralingual sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002905
+   :synonym: sulcus intralingualis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19144,6 +19851,7 @@ intraparietalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002913#intraparietal-sulcus-1
    :name: intraparietal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002913
+   :synonym: interparietal fissure, intraparietal fissure, sulcus interparietalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19180,6 +19888,7 @@ irisNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003438#iris-nerve
    :name: iris nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003438
+   :synonym: nerve of iris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19199,6 +19908,7 @@ islaMagnaOfCalleja
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023868#isla-magna-of-calleja-1
    :name: isla magna of Calleja
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023868
+   :synonym: isla magna of calleja, major island of Calleja
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19218,6 +19928,7 @@ islandOfCalleja
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001881#islands-of-calleja
    :name: island of Calleja
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001881
+   :synonym: Calleja island, islands of Calleja
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19237,6 +19948,7 @@ islandsOfCallejaOfOlfactoryTubercle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023867#islands-of-calleja-of-olfactory-tubercle-1
    :name: islands of Calleja of olfactory tubercle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023867
+   :synonym: islands of calleja of olfactory tubercle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19290,6 +20002,7 @@ isthmusOfCingulateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002738#isthmus-of-cingulate-gyrus-1
    :name: isthmus of cingulate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002738
+   :synonym: cingulate gyrus isthmus, isthmus of fornicate gyrus, isthmus of limbic lobe
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19344,6 +20057,7 @@ koniocellularLayerOfDorsalNucleusOfLateralGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013615#koniocellular-layer-of-dorsal-nucleus-of-lateral-geniculate-body
    :name: koniocellular layer of dorsal nucleus of lateral geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013615
+   :synonym: konioocellular layer of lateral geniculate nucleus, stratum koniocellulare nuclei dorsalis corporis geniculati lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19380,6 +20094,7 @@ lacrimalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011096#lacrimal-nerve
    :name: lacrimal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011096
+   :synonym: nervus lacrimalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19397,6 +20112,7 @@ laminaIIIOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016574#lamina-iii-of-gray-matter-of-spinal-cord
    :name: lamina III of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016574
+   :synonym: lamina spinale III, rexed lamina III, spinal lamina III
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19415,6 +20131,7 @@ laminaIOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord
    :name: lamina I of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006118
+   :synonym: lamina i of gray matter of spinal cord, lamina marginalis, lamina spinalis i, layer of Waldeyer, layer of waldeyer, rexed lamina I, rexed lamina i, rexed layer 1, spinal lamina I, spinal lamina i
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19432,6 +20149,7 @@ laminaIVOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016575#lamina-iv-of-gray-matter-of-spinal-cord
    :name: lamina IV of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016575
+   :synonym: lamina spinale IV, rexed lamina IV, spinal lamina IV
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19449,6 +20167,7 @@ laminaIXOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016580#lamina-ix-of-gray-matter-of-spinal-cord
    :name: lamina IX of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016580
+   :synonym: rexed lamina IX, spinal lamina IX
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19466,6 +20185,7 @@ laminaOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016570#lamina-of-gray-matter-of-spinal-cord
    :name: lamina of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016570
+   :synonym: rexed lamina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19485,6 +20205,7 @@ laminaOfSeptumPellucidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002742#lamina-of-septum-pellucidum-1
    :name: lamina of septum pellucidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002742
+   :synonym: septum pellucidum lamina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19520,6 +20241,7 @@ laminaVIIIOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016579#lamina-viii-of-gray-matter-of-spinal-cord
    :name: lamina VIII of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016579
+   :synonym: rexed lamina VIII, spinal lamina VIII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19537,6 +20259,7 @@ laminaVIIOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016578#lamina-vii-of-gray-matter-of-spinal-cord
    :name: lamina VII of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016578
+   :synonym: rexed lamina VII, spinal lamina VII
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19555,6 +20278,7 @@ laminaVIOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016577#lamina-vi-of-gray-matter-of-spinal-cord
    :name: lamina VI of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016577
+   :synonym: rexed lamina VI, spinal lamina VI
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19573,6 +20297,7 @@ laminaVOfGrayMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016576#lamina-v-of-gray-matter-of-spinal-cord
    :name: lamina V of gray matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016576
+   :synonym: rexed lamina V, spinal lamina V
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19590,6 +20315,7 @@ lapillus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000530#lapillus
    :name: lapillus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000530
+   :synonym: utricular otolith, utriculith
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19643,6 +20369,7 @@ lateralAccessoryNucleusOfOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013600#lateral-accessory-nucleus-of-optic-tract
    :name: lateral accessory nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013600
+   :synonym: lateral terminal nucleus of the accessory optic tract, nucleus accessorius lateralis tractus optici
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19662,6 +20389,7 @@ lateralAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002886#lateral-amygdaloid-nucleus-1
    :name: lateral amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002886
+   :synonym: lateral nucleus of amygdala, lateral principal nucleus of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19734,6 +20462,7 @@ lateralCerebellomedullaryCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004051#lateral-cerebellomedullary-cistern
    :name: lateral cerebellomedullary cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004051
+   :synonym: cisterna cerebellomedullaris lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19771,6 +20500,7 @@ lateralCorticospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002589#lateral-corticospinal-tract-1
    :name: lateral corticospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002589
+   :synonym: corticospinal tract, crossed, crossed pyramidal tract, lateral pyramidal tract, pyramidal tract, crossed
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19806,6 +20536,7 @@ lateralDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002984#lateral-dorsal-nucleus-1
    :name: lateral dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002984
+   :synonym: dorsal thalamus, lateral group, lateral dorsal nucleus of thalamus, lateral dorsal thalamic nucleus, laterodorsal nucleus nucleus of thalamus, laterodorsal nucleus thalamic nucleus, laterodorsal nucleus, superficial part, laterodorsal thalamic nucleus, nucleus dorsalis lateralis thalami, nucleus dorsalis superficialis (Hassler), nucleus dorsolateralis thalami, nucleus lateralis dorsalis, nucleus lateralis dorsalis of thalamus, nucleus lateralis dorsalis thalami, nucleus lateralis thalami dorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19877,6 +20608,7 @@ lateralEntorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007225#lateral-entorhinal-cortex
    :name: lateral entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007225
+   :synonym: entorhinal area, lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19929,6 +20661,7 @@ lateralFuniculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002179#lateral-funiculus-of-spinal-cord
    :name: lateral funiculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002179
+   :synonym: lateral funiculus, lateral white column of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19966,6 +20699,7 @@ lateralGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001926#lateral-geniculate-body-1
    :name: lateral geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001926
+   :synonym: corpus geniculatum laterales, lateral geniculate complex, lateral geniculate nucleus, nucleus geniculatus lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19984,6 +20718,7 @@ lateralGeniculateNucleusParvocellularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022319#lateral-geniculate-nucleus-parvocellular-layer
    :name: lateral geniculate nucleus parvocellular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022319
+   :synonym: LGN P-cell layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20003,6 +20738,7 @@ lateralGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002476#globus-pallidus-external-segment
    :name: lateral globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002476
+   :synonym: external globus pallidus, external pallidum, external part of globus pallidus, globus pallidus extermal segment, globus pallidus external segment, globus pallidus externus, globus pallidus lateralis, globus pallidus, lateral segment, lateral pallidal segment, lateral pallidum, lateral part of globus pallidus, lateral segment of globus pallidus, pallidus II, pars lateralis globi pallidi medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20038,6 +20774,7 @@ lateralHabenularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001941#lateral-habenular-nucleus-1
    :name: lateral habenular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001941
+   :synonym: lateral habenula, nucleus habenulae lateralis, nucleus habenularis lateralis, nucleus habenularis lateralis epithalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20057,6 +20794,7 @@ lateralHypothalamicArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002430#lateral-hypothalamic-area
    :name: lateral hypothalamic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002430
+   :synonym: area hypothalamica lateralis, lateral division of hypothalamus, lateral group of hypothalamic nuclei, lateral hypothalamic group, lateral hypothalamic region, lateral hypothalamic zone (Crosby)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20076,6 +20814,7 @@ lateralHypothalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001937#lateral-hypothalamic-nucleus-1
    :name: lateral hypothalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001937
+   :synonym: nucleus hypothalamicus lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20112,6 +20851,7 @@ lateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002953#lateral-lemniscus-1
    :name: lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002953
+   :synonym: lateral fillet
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20130,6 +20870,7 @@ lateralLineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000120#lateral-line-ganglion
    :name: lateral line ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000120
+   :synonym: LLG
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20182,6 +20923,7 @@ lateralLongitudinalStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019283#lateral-longitudinal-stria
    :name: lateral longitudinal stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019283
+   :synonym: lateral white stria of lancisi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20200,6 +20942,7 @@ lateralMammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001938#lateral-mammillary-nucleus-1
    :name: lateral mammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001938
+   :synonym: lateral mammillary hypothalamic nucleus, lateral nucleus of mammillary body, nucleus mammillaris lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20219,6 +20962,7 @@ lateralMedullaryLaminaOfGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002765#lateral-medullary-lamina
    :name: lateral medullary lamina of globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002765
+   :synonym: external medulary lamina of globus pallidus, external medulary lamina of lentiform nucleus, external medullary lamina of corpus striatum, external medullary lamina of globus pallidus, external medullary lamina of lentiform nucleus, lamina medullaris externa corporis striati, lamina medullaris lateralis corporis striati, lateral medulary lamina of globus pallidus, lateral medulary stria, lateral medullary lamina, lateral medullary lamina of corpus striatum, lateral medullary lamina of pallidum, lateral medullary stria, medulary lamina of pallidum, outer medulary lamina, outer medullary lamina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20237,6 +20981,7 @@ lateralMedullaryReticularComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009775#lateral-medullary-reticular-complex
    :name: lateral medullary reticular complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009775
+   :synonym: lateral group of medullary reticular formation, lateral medullary reticular group, lateral reticular formation of the medulla oblongata, nuclei laterales myelencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20256,6 +21001,7 @@ lateralNuclearGroupOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002736#lateral-nuclear-group
    :name: lateral nuclear group of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002736
+   :synonym: lateral group of nuclei, lateral group of the dorsal thalamus, lateral nuclear group, lateral nuclear group of dorsal thalamus, lateral nucleus of thalamus, lateral thalamic group, lateral thalamic nuclei, lateral thalamic nucleus, nuclei laterales thalami, nucleus lateralis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20274,6 +21020,7 @@ lateralNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034894#lateral-nucleus-of-stria-terminalis
    :name: lateral nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034894
+   :synonym: lateral subdivision of BNST
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20292,6 +21039,7 @@ lateralNucleusOfTrapezoidBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016843#lateral-nucleus-of-trapezoid-body
    :name: lateral nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016843
+   :synonym: LNTB
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20311,6 +21059,7 @@ lateralOccipitalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006114#lateral-occipital-cortex-1
    :name: lateral occipital cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006114
+   :synonym: gyrus occipitalis lateralis, gyrus occipitalis medius (mai), gyrus occipitalis secundus, lateral occipital gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20329,6 +21078,7 @@ lateralOccipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002904#lateral-occipital-sulcus-1
    :name: lateral occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002904
+   :synonym: sulcus occipitalis lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20366,6 +21116,7 @@ lateralOlfactoryStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001888#lateral-olfactory-stria-1
    :name: lateral olfactory stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001888
+   :synonym: tractus olfactorius lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20438,6 +21189,7 @@ lateralPallium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014741#lateral-pallium
    :name: lateral pallium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014741
+   :synonym: area dorsalis telencephali, zona lateralis, lateral zone of D, lateral zone of dorsal telencephalic area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20475,6 +21227,7 @@ lateralParagigantocellularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016824#lateral-paragigantocellular-nucleus
    :name: lateral paragigantocellular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016824
+   :synonym: lateral paragigantocellular reticular nucleus, paragigantocellular nucleus, lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20493,6 +21246,7 @@ lateralPartOfBasalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002888#lateral-part-of-basal-amygdaloid-nucleus-1
    :name: lateral part of basal amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002888
+   :synonym: lateral basal nucleus of amygdala, lateral basal nucleus of the amygdala, lateral division of basal nucleus, lateral division of the basal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20511,6 +21265,7 @@ lateralPartOfMedialMammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002664#lateral-part-of-medial-mammillary-nucleus-1
    :name: lateral part of medial mammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002664
+   :synonym: intercalated mammillary nucleus, intermediate mammillary nucleus, lateral mammillary nucleus (gagel), lateral subdivision of medial mammillary nucleus, medial mammillary nucleus, lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20528,6 +21283,7 @@ lateralPartOfMediodorsalNucleusOfTheThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035114#lateral-part-of-mediodorsal-nucleus-of-the-thalamus
    :name: lateral part of mediodorsal nucleus of the thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035114
+   :synonym: mediodorsal nucleus of the thalamus, lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20582,6 +21338,7 @@ lateralPesLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003010#lateral-pes-lemniscus-1
    :name: lateral pes lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003010
+   :synonym: deep pes lemniscus, fussschleife, lateral pontine bundle, laterale haubenfussschleife, laterale pontine buendel, pes lemniscus profond
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20600,6 +21357,7 @@ lateralPlantarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035110#lateral-plantar-nerve
    :name: lateral plantar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035110
+   :synonym: external plantar nerve, nervus plantaris lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20618,6 +21376,7 @@ lateralPosteriorNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002983#lateral-posterior-nucleus
    :name: lateral posterior nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002983
+   :synonym: lateral posterior nucleus, lateral posterior nucleus of the thalamus, lateral posterior thalamic nucleus, laterodorsal nucleus, caudal part, nucleus dorso-caudalis, nucleus dorsocaudalis (Hassler), nucleus lateralis posterior, nucleus lateralis posterior thalami, nucleus lateralis thalami posterior, posterior lateral nucleus of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20654,6 +21413,7 @@ lateralPreopticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001931#lateral-preoptic-nucleus-1
    :name: lateral preoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001931
+   :synonym: lateral preoptic area, lateral preoptic hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20672,6 +21432,7 @@ lateralPterygoidNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013647#lateral-pterygoid-nerve
    :name: lateral pterygoid nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013647
+   :synonym: branch of buccal nerve to lateral pterygoid, nerve to lateral pterygoid, nervus pterygoideus lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20690,6 +21451,7 @@ lateralPulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002636#lateral-pulvinar-nucleus-1
    :name: lateral pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002636
+   :synonym: lateral pulvinar nucleus of thalamus, nucleus pulvinaris lateralis, nucleus pulvinaris lateralis (Hassler), nucleus pulvinaris lateralis thalami, nucleus pulvinaris thalami, pars lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20709,6 +21471,7 @@ lateralRecessOfFourthVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007656#lateral-recess-of-fourth-ventricle
    :name: lateral recess of fourth ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007656
+   :synonym: recessus lateralis (ventriculi quarti)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20727,6 +21490,7 @@ lateralRecessOfThirdVetricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008902#lateral-recess-of-third-vetricle
    :name: lateral recess of third vetricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008902
+   :synonym: lateral recess of diencephalic ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20746,6 +21510,7 @@ lateralReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002154#lateral-reticular-nucleus-1
    :name: lateral reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002154
+   :synonym: lateral reticular nucleus (medulla)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20765,6 +21530,7 @@ lateralSeptalComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007628#lateral-septal-complex
    :name: lateral septal complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007628
+   :synonym: lateral septal area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20784,6 +21550,7 @@ lateralSeptalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1
    :name: lateral septal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002667
+   :synonym: lateral parolfactory nucleus, lateral septal nucleus (cajal), lateral septum, lateral septum nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20838,6 +21605,7 @@ lateralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002721#lateral-sulcus-1
    :name: lateral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002721
+   :synonym: Sylvian fissure, Sylvian sulcus, fissura lateralis, fissura lateralis cerebri, fissura lateralis cerebri (sylvii), fissura transversa cerebri, fissure of Sylvius, lateral cerebral fissure, lateral cerebral sulcus, lateral fissure, lateral fissure of Sylvius, sulcus lateralis, sulcus lateralis cerebri, transverse cerebral fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20857,6 +21625,7 @@ lateralSuperiorOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002779#lateral-superior-olivary-nucleus-1
    :name: lateral superior olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002779
+   :synonym: LSON, accessory olivary nucleus, accessory superior olivary nucleus, accessory superior olive, lateral superior olive, superior olivary nucleus, lateral part, superior olive lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20876,6 +21645,7 @@ lateralTuberalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000435#lateral-tuberal-nuclear-complex
    :name: lateral tuberal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000435
+   :synonym: lateral tuberal hypothalamic nuclei, lateral tuberal nuclear complex, lateral tuberal nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20894,6 +21664,7 @@ lateralVentricleChoroidPlexusEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004274#lateral-ventricle-choroid-plexus-epithelium
    :name: lateral ventricle choroid plexus epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004274
+   :synonym: chorioid plexus of cerebral hemisphere epithelial tissue of lateral ventricle, chorioid plexus of cerebral hemisphere epithelium of lateral ventricle, choroid plexus epithelial tissue of lateral ventricle, choroid plexus epithelium of lateral ventricle, epithelial tissue of chorioid plexus of cerebral hemisphere of lateral ventricle, epithelial tissue of choroid plexus of lateral ventricle, epithelium of chorioid plexus of cerebral hemisphere of lateral ventricle, epithelium of choroid plexus of lateral ventricle, lateral ventricle chorioid plexus of cerebral hemisphere epithelial tissue, lateral ventricle chorioid plexus of cerebral hemisphere epithelium, lateral ventricle choroid plexus epithelial tissue, lateral ventricle epithelial tissue of chorioid plexus of cerebral hemisphere, lateral ventricle epithelial tissue of choroid plexus, lateral ventricle epithelium of chorioid plexus of cerebral hemisphere, lateral ventricle epithelium of choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20930,6 +21701,7 @@ lateralVentricleEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004643#lateral-ventricle-ependyma
    :name: lateral ventricle ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004643
+   :synonym: ependyma of lateral ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20967,6 +21739,7 @@ lateralVestibularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007230#lateral-vestibular-nucleus
    :name: lateral vestibular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007230
+   :synonym: Deiter's nucleus, Deiters' nucleus, lateral nucleus of Deiters, nucleus of Deiters
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21052,6 +21825,7 @@ lateralZoneOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002273#lateral-zone-of-hypothalamus
    :name: lateral zone of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002273
+   :synonym: hypothalamus lateral zone, zona lateralis hypothalamicae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21070,6 +21844,7 @@ laterodorsalTegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002267#laterodorsal-tegmental-nucleus
    :name: laterodorsal tegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002267
+   :synonym: lateroposterior tegmental nucleus, nucleus tegmentalis posterolateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21173,6 +21948,7 @@ layerOfNeocortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002301#layer-of-neocortex
    :name: layer of neocortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002301
+   :synonym: neocortex layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21191,6 +21967,7 @@ layerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006783#layer-of-superior-colliculus
    :name: layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006783
+   :synonym: cytoarchitectural part of superior colliculus, layer of optic tectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21209,6 +21986,7 @@ leastSplanchnicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001964#least-splanchnic-nerve
    :name: least splanchnic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001964
+   :synonym: least thoracic splanchnic nerve, lowest splanchnic nerve, nervus splanchnicus imus, ramus renalis nervus splanchnici minoris, renal branch of lesser splanchnic nerve, renal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21245,6 +22023,7 @@ leftCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002812#left-cerebral-hemisphere-1
    :name: left cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002812
+   :synonym: left hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21317,6 +22096,7 @@ leftLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013161#left-lateral-ventricle
    :name: left lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013161
+   :synonym: left telencephalic ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21406,6 +22186,7 @@ leftRecurrentLaryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011766#left-recurrent-laryngeal-nerve
    :name: left recurrent laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011766
+   :synonym: left recurrent laryngeal branch, vagus X nerve left recurrent laryngeal branch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21458,6 +22239,7 @@ leftVagusXNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035020#left-vagus-x-nerve-trunk
    :name: left vagus X nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035020
+   :synonym: left vagus neural trunk, trunk of left vagus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21476,6 +22258,7 @@ legNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003431#leg-nerve
    :name: leg nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003431
+   :synonym: nerve of leg
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21495,6 +22278,7 @@ lenticularFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1
    :name: lenticular fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014529
+   :synonym: dorsal division of ansa lenticularis, fasciculus lenticularis, fasciculus lenticularis [h2], forel's field h2, lenticular fasciculus [h2], lenticular fasciculus of diencephalon, lenticular fasciculus of telencephalon, tegmental area h2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21514,6 +22298,7 @@ lentiformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002263#lentiform-nucleus
    :name: lentiform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002263
+   :synonym: nucleus lenticularis, nucleus lentiformis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21549,6 +22334,7 @@ lesserSplanchnicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018681#lesser-splanchnic-nerve
    :name: lesser splanchnic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018681
+   :synonym: lesser thoracic splanchnic nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21567,6 +22353,7 @@ limbNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003440#limb-nerve
    :name: limb nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003440
+   :synonym: nerve of limb
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21584,6 +22371,7 @@ limbOfInternalCapsuleOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014525#limb-of-internal-capsule-of-telencephalon
    :name: limb of internal capsule of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014525
+   :synonym: internal capsule subdivision, limb of internal capsule, subdivision of internal capsule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21601,6 +22389,7 @@ limbicCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016542#limbic-cortex
    :name: limbic cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016542
+   :synonym: cortex of limbic lobe, limbic lobe cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21620,6 +22409,7 @@ limbicLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002600#limbic-lobe-1
    :name: limbic lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002600
+   :synonym: fornicate gyrus, grande lobe limbique of Broca, limbic lobe (carpenter)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21657,6 +22447,7 @@ limenOfInsula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002724#limen-of-insula-1
    :name: limen of insula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002724
+   :synonym: angulus gyri olfactorii lateralis, gyrus ambiens (Noback), insula limen, limen insulae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21675,6 +22466,7 @@ limitansNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1
    :name: limitans nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003026
+   :synonym: limitans thalamic nucleus, nucleus limitans, nucleus limitans opticus (Hassler), nucleus limitans thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21692,6 +22484,7 @@ limitingMembraneOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007619#limiting-membrane-of-retina
    :name: limiting membrane of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007619
+   :synonym: retina lamina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21729,6 +22522,7 @@ lingualGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002943#lingual-gyrus-1
    :name: lingual gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002943
+   :synonym: gyrus occipitotemporalis medialis, lingula of cerebral hemisphere, medial occipitotemporal gyrus, medial occipitotemporal gyrus-2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21747,6 +22541,7 @@ lingualNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003721#lingual-nerve
    :name: lingual nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003721
+   :synonym: lingual branch of trigeminal nerve, trigeminal V nerve lingual branch, trigeminal nerve lingual branch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21784,6 +22579,7 @@ lobeOfCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016526#lobe-of-cerebral-cortex
    :name: lobe of cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016526
+   :synonym: cerebral hemisphere lobe, cerebral lobe, lobe of cerebral cortex, lobe parts of cerebral cortex, lobi cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21801,6 +22597,7 @@ lobuleSimplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005350#lobule-simplex
    :name: lobule simplex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005350
+   :synonym: hemispheric lobule VI, lobule h VI of larsell, lobulus quadrangularis pars caudalis/posterior, lobulus quadrangularis pars inferoposterior, lobulus quadrangularis posterior, lobulus quadrangularis posterior cerebelli [H VI], lobulus simplex, lobulus simplex cerebelli [h vi et vi], posterior crescentic lobule of cerebellum, semilunar lobule-1 (posterior), simple lobule, simple lobule of cerebellum, simple lobule of cerebellum [h VI and VI], simplex, simplex (hVI), simplex lobule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21820,6 +22617,7 @@ locusCeruleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002148#locus-ceruleus-1
    :name: locus ceruleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002148
+   :synonym: blue nucleus, caerulean nucleus, locus caeruleus, locus coeruleu, locus coeruleus, nucleus caeruleus, nucleus of locus caeruleus, nucleus pigmentosus pontis, substantia ferruginea
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21856,6 +22654,7 @@ longitudinalFissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002921#longitudinal-fissure-1
    :name: longitudinal fissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002921
+   :synonym: fissura interhemispherica, fissura longitudinalis cerebrales, fissura longitudinalis cerebri, fissura longitudinalis magna, hemispheric sulcus, interhemispheric fissure, longitudinal cerebral fissure, longitudinal fissure of hemisphere, longitudinal fissure of the cerebrum, longitudinal sulcus, medial longitudinal fissure, sagittal fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21874,6 +22673,7 @@ longitudinalPontineFibers
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002732#longitudinal-pontine-fibers-1
    :name: longitudinal pontine fibers
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002732
+   :synonym: fibrae pontis longitudinales, longitudinal fasciculus of the pons, longitudinal pontine fibres, longitudinal pontine tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21965,6 +22765,7 @@ lowerRhombicLip
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009840#lower-rhombic-lip
    :name: lower rhombic lip
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009840
+   :synonym: caudal rhombic lip, lower (caudal) rhombic lip
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21983,6 +22784,7 @@ lumbarDivisionOfSpinalCordCentralCanal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014543#lumbar-spinal-cord-central-canal
    :name: lumbar division of spinal cord central canal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014543
+   :synonym: lumbar spinal cord central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22001,6 +22803,7 @@ lumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002836#lumbar-dorsal-root-ganglion-1
    :name: lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002836
+   :synonym: lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22019,6 +22822,7 @@ lumbarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009624#lumbar-nerve
    :name: lumbar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009624
+   :synonym: lumbar spinal nerve, nervus lumbalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22037,6 +22841,7 @@ lumbarNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034987#lumbar-nerve-plexus
    :name: lumbar nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034987
+   :synonym: lumbar plexus, plexus lumbalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22054,6 +22859,7 @@ lumbarSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002792#lumbar-spinal-cord-1
    :name: lumbar spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002792
+   :synonym: lumbar segment of spinal cord, lumbar segments of spinal cord [1-5], pars lumbalis medullae spinalis, segmenta lumbalia medullae spinalis [1-5], spinal cord lumbar segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22072,6 +22878,7 @@ lumbarSpinalCordDorsalColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005842#lumbar-spinal-cord-dorsal-column-1
    :name: lumbar spinal cord dorsal column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005842
+   :synonym: dorsal funiculus of lumbar segment of spinal cord, dorsal white column of lumbar segment of spinal cord, lumbar segment of dorsal funiculus of spinal cord, lumbar segment of gracile fasciculus of spinal cord, lumbar spinal cord posterior column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22195,6 +23002,7 @@ lumbarSpinalCordVentralCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007834#lumbar-spinal-cord-ventral-commissure-1
    :name: lumbar spinal cord ventral commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007834
+   :synonym: lumbar spinal cord anterior commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22265,6 +23073,7 @@ lumbarSympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009646#lumbar-sympathetic-nerve-trunk
    :name: lumbar sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009646
+   :synonym: lumbar sympathetic trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22283,6 +23092,7 @@ lumbosacralNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001815#lumbosacral-nerve-plexus
    :name: lumbosacral nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001815
+   :synonym: lumbosacral plexus, plexus lumbosacralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22301,6 +23111,7 @@ lumenOfCentralCanalOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009572#lumen-of-central-canal-of-spinal-cord
    :name: lumen of central canal of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009572
+   :synonym: cavity of central canal of spinal cord, central canal lumen, spinal cord lumen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22319,6 +23130,7 @@ lumenOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002561#neuraxis-cavity
    :name: lumen of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002561
+   :synonym: cavity of neuraxis, cavity of ventricular system of neuraxis, neuraxis cavity, neuraxis lumen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22337,6 +23149,7 @@ lunateSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002903#lunate-sulcus-1
    :name: lunate sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002903
+   :synonym: lunate fissure, sulcus lunatus, sulcus simialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22426,6 +23239,7 @@ maculaOfSacculeOfMembranousLabyrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002212#macula-of-saccule-of-membranous-labyrinth
    :name: macula of saccule of membranous labyrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002212
+   :synonym: macula of membranous labyrinth saccule, macula of saccule, macula of sacculus (labyrinthus vestibularis), macula saccule, macula sacculi, membranous labyrinth saccule macula, saccular macula, saccular macula of membranous labyrinth, saccule macula, saccule of membranous labyrinth macula, sacculus (labyrinthus vestibularis) macula
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22444,6 +23258,7 @@ maculaOfUtricleOfMembranousLabyrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002214#macula-of-utricle-of-membranous-labyrinth
    :name: macula of utricle of membranous labyrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002214
+   :synonym: macula of membranous labyrinth utricle, macula of utricle, macula of utriculus (labyrinthus vestibularis), macula utricle, macula utriculi, membranous labyrinth utricle macula, utricle macula, utricle of membranous labyrinth macula, utriculus (labyrinthus vestibularis) macula
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22461,6 +23276,7 @@ magnocellularLayerOfDorsalNucleusOfLateralGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013606#magnocellular-layer-of-dorsal-nucleus-of-lateral-geniculate-body
    :name: magnocellular layer of dorsal nucleus of lateral geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013606
+   :synonym: lateral geniculate nucleus magnocellular layer, magnocellular layer of lateral geniculate nucleus, strata magnocellularia nuclei dorsalis corporis geniculati lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22479,6 +23295,7 @@ magnocellularNucleusOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002759#magnocellular-nucleus-of-medial-geniculate-body-1
    :name: magnocellular nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002759
+   :synonym: corpus geniculatus mediale, pars magnocelluaris, magnocelluar nucleus of medial geniculate complex, medial division of medial geniculate body, medial geniculate complex, medial part, medial geniculate nucleus, medial part, medial magnocellular nucleus of medial geniculate body, medial nucleus of medial geniculate body, nucleus corporis geniculati medialis, pars magnocelluaris, nucleus geniculatus medialis magnocelluaris (hassler), nucleus geniculatus medialis, pars magnocelluaris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22496,6 +23313,7 @@ magnocellularNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007627#magnocellular-nucleus-of-stria-terminalis
    :name: magnocellular nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007627
+   :synonym: magnocellular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22531,6 +23349,7 @@ magnocellularPartOfMedialDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002647#magnocellular-part-of-medial-dorsal-nucleus-1
    :name: magnocellular part of medial dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002647
+   :synonym: dorsomedial thalamic nucleus, magnocellular part, magnocellular mediodorsal nucleus, magnocellular nucleus of medial dorsal nucleus of thalamus, magnocellular part of dorsomedial nucleus, magnocellular part of mediodorsal nucleus, nucleus medialis dorsalis, pars magnocellularis, nucleus medialis fibrosus, nucleus medialis fibrosus (hassler), pars magnocellularis nuclei mediodorsalis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22550,6 +23369,7 @@ magnocellularPartOfRedNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002936#magnocellular-part-of-red-nucleus-1
    :name: magnocellular part of red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002936
+   :synonym: paleoruber, pars magnocellularis nuclei rubri, red nucleus, magnocellular part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22568,6 +23388,7 @@ magnocellularPartOfVentralAnteriorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002935#magnocellular-part-of-ventral-anterior-nucleus-1
    :name: magnocellular part of ventral anterior nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002935
+   :synonym: magnocellular division of ventral anterior nucleus of thalamus, magnocellular ventral anterior nucleus, nucleus lateropolaris (magnocellularis), nucleus lateropolaris magnocellularis (hassler), nucleus rostralis lateralis situs perifascicularis, nucleus thalamicus ventral anterior, pars magnocellularis, nucleus ventralis anterior, pars magnocellularis, pars magnocellularis nuclei ventralis anterior thalami, ventral anterior nucleus, magnocellular part, ventral anterior nucleus, pars magnocellularis, ventral anterior thalamic nucleus, magnocellular part, ventroanterior thalamic nucleus, magnocellular part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22622,6 +23443,7 @@ mainCiliaryGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002058#main-ciliary-ganglion
    :name: main ciliary ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002058
+   :synonym: ciliary ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22677,6 +23499,7 @@ mammillaryBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002206#mammillary-body
    :name: mammillary body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002206
+   :synonym: corpus mamillare
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22696,6 +23519,7 @@ mammillaryPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002720#mammillary-peduncle-1
    :name: mammillary peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002720
+   :synonym: peduncle of mammillary body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22713,6 +23537,7 @@ mammillaryPrincepsFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002723#mammillary-princeps-fasciculus-1
    :name: mammillary princeps fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002723
+   :synonym: principal mammillary fasciculus, principal mammillary tract, principle mamillary fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22749,6 +23574,7 @@ mammillotegmentalAxonalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006698#mammillotegmental-fasciculus
    :name: mammillotegmental axonal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006698
+   :synonym: Gudden tract, mammillotegmental fasciculus, mammillotegmental tract, mammillotegmental tract of hypothalamus, von Gudden's tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22767,6 +23593,7 @@ mammillothalamicAxonalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006696#mammillothalamic-axonal-tract
    :name: mammillothalamic axonal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006696
+   :synonym: fasciculus mammillothalamicus, mammillothalamic fasciculus, mammillothalamic tract, vicq d'azyr's bundle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22804,6 +23631,7 @@ mandibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000375#mandibular-nerve
    :name: mandibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000375
+   :synonym: inferior maxillary nerve, mandibular division [V3], mandibular division [Vc], mandibular division of fifth cranial nerve, mandibular division of trigeminal nerve [Vc; V3], mandibular nerve [V3], mandibular nerve [Vc], nervus mandibularis [Vc; V3], nervus mandibularis [v3], nervus mandibularis [vc], ramus mandibularis (ramus V3), third division of fifth cranial nerve, third division of trigeminal nerve, trigeminal V nerve mandibular division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22822,6 +23650,7 @@ manusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003448#manus-nerve
    :name: manus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003448
+   :synonym: hand nerve, nerve of hand, nerve of manus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22840,6 +23669,7 @@ marginalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002912#marginal-sulcus-1
    :name: marginal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002912
+   :synonym: marginal branch of cingulate sulcus, marginal ramus of cingulate sulcus, ramus marginalis sulci cingulati, ramus marginalis sulci cinguli, sulcus marginalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22858,6 +23688,7 @@ marginalVenousSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017637#marginal-venous-sinus
    :name: marginal venous sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017637
+   :synonym: intracranial marginal sinus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22876,6 +23707,7 @@ massetericNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011321#masseteric-nerve
    :name: masseteric nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011321
+   :synonym: nervus massetericus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22951,6 +23783,7 @@ matrixPartOfHeadOfCaudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027245#matrix-part-of-head-of-caudate-nucleus-1
    :name: matrix part of head of caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027245
+   :synonym: matrix compartment of head of caudate nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22970,6 +23803,7 @@ matrixPartOfTailOfCaudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027246#matrix-part-of-tail-of-caudate-nucleus-1
    :name: matrix part of tail of caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027246
+   :synonym: matrix compartment of tail of caudate nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22988,6 +23822,7 @@ maxillaryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000377#maxillary-nerve
    :name: maxillary nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000377
+   :synonym: maxillary division [V2], maxillary division [Vb], maxillary division of fifth cranial nerve, maxillary division of trigeminal nerve (Vb; V2), maxillary nerve [V2], maxillary nerve [Vb], nervus maxillaris (Vb; V2), nervus maxillaris [v2], nervus maxillaris [vb], ramus maxillaris (ramus V2), second division of fifth cranial nerve, second division of trigeminal nerve, trigeminal V nerve maxillary division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23041,6 +23876,7 @@ medialAccessoryInferiorOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002159#medial-accessory-inferior-olivary-nucleus
    :name: medial accessory inferior olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002159
+   :synonym: inferior olivary complex, medial accessory olive, inferior olive medial nucleus, inferior olive, medial nucleus, medial accessory olivary nucleus, nucleus olivaris accessorius medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23058,6 +23894,7 @@ medialAccessoryNucleusOfOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013601#medial-accessory-nucleus-of-optic-tract
    :name: medial accessory nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013601
+   :synonym: medial terminal nucleus of the accessory optic tract, nucleus accessorius medialis tractus optici
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23077,6 +23914,7 @@ medialAccessoryOlive
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014287#medial-accessory-olive-1
    :name: medial accessory olive
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014287
+   :synonym: MAO
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23095,6 +23933,7 @@ medialAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1
    :name: medial amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002892
+   :synonym: medial amygalar nucleus, medial nucleus of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23165,6 +24004,7 @@ medialDorsalNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002739#medial-dorsal-nucleus
    :name: medial dorsal nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002739
+   :synonym: dorsal medial nucleus of thalamus, dorsomedial nucleus of thalamus, medial dorsal thalamic nucleus, medial nuclear group of thalamus, mediodorsal nucleus of thalamus, mediodorsal thalamic nucleus, nucleus dorsomedialis thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23184,6 +24024,7 @@ medialEntorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007224#medial-entorhinal-cortex
    :name: medial entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007224
+   :synonym: entorhinal area, medial part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23203,6 +24044,7 @@ medialForebrainBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001910#medial-forebrain-bundle-1
    :name: medial forebrain bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001910
+   :synonym: medial forebrain fasciculus, telencephalic medial fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23291,6 +24133,7 @@ medialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001927#medial-geniculate-body-1
    :name: medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001927
+   :synonym: corpus geniculatum mediale, medial geniculate complex, medial geniculate nuclei, medial geniculate nucleus, nuclei corporis geniculati medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23310,6 +24153,7 @@ medialGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002477#globus-pallidus-internal-segment
    :name: medial globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002477
+   :synonym: entopeduncular nucleus (monakow), globus pallidus interna, globus pallidus internal segment, globus pallidus internus, globus pallidus medial segment, globus pallidus medialis, globus pallidus, medial segment, internal globus pallidus, internal pallidum, internal part of globus pallidus, medial pallidal segment, medial part of globus pallidus, medial segment of globus pallidus, mesial pallidum, pallidus I, pars medialis globi pallidi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23328,6 +24172,7 @@ medialHabenularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001942#medial-habenular-nucleus-1
    :name: medial habenular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001942
+   :synonym: medial habenula, nucleus habenulae medialis, nucleus habenularis medialis, nucleus habenularis medialis (Hassler), nucleus habenularis medialis epithalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23365,6 +24210,7 @@ medialLemniscusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002748#medial-lemniscus-of-medulla-1
    :name: medial lemniscus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002748
+   :synonym: medulla medial lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23384,6 +24230,7 @@ medialLemniscusOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002658#medial-lemniscus-of-midbrain-1
    :name: medial lemniscus of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002658
+   :synonym: midbrain medial lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23403,6 +24250,7 @@ medialLemniscusOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002958#medial-lemniscus-of-pons-1
    :name: medial lemniscus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002958
+   :synonym: medial lemniscus of pons of varolius, pons medial lemniscus, pons of varolius medial lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23420,6 +24268,7 @@ medialLongitudinalCatecholaminergicTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005341#medial-longitudinal-catecholaminergic-tract
    :name: medial longitudinal catecholaminergic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005341
+   :synonym: mlct
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23458,6 +24307,7 @@ medialLongitudinalFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002750#medial-longitudinal-fasciculus-of-medulla-1
    :name: medial longitudinal fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002750
+   :synonym: medial longitudinal fasciculus of medulla oblongata, medulla medial longitudinal fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23477,6 +24327,7 @@ medialLongitudinalFasciculusOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002660#medial-longitudinal-fasciculus-of-midbrain-1
    :name: medial longitudinal fasciculus of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002660
+   :synonym: midbrain medial longitudinal fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23496,6 +24347,7 @@ medialLongitudinalFasciculusOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002794#medial-longitudinal-fasciculus-of-pons-1
    :name: medial longitudinal fasciculus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002794
+   :synonym: medial longitudinal fasciculus of pons of varolius, pons medial longitudinal fasciculus, pons of varolius medial longitudinal fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23513,6 +24365,7 @@ medialLongitudinalStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022234#medial-longitudinal-stria
    :name: medial longitudinal stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022234
+   :synonym: medial longitudinal stria of lancisi, medial stripe of lancisi, medial white stria of lancisi, stria of lancisi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23531,6 +24384,7 @@ medialMammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001939#medial-mammillary-nucleus-1
    :name: medial mammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001939
+   :synonym: internal mammillary nucleus, medial nucleus of mammillary body, nucleus mammillaris medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23550,6 +24404,7 @@ medialMedullaryLaminaOfGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002727#medial-medullary-lamina
    :name: medial medullary lamina of globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002727
+   :synonym: inner medullary lamina, internal medullary lamina of corpus striatum, internal medullary lamina of globus pallidus, internal medullary lamina of lentiform nucleus, lamina medullaris interna corporis striati, lamina medullaris medialis corporis striati, medial medullary lamina, medial medullary lamina of corpus striatum, medial medullary lamina of pallidum, medial medullary stria
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23567,6 +24422,7 @@ medialMotorNucleusOfVagalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002207#medial-motor-nucleus-of-vagal-nerve
    :name: medial motor nucleus of vagal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002207
+   :synonym: mmX
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23602,6 +24458,7 @@ medialNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034895#medial-nucleus-of-stria-terminalis
    :name: medial nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034895
+   :synonym: medial subdivision of BNST
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23621,6 +24478,7 @@ medialNucleusOfTrapezoidBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002833#medial-nucleus-of-trapezoid-body-1
    :name: medial nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002833
+   :synonym: MNTB
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23657,6 +24515,7 @@ medialOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002975#medial-oculomotor-nucleus-1
    :name: medial oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002975
+   :synonym: medial nucleus of oculomotor nuclear complex, medial oculomotor cell column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23693,6 +24552,7 @@ medialOlfactoryStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034734#medial-olfactory-stria
    :name: medial olfactory stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034734
+   :synonym: stria olfactoria medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23712,6 +24572,7 @@ medialOrbitalFrontalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022352#medial-orbital-frontal-cortex-1
    :name: medial orbital frontal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022352
+   :synonym: medial orbitofrontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23765,6 +24626,7 @@ medialPallium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014738#medial-pallium
    :name: medial pallium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014738
+   :synonym: lateral zone of dorsal telencephalon, medial zone of dorsal telencephalic area, medial zone of dorsal telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23802,6 +24664,7 @@ medialPartOfBasalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002889#medial-part-of-basal-amygdaloid-nucleus-1
    :name: medial part of basal amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002889
+   :synonym: basomedial amygdalar nucleus, basomedial amygdaloid nucleus, medial basal nucleus of amygdala, medial division of basal nucleus, nucleus amygdalae basalis medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23820,6 +24683,7 @@ medialPartOfMedialMammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002632#medial-part-of-medial-mammillary-nucleus-1
    :name: medial part of medial mammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002632
+   :synonym: medial mammillary nucleus (carpenter), medial mammillary nucleus, medial part, medial mammillary nucleus, median part, medial subdivision of medial mammillary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23838,6 +24702,7 @@ medialPartOfVentralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002614#medial-part-of-ventral-lateral-nucleus-1
    :name: medial part of ventral lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002614
+   :synonym: nucleus ventralis lateralis thalami, pars medialis, nucleus ventrooralis medialis (Hassler), vMp (Macchi), ventral lateral nucleus, medial part, ventral medial nucleus, ventral medial nucleus of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23874,6 +24739,7 @@ medialPesLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002662#medial-pes-lemniscus-1
    :name: medial pes lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002662
+   :synonym: superficial pes lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23892,6 +24758,7 @@ medialPlantarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035111#medial-plantar-nerve
    :name: medial plantar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035111
+   :synonym: internal plantar nerve, nervus plantaris medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23946,6 +24813,7 @@ medialPreopticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002035#medial-preoptic-nucleus-1
    :name: medial preoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002035
+   :synonym: medial preoptic hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23963,6 +24831,7 @@ medialPreopticRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007769#medial-preoptic-region
    :name: medial preoptic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007769
+   :synonym: medial preoptic area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23998,6 +24867,7 @@ medialPulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1
    :name: medial pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002638
+   :synonym: nucleus pulvinaris medialis, nucleus pulvinaris medialis thalami, nucleus pulvinaris thalami, pars medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24035,6 +24905,7 @@ medialSeptalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001877#medial-septal-nucleus-1
    :name: medial septal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001877
+   :synonym: medial parolfactory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24070,6 +24941,7 @@ medialSubnucleusOfSolitaryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023390#medial-subnucleus-of-solitary-tract-1
    :name: medial subnucleus of solitary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023390
+   :synonym: medial subnucleus of the solitary tract, solitary nucleus, medial subnucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24089,6 +24961,7 @@ medialSuperiorOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002782#medial-superior-olivary-nucleus-1
    :name: medial superior olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002782
+   :synonym: chief nucleus of superior olive, chief superior olivary nucleus, main superior olivary nucleus, medial superior olive, principal superior olivary nucleus, superior olivary nucleus, medial part, superior olive medial part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24144,6 +25017,7 @@ medialVestibularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001722#medial-vestibular-nucleus
    :name: medial vestibular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001722
+   :synonym: Schwalbe's nucleus, chief vestibular nucleus, dorsal vestibular nucleus, nucleus of Schwalbe, nucleus triangularis, principal vestibular nucleus, triangular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24161,6 +25035,7 @@ medialZoneOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002272#medial-zone-of-hypothalamus
    :name: medial zone of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002272
+   :synonym: hypothalamus medial zone, zona medialis hypothalamicae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24180,6 +25055,7 @@ medianEminenceOfNeurohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002197#median-eminence
    :name: median eminence of neurohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002197
+   :synonym: eminentia mediana hypothalami, median eminence, median eminence of hypothalamus, median eminence of posterior lobe of pituitary gland, median eminence of tuber cinereum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24254,6 +25130,7 @@ medianRapheNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003004#superior-central-nucleus
    :name: median raphe nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003004
+   :synonym: MRN, cell group b8, medial raphe nucleus, median nucleus of the raphe, nucleus raphes medianus, superior central nucleus, superior central nucleus raphe, superior central tegmental nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24291,6 +25168,7 @@ medullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001896#medulla-oblongata-1
    :name: medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001896
+   :synonym: bulbus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24309,6 +25187,7 @@ medullaOblongataAnteriorMedianFissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003989#medulla-oblongata-anterior-median-fissure
    :name: medulla oblongata anterior median fissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003989
+   :synonym: anterior median fissure, anterior median fissure of medulla, anterior median fissure of medulla oblongata, fissura mediana anterior medullae oblongatae, ventral median fissure of medulla, ventral median sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24345,6 +25224,7 @@ medullaReticulospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004173#medulla-reticulospinal-tract
    :name: medulla reticulospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004173
+   :synonym: medullary reticulospinal tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24363,6 +25243,7 @@ medullaryAnteriorHorn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023378#medullary-anterior-horn-1
    :name: medullary anterior horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023378
+   :synonym: cornu anterius medullaris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24381,6 +25262,7 @@ medullaryCommandNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002107#medullary-command-nucleus
    :name: medullary command nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002107
+   :synonym: MCN, medullary pacemaker nucleus, pacemaker nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24417,6 +25299,7 @@ medullaryRapheNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1
    :name: medullary raphe nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002692
+   :synonym: raphe medullae oblongatae, raphe nuclei of medulla, raphe of medulla oblongata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24436,6 +25319,7 @@ medullaryReticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002559#medullary-reticular-formation-1
    :name: medullary reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002559
+   :synonym: bulb reticular formation, bulbar reticular formation, medulla oblongata reticular formation, medulla oblonmgata reticular formation, medullary reticular nucleus, metepencephalon reticular formation, reticular formation of bulb, reticular formation of medulla, reticular formation of medulla oblongata, reticular formation of medulla oblonmgata, reticular formation of metepencephalon, rhombencephalic reticular formation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24454,6 +25338,7 @@ meningealBranchOfMandibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036143#meningeal-branch-of-mandibular-nerve
    :name: meningeal branch of mandibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036143
+   :synonym: nervus spinosus, ramus meningeus (Nervus mandibularis), ramus meningeus nervus mandibularis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24472,6 +25357,7 @@ meningealBranchOfSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017641#meningeal-branch-of-spinal-nerve
    :name: meningeal branch of spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017641
+   :synonym: ramus meningeus nervorum spinales, recurrent meningeal branch of spinal nerve, sinuvertebral branch of spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24490,6 +25376,7 @@ meningealCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010743#meningeal-cluster
    :name: meningeal cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010743
+   :synonym: cerebral meninges, cluster of meninges, meninges
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24508,6 +25395,7 @@ meningealDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010506#meningeal-dura-mater
    :name: meningeal dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010506
+   :synonym: inner layer of dura mater, meningeal dura, meningeal layer of dura mater
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24526,6 +25414,7 @@ meninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002360#meninx-1
    :name: meninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002360
+   :synonym: layer of meninges, meningeal layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24544,6 +25433,7 @@ meninxOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003290#meninx-of-diencephalon
    :name: meninx of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003290
+   :synonym: between brain meninges, between brain meninx, diencephalon meninges, diencephalon meninx, interbrain meninges, interbrain meninx, mature diencephalon meninges, mature diencephalon meninx, meninges of between brain, meninges of diencephalon, meninges of interbrain, meninges of mature diencephalon, meninx of between brain, meninx of interbrain, meninx of mature diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24563,6 +25453,7 @@ meninxOfHindbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003291#meninx-of-hindbrain
    :name: meninx of hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003291
+   :synonym: hindbrain meninges, hindbrain meninx, meninges of hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24581,6 +25472,7 @@ meninxOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003288#meninx-of-midbrain
    :name: meninx of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003288
+   :synonym: midbrain meninx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24599,6 +25491,7 @@ meninxOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003292#meninx-of-spinal-cord
    :name: meninx of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003292
+   :synonym: meninges of spinal cord, spinal cord meninges, spinal cord meninx, spinal meninx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24617,6 +25510,7 @@ meninxOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003289#meninx-of-telencephalon
    :name: meninx of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003289
+   :synonym: telencephalon meninx
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24654,6 +25548,7 @@ mesencephalicNucleusOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001718#mesencephalic-nucleus-of-trigeminal-nerve-1
    :name: mesencephalic nucleus of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001718
+   :synonym: mesencephalic trigeminal V nucleus, mesencephalic trigeminal nucleus, nucleus of mesencephalic root of v, trigeminal V mesencephalic nucleus, trigeminal mesencephalic nucleus, trigeminal nerve mesencepahlic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24672,6 +25567,7 @@ mesencephalicTractOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002666#mesencephalic-tract-of-trigeminal-nerve-1
    :name: mesencephalic tract of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002666
+   :synonym: mesencephalic root of v, mesencephalic trigeminal tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24723,6 +25619,7 @@ mesomere1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019272#mesomere-1
    :name: mesomere 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019272
+   :synonym: mesomere M1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24740,6 +25637,7 @@ mesomere2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019274#mesomere-2
    :name: mesomere 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019274
+   :synonym: mesomere 2 (preisthmus or caudal midbrain), mesomere M2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24776,6 +25674,7 @@ metathalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002704#metathalamus-1
    :name: metathalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002704
+   :synonym: geniculate group of the dorsal thalamus, geniculate thalamic group, nuclei metathalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24795,6 +25694,7 @@ metencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001895#metencephalon-1
    :name: metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001895
+   :synonym: epencephalon-2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24833,6 +25733,7 @@ midbrain-hindbrainBoundary
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
    :name: midbrain-hindbrain boundary
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003052
+   :synonym: MHB, mid-hindbrain boundary, mid-hindbrain junction, midbrain hindbrain boundary
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24870,6 +25771,7 @@ midbrainArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003557#midbrain-arachnoid-mater
    :name: midbrain arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003557
+   :synonym: arachnoid mater of midbrain, arachnoid mater of neuraxis of midbrain, arachnoid of midbrain, midbrain arachnoid, midbrain arachnoid mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24888,6 +25790,7 @@ midbrainBasalPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010285#midbrain-basal-plate
    :name: midbrain basal plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010285
+   :synonym: basal plate midbrain, basal plate midbrain region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24907,6 +25810,7 @@ midbrainCerebralAqueduct
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002289#cerebral-aqueduct
    :name: midbrain cerebral aqueduct
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002289
+   :synonym: Sylvian aqueduct, aqueduct (Sylvius), aqueduct of Sylvius, aqueduct of midbrain, aqueductus mesencephali, cerebral aquaduct, cerebral aqueduct, cerebral aqueduct of Sylvius, medial tectal ventricle, mesencephalic duct, mesencephalic ventricle, midbrain ventricle, tectal ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24925,6 +25829,7 @@ midbrainDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003562#midbrain-dura-mater
    :name: midbrain dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003562
+   :synonym: dura mater of midbrain, dura mater of neuraxis of midbrain, midbrain dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24942,6 +25847,7 @@ midbrainLateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005495#midbrain-lateral-wall
    :name: midbrain lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005495
+   :synonym: lateral wall midbrain, lateral wall midbrain region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24959,6 +25865,7 @@ midbrainMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009581#midbrain-mantle-layer
    :name: midbrain mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009581
+   :synonym: mantle layer lateral wall midbrain, midbrain lateral wall mantle layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24977,6 +25884,7 @@ midbrainNeuromere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014776#midbrain-neuromere
    :name: midbrain neuromere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014776
+   :synonym: mesomere of nervous system, neuromere of mesomere group
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25013,6 +25921,7 @@ midbrainPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003551#midbrain-pia-mater
    :name: midbrain pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003551
+   :synonym: midbrain pia mater of neuraxis, pia mater of midbrain, pia mater of neuraxis of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25032,6 +25941,7 @@ midbrainRapheNuclei
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007412#midbrain-raphe-nuclei-1
    :name: midbrain raphe nuclei
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007412
+   :synonym: midbrain raphe, nuclei raphes tegmenti mesencephali, raphe nuclei of tegmentum of midbrain, set of raphe nuclei of tegmentum of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25051,6 +25961,7 @@ midbrainReticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002639#midbrain-reticular-formation-1
    :name: midbrain reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002639
+   :synonym: reticular formation of midbrain, tegmental reticular formation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25069,6 +25980,7 @@ midbrainSubarachnoidSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005217#midbrain-subarachnoid-space
    :name: midbrain subarachnoid space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005217
+   :synonym: subarachnoid space midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25088,6 +26000,7 @@ midbrainTectum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002314#midbrain-tectum
    :name: midbrain tectum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002314
+   :synonym: mesencephalic tectum, neuraxis tectum, tectum, tectum mesencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25107,6 +26020,7 @@ midbrainTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001943#midbrain-tegmentum-1
    :name: midbrain tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001943
+   :synonym: tegmentum mesencephali, tegmentum of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25126,6 +26040,7 @@ middleCerebellarPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002152#middle-cerebellar-peduncle-1
    :name: middle cerebellar peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002152
+   :synonym: brachium pontis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25144,6 +26059,7 @@ middleCervicalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001990#middle-cervical-ganglion
    :name: middle cervical ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001990
+   :synonym: middle cervical sympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25163,6 +26079,7 @@ middleFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002702#middle-frontal-gyrus-1
    :name: middle frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002702
+   :synonym: gyrus frontalis medialis, intermediate frontal gyrus, medial frontal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25197,6 +26114,7 @@ middleGrayLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus
    :name: middle gray layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006788
+   :synonym: intermediate gray layer, intermediate grey layer of superior colliculus, lamina IV of superior colliculus, lamina colliculi superioris iv, layer IV of superior colliculus, stratum griseum intermediale, stratum griseum intermediale of superior colliculus, stratum griseum intermedium colliculi superioris, stratum griseum mediale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25269,6 +26187,7 @@ middleMesencephalicCentralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005078#middle-mesencephalic-central-artery
    :name: middle mesencephalic central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005078
+   :synonym: MMCtA
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25288,6 +26207,7 @@ middleTemporalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002771#middle-temporal-gyrus-1
    :name: middle temporal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002771
+   :synonym: gyrus temporalis medius, intermediate temporal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25323,6 +26243,7 @@ middleWhiteLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006787#middle-white-layer-of-superior-colliculus
    :name: middle white layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006787
+   :synonym: intermediate white layer, intermediate white layer of superior colliculus, lamina V of superior colliculus, lamina colliculi superioris v, layer V of superior colliculus, stratum album intermediale of superior colliculus, stratum medullare intermedium colliculi superioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25359,6 +26280,7 @@ midlineNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002705#midline-nuclear-group-1
    :name: midline nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002705
+   :synonym: median nuclei of thalamus, midline nuclear group of thalamus, midline nuclei of thalamus, midline thalamic group, nuclei mediani (thalami), nuclei mediani thalami, periventricular nuclei of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25394,6 +26316,7 @@ molecularLayerOfCerebellarCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002974#molecular-layer-of-cerebellar-cortex
    :name: molecular layer of cerebellar cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002974
+   :synonym: cerebellar molecular layer, cerebellum molecular cell layer, cerebellum molecular layer, stratum moleculare corticis cerebelli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25464,6 +26387,7 @@ motorNucleusOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002633#motor-nucleus-of-trigeminal-nerve-1
    :name: motor nucleus of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002633
+   :synonym: motor nucleus V, motor nucleus of cranial nerve v, motor trigeminal nucleus, nV, nucleus motorius nervi trigemini, trigeminal V motor nucleus, trigeminal motor nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25481,6 +26405,7 @@ motorNucleusOfVagalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011778#motor-nucleus-of-vagal-nerve
    :name: motor nucleus of vagal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011778
+   :synonym: motor nucleus X, motor nucleus of X, nucleus motorius of nervi vagi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25498,6 +26423,7 @@ motorRootOfFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010287#motor-root-of-facial-nerve
    :name: motor root of facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010287
+   :synonym: facial nerve motor root, motor component of the VIIth (facial) nerve, seventh cranial nerve motor root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25516,6 +26442,7 @@ motorRootOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002796#motor-root-of-trigeminal-nerve-1
    :name: motor root of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002796
+   :synonym: motor branch of trigeminal nerve, motor root of nervus v, radix motoria (Nervus trigeminus [V]), radix motoria nervus trigemini
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25570,6 +26497,7 @@ muscleSpindle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003718#muscle-spindle
    :name: muscle spindle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003718
+   :synonym: neuromuscular spindle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25588,6 +26516,7 @@ musculocutaneousNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003724#musculocutaneous-nerve
    :name: musculocutaneous nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003724
+   :synonym: casserio's nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25642,6 +26571,7 @@ myelencephalonBasalPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009579#myelencephalon-basal-plate
    :name: myelencephalon basal plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009579
+   :synonym: basal plate myelencephalon, future myelencephalon basal plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25715,6 +26645,7 @@ myentericNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002439#myenteric-nerve-plexus
    :name: myenteric nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002439
+   :synonym: Auberbach plexus, Auberbach's plexus, Auberbachs plexus, Auerbach's plexus, Remak's plexus, myenteric plexus, plexus nervosus submucosus, plexus submucosus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25733,6 +26664,7 @@ mylohyoidNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011322#mylohyoid-nerve
    :name: mylohyoid nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011322
+   :synonym: branch of inferior alveolar nerve to mylohyoid, mylodigastric nerve, mylohyoid branch of inferior alveolar nerve, nerve to mylohyoid, nervus mylohyoideus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25751,6 +26683,7 @@ nasoFrontalVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004689#naso-frontal-vein
    :name: naso-frontal vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004689
+   :synonym: nasofrontal vein
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25769,6 +26702,7 @@ nasociliaryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022300#nasociliary-nerve
    :name: nasociliary nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022300
+   :synonym: nasal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25787,6 +26721,7 @@ nasopalatineNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008810#nasopalatine-nerve
    :name: nasopalatine nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008810
+   :synonym: Scarpa's nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25805,6 +26740,7 @@ neckNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003430#neck-nerve
    :name: neck nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003430
+   :synonym: neck (volume) nerve, nerve of neck, nerve of neck (volume)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25824,6 +26760,7 @@ neocortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001950#neocortex-1
    :name: neocortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001950
+   :synonym: cerebral neocortex, homotypical cortex, isocortex (sensu lato), neocortex (isocortex), neopallial cortex, neopallium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25842,6 +26779,7 @@ neodentatePartOfDentateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002747#neodentate-part-of-dentate-nucleus-1
    :name: neodentate part of dentate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002747
+   :synonym: neodentate portion of dentate nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25895,6 +26833,7 @@ nerveFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001019#fasciculus
    :name: nerve fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001019
+   :synonym: fasciculus, nerve bundle, neural fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25913,6 +26852,7 @@ nerveFiberLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001793#nerve-fiber-layer-of-retina
    :name: nerve fiber layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001793
+   :synonym: layer of nerve fibers of retina, layer of nerve fibres of retina, optic fiber layer, retina nerve fiber layer, stratum neurofibrarum (retina), stratum neurofibrarum retinae, stratum opticum of retina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25931,6 +26871,7 @@ nerveInnervatingPinna
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035648#nerve-innervating-pinna
    :name: nerve innervating pinna
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035648
+   :synonym: auricular nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25967,6 +26908,7 @@ nerveToStylohyoidFromFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011316#nerve-to-stylohyoid-from-facial-nerve
    :name: nerve to stylohyoid from facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011316
+   :synonym: facial nerve stylohyoid branch, nerve to stylohyoid, ramus stylohyoideus, ramus stylohyoideus nervus facialis, stylodigastric nerve, stylohyoid branch of facial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25985,6 +26927,7 @@ nerveToStylopharyngeusFromGlossopharyngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011317#nerve-to-stylopharyngeus-from-glossopharyngeal-nerve
    :name: nerve to stylopharyngeus from glossopharyngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011317
+   :synonym: branch of glossopharyngeal nerve to stylopharyngeus, nerve to stylopharyngeus, ramus musculi stylopharyngei nervus glossopharyngei, stylopharyngeal branch of glossopharyngeal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26003,6 +26946,7 @@ nervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001016#nervous-system-1
    :name: nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001016
+   :synonym: neurological system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26039,6 +26983,7 @@ nervousSystemCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001020#nervous-system-commissure
    :name: nervous system commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001020
+   :synonym: commissure of neuraxis, neuraxis commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26057,6 +27002,7 @@ nervousSystemLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003001#lemniscus
    :name: nervous system lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003001
+   :synonym: lemniscus, neuraxis lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26075,6 +27021,7 @@ neuralDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007418#neural-decussation
    :name: neural decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007418
+   :synonym: decussation of neuraxis, neuraxis chiasm, neuraxis chiasma, neuraxis decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26112,6 +27059,7 @@ neuralLobeOfNeurohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003217#pars-nervosa-of-hypophysis
    :name: neural lobe of neurohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003217
+   :synonym: lobus nervosus (Neurohypophysis), pars nervosa (hypophysis), pars nervosa (neurohypophysis), pars nervosa neurohypophysis, pars nervosa of hypophysis, pars nervosa of neurohypophysis, pars nervosa of pituitary, pars nervosa of posterior lobe of pituitary gland, pars nervosa pituitary gland, pars posterior, pars posterior of hypophysis, posterior lobe of neurohypophysis, posterior lobe-3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26131,6 +27079,7 @@ neuralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000125#nucleus-of-cns
    :name: neural nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000125
+   :synonym: nervous system nucleus, neuraxis nucleus, neuronal nucleus, nucleus of CNS
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26167,6 +27116,7 @@ neuralTissue
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003714#neural-tissue
    :name: neural tissue
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003714
+   :synonym: nerve tissue, nervous tissue, portion of neural tissue
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26185,6 +27135,7 @@ neuralTubeAlarPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005882#neural-tube-alar-plate
    :name: neural tube alar plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005882
+   :synonym: alar plate, alar plate of neural tube
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26203,6 +27154,7 @@ neuralTubeBasalPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004064#neural-tube-basal-plate
    :name: neural tube basal plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004064
+   :synonym: basal plate, basal plate of neural tube
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26256,6 +27208,7 @@ neuralTubeMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004061#neural-tube-mantle-layer
    :name: neural tube mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004061
+   :synonym: neural tube intermediate zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26274,6 +27227,7 @@ neuralTubeVentricularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004060#neural-tube-ventricular-layer
    :name: neural tube ventricular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004060
+   :synonym: neural tube ependymal layer, neural tube ventricular germinal zone, neural tube ventricular zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26292,6 +27246,7 @@ neuroendocrineGland
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010133#neuroendocrine-gland
    :name: neuroendocrine gland
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010133
+   :synonym: neuroendocrine system gland
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26311,6 +27266,7 @@ neurohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1
    :name: neurohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002198
+   :synonym: infundibular process, lobus nervosus neurohypophysis, lobus posterior (glandula pituitaria), lobus posterior hypophysis, neural lobe, neural lobe of pituitary, neural lobe of pituitary gland, neuro hypophysis, pituitary gland, posterior lobe, posterior lobe of pituitary, posterior lobe of pituitary gland, posterior pituitary
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26329,6 +27285,7 @@ neuromere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004731#neuromere
    :name: neuromere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004731
+   :synonym: neural tube metameric segment, neural tube segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26347,6 +27304,7 @@ neuronProjectionBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000122#neuron-projection-bundle
    :name: neuron projection bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000122
+   :synonym: funiculus, nerve fiber bundle, neural fiber bundle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26365,6 +27323,7 @@ neuronProjectionBundleConnectingEyeWithBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004904#neuron-projection-bundle-connecting-eye-with-brain
    :name: neuron projection bundle connecting eye with brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004904
+   :synonym: optic nerve (generic)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26419,6 +27378,7 @@ nigrostriatalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014169#nigrostriatal-tract-1
    :name: nigrostriatal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014169
+   :synonym: comb bundle, nigrostriatal bundle, nigrostriatal fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26436,6 +27396,7 @@ ninthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002852#ninth-thoracic-dorsal-root-ganglion-1
    :name: ninth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002852
+   :synonym: ninth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26453,6 +27414,7 @@ ninthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006465#ninth-thoracic-spinal-cord-segment-1
    :name: ninth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006465
+   :synonym: T9 spinal cord segment, t9 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26489,6 +27451,7 @@ nodosalPlacode
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009126#nodosal-placode
    :name: nodosal placode
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009126
+   :synonym: epibranchial placode 3, nodose placode, vagal epibranchial placode
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26526,6 +27489,7 @@ nucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001882#nucleus-accumbens-1
    :name: nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001882
+   :synonym: accumbens nucleus, colliculus of caudate nucleus, nucleus accumbens septi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26545,6 +27509,7 @@ nucleusAmbiguus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001719#nucleus-ambiguus-1
    :name: nucleus ambiguus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001719
+   :synonym: ambiguus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26579,6 +27544,7 @@ nucleusGeniculatusOfPretectum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035580#nucleus-geniculatus-of-pretectum
    :name: nucleus geniculatus of pretectum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035580
+   :synonym: nucleus geniculatus pretectalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26634,6 +27600,7 @@ nucleusIntercalatus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002876#nucleus-intercalatus-1
    :name: nucleus intercalatus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002876
+   :synonym: intercalated nucleus of medulla, nucleus Staderini, nucleus intercalatus of medulla, nucleus of Staderini
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26756,6 +27723,7 @@ nucleusLentiformisOfPretectum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035581#nucleus-lentiformis-of-pretectum
    :name: nucleus lentiformis of pretectum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035581
+   :synonym: nucleus lentiformis mesencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26791,6 +27759,7 @@ nucleusOfAnteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002933#nucleus-of-anterior-commissure-1
    :name: nucleus of anterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002933
+   :synonym: anterior commissure nucleus, bed nucleus of anterior commissure, nucleus of commissura anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26809,6 +27778,7 @@ nucleusOfBischoff
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018236#nucleus-of-bischoff
    :name: nucleus of Bischoff
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018236
+   :synonym: nucleus of Bishoff
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26828,6 +27798,7 @@ nucleusOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002308#nucleus-of-brain
    :name: nucleus of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002308
+   :synonym: brain nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26847,6 +27818,7 @@ nucleusOfCerebellarNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008995#nucleus-of-cerebellar-nuclear-complex
    :name: nucleus of cerebellar nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008995
+   :synonym: cerebellar nucleus, deep cerebellar nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26866,6 +27838,7 @@ nucleusOfDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1
    :name: nucleus of diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001879
+   :synonym: diagonal band nucleus, nucleus of diagonal band (of Broca), nucleus of the diagonal band of Broca, olfactory area (roberts)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26884,6 +27857,7 @@ nucleusOfDorsalThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015233#nucleus-of-dorsal-thalamus
    :name: nucleus of dorsal thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015233
+   :synonym: dorsal thalamic nucleus, nucleus of thalamus proper
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26902,6 +27876,7 @@ nucleusOfLateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006840#nucleus-of-lateral-lemniscus
    :name: nucleus of lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006840
+   :synonym: lateral lemniscus nuclei, lateral lemniscus nucleus, nuclei lemnisci lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26920,6 +27895,7 @@ nucleusOfLateralOlfactoryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1
    :name: nucleus of lateral olfactory tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002893
+   :synonym: NLOT, lateral olfactory tract nucleus, nucleus of the lateral olfactory tract (ganser)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26938,6 +27914,7 @@ nucleusOfMedialEminence
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1
    :name: nucleus of medial eminence
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002997
+   :synonym: medial eminence nucleus, nucleus eminentiae teretis, nucleus of eminentia teres
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26955,6 +27932,7 @@ nucleusOfMedialLongitudinalFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000815#nucleus-of-medial-longitudinal-fasciculus-of-medulla
    :name: nucleus of medial longitudinal fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000815
+   :synonym: nucleus of MLF medulla, nucleus of the medial longitudinal fasciculus medulla oblongata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -26991,6 +27969,7 @@ nucleusOfMidbrainReticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007415#nucleus-of-midbrain-reticular-formation
    :name: nucleus of midbrain reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007415
+   :synonym: midbrain reticular formation nucleus, midbrain reticular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27009,6 +27988,7 @@ nucleusOfMidbrainTectum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011214#nucleus-of-midbrain-tectum
    :name: nucleus of midbrain tectum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011214
+   :synonym: nucleus of tectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27027,6 +28007,7 @@ nucleusOfMidbrainTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007414#nucleus-of-midbrain-tegmentum
    :name: nucleus of midbrain tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007414
+   :synonym: tegmental nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27046,6 +28027,7 @@ nucleusOfOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002996#nucleus-of-optic-tract-1
    :name: nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002996
+   :synonym: large-celled nucleus of optic tract, lentiform nucleus of pretectal area, nucleus of the optic tract, optic tract nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27064,6 +28046,7 @@ nucleusOfPhrenicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016850#nucleus-of-phrenic-nerve
    :name: nucleus of phrenic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016850
+   :synonym: phrenic neural nucleus, phrenic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27082,6 +28065,7 @@ nucleusOfPontineReticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007413#nucleus-of-pontine-reticular-formation
    :name: nucleus of pontine reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007413
+   :synonym: pontine reticular formation nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27100,6 +28084,7 @@ nucleusOfPosteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002711#nucleus-of-posterior-commissure-1
    :name: nucleus of posterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002711
+   :synonym: posterior commissure nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27118,6 +28103,7 @@ nucleusOfPudendalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022278#nucleus-of-pudendal-nerve
    :name: nucleus of pudendal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022278
+   :synonym: Onuf's nucleus, nucleus of Onuf, pudendal neural nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27137,6 +28123,7 @@ nucleusOfSolitaryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009050#solitary-nucleus
    :name: nucleus of solitary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009050
+   :synonym: nucleus of the tractus solitarius, nucleus of tractus solitarius, nucleus tractus solitarii medullae oblongatae, solitary nucleus, solitary tract nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27155,6 +28142,7 @@ nucleusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011777#nucleus-of-spinal-cord
    :name: nucleus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011777
+   :synonym: spinal cord nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27173,6 +28161,7 @@ nucleusOfSuperiorOlivaryComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007247#nucleus-of-superior-olivary-complex
    :name: nucleus of superior olivary complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007247
+   :synonym: superior olivary complex nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27191,6 +28180,7 @@ nucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007692#nucleus-of-thalamus
    :name: nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007692
+   :synonym: thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27313,6 +28303,7 @@ nucleusOfTheTractOfThePostopticCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001340#nucleus-of-the-tract-of-the-postoptic-commissure
    :name: nucleus of the tract of the postoptic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001340
+   :synonym: ntPOC
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27332,6 +28323,7 @@ nucleusOfTrapezoidBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007633#trapezoid-nuclear-complex
    :name: nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007633
+   :synonym: trapezoid nuclear complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27350,6 +28342,7 @@ nucleusOfVentralThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015234#nucleus-of-ventral-thalamus
    :name: nucleus of ventral thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015234
+   :synonym: ventral thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27367,6 +28360,7 @@ nucleusPosteriodorsalisOfPretectum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035582#nucleus-posteriodorsalis-of-pretectum
    :name: nucleus posteriodorsalis of pretectum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035582
+   :synonym: nucleus posteriodorsalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27385,6 +28379,7 @@ nucleusPraetectalisProfundus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035572#nucleus-praetectalis-profundus
    :name: nucleus praetectalis profundus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035572
+   :synonym: nucleus pratectalis profundus, profundal pretectal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27421,6 +28416,7 @@ nucleusPrepositus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002160#nucleus-prepositus-1
    :name: nucleus prepositus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002160
+   :synonym: nucleus praepositus, prepositus hypoglossal nucleus, prepositus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27456,6 +28452,7 @@ nucleusPropriusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016610#nucleus-proprius-of-spinal-cord
    :name: nucleus proprius of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016610
+   :synonym: nucleus proprius medullae spinalis, proper sensory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27475,6 +28472,7 @@ nucleusRapheMagnus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002156#nucleus-raphe-magnus-1
    :name: nucleus raphe magnus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002156
+   :synonym: magnus raphe nucleus, nucleus raphes magnus, raphe magnus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27494,6 +28492,7 @@ nucleusRapheObscurus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002684#nucleus-raphe-obscurus-1
    :name: nucleus raphe obscurus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002684
+   :synonym: nucleus raphes obscurus, obscurus raphe nucleus, raphe obscurus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27513,6 +28512,7 @@ nucleusRaphePallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002157#nucleus-raphe-pallidus-1
    :name: nucleus raphe pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002157
+   :synonym: nucleus raphes pallidus, pallidal raphe nucleus, raphe pallidus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27617,6 +28617,7 @@ nucleusSubceruleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002587#nucleus-subceruleus-1
    :name: nucleus subceruleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002587
+   :synonym: nucleus subcaeruleus, subcaerulean nucleus, subceruleus nucleus, subcoeruleus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27687,6 +28688,7 @@ occipitalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016540#occipital-cortex
    :name: occipital cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016540
+   :synonym: cortex of occipital lobe, occipital lobe cortex, occipital neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27704,6 +28706,7 @@ occipitalFusiformGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022364#occipital-fusiform-gyrus
    :name: occipital fusiform gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022364
+   :synonym: occipital fusiform gyrus (OF), occipitotemporal (fusiform) gyrus, occipital part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27742,6 +28745,7 @@ occipitalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002021#occipital-lobe-1
    :name: occipital lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002021
+   :synonym: regio occipitalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27760,6 +28764,7 @@ occipitalPole
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002902#occipital-pole-1
    :name: occipital pole
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002902
+   :synonym: polus occipitalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27777,6 +28782,7 @@ occipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019303#occipital-sulcus
    :name: occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019303
+   :synonym: occipital lobe sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27813,6 +28819,7 @@ occipitotemporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002693#occipitotemporal-sulcus-1
    :name: occipitotemporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002693
+   :synonym: inferior temporal fissure, inferior temporal fissure (Crosby), inferior temporal sulcus (roberts), inferior temporal sulcus (szikla), inferior temporal sulcus-2, lateral occipitotemporal sulcus, occipito-temporal sulcus, third temporal sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27884,6 +28891,7 @@ oculomotorNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001643#oculomotor-nerve-1
    :name: oculomotor nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001643
+   :synonym: nervus oculomotorius, nervus oculomotorius [III], oculomotor III, oculomotor III nerve, oculomotor nerve [III], oculomotor nerve tree, third cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27903,6 +28911,7 @@ oculomotorNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002668#oculomotor-nerve-fibers
    :name: oculomotor nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002668
+   :synonym: central part of oculomotor nerve, oculomotor nerve fibers, root of oculomotor nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27922,6 +28931,7 @@ oculomotorNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001715#oculomotor-nuclear-complex-1
    :name: oculomotor nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001715
+   :synonym: OM, nucleus nervi oculomotorii, nucleus of oculomotor nerve, nucleus of oculomotor nuclear complex, nucleus of third cranial nerve, oculomotor III nuclear complex, oculomotor III nucleus, oculomotor nucleus, third cranial nerve nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27941,6 +28951,7 @@ olfactoryBulb
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002264#olfactory-bulb-1
    :name: olfactory bulb
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002264
+   :synonym: bulbus olfactorius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27959,6 +28970,7 @@ olfactoryBulbExternalPlexiformLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005376#olfactory-bulb-external-plexiform-layer
    :name: olfactory bulb external plexiform layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005376
+   :synonym: olfactory bulb main external plexiform layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27977,6 +28989,7 @@ olfactoryBulbGlomerularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005377#olfactory-bulb-glomerular-layer
    :name: olfactory bulb glomerular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005377
+   :synonym: olfactory bulb main glomerulus, stratum glomerulosum bulbi olfactorii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27996,6 +29009,7 @@ olfactoryBulbGranuleCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005378#olfactory-bulb-granule-cell-layer
    :name: olfactory bulb granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005378
+   :synonym: olfactory bulb main granule cell layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28013,6 +29027,7 @@ olfactoryBulbInternalPlexiformLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005379#olfactory-bulb-internal-plexiform-layer
    :name: olfactory bulb internal plexiform layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005379
+   :synonym: internal plexiform layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28030,6 +29045,7 @@ olfactoryBulbLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004001#olfactory-bulb-layer
    :name: olfactory bulb layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004001
+   :synonym: cytoarchitectural part of olfactory bulb
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28068,6 +29084,7 @@ olfactoryBulbMitralCellLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004186#olfactory-bulb-main-mitral-cell-body-layer
    :name: olfactory bulb mitral cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004186
+   :synonym: OB mitral cell layer, mitral cell body layer, mitral cell layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28087,6 +29104,7 @@ olfactoryBulbOuterNerveLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005978#olfactory-bulb-main-olfactory-nerve-layer
    :name: olfactory bulb outer nerve layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005978
+   :synonym: olfactory bulb main olfactory nerve layer, olfactory bulb olfactory nerve layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28232,6 +29250,7 @@ olfactoryEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001997#olfactory-epithelium-1
    :name: olfactory epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001997
+   :synonym: main olfactory epithelium, nasal cavity olfactory epithelium, olfactory membrane, olfactory sensory epithelium, sensory olfactory epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28250,6 +29269,7 @@ olfactoryGlomerulus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005387#olfactory-glomerulus
    :name: olfactory glomerulus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005387
+   :synonym: glomerulus of olfactory bulb, olfactory bulb glomerulus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28286,6 +29306,7 @@ olfactoryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001579#olfactory-nerve-1
    :name: olfactory nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001579
+   :synonym: first cranial nerve, nervus olfactorius [i], olfactory I, olfactory i nerve, olfactory nerve [I]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28322,6 +29343,7 @@ olfactorySulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002772#olfactory-sulcus-1
    :name: olfactory sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002772
+   :synonym: olfactory groove, sulcus olfactorius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28394,6 +29416,7 @@ olfactoryTrigone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002922#olfactory-trigone-1
    :name: olfactory trigone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002922
+   :synonym: trigonum olfactorium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28413,6 +29436,7 @@ olfactoryTubercle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001883#olfactory-tubercle-1
    :name: olfactory tubercle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001883
+   :synonym: tuberculum olfactorium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28431,6 +29455,7 @@ olivaryBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000128#olivary-body
    :name: olivary body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000128
+   :synonym: olive body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28450,6 +29475,7 @@ olivaryPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002565#olivary-pretectal-nucleus-1
    :name: olivary pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002565
+   :synonym: nucleus praetectalis olivaris, olivary nucleus of superior colliculus, pretectal olivary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28486,6 +29512,7 @@ olivocochlearBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002775#olivocochlear-bundle-1
    :name: olivocochlear bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002775
+   :synonym: bundle of Rasmussen, efferent cochlear bundle, efferent cochlear pathway, olivocochlear bundle of rasmussen, olivocochlear tract, tractus olivocochlearis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28504,6 +29531,7 @@ ommatidium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000971#ommatidium
    :name: ommatidium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000971
+   :synonym: omatidium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28523,6 +29551,7 @@ opercularPartOfInferiorFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002980#opercular-part-of-inferior-frontal-gyrus-1
    :name: opercular part of inferior frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002980
+   :synonym: gyrus frontalis inferior, pars opercularis, opercular portion of inferior frontal gyrus, pars opercularis, pars opercularis gyri frontalis inferioris, pars posterior of inferior frontal gyrus, posterior part of inferior frontal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28559,6 +29588,7 @@ ophthalmicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000348#ophthalmic-nerve
    :name: ophthalmic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000348
+   :synonym: cranial nerve V, branch V1, first branch of fifth cranial nerve, first division of fifth cranial nerve, first division of trigeminal nerve, nervus ophthalmicus (V1), nervus ophthalmicus (Va), nervus ophthalmicus [v1], nervus ophthalmicus [va], ophthalmic division [V1], ophthalmic division [Va], ophthalmic division of fifth cranial nerve, ophthalmic division of trigeminal nerve (V1), ophthalmic division of trigeminal nerve (Va), ophthalmic nerve [V1], ophthalmic nerve [Va], ramus opthalmicus profundus (ramus V1), rostral branch of trigeminal nerve, trigeminal V nerve ophthalmic division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28577,6 +29607,7 @@ ophthalmicPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011194#ophthalmic-plexus
    :name: ophthalmic plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011194
+   :synonym: ophthalmic nerve plexus, plexus ophthalmicus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28596,6 +29627,7 @@ opticChiasma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000959#optic-chiasm
    :name: optic chiasma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000959
+   :synonym: chiasma opticum, decussation of optic nerve fibers, optic chiasm
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28614,6 +29646,7 @@ opticDisc
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001783#optic-disc
    :name: optic disc
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001783
+   :synonym: optic disk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28632,6 +29665,7 @@ opticRadiation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022264#optic-radiation
    :name: optic radiation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022264
+   :synonym: Gratiolet's radiation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28651,6 +29685,7 @@ opticRecessOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002287#optic-recess-of-third-ventricle-1
    :name: optic recess of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002287
+   :synonym: optic recess, preoptic recess, recessus supraopticus, supraoptic recess
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28688,6 +29723,7 @@ opticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001908#optic-tract-1
    :name: optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001908
+   :synonym: optic lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28724,6 +29760,7 @@ oralPartOfVentralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002978#oral-part-of-ventral-lateral-nucleus-1
    :name: oral part of ventral lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002978
+   :synonym: nucleus lateralis oralis situs principalis, nucleus ventralis lateralis, pars oralis, nucleus ventrooralis externus, anterior part (van buren), subnucleus rostralis, ventral anterior nucleus, pars densicellularis, ventral lateral anterior nucleus, ventral lateral nucleus, oral part, ventral lateral thalamic nucleus, oral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28742,6 +29779,7 @@ oralPartOfVentralPosterolateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003019#oral-part-of-ventral-posterolateral-nucleus-1
    :name: oral part of ventral posterolateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003019
+   :synonym: nucleus lateralis intermedius lateralis, nucleus posteroventralis oralis, nucleus ventralis intermedius (dewulf), nucleus ventralis intermedius (walker), nucleus ventralis intermedius thalami, nucleus ventralis posterior lateralis, pars oralis, nucleus ventrointermedius, ventral part of ventral lateral posterior nucleus (jones), ventral posterolateral nucleus, oral part, ventral posterolateral thalamic nucleus, oral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28761,6 +29799,7 @@ oralPontineReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002999#oral-pontine-reticular-nucleus-1
    :name: oral pontine reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002999
+   :synonym: pontine reticular nucleus, rostral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28779,6 +29818,7 @@ oralPulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002641#oral-pulvinar-nucleus-1
    :name: oral pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002641
+   :synonym: anterior pulvinar nucleus, nucleus pulvinaris anterior, nucleus pulvinaris oralis, nucleus pulvinaris oralis thalami, oral nuclear group of pulvinar, oral part of pulvinar, oral portion of pulvinar
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28850,6 +29890,7 @@ orbitalOperculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002593#orbital-operculum-1
    :name: orbital operculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002593
+   :synonym: operculum orbitale, pars orbitalis of frontal operculum (Ono)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28869,6 +29910,7 @@ orbitalPartOfInferiorFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002624#orbital-part-of-inferior-frontal-gyrus-1
    :name: orbital part of inferior frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002624
+   :synonym: gyrus frontalis inferior, pars orbitalis, inferior frontal gyrus, orbital part, pars orbitalis gyri frontalis inferioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28887,6 +29929,7 @@ orbitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002595#orbital-sulcus-1
    :name: orbital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002595
+   :synonym: cruciate sulcus of campbell, sulci orbitalis, sulcus orbitalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28906,6 +29949,7 @@ orbitofrontalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004167#orbital-frontal-cortex
    :name: orbitofrontal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004167
+   :synonym: fronto-orbital cortex, orbital frontal cortex, orbito-frontal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28924,6 +29968,7 @@ oticGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003963#otic-ganglion
    :name: otic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003963
+   :synonym: Arnold's ganglion, otic parasympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28942,6 +29987,7 @@ otolith
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002280#otolith
    :name: otolith
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002280
+   :synonym: otoconium, statoconium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28978,6 +30024,7 @@ otolithicPartOfStatoconialMembrane
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002519#otolithic-part-of-statoconial-membrane
    :name: otolithic part of statoconial membrane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002519
+   :synonym: otolith layer of statoconial membrane
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28996,6 +30043,7 @@ outerLimitingLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001788#outer-limiting-layer-of-retina
    :name: outer limiting layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001788
+   :synonym: external limiting lamina of retina, external limiting membrane, external limiting membrane of retina, outer limiting membrane, outer limiting membrane of retina, retina external limiting lamina, retina outer limiting membrane, stratum limitans externum (retina), stratum limitans externum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29014,6 +30062,7 @@ outerNuclearLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001789#outer-nuclear-layer-of-retina
    :name: outer nuclear layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001789
+   :synonym: neural retina outer nuclear layer, retina outer nuclear layer, retinal outer nuclear layer, stratum nucleare externum (retina), stratum nucleare externum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29032,6 +30081,7 @@ outerPlexiformLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001790#outer-plexiform-layer-of-retina
    :name: outer plexiform layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001790
+   :synonym: outer plexiform layer, retina outer plexiform layer, retinal outer plexiform layer, stratum plexiforme externum, stratum plexiforme externum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29050,6 +30100,7 @@ ovalNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011176#bed-nuclei-of-the-stria-terminalis-oval-nucleus-1
    :name: oval nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011176
+   :synonym: bed nuclei of the stria terminalis, anterior division, oval nucleus, oval nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29067,6 +30118,7 @@ pairedVenousDuralSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus
    :name: paired venous dural sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017635
+   :synonym: paired dural venous sinus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29085,6 +30137,7 @@ palatalTasteBud
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034670#palatal-taste-bud
    :name: palatal taste bud
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034670
+   :synonym: taste bud of palate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29104,6 +30157,7 @@ paleocortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014735#paleocortex
    :name: paleocortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014735
+   :synonym: palaeocortex, paleocortex (semicortex)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29122,6 +30176,7 @@ paleodentateOfDentateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006743#paleodentate-of-dentate-nucleus-1
    :name: paleodentate of dentate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006743
+   :synonym: PDT, paleodentate part of dentate nucleus, paleodentate portion of dentate nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29140,6 +30195,7 @@ pallidotegmentalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002671#pallidotegmental-fasciculus-1
    :name: pallidotegmental fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002671
+   :synonym: pallidotegmental tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29159,6 +30215,7 @@ pallidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006514#pallidum
    :name: pallidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006514
+   :synonym: neuraxis pallidum, pallidum of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29178,6 +30235,7 @@ pallium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000203#pallium
    :name: pallium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000203
+   :synonym: area dorsalis telencephali, dorsal part of telencephalon, dorsal telencephalic area, dorsal telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29196,6 +30254,7 @@ palmarBranchOfMedianNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016430#palmar-branch-of-median-nerve
    :name: palmar branch of median nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016430
+   :synonym: median nerve palmar branch, palmar branch of anterior interosseous nerve, palmar cutaneous branch of median nerve, ramus palmaris (nervus medianus), ramus palmaris nervus interossei antebrachii anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29214,6 +30273,7 @@ palpebralBranchOfInfraOrbitalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022297#palpebral-branch-of-infra-orbital-nerve
    :name: palpebral branch of infra-orbital nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022297
+   :synonym: palpebral branch of maxillary nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29233,6 +30293,7 @@ parabigeminalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002140#parabigeminal-nucleus-1
    :name: parabigeminal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002140
+   :synonym: nucleus parabigeminalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29271,6 +30332,7 @@ parabrachialPigmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013738#parabrachial-pigmented-nucleus
    :name: parabrachial pigmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013738
+   :synonym: parabrachial pigmented nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29307,6 +30369,7 @@ paracentralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035933#paracentral-lobule
    :name: paracentral lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035933
+   :synonym: lobulus paracentralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29325,6 +30388,7 @@ paracentralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001924#paracentral-nucleus-1
    :name: paracentral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001924
+   :synonym: nucleus centralis lateralis superior (kusama), nucleus paracentral, nucleus paracentral thalami, nucleus paracentralis thalami, paracentral nucleus of thalamus, paracentral nucleus thalamus (gurdjian 1927), paracentral thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29343,6 +30407,7 @@ paracentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002598#paracentral-sulcus-1
    :name: paracentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002598
+   :synonym: sulcus subcentralis medialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29360,6 +30425,7 @@ paracingulateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022398#paracingulate-gyrus
    :name: paracingulate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022398
+   :synonym: paracingulate gyrus (PAC)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29394,6 +30460,7 @@ paracommissuralPeriventricularPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035577#paracommissural-periventricular-pretectal-nucleus
    :name: paracommissural periventricular pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035577
+   :synonym: paracommissural nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29411,6 +30478,7 @@ parafascicularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001922#parafascicular-nucleus-1
    :name: parafascicular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001922
+   :synonym: nuclei parafasciculares thalami, nucleus parafascicularis, nucleus parafascicularis (Hassler), nucleus parafascicularis thalami, parafascicular nucleus (vogt), parafascicular nucleus of thalamus, parafascicular nucleus of the thalamus, parafascicular thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29429,6 +30497,7 @@ paraflocculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005351#paraflocculus
    :name: paraflocculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005351
+   :synonym: cerebellar tonsil, neuraxis paraflocculus, parafloccular lobule of cerebellum, paraflocculus of cerebellum, tonsil (HXI), tonsilla
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29483,6 +30552,7 @@ parahippocampalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002973#parahippocampal-gyrus-1
    :name: parahippocampal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002973
+   :synonym: hippocampal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29501,6 +30571,7 @@ paralaminarPartOfMedialDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002650#paralaminar-part-of-medial-dorsal-nucleus-1
    :name: paralaminar part of medial dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002650
+   :synonym: dorsomedial thalamic nucleus, paralaminar part, mediodorsal thalamic nucleus, paralaminar part, nucleus medialis dorsalis caudalis (hassler), nucleus medialis dorsalis thalami, pars multiformis, nucleus medialis dorsalis, pars multiformis, nucleus medialis dorsalis, pars paralaminaris, paralaminar part of dorsomedial nucleus, paralaminar part of medial dorsal nucleus of thalamus, pars paralaminaris nuclei mediodorsalis thalami, pars paralaminaris of medial dorsal nucleus of thalamus, ventral mediodorsal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29536,6 +30607,7 @@ paramedianLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005349#paramedian-lobule
    :name: paramedian lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005349
+   :synonym: gracile lobule, hemispheric lobule VIIBii, lobule VIIIB (pyramis and biventral lobule, posterior part), lobulus gracilis, lobulus paramedianus, lobulus paramedianus [hVIIb], paramedian 1 (hVII), paramedian lobule [HVIIB], paramedian lobule [h vii b], paramedian lobule [hVIIIb]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29553,6 +30625,7 @@ paramedianMedullaryReticularComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016826#paramedian-medullary-reticular-complex
    :name: paramedian medullary reticular complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016826
+   :synonym: paramedian group (medullary reticular formation), paramedian medullary reticular group
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29572,6 +30645,7 @@ paramedianReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007764#paramedian-reticular-nucleus
    :name: paramedian reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007764
+   :synonym: ventral paramedian reticular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29624,6 +30698,7 @@ parasolitaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002877#parasolitary-nucleus-1
    :name: parasolitary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002877
+   :synonym: nucleus fasciculus solitarius, nucleus juxtasolitarius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29643,6 +30718,7 @@ parasubiculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004683#parasubiculum-1
    :name: parasubiculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004683
+   :synonym: parasubicular area, parasubicular cortex (parasubiculum)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29679,6 +30755,7 @@ parasympatheticNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004293#parasympathetic-nerve
    :name: parasympathetic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004293
+   :synonym: nerve of parasympathetic nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29697,6 +30774,7 @@ parasympatheticNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000011#parasympathetic-nervous-system-1
    :name: parasympathetic nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000011
+   :synonym: PNS - parasympathetic, parasympathetic part of autonomic division of nervous system, pars parasympathica divisionis autonomici systematis nervosi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29716,6 +30794,7 @@ paratenialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002992#paratenial-nucleus-1
    :name: paratenial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002992
+   :synonym: nucleus parataenialis, parataenial nucleus, paratenial thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29735,6 +30814,7 @@ paraterminalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002603#paraterminal-gyrus-1
    :name: paraterminal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002603
+   :synonym: precommissural hippocampus, subcallosal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29772,6 +30852,7 @@ paraventricularNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1
    :name: paraventricular nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001930
+   :synonym: filiform nucleus, paraventricular hypothalamic nucleus, paraventricular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29791,6 +30872,7 @@ paraventricularNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001920#paraventricular-nucleus-of-thalamus-1
    :name: paraventricular nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001920
+   :synonym: nuclei paraventriculares thalami, paraventricular gray, paraventricular thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29810,6 +30892,7 @@ paraventricularNucleusOfTheHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1
    :name: paraventricular nucleus of the hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001930
+   :synonym: Pa, filiform nucleus, paraventricular hypothalamic nucleus, paraventricular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30059,6 +31142,7 @@ paravermicLobuleII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028918#paravermic-lobule-ii
    :name: paravermic lobule II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028918
+   :synonym: paravermic lobule ii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30076,6 +31160,7 @@ paravermicLobuleIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028919#paravermic-lobule-iii
    :name: paravermic lobule III
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028919
+   :synonym: paravermic lobule iii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30093,6 +31178,7 @@ paravermicLobuleIV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028920#paravermic-lobule-iv
    :name: paravermic lobule IV
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028920
+   :synonym: paravermic lobule iv
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30110,6 +31196,7 @@ paravermicLobuleIX
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028921#paravermic-lobule-ix
    :name: paravermic lobule IX
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028921
+   :synonym: paravermic lobule ix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30127,6 +31214,7 @@ paravermicLobuleV
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028922#paravermic-lobule-v
    :name: paravermic lobule V
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028922
+   :synonym: paravermic lobule v
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30144,6 +31232,7 @@ paravermicLobuleVI
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028923#paravermic-lobule-vi
    :name: paravermic lobule VI
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028923
+   :synonym: paravermic lobule vi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30161,6 +31250,7 @@ paravermicLobuleVII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028924#paravermic-lobule-vii
    :name: paravermic lobule VII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028924
+   :synonym: paravermic lobule vii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30178,6 +31268,7 @@ paravermicLobuleVIII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028925#paravermic-lobule-viii
    :name: paravermic lobule VIII
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028925
+   :synonym: paravermic lobule viii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30214,6 +31305,7 @@ paravermisLobuleArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027285#paravermis-lobule-area
    :name: paravermis lobule area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027285
+   :synonym: paravermis of cerebellum, regional parts of the paravermal lobules
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30231,6 +31323,7 @@ paravermisOfTheAnteriorLobeOfTheCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027310#paravermis-of-the-anterior-lobe-of-the-cerebellum
    :name: paravermis of the anterior lobe of the cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027310
+   :synonym: paravermis, anterior lobe portion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30248,6 +31341,7 @@ paravermisOfThePosteriorLobeOfTheCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027309#paravermis-of-the-posterior-lobe-of-the-cerebellum
    :name: paravermis of the posterior lobe of the cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027309
+   :synonym: paravermis, posterior lobe portion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30284,6 +31378,7 @@ paravertebralGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001807#paravertebral-ganglion
    :name: paravertebral ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001807
+   :synonym: ganglion of sympathetic trunk, ganglion trunci sympathetici, ganglion trunci sympathici, sympathetic chain ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30302,6 +31397,7 @@ parenchymaOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005158#parenchyma-of-central-nervous-system
    :name: parenchyma of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005158
+   :synonym: CNS parenchyma, central nervous system parenchyma, parenchyma of CNS
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30321,6 +31417,7 @@ parietalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016530#parietal-cortex
    :name: parietal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016530
+   :synonym: cortex of parietal lobe, parietal lobe cortex, parietal neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30358,6 +31455,7 @@ parietalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001872#parietal-lobe-1
    :name: parietal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001872
+   :synonym: regio parietalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30376,6 +31474,7 @@ parietalOperculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002911#parietal-operculum-1
    :name: parietal operculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002911
+   :synonym: operculum parietale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30394,6 +31493,7 @@ parietalOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004869#parietal-organ
    :name: parietal organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004869
+   :synonym: parietal eye
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30413,6 +31513,7 @@ parietoOccipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002695#parieto-occipital-sulcus-1
    :name: parieto-occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002695
+   :synonym: fissura parieto-occipitalis, parieto-occipital fissure, parieto-occipital incisure, parietooccipital sulcus, sulcus parieto-occipitalis, sulcus parieto-occipitalis medialis, sulcus parietoccipitalis, sulcus parietooccipitalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30466,6 +31567,7 @@ parsDistalisOfAdenohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006964#distal-part-of-hypophysis
    :name: pars distalis of adenohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006964
+   :synonym: distal part of hypophysis, pars anterior of adenohypophysis, pars distalis (glandula pituitaria), pars distalis adenohypophysis, pars distalis of anterior lobe of pituitary gland, pars glandularis of adenohypophysis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30503,6 +31605,7 @@ parsIntermediaOfAdenohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002432#pars-intermedia-of-adenohypophysis
    :name: pars intermedia of adenohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002432
+   :synonym: intermediate lobe of adenohypophysis, intermediate lobe of pituitary, pars intermedia, pars intermedia (glandula pituitaria), pars intermedia adenohypophysis, pars intermedia of anterior lobe of pituitary gland
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30521,6 +31624,7 @@ parsPostremaOfVentralLateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002617#pars-postrema-of-ventral-lateral-nucleus-1
    :name: pars postrema of ventral lateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002617
+   :synonym: nucleus dorsointermedius externus magnocellularis (hassler), nucleus lateralis intermedius mediodorsalis situs postremus, nucleus ventralis lateralis thalami, pars postrema, posterodorsal part of ventral lateral posterior nucleus (jones), vLps, ventral lateral nucleus (pars postrema)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30539,6 +31643,7 @@ parsTuberalisOfAdenohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002433#pars-tuberalis-of-adenohypophysis
    :name: pars tuberalis of adenohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002433
+   :synonym: pars infundibularis of adenohypophysis, pars tuberalis, pars tuberalis (glandula pituitaria), pars tuberalis adenohypophysis, pars tuberalis of anterior lobe of pituitary gland
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30557,6 +31662,7 @@ parvicellularPartOfMedialDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002654#parvicellular-part-of-medial-dorsal-nucleus-1
    :name: parvicellular part of medial dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002654
+   :synonym: dorsomedial thalamic nucleus, parvicellular part, lateral mediodorsal nucleus, lateral nucleus of medial dorsal nucleus of thalamus, mediodorsal thalamic nucleus, pars fasciculosa, nucleus medialis dorsalis fasciculosis (hassler), nucleus medialis dorsalis nucleus fasciculosis (hassler), nucleus medialis dorsalis, pars parvicellularis, pars parvocellularis lateralis nuclei mediodorsalis thalami, pars principalis nuclei ventralis anterior thalami, parvicellular part of dorsomedial nucleus, parvocellular nucleus of medial dorsal nucleus of thalamus, principal division of ventral anterior nucleus of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30575,6 +31681,7 @@ parvicellularPartOfVentralAnteriorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002937#parvicellular-part-of-ventral-anterior-nucleus-1
    :name: parvicellular part of ventral anterior nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002937
+   :synonym: nucleus ventralis anterior (dewulf), nucleus ventralis anterior, pars parvicellularis, ventral anterior nucleus, pars parvicellularis, ventral anterior thalamic nucleus, parvicellular part, ventralis anterior (jones)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30593,6 +31700,7 @@ parvicellularPartOfVentralPosteromedialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003018#parvicellular-part-of-ventral-posteromedial-nucleus-1
    :name: parvicellular part of ventral posteromedial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003018
+   :synonym: gustatory nucleus (thalamus), gustatory thalamic nucleus, nucleus ventralis posterior medialis thalami, pars parvicellularis, pars parvicellularis nuclei ventralis posteromedialis thalami, parvicellular part of ventral posteromedial nucleus of thalamus, ventral posteromedial nucleus of thalamus, parvicellular part, ventral posteromedial nucleus, parvocellular part, ventral posteromedial thalamic nucleus, parvicellular part, ventroposteromedial nucleus of the thalamus, parvicellular part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30627,6 +31735,7 @@ parvocellularLayerOfDorsalNucleusOfLateralGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013607#parvocellular-layer-of-dorsal-nucleus-of-lateral-geniculate-body
    :name: parvocellular layer of dorsal nucleus of lateral geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013607
+   :synonym: parvocellular layer of lateral geniculate nucleus, strata parvocellularia nuclei dorsalis corporis geniculati lateralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30646,6 +31755,7 @@ parvocellularOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002141#parvocellular-oculomotor-nucleus-1
    :name: parvocellular oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002141
+   :synonym: Edinger-Westphal nucleus, accessory oculomotor nucleus, nucleus Edinger-Westphal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30665,6 +31775,7 @@ parvocellularPartOfRedNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002938#parvocellular-part-of-red-nucleus-1
    :name: parvocellular part of red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002938
+   :synonym: neoruber, pars parvocellularis nuclei rubri, red nucleus, parvocellular part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30700,6 +31811,7 @@ parvocellularReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016633#parvocellular-reticular-nucleus
    :name: parvocellular reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016633
+   :synonym: nucleus reticularis parvocellularis, parvicellular reticular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30736,6 +31848,7 @@ pedalDigitNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003435#pedal-digit-nerve
    :name: pedal digit nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003435
+   :synonym: digit of foot nerve, digit of terminal segment of free lower limb nerve, digitus pedis nerve, foot digit nerve, hind limb digit nerve, nerve of digit of foot, nerve of digit of terminal segment of free lower limb, nerve of digitus pedis, nerve of foot digit, nerve of terminal segment of free lower limb digit, nerve of toe, terminal segment of free lower limb digit nerve, toe nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30771,6 +31884,7 @@ peduncleOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022235#peduncle-of-diencephalon
    :name: peduncle of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022235
+   :synonym: diencephalon peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30788,6 +31902,7 @@ peduncleOfNeuraxis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007417#peduncle-of-neuraxis
    :name: peduncle of neuraxis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007417
+   :synonym: neuraxis peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30805,6 +31920,7 @@ peduncleOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022236#peduncle-of-thalamus
    :name: peduncle of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022236
+   :synonym: thalamic peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30824,6 +31940,7 @@ pedunculopontineTegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002142#pedunculopontine-tegmental-nucleus-1
    :name: pedunculopontine tegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002142
+   :synonym: peduncular pontine nucleus, pedunculopontine nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30841,6 +31958,7 @@ pelvicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016508#pelvic-ganglion
    :name: pelvic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016508
+   :synonym: inferior hypogastric ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30859,6 +31977,7 @@ pelvicSplanchnicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018675#pelvic-splanchnic-nerve
    :name: pelvic splanchnic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018675
+   :synonym: pelvic splanchnic parasympathetic nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30877,6 +31996,7 @@ pelvisNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003444#pelvis-nerve
    :name: pelvis nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003444
+   :synonym: nerve of pelvis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30931,6 +32051,7 @@ periamygdaloidArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002656#periamygdaloid-area-1
    :name: periamygdaloid area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002656
+   :synonym: periamygdaloid region, semilunar gyrus, ventral cortical nucleus of amygdala
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30987,6 +32108,7 @@ pericentralNucleusOfInferiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002577#pericentral-nucleus-of-inferior-colliculus-1
    :name: pericentral nucleus of inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002577
+   :synonym: cortex of inferior colliculus, nucleus pericentralis colliculi inferioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31040,6 +32162,7 @@ perinealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011391#perineal-nerve
    :name: perineal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011391
+   :synonym: perineal branch of pudendal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31058,6 +32181,7 @@ perineuralVascularPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015189#perineural-vascular-plexus
    :name: perineural vascular plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015189
+   :synonym: PNVP
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31095,6 +32219,7 @@ periolivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002971#periolivary-nucleus-1
    :name: periolivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002971
+   :synonym: nuclei periolivares, peri-olivary nuclei, peri-olivary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31113,6 +32238,7 @@ periostealDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010505#periosteal-dura-mater
    :name: periosteal dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010505
+   :synonym: outer layer of dura mater, outer periosteal layer of dura mater, periosteal dura, periosteal layer of dura mater
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31132,6 +32258,7 @@ peripeduncularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002144#peripeduncular-nucleus-1
    :name: peripeduncular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002144
+   :synonym: peripeduncular nucleus of pons
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31150,6 +32277,7 @@ peripheralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000010#peripheral-nervous-system-1
    :name: peripheral nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000010
+   :synonym: pars peripherica, systema nervosum periphericum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31168,6 +32296,7 @@ peripheralRegionOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013682#peripheral-region-of-retina
    :name: peripheral region of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013682
+   :synonym: peripheral retina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31187,6 +32316,7 @@ perirhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006083#perirhinal-cortex
    :name: perirhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006083
+   :synonym: perirhinal area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31223,6 +32353,7 @@ perivascularSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014930#perivascular-space
    :name: perivascular space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014930
+   :synonym: Virchow-Robin space, perivascular region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31240,6 +32371,7 @@ periventricularGrayMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014933#periventricular-gray-matter
    :name: periventricular gray matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014933
+   :synonym: periventricular grey matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31275,6 +32407,7 @@ periventricularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002322#periventricular-nucleus
    :name: periventricular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002322
+   :synonym: ventral zone of periventricular hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31328,6 +32461,7 @@ periventricularPretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035569#periventricular-pretectal-nucleus
    :name: periventricular pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035569
+   :synonym: periventricular pretectum, pretectal periventricular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31362,6 +32496,7 @@ periventricularZoneOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002271#periventricular-zone-of-hypothalamus
    :name: periventricular zone of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002271
+   :synonym: hypothalamus periventricular zone, zona periventricularis hypothalamicae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31380,6 +32515,7 @@ pesNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003445#pes-nerve
    :name: pes nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003445
+   :synonym: foot nerve, nerve of foot
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31398,6 +32534,7 @@ petrosalPlacode
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009125#petrosal-placode
    :name: petrosal placode
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009125
+   :synonym: epibranchial placode 2, glossopharyngeal IX placode, glossopharyngeal epibranchial placode, glossopharyngeal placode
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31416,6 +32553,7 @@ pharyngealBranchOfVagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000929#pharyngeal-branch-of-vagus-nerve
    :name: pharyngeal branch of vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000929
+   :synonym: pharyngeal branch, pharyngeal branch of inferior vagal ganglion, pharyngeal branch of vagus, ramus pharyngealis nervi vagalis, ramus pharyngeus, tenth cranial nerve pharyngeal branch, vagal pharyngeal branch, vagus nerve pharyngeal branch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31434,6 +32572,7 @@ pharyngealNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011325#pharyngeal-nerve-plexus
    :name: pharyngeal nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011325
+   :synonym: pharyngeal plexus of vagus nerve, plexus pharyngeus nervi vagi, vagus nerve pharyngeal plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31470,6 +32609,7 @@ photoreceptorArray
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005388#photoreceptor-array
    :name: photoreceptor array
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005388
+   :synonym: light-sensitive tissue
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31488,6 +32628,7 @@ photoreceptorInnerSegmentLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003925#photoreceptor-inner-segment-layer
    :name: photoreceptor inner segment layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003925
+   :synonym: retina photoreceptor layer inner segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31506,6 +32647,7 @@ photoreceptorLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001787#photoreceptor-layer-of-retina
    :name: photoreceptor layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001787
+   :synonym: retina photoreceptor layer, retinal photoreceptor layer, stratum segmentorum externorum et internorum (retina), stratum segmentorum externorum et internorum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31523,6 +32665,7 @@ photoreceptorOuterSegmentLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003926#photoreceptor-outer-segment-layer
    :name: photoreceptor outer segment layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003926
+   :synonym: retina photoreceptor layer outer segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31559,6 +32702,7 @@ piaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002361#pia-mater
    :name: pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002361
+   :synonym: pia mater of neuraxis, pial membrane
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31577,6 +32721,7 @@ pigmentedLayerOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001782#pigmented-layer-of-retina
    :name: pigmented layer of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001782
+   :synonym: outer pigmented layer of retina, pigment epithelium of retina, pigmented retina epithelium, pigmented retinal epithelium, retinal pigment epithelium, retinal pigmented epithelium, stratum pigmentosum (retina), stratum pigmentosum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31596,6 +32741,7 @@ pinealBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001905#pineal-body-1
    :name: pineal body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001905
+   :synonym: corpus pineale, glandula pinealis, pineal gland, pineal organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31649,6 +32795,7 @@ pinealGlandStalk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011768#pineal-gland-stalk
    :name: pineal gland stalk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011768
+   :synonym: epiphyseal stalk, pineal stalk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31685,6 +32832,7 @@ pinealRecessOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022283#pineal-recess-of-third-ventricle
    :name: pineal recess of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022283
+   :synonym: pineal recess, pineal recess of 3V, recessus pinealis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31722,6 +32870,7 @@ piriformCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004725#piriform-cortex-1
    :name: piriform cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004725
+   :synonym: cortex piriformis, primary olfactory areas
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31740,6 +32889,7 @@ piriformCortexLayer1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014277#piriform-cortex-layer-1
    :name: piriform cortex layer 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014277
+   :synonym: layer 1 of piriform cortex, piriform cortex plexiform layer, plexiform layer of piriform cortex, pyriform cortex layer 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31796,6 +32946,7 @@ piriformCortexLayer2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014280#piriform-cortex-layer-2
    :name: piriform cortex layer 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014280
+   :synonym: layer 2 of piriform cortex, layer II of piriform cortex, piriform cortex layer II
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31850,6 +33001,7 @@ piriformCortexLayer3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014283#piriform-cortex-layer-3
    :name: piriform cortex layer 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014283
+   :synonym: layer 3 of piriform cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31869,6 +33021,7 @@ pituitaryGland
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000007#hypophysis
    :name: pituitary gland
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000007
+   :synonym: glandula pituitaria, pituitary, pituitary body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31888,6 +33041,7 @@ pituitaryStalk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002434#infundibular-stem
    :name: pituitary stalk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002434
+   :synonym: hypophyseal stalk, infundibular stalk, infundibular stem, infundibular stem of neurohypophysis, infundibulum, infundibulum (lobus posterior) (glandula pituitaria), infundibulum hypophysis, infundibulum of neurohypophysis, infundibulum of pituitary gland, infundibulum of posterior lobe of pituitary gland, neurohypophysis infundibulum, pituitary infundibular stalk, tuberal part of hypophysis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31998,6 +33152,7 @@ pons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000988#pons-1
    :name: pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000988
+   :synonym: pons Varolii, pons of Varolius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32034,6 +33189,7 @@ pontineCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004048#pontine-cistern
    :name: pontine cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004048
+   :synonym: cisterna pontis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32053,6 +33209,7 @@ pontineNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002151#pontine-nuclear-complex
    :name: pontine nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002151
+   :synonym: pontine gray, pontine nuclear complex, pontine nuclei, pontine nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32072,6 +33229,7 @@ pontineRapheNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002047#pontine-raphe-nucleus-1
    :name: pontine raphe nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002047
+   :synonym: raphe of pons, raphe pontis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32091,6 +33249,7 @@ pontineReticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002573#pontine-reticular-formation-1
    :name: pontine reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002573
+   :synonym: pons of varolius reticular formation, pons reticular formation, pontine reticular nucleus, reticular formation of pons, reticular formation of pons of varolius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32110,6 +33269,7 @@ pontineTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003023#pontine-tegmentum-1
    :name: pontine tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003023
+   :synonym: dorsal pons, dorsal portion of pons, tegmental portion of pons, tegmentum of pons, tegmentum pontis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32128,6 +33288,7 @@ pontobulbarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002880#pontobulbar-nucleus-1
    :name: pontobulbar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002880
+   :synonym: nucleus of circumolivary bundle, pontobulbar body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32146,6 +33307,7 @@ pontocerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022421#pontocerebellar-tract
    :name: pontocerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022421
+   :synonym: fibrae pontocerebellaris, pontine crossing tract, pontocerebellar fibers, tractus pontocerebellaris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32163,6 +33325,7 @@ postcentralFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014474#postcentral-fissure-of-cerebellum
    :name: postcentral fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014474
+   :synonym: fissura postcentralis cerebelli, fissura praeculminata, post-central fissure of cerebellum, postcentral fissure-2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32182,6 +33345,7 @@ postcentralGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002581#postcentral-gyrus-1
    :name: postcentral gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002581
+   :synonym: gyrus postcentralis, postcentral convolution, posterior central gyrus, postrolandic gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32201,6 +33365,7 @@ postcentralSulcusOfParietalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002915#postcentral-sulcus
    :name: postcentral sulcus of parietal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002915
+   :synonym: postcentral fissure of cerebral hemisphere, postcentral fissure-1, postcentral sulcus, structure of postcentral sulcus, sulcus postcentralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32220,6 +33385,7 @@ postcommissuralFornixOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003016#postcommissural-fornix
    :name: postcommissural fornix of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003016
+   :synonym: fornix (entering Corpus mamillare), postcommissural fornix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32237,6 +33403,7 @@ posteriorAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022229#posterior-amygdaloid-nucleus
    :name: posterior amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022229
+   :synonym: posterior amygdalar nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32255,6 +33422,7 @@ posteriorAscendingLimbOfLateralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002910#posterior-ascending-limb-of-lateral-sulcus-1
    :name: posterior ascending limb of lateral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002910
+   :synonym: ascending terminal ramus of sylvian fissure, posterior ascending limb of lateral fissure, posterior ramus of lateral cerebral sulcus, ramus posterior ascendens fissurae lateralis, ramus posterior sulci lateralis cerebri
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32273,6 +33441,7 @@ posteriorAuricularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035647#posterior-auricular-nerve
    :name: posterior auricular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035647
+   :synonym: auricularis posterior branch of facial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32290,6 +33459,7 @@ posteriorCalcarineSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002901#posterior-calcarine-sulcus-1
    :name: posterior calcarine sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002901
+   :synonym: postcalcarine sulcus, posterior calcarine fissure, posterior part of calcarine sulcus, sulcus calcarinus posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32308,6 +33478,7 @@ posteriorCerebellomedullaryCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005974#posterior-cerebellomedullary-cistern
    :name: posterior cerebellomedullary cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005974
+   :synonym: cisterna cerebellomedullaris posterior, cisterna magna
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32365,6 +33536,7 @@ posteriorColumnOfFornix
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006115#posterior-column-of-fornix-1
    :name: posterior column of fornix
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006115
+   :synonym: crus fornicis, crus of fornix, fornix, crus posterius, posterior column of fornix of forebrain, posterior crus of fornix, posterior pillar of fornix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32384,6 +33556,7 @@ posteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000936#posterior-commissure-1
    :name: posterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000936
+   :synonym: caudal commissure, epithalamic commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32401,6 +33574,7 @@ posteriorCoronaRadiata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022427#posterior-corona-radiata
    :name: posterior corona radiata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022427
+   :synonym: posterior portion of corona radiata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32419,6 +33593,7 @@ posteriorDivisionOfBedNucleiOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011177#posterior-division-of-bed-nuclei-of-stria-terminalis
    :name: posterior division of bed nuclei of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011177
+   :synonym: bed nuclei of the stria terminalis, posterior division, posterior nuclei of stria terminalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32438,6 +33613,7 @@ posteriorHornLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004672#posterior-horn-lateral-ventricle-1
    :name: posterior horn lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004672
+   :synonym: cornu occipitale (ventriculi lateralis), cornu occipitale ventriculi lateralis, cornu posterius (ventriculi lateralis), cornu posterius ventriculi lateralis, occipital horn, occipital horn of lateral ventricle, posterior horn of lateral ventricle, posterior horn of the lateral ventricle, ventriculus lateralis, cornu occipitale, ventriculus lateralis, cornu posterius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32457,6 +33633,7 @@ posteriorHypothalamicRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002770#posterior-hypothalamic-region-1
    :name: posterior hypothalamic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002770
+   :synonym: mammillary level of hypothalamus, mammillary region, posterior hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32493,6 +33670,7 @@ posteriorLateralLineNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000175#posterior-lateral-line-nerve
    :name: posterior lateral line nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000175
+   :synonym: caudal lateral line nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32530,6 +33708,7 @@ posteriorLimbOfInternalCapsule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014527#posterior-limb-of-internal-capsule-1
    :name: posterior limb of internal capsule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014527
+   :synonym: capsula interna, pars posterior, crus posterius capsulae internae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32549,6 +33728,7 @@ posteriorLobeOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004002#posterior-lobe-of-the-cerebellum
    :name: posterior lobe of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004002
+   :synonym: cerebellar posterior lobe, cerebellum posterior lobe, middle lobe-1 of cerebellum, posterior cerebellar lobe, posterior lobe of the cerebellum, posterior lobe-1 of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32585,6 +33765,7 @@ posteriorMesencephalicCentralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005079#posterior-mesencephalic-central-artery
    :name: posterior mesencephalic central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005079
+   :synonym: PMCtA, caudal mesencephalic central artery
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32621,6 +33802,7 @@ posteriorNuclearComplexOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002709#posterior-nuclear-complex
    :name: posterior nuclear complex of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002709
+   :synonym: caudal thalamic nucleus, nuclei posteriores thalami, posterior complex of thalamus, posterior complex of the thalamus, posterior nuclear complex, posterior nuclear group of thalamus, posterior nucleus of dorsal thalamus, posterior thalamic nuclear group, posterior thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32640,6 +33822,7 @@ posteriorNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002706#posterior-nucleus-of-hypothalamus-1
    :name: posterior nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002706
+   :synonym: area hypothalamica posterior, posterior hypothalamic area, posterior hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32658,6 +33841,7 @@ posteriorNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003030#posterior-nucleus-of-thalamus-1
    :name: posterior nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003030
+   :synonym: nucleus posterior thalami, nucleus thalami posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32712,6 +33896,7 @@ posteriorParahippocampalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002657#posterior-parahippocampal-gyrus-1
    :name: posterior parahippocampal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002657
+   :synonym: parahippocampal gyrus (amaral), parahippocampal gyrus (insausti)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32747,6 +33932,7 @@ posteriorParaventricularNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000433#posterior-paraventricular-nucleus-of-thalamus
    :name: posterior paraventricular nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000433
+   :synonym: dorsal paraventricular nucleus of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32818,6 +34004,7 @@ posteriorPartOfAnteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003043#posterior-part-of-anterior-commissure-1
    :name: posterior part of anterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003043
+   :synonym: anterior commissure pars posterior, anterior commissure temporal limb, anterior commissure, posterior part, commissura anterior, crus posterius, commissura anterior, pars posterior, commissura rostralis, pars posterior, pars posterior commissurae anterioris, temporal limb of anterior commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32836,6 +34023,7 @@ posteriorPeriventricularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002708#posterior-periventricular-nucleus-1
    :name: posterior periventricular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002708
+   :synonym: griseum periventriculare hypothalami, nucleus periventricularis posterior, periventricular hypothalamic nucleus, posterior part, periventricular nucleus, posterior subdivision, posterior paraventricular nucleus, posterior periventricular hypothalamic nucleus, posterior periventricular nucleus of hypothalamus, posterior periventricular nucleus of the hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32871,6 +34059,7 @@ posteriorRecess
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005338#posterior-recess
    :name: posterior recess
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005338
+   :synonym: posterior recess of diencephalic ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32888,6 +34077,7 @@ posteriorSegmentOfParacentralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035934#posterior-segment-of-paracentral-lobule
    :name: posterior segment of paracentral lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035934
+   :synonym: posterior part of paracentral lobule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32906,6 +34096,7 @@ posteriorSpinocerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002753#posterior-spinocerebellar-tract-1
    :name: posterior spinocerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002753
+   :synonym: dorsal spinocerebellar tract, flechsig's tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32923,6 +34114,7 @@ posteriorSubcentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002909#posterior-subcentral-sulcus-1
    :name: posterior subcentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002909
+   :synonym: sulcus subcentralis posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32941,6 +34133,7 @@ posteriorSuperiorAlveolarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018401#posterior-superior-alveolar-nerve
    :name: posterior superior alveolar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018401
+   :synonym: posterior superior dental nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32958,6 +34151,7 @@ posteriorSuperiorFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002814#posterior-superior-fissure-of-cerebellum
    :name: posterior superior fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002814
+   :synonym: fissura post clivalis, post-clival fissure, postclival fissure, postlunate fissure, superior posterior cerebellar fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32992,6 +34186,7 @@ posteriorTemporalFusiformGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022397#posterior-temporal-fusiform-gyrus
    :name: posterior temporal fusiform gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022397
+   :synonym: occipitotemporal (fusiform) gyrus, posterior division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33009,6 +34204,7 @@ posteriorThalamicPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022243#posterior-thalamic-peduncle
    :name: posterior thalamic peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022243
+   :synonym: occipital peduncle, occipital thalamic peduncle, pedunculus ventrocaudalis thalami, posterior peduncle, ventrocaudal thalamic peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33027,6 +34223,7 @@ posteriorThalamicRadiation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034747#posterior-thalamic-radiation
    :name: posterior thalamic radiation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034747
+   :synonym: radiatio posterior thalami, radiatio thalamica posterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33045,6 +34242,7 @@ posteriorTransverseTemporalArea42
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006096#posterior-transverse-termporal-area-42
    :name: posterior transverse temporal area 42
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006096
+   :synonym: B09-42, BA42, Brodmann (1909) area 42, Brodmann area 42, Brodmann area 42, posterior transverse temporal, Brodmann's area 42, area 42 of Brodmann, area 42 of Brodmann-1909, area temporalis transversa posterior, auditory association area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33063,6 +34261,7 @@ posteriorTransverseTemporalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002774#posterior-transverse-temporal-gyrus-1
    :name: posterior transverse temporal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002774
+   :synonym: posterior transverse convolution of heschl, posterior transverse temporal convolution of heschl
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33098,6 +34297,7 @@ posterolateralCorticalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034999#posterolateral-cortical-amygdaloid-nucleus
    :name: posterolateral cortical amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034999
+   :synonym: posterolateral cortical amygdaloid area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33116,6 +34316,7 @@ posterolateralFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002818#posterolateral-fissure-of-cerebellum
    :name: posterolateral fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002818
+   :synonym: dorsolateral fissure of cerebellum, prenodular fissure, prenodular sulcus, uvulonodular fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33236,6 +34437,7 @@ posteroventralCochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002831#posteroventral-cochlear-nucleus-1
    :name: posteroventral cochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002831
+   :synonym: posterior part of anterior cochlear nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33254,6 +34456,7 @@ postganglionicAutonomicFiber
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011924#postganglionic-autonomic-fiber
    :name: postganglionic autonomic fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011924
+   :synonym: postganglionic nerve fiber
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33326,6 +34529,7 @@ postnatalSubventricularZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004922#subventricular-zone
    :name: postnatal subventricular zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004922
+   :synonym: SEZ, SVZ, adult subventricular zone, brain subventricular zone, subventricular zone, subventricular zone of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33343,6 +34547,7 @@ postopticCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003936#postoptic-commissure
    :name: postoptic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003936
+   :synonym: POC, post optic commissure, post-optic commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33431,6 +34636,7 @@ preBotzingerComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006007#pre-botzinger-complex
    :name: pre-Botzinger complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006007
+   :synonym: Pre-Bötzinger complex, preBötC
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33449,6 +34655,7 @@ precentralFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014473#precentral-fissure-of-cerebellum
    :name: precentral fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014473
+   :synonym: fissura postlingualis cerebelli, fissura praecentralis, fissura precentralis cerebelli, post-lingual fissure of cerebellum, postlingual fissure, precentral fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33468,6 +34675,7 @@ precentralGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002703#precentral-gyrus-1
    :name: precentral gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002703
+   :synonym: precentral convolution, prerolandic gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33487,6 +34695,7 @@ precentralOperculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002605#precentral-operculum-1
    :name: precentral operculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002605
+   :synonym: operculum precentrale
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33524,6 +34733,7 @@ precommissuralFornixOfForebrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014539#precommissural-fornix
    :name: precommissural fornix of forebrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014539
+   :synonym: fornix precommissuralis, precommissural fornix
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33541,6 +34751,7 @@ preculminateFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035926#preculminate-fissure-of-cerebellum
    :name: preculminate fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035926
+   :synonym: fissura preculminalis, preculminate fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33560,6 +34771,7 @@ precuneusCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006093#precuneus-cortex-1
    :name: precuneus cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006093
+   :synonym: precuneate lobule, precuneus, quadrate lobule
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33578,6 +34790,7 @@ predorsalBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002754#predorsal-bundle-1
    :name: predorsal bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002754
+   :synonym: predorsal bundle of Edinger, predorsal fasciculus, tectospinal fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33597,6 +34810,7 @@ prefrontalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000451#prefrontal-cortex-1
    :name: prefrontal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000451
+   :synonym: prefrontal association cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33615,6 +34829,7 @@ preganglionicAutonomicFiber
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011925#preganglionic-autonomic-fiber
    :name: preganglionic autonomic fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011925
+   :synonym: preganglionic nerve fiber
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33687,6 +34902,7 @@ premammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002712#premammillary-nucleus-1
    :name: premammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002712
+   :synonym: premammillary nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33706,6 +34922,7 @@ premotorCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016634#premotor-cortex
    :name: premotor cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016634
+   :synonym: premotor cortex (area 6)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33725,6 +34942,7 @@ preoccipitalNotch
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002698#preoccipital-notch-1
    :name: preoccipital notch
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002698
+   :synonym: incisura parieto-occipitalis, incisura praeoccipitalis, incisura preoccipitalis, occipital notch, preoccipital incisura, preoccipital incisure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33743,6 +34961,7 @@ preolivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002976#preolivary-nucleus-1
    :name: preolivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002976
+   :synonym: preolivary nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33780,6 +34999,7 @@ preopticArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001928#preoptic-area-1
    :name: preoptic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001928
+   :synonym: preoptic nuclei, preoptic region of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33817,6 +35037,7 @@ preopticPeriventricularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002622#preoptic-periventricular-nucleus-1
    :name: preoptic periventricular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002622
+   :synonym: nucleus preopticus periventricularis, periventricular preoptic nucleus, preoptic periventricular hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33852,6 +35073,7 @@ prepyramidalFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002816#prepyramidal-fissure-of-cerebellum
    :name: prepyramidal fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002816
+   :synonym: fissura inferior anterior, fissura parafloccularis, fissura praepyramidalis, fissura prebiventralis cerebelli, fissura prepyramidalis, fissura prepyramidalis cerebelli, prebiventral fissure of cerebellum, prepyramidal sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33870,6 +35092,7 @@ prepyriformArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002590#piriform-cortex-1
    :name: prepyriform area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002590
+   :synonym: (pre-)piriform cortex, gyrus olfactorius lateralis, lateral olfactory gyrus, piriform cortex (price), piriform olfactory cortex, prepiriform cortex, prepyriform cortex, pyriform area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33889,6 +35112,7 @@ presubiculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001953#presubiculum-1
    :name: presubiculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001953
+   :synonym: presubicular cortex (presubiculum), presubiculum (Cajal)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33925,6 +35149,7 @@ pretectalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014450#nucleus-of-pretectal-area
    :name: pretectal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014450
+   :synonym: nucleus of pretectal area, pretectal area nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33944,6 +35169,7 @@ pretectalRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001944#pretectal-region-1
    :name: pretectal region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001944
+   :synonym: area pretectalis, nuclei pretectales, pretectal area, pretectal nuclei, pretectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33962,6 +35188,7 @@ prevertebralGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003964#prevertebral-ganglion
    :name: prevertebral ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003964
+   :synonym: collateral ganglion, previsceral ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33980,6 +35207,7 @@ primaryAuditoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034751#primary-auditory-cortex
    :name: primary auditory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034751
+   :synonym: primary auditory cortex (core)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -33998,6 +35226,7 @@ primaryDorsalNerveCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005054#primary-dorsal-nerve-cord
    :name: primary dorsal nerve cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005054
+   :synonym: dorsal nerve cord, true dorsal nerve cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34016,6 +35245,7 @@ primaryFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014471#primary-fissure-of-cerebellum
    :name: primary fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014471
+   :synonym: fissura preclivalis, fissura prima, fissura prima cerebelli, fissura superior anterior, preclival fissure, primary sulcus of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34035,6 +35265,7 @@ primaryMotorCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001384#primary-motor-cortex-1
    :name: primary motor cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001384
+   :synonym: motor cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34122,6 +35353,7 @@ primaryNerveCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005053#primary-nerve-cord
    :name: primary nerve cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005053
+   :synonym: nerve cord, true nerve cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34284,6 +35516,7 @@ primarySomatosensoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008933#primary-somatosensory-cortex
    :name: primary somatosensory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008933
+   :synonym: primary somatosensory cortex (area S1, areas 3,1,2), somatosensory area 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34302,6 +35535,7 @@ primarySomatosensoryCortexLayer6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023859#primary-somatosensory-cortex-lamina-vi
    :name: primary somatosensory cortex layer 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023859
+   :synonym: primary somatosensory cortex lamina VI
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34408,6 +35642,7 @@ primaryVisualCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002436#primary-visual-cortex
    :name: primary visual cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002436
+   :synonym: BA17, Brodmann (1909) area 17, Brodmann area 17, Brodmann area 17, striate, area 17 of Brodmann-1909, b09-17, striate cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34480,6 +35715,7 @@ principalInferiorOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002158#principal-inferior-olivary-nucleus
    :name: principal inferior olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002158
+   :synonym: chief inferior olivary nucleus, convoluted olive, inferior olivary complex, principal olive, inferior olive principal nucleus, inferior olive, principal nucleus, main olivary nucleus, nucleus olivaris principalis, principal nucleus of inferior olive, principal olivary nucleus, principal olive
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34515,6 +35751,7 @@ principalNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011178#principal-nucleus-of-stria-terminalis
    :name: principal nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011178
+   :synonym: bed nuclei of the stria terminalis, posterior division, principal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34533,6 +35770,7 @@ principalPartOfVentralPosteromedialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003024#principal-part-of-ventral-posteromedial-nucleus-1
    :name: principal part of ventral posteromedial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003024
+   :synonym: nucleus ventralis posteromedialis, pars prinicipalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34570,6 +35808,7 @@ principalSensoryNucleusOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002597#principal-sensory-nucleus-of-trigeminal-nerve-1
    :name: principal sensory nucleus of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002597
+   :synonym: chief sensory nucleus, main sensory nucleus, main sensory nucleus of cranial nerve v, principal sensory nucleus, principal sensory trigeminal nucleus, principal trigeminal nucleus, superior trigeminal nucleus, superior trigeminal sensory nucleus, trigeminal V chief sensory nucleus, trigeminal V principal sensory nucleus, trigeminal nerve superior sensory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34677,6 +35916,7 @@ prosomere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014775#prosomere
    :name: prosomere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014775
+   :synonym: forebrain neuromere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34695,6 +35935,7 @@ pterygopalatineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003962#pterygopalatine-ganglion
    :name: pterygopalatine ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003962
+   :synonym: Meckel ganglion, Meckel's ganglion, nasal ganglion, palatine ganglion, pterygopalatine ganglia, sphenopalatine ganglion, sphenopalatine parasympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34713,6 +35954,7 @@ pterygopalatineNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034725#pterygopalatine-nerve
    :name: pterygopalatine nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034725
+   :synonym: ganglionic branch of maxillary nerve to pterygopalatine ganglion, radix sensoria ganglii pterygopalatini, sensory root of pterygopalatine ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34767,6 +36009,7 @@ pulmonaryNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002009#pulmonary-nerve-plexus
    :name: pulmonary nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002009
+   :synonym: plexus pulmonalis, pulmonary plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34785,6 +36028,7 @@ pulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002981#pulvinar
    :name: pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002981
+   :synonym: nuclei pulvinares, pulvinar, pulvinar nuclei, pulvinar thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34804,6 +36048,7 @@ putamen
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001874#putamen-1
    :name: putamen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001874
+   :synonym: nucleus putamen
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34822,6 +36067,7 @@ pyramidOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005159#pyramid-of-medulla-oblongata
    :name: pyramid of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005159
+   :synonym: lobule VIII of Larsell, pyramis (medullae oblongatae), pyramis bulbi, pyramis medullae oblongatae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34840,6 +36086,7 @@ pyramidalDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002755#pyramidal-decussation-1
    :name: pyramidal decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002755
+   :synonym: corticospinal decussation, decussatio pyramidum, decussatio pyramidum medullae oblongatae, decussation of corticospinal tract, decussation of pyramidal tract fibers, decussation of pyramids, decussation of pyramids of medulla, decussation of the pyramidal tract, motor decussation, motor decussation of medulla, pyramidal decussation (pourfour du petit), pyramidal tract decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34859,6 +36106,7 @@ pyramidalLayerOfCA1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014548#ca1-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014548
+   :synonym: CA1 part of stratum pyramidale hippocampi, CA1 stratum pyramidale hippocampi, field CA1, pyramidal layer, stratum pyramidale of CA1, stratum pyramidale of the CA1 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34878,6 +36126,7 @@ pyramidalLayerOfCA2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014549#ca2-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014549
+   :synonym: CA2 part of stratum pyramidale hippocampi, CA2 stratum pyramidale hippocampi, field CA2, pyramidal layer, stratum pyramidale of CA2, stratum pyramidale of the CA2 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34896,6 +36145,7 @@ pyramidalLayerOfCA3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014550#ca3-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014550
+   :synonym: CA3 part of stratum pyramidale hippocampi, CA3 stratum pyramidale hippocampi, field CA3, pyramidal layer, stratum pyramidale of CA3, stratum pyramidale of the CA3 field
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34931,6 +36181,7 @@ quadrigeminalCistern
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004052#quadrigeminal-cistern
    :name: quadrigeminal cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004052
+   :synonym: ambient cistern, cistern of great cerebral vein, cisterna ambiens, cisterna quadrigeminalis, cisterna venae magnae cerebri, superior cistern
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34966,6 +36217,7 @@ radiationOfCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022260#radiation-of-cerebral-hemisphere
    :name: radiation of cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022260
+   :synonym: cerebral hemisphere radiation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34984,6 +36236,7 @@ radiationOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035924#radiation-of-corpus-callosum
    :name: radiation of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035924
+   :synonym: corpus callosum radiation, radiatio corporis callosi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35002,6 +36255,7 @@ radiationOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034745#radiation-of-thalamus
    :name: radiation of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034745
+   :synonym: thalamus radiation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35434,6 +36688,7 @@ rapheNuclei
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004684#raphe-nuclei-1
    :name: raphe nuclei
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004684
+   :synonym: nuclei raphes, raphe nuclei set
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35452,6 +36707,7 @@ recurrentLaryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003716#recurrent-laryngeal-nerve
    :name: recurrent laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003716
+   :synonym: nervus laryngeus recurrens, recurrent laryngeal nerve from vagus nerve, vagus X nerve recurrent laryngeal branch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35471,6 +36727,7 @@ redNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001947#red-nucleus-1
    :name: red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001947
+   :synonym: nucleus ruber
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35523,6 +36780,7 @@ renalNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018676#renal-nerve-plexus
    :name: renal nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018676
+   :synonym: plexus renalis, renal plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35542,6 +36800,7 @@ reticularFormation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002275#reticular-formation
    :name: reticular formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002275
+   :synonym: brain stem reticular formation, brainstem reticular formation, reticular formation (classical), reticular formation of the brainstem
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35579,6 +36838,7 @@ reticulotegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002147#reticulotegmental-nucleus-1
    :name: reticulotegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002147
+   :synonym: nucleus reticularis tegmenti pontis, reticular tegmental nucleus, reticulotegmental nucleus of pons, tegmental reticular nucleus, pontine gray
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35597,6 +36857,7 @@ retina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000966#retina-1
    :name: retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000966
+   :synonym: inner layer of eyeball, retina of camera-type eye, tunica interna of eyeball
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35615,6 +36876,7 @@ retinaBloodVessel
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003501#retina-blood-vessel
    :name: retina blood vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003501
+   :synonym: blood vessel of inner layer of eyeball, blood vessel of retina, blood vessel of tunica interna of eyeball, inner layer of eyeball blood vessel, retinal blood vessel, tunica interna of eyeball blood vessel
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35633,6 +36895,7 @@ retinalNeuralLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003902#retinal-neural-layer
    :name: retinal neural layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003902
+   :synonym: neural layer of retina, neural retina, neuroretina, stratum nervosum (retina), stratum nervosum retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35668,6 +36931,7 @@ retroOlivaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035930#retro-olivary-nucleus
    :name: retro-olivary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035930
+   :synonym: nucleus retro-olivaris, retro-olivary cell group
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35686,6 +36950,7 @@ retroambiguusNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016848#retroambiguus-nucleus
    :name: retroambiguus nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016848
+   :synonym: nucleus retroambiguus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35704,6 +36969,7 @@ retrochiasmaticArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1
    :name: retrochiasmatic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001933
+   :synonym: retrochiasmatic region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35721,6 +36987,7 @@ retrohippocampalRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022230#retrohippocampal-region
    :name: retrohippocampal region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022230
+   :synonym: retrohippocampal cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35738,6 +37005,7 @@ retrolenticularPartOfInternalCapsule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034749#retrolenticular-part-of-internal-capsule
    :name: retrolenticular part of internal capsule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034749
+   :synonym: pars retrolentiformis, postlenticular portion of internal capsule, retrolenticular limb, retrolentiform limb
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35757,6 +37025,7 @@ retrorubralAreaOfMidbrainReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011172#retrorubral-area-of-midbrain-reticular-nucleus
    :name: retrorubral area of midbrain reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011172
+   :synonym: midbrain reticular nucleus, retrorubral area, retrorubral area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35829,6 +37098,7 @@ reuniensNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1
    :name: reuniens nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001921
+   :synonym: medioventral nucleus, nucleus reuniens, reuniens thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35848,6 +37118,7 @@ rhinalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002683#rhinal-sulcus-1
    :name: rhinal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002683
+   :synonym: fissura rhinalis, rhinal fissuer (Turner, Rezius), rhinal fissure, sulcus rhinalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35885,6 +37156,7 @@ rhomboidalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002955#rhomboidal-nucleus-1
    :name: rhomboidal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002955
+   :synonym: rhomboid nucleus, rhomboid thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35903,6 +37175,7 @@ rhombomere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001892#rhombomere-1
    :name: rhombomere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001892
+   :synonym: hindbrain neuromere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35921,6 +37194,7 @@ rhombomere1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005499#rhombomere-1
    :name: rhombomere 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005499
+   :synonym: r1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35938,6 +37212,7 @@ rhombomere10
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019285#rhombomere-10
    :name: rhombomere 10
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019285
+   :synonym: r10
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35955,6 +37230,7 @@ rhombomere11
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019286#rhombomere-11
    :name: rhombomere 11
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019286
+   :synonym: r11
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35972,6 +37248,7 @@ rhombomere1FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005566#rhombomere-floor-plate
    :name: rhombomere 1 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005566
+   :synonym: floor plate r1, floor plate rhombomere 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35990,6 +37267,7 @@ rhombomere1LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005567#rhombomere-lateral-wall
    :name: rhombomere 1 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005567
+   :synonym: lateral wall rhombomere 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36008,6 +37286,7 @@ rhombomere1RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005568#rhombomere-roof-plate
    :name: rhombomere 1 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005568
+   :synonym: roof plate rhombomere 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36026,6 +37305,7 @@ rhombomere2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005569#rhombomere-2
    :name: rhombomere 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005569
+   :synonym: r2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36044,6 +37324,7 @@ rhombomere2FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005570#rhombomere-2-floor-plate
    :name: rhombomere 2 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005570
+   :synonym: floor plate r2, floor plate rhombomere 2, floorplate r2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36062,6 +37343,7 @@ rhombomere2LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005571#rhombomere-2-lateral-wall
    :name: rhombomere 2 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005571
+   :synonym: lateral wall rhombomere 2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36080,6 +37362,7 @@ rhombomere2RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005572#rhombomere-2-roof-plate
    :name: rhombomere 2 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005572
+   :synonym: roof plate rhombomere 2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36098,6 +37381,7 @@ rhombomere3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005507#rhombomere-3
    :name: rhombomere 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005507
+   :synonym: r3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36116,6 +37400,7 @@ rhombomere3FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005573#rhombomere-3-floor-plate
    :name: rhombomere 3 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005573
+   :synonym: floor plate r3, floor plate rhombomere 3, floorplate r3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36134,6 +37419,7 @@ rhombomere3LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005574#rhombomere-3-lateral-wall
    :name: rhombomere 3 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005574
+   :synonym: lateral wall rhombomere 3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36152,6 +37438,7 @@ rhombomere3RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005575#rhombomere-3-roof-plate
    :name: rhombomere 3 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005575
+   :synonym: roof plate rhombomere 3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36170,6 +37457,7 @@ rhombomere4
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005511#rhombomere-4
    :name: rhombomere 4
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005511
+   :synonym: r4
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36188,6 +37476,7 @@ rhombomere4FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005576#rhombomere-4-floor-plate
    :name: rhombomere 4 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005576
+   :synonym: floor plate r4, floor plate rhombomere 4, floorplate r4
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36206,6 +37495,7 @@ rhombomere4LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005577#rhombomere-4-lateral-wall
    :name: rhombomere 4 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005577
+   :synonym: lateral wall rhombomere 4
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36224,6 +37514,7 @@ rhombomere4RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005578#rhombomere-4-roof-plate
    :name: rhombomere 4 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005578
+   :synonym: roof plate rhombomere 4
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36242,6 +37533,7 @@ rhombomere5
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005515#rhombomere-5
    :name: rhombomere 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005515
+   :synonym: r5
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36260,6 +37552,7 @@ rhombomere5FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005579#rhombomere-5-floor-plate
    :name: rhombomere 5 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005579
+   :synonym: floor plate r5, floor plate rhombomere 5, floorplate r5
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36278,6 +37571,7 @@ rhombomere5LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005580#rhombomere-5-lateral-wall
    :name: rhombomere 5 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005580
+   :synonym: lateral wall rhombomere 5
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36296,6 +37590,7 @@ rhombomere5RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005581#rhombomere-5-roof-plate
    :name: rhombomere 5 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005581
+   :synonym: roof plate rhombomere 5
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36314,6 +37609,7 @@ rhombomere6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005519#rhombomere-6
    :name: rhombomere 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005519
+   :synonym: r6
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36332,6 +37628,7 @@ rhombomere6FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005582#rhombomere-6-floor-plate
    :name: rhombomere 6 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005582
+   :synonym: floor plate r6, floor plate rhombomere 6, floorplate r6
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36350,6 +37647,7 @@ rhombomere6LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005583#rhombomere-6-lateral-wall
    :name: rhombomere 6 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005583
+   :synonym: lateral wall rhombomere 6
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36368,6 +37666,7 @@ rhombomere6RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005584#rhombomere-6-roof-plate
    :name: rhombomere 6 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005584
+   :synonym: roof plate rhombomere 6
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36386,6 +37685,7 @@ rhombomere7
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005523#rhombomere-7
    :name: rhombomere 7
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005523
+   :synonym: r7
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36404,6 +37704,7 @@ rhombomere7FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005585#rhombomere-7-floor-plate
    :name: rhombomere 7 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005585
+   :synonym: floor plate r7, floor plate rhombomere 7, floorplate r7
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36422,6 +37723,7 @@ rhombomere7LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005586#rhombomere-7-lateral-wall
    :name: rhombomere 7 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005586
+   :synonym: lateral wall rhombomere 7
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36440,6 +37742,7 @@ rhombomere7RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005587#rhombomere-7-roof-plate
    :name: rhombomere 7 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005587
+   :synonym: roof plate rhombomere 7
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36458,6 +37761,7 @@ rhombomere8
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005527#rhombomere-8
    :name: rhombomere 8
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005527
+   :synonym: r8
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36476,6 +37780,7 @@ rhombomere8FloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005588#rhombomere-8-floor-plate
    :name: rhombomere 8 floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005588
+   :synonym: floor plate r8, floor plate rhombomere 8, floorplate r8
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36494,6 +37799,7 @@ rhombomere8LateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005589#rhombomere-8-lateral-wall
    :name: rhombomere 8 lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005589
+   :synonym: lateral wall rhombomere 8
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36512,6 +37818,7 @@ rhombomere8RoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005590#rhombomere-8-roof-plate
    :name: rhombomere 8 roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005590
+   :synonym: roof plate rhombomere 8
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36529,6 +37836,7 @@ rhombomere9
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019284#rhombomere-9
    :name: rhombomere 9
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019284
+   :synonym: r9
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36546,6 +37854,7 @@ rhombomereFloorPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005500#rhombomere-floor-plate
    :name: rhombomere floor plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005500
+   :synonym: floor plate hindbrain, floor plate rhombomere region, rhombencephalon floor plate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36581,6 +37890,7 @@ rhombomereRoofPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005502#rhombomere-roof-plate
    :name: rhombomere roof plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005502
+   :synonym: roof plate rhombomere, roof plate rhombomere region, roof plate rhombomeres
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36617,6 +37927,7 @@ rightCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002813#right-cerebral-hemisphere-1
    :name: right cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002813
+   :synonym: right hemisphere
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36689,6 +38000,7 @@ rightLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013162#right-lateral-ventricle
    :name: right lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013162
+   :synonym: right telencephalic ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36778,6 +38090,7 @@ rightRecurrentLaryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011767#right-recurrent-laryngeal-nerve
    :name: right recurrent laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011767
+   :synonym: right recurrent laryngeal branch, vagus X nerve right recurrent laryngeal branch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36830,6 +38143,7 @@ rightVagusXNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035021#right-vagus-x-nerve-trunk
    :name: right vagus X nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035021
+   :synonym: right vagus neural trunk, trunk of right vagus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36866,6 +38180,7 @@ roofPlateOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003301#roof-plate-of-diencephalon
    :name: roof plate of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003301
+   :synonym: between brain roof plate, between brain roofplate, diencephalon roof plate, diencephalon roofplate, interbrain roof plate, interbrain roofplate, mature diencephalon roof plate, mature diencephalon roofplate, roof plate diencephalic region, roof plate diencephalon, roof plate of between brain, roof plate of interbrain, roof plate of mature diencephalon, roofplate of between brain, roofplate of diencephalon, roofplate of interbrain, roofplate of mature diencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36884,6 +38199,7 @@ roofPlateOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003303#roof-plate-of-medulla-oblongata
    :name: roof plate of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003303
+   :synonym: bulb roof plate, bulb roofplate, medulla oblongata roof plate, medulla oblongata roofplate, medulla oblonmgata roof plate, medulla oblonmgata roofplate, metepencephalon roof plate, metepencephalon roofplate, roof plate medulla oblongata, roof plate of bulb, roof plate of medulla oblonmgata, roof plate of metepencephalon, roofplate of bulb, roofplate of medulla oblongata, roofplate of medulla oblonmgata, roofplate of metepencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36902,6 +38218,7 @@ roofPlateOfMetencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003302#roof-plate-of-metencephalon
    :name: roof plate of metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003302
+   :synonym: epencephalon-2 roof plate, epencephalon-2 roofplate, metencephalon roof plate, metencephalon roofplate, roof plate metencephalon, roof plate of epencephalon-2, roofplate of epencephalon-2, roofplate of metencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36920,6 +38237,7 @@ roofPlateOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003299#roof-plate-of-midbrain
    :name: roof plate of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003299
+   :synonym: midbrain roof plate, midbrain roofplate, roof plate midbrain, roof plate midbrain region, roofplate of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36938,6 +38256,7 @@ roofPlateOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003300#roof-plate-of-telencephalon
    :name: roof plate of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003300
+   :synonym: roof plate telencephalon, roofplate of telencephalon, telencephalon roof plate, telencephalon roofplate
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36956,6 +38275,7 @@ roofPlateSpinalCordRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005724#roof-plate-spinal-cord-region
    :name: roof plate spinal cord region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005724
+   :synonym: roof plate spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36975,6 +38295,7 @@ rootOfAbducensNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002786#abducens-nerve-fibers
    :name: root of abducens nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002786
+   :synonym: abducens nerve fibers, abducens nerve tract, central part of abducens nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -36992,6 +38313,7 @@ rootOfCervicalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009632#nerve-root-part-of-cervical-spinal-cord
    :name: root of cervical nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009632
+   :synonym: cervical neural root, cervical spinal root, nerve root part of cervical spinal cord, root of cervical spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37010,6 +38332,7 @@ rootOfCoccygealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009634#root-of-coccygeal-nerve
    :name: root of coccygeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009634
+   :synonym: coccygeal neural root, coccygeal spinal nerve root, root of coccygeal spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37028,6 +38351,7 @@ rootOfCranialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006843#root-of-cranial-nerve
    :name: root of cranial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006843
+   :synonym: cranial nerve root, cranial neural root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37046,6 +38370,7 @@ rootOfLumbarSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009631#nerve-root-part-of-lumbar-spinal-cord
    :name: root of lumbar spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009631
+   :synonym: lumbar spinal nerve root, lumbar spinal neural root, nerve root part of lumbar spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37065,6 +38390,7 @@ rootOfOlfactoryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019311#olfactory-nerve-root
    :name: root of olfactory nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019311
+   :synonym: olfactory nerve root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37084,6 +38410,7 @@ rootOfOpticNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009906#optic-nerve-root
    :name: root of optic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009906
+   :synonym: optic nerve root, optic tract root, root of optic tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37102,6 +38429,7 @@ rootOfSacralNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009633#nerve-root-part-of-sacral-spinal-cord
    :name: root of sacral nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009633
+   :synonym: nerve root part of sacral spinal cord, root of sacral spinal nerve, sacral neural root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37120,6 +38448,7 @@ rootOfThoracicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009630#nerve-root-part-of-thoracic-spinal-cord
    :name: root of thoracic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009630
+   :synonym: nerve root part of thoracic spinal cord, thoracic nerve root, thoracic neural root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37138,6 +38467,7 @@ rootOfTrochlearNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002618#trochlear-nerve-fibers
    :name: root of trochlear nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002618
+   :synonym: central part of trochlear nerve, trochlear nerve fibers, trochlear nerve root, trochlear nerve tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37157,6 +38487,7 @@ rootOfVagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011213#vagus-nerve-root
    :name: root of vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011213
+   :synonym: rootlet of vagus nerve, vagal root, vagus nerve root, vagus root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37298,6 +38629,7 @@ rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002717#rostral-interstitial-nucleus-of-medial-longitudinal-fasciculus-1
    :name: rostral interstitial nucleus of medial longitudinal fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002717
+   :synonym: riMLF, rostral interstitial nucleus of MLF
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37316,6 +38648,7 @@ rostralIntralaminarNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002965#rostral-intralaminar-nuclei
    :name: rostral intralaminar nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002965
+   :synonym: anterior group of intralaminar nuclei, nuclei intralaminares rostrales, rostral group of intralaminar nuclei, rostral intralaminar nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37335,6 +38668,7 @@ rostralLinearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013734#rostral-linear-nucleus-1
    :name: rostral linear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013734
+   :synonym: RLi, anterior linear nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37371,6 +38705,7 @@ rostralMiddleFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006446#rostral-middle-frontal-gyrus-1
    :name: rostral middle frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006446
+   :synonym: anterior part of middle frontal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37425,6 +38760,7 @@ rostralOctavalNerveMotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002175#rostral-octaval-nerve-motor-nucleus
    :name: rostral octaval nerve motor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002175
+   :synonym: ROLE, rostral cranial nerve VIII motor nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37564,6 +38900,7 @@ rostralTuberalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000581#rostral-tuberal-nucleus
    :name: rostral tuberal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000581
+   :synonym: anterior tuberal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37582,6 +38919,7 @@ rostralVentrolateralMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005807#rostral-ventrolateral-medulla
    :name: rostral ventrolateral medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005807
+   :synonym: RVLM, medulla pressor
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37670,6 +39008,7 @@ rubrospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002714#rubrospinal-tract-1
    :name: rubrospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002714
+   :synonym: Monakow's tract, rubrospinal tract (Monakow)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37688,6 +39027,7 @@ sacculeOfMembranousLabyrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001854#saccule-of-membranous-labyrinth
    :name: saccule of membranous labyrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001854
+   :synonym: membranous labyrinth saccule, saccule, sacculus, sacculus (labyrinthus vestibularis)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37741,6 +39081,7 @@ sacralDivisionOfSpinalCordCentralCanal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014547#sacral-division-of-spinal-cord-central-canal
    :name: sacral division of spinal cord central canal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014547
+   :synonym: sacral spinal cord central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37758,6 +39099,7 @@ sacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002837#sacral-dorsal-root-ganglion-1
    :name: sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002837
+   :synonym: sacral spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37776,6 +39118,7 @@ sacralNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009625#sacral-nerve
    :name: sacral nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009625
+   :synonym: nervus sacralis, sacral spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37794,6 +39137,7 @@ sacralNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034986#sacral-nerve-plexus
    :name: sacral nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034986
+   :synonym: plexus sacralis, sacral plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37812,6 +39156,7 @@ sacralSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005843#sacral-spinal-cord-1
    :name: sacral spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005843
+   :synonym: pars sacralis medullae spinalis, sacral segment of spinal cord, sacral segments of spinal cord [1-5], segmenta sacralia medullae spinalis [1-5]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37830,6 +39175,7 @@ sacralSpinalCordDorsalColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005840#sacral-spinal-cord-dorsal-column-1
    :name: sacral spinal cord dorsal column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005840
+   :synonym: sacral spinal cord posterior column, sacral subsegment of dorsal funiculus of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37952,6 +39298,7 @@ sacralSpinalCordVentralCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007835#sacral-spinal-cord-ventral-commissure-1
    :name: sacral spinal cord ventral commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007835
+   :synonym: sacral spinal cord anterior commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38021,6 +39368,7 @@ sacralSympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034902#sacral-sympathetic-nerve-trunk
    :name: sacral sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034902
+   :synonym: sacral part of sympathetic trunk, sacral sympathetic chain, sacral sympathetic trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38038,6 +39386,7 @@ sagitta
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000676#sagitta
    :name: sagitta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000676
+   :synonym: saccular otolith, sacculith
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38109,6 +39458,7 @@ sagulumNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022423#sagulum-nucleus
    :name: sagulum nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022423
+   :synonym: nucleus saguli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38126,6 +39476,7 @@ salivatoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004133#salivatory-nucleus
    :name: salivatory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004133
+   :synonym: salivary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38179,6 +39530,7 @@ secondCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002839#second-cervical-dorsal-root-ganglion-1
    :name: second cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002839
+   :synonym: C2 dorsal root ganglion, second cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38196,6 +39548,7 @@ secondLumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002856#second-lumbar-dorsal-root-ganglion-1
    :name: second lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002856
+   :synonym: second lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38213,6 +39566,7 @@ secondLumbarSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006450#second-lumbar-spinal-cord-segment-1
    :name: second lumbar spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006450
+   :synonym: L2 spinal cord segment, l2 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38230,6 +39584,7 @@ secondSacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002861#second-sacral-dorsal-root-ganglion-1
    :name: second sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002861
+   :synonym: second sacral spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38247,6 +39602,7 @@ secondSacralSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006461#second-sacral-spinal-cord-segment-1
    :name: second sacral spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006461
+   :synonym: S2 segment, S2 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38264,6 +39620,7 @@ secondThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002846#second-thoracic-dorsal-root-ganglion-1
    :name: second thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002846
+   :synonym: second thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38281,6 +39638,7 @@ secondThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006458#second-thoracic-spinal-cord-segment-1
    :name: second thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006458
+   :synonym: T2 spinal cord segment, t2 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38299,6 +39657,7 @@ secondaryAuditoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034752#secondary-auditory-cortex
    :name: secondary auditory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034752
+   :synonym: belt auditory area, peripheral auditory cortex, second auditory area, secondary auditory cortex (belt, area 42)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38317,6 +39676,7 @@ secondaryFissureOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002817#secondary-fissure-of-cerebellum
    :name: secondary fissure of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002817
+   :synonym: fissura postpyramidalis cerebelli, post-pyramidal fissure of cerebellum, postpyramidal fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38405,6 +39765,7 @@ secondaryOlfactoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002895#secondary-olfactory-cortex-1
    :name: secondary olfactory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002895
+   :synonym: secondary olfactory areas, secondary olfactory cortical area (carpenter)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38441,6 +39802,7 @@ secondarySomatosensoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008934#secondary-somatosensory-cortex
    :name: secondary somatosensory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008934
+   :synonym: somatosensory area 2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38494,6 +39856,7 @@ segmentalSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005197#segmental-spinal-nerve
    :name: segmental spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005197
+   :synonym: cervical segmental spinal nerves C1-7
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38513,6 +39876,7 @@ segmentalSubdivisionOfHindbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004733#segmental-subdivision-of-hindbrain
    :name: segmental subdivision of hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004733
+   :synonym: hindbrain segment, segment of hindbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38620,6 +39984,7 @@ sensoryGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001800#sensory-ganglion
    :name: sensory ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001800
+   :synonym: ganglion sensorium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38638,6 +40003,7 @@ sensoryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001027#sensory-nerve
    :name: sensory nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001027
+   :synonym: nervus sensorius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38656,6 +40022,7 @@ sensoryReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012451#sensory-receptor
    :name: sensory receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012451
+   :synonym: peripheral ending of sensory neuron
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38674,6 +40041,7 @@ sensoryRootOfFacialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001699#sensory-root-of-facial-nerve
    :name: sensory root of facial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001699
+   :synonym: sensory component of the VIIth (facial) nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38691,6 +40059,7 @@ sensoryRootOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009907#sensory-root-of-trigeminal-nerve
    :name: sensory root of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009907
+   :synonym: radix sensoria (nervus trigeminus [v]), radix sensoria nervus trigemini
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38710,6 +40079,7 @@ septalNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002663#septal-nuclear-complex-1
    :name: septal nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002663
+   :synonym: parolfactory nuclei, septal nuclei, septal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38746,6 +40116,7 @@ septofimbrialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001878#septofimbrial-nucleus-1
    :name: septofimbrial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001878
+   :synonym: nucleus septofibrialis, scattered nucleus of the septum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38802,6 +40173,7 @@ septumOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000446#septum
    :name: septum of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000446
+   :synonym: area septalis, septal area, septum (NN), telencephalon septum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38821,6 +40193,7 @@ septumPellucidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004714#septal-pellucidum
    :name: septum pellucidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004714
+   :synonym: septal pellucidum, septum pellucidum of telencephalic ventricle, supracommissural septum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38838,6 +40211,7 @@ seventhCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002843#seventh-cervical-dorsal-root-ganglion-1
    :name: seventh cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002843
+   :synonym: C7 dorsal root ganglion, seventh cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38855,6 +40229,7 @@ seventhThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002850#seventh-thoracic-dorsal-root-ganglion-1
    :name: seventh thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002850
+   :synonym: seventh thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38872,6 +40247,7 @@ seventhThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006455#seventh-thoracic-spinal-cord-segment-1
    :name: seventh thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006455
+   :synonym: T7 spinal cord segment, t7 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38890,6 +40266,7 @@ sheathOfSchwann
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001031#sheath-of-schwann
    :name: sheath of Schwann
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001031
+   :synonym: neurilemma, neurolemma
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38909,6 +40286,7 @@ shellOfNucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012171#shell-of-nucleus-accumbens-1
    :name: shell of nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012171
+   :synonym: nucleus accumbens shell, shell region of nucleus accumbens
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38927,6 +40305,7 @@ shortCiliaryNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022302#short-ciliary-nerve
    :name: short ciliary nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022302
+   :synonym: lower branch of ciliary ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38945,6 +40324,7 @@ shoulderNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003436#shoulder-nerve
    :name: shoulder nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003436
+   :synonym: nerve of shoulder
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38980,6 +40360,7 @@ sixthCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007711#sixth-cervical-dorsal-root-ganglion-1
    :name: sixth cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007711
+   :synonym: C6 dorsal root ganglion, sixth cervical dorsal root ganglia, sixth cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -38997,6 +40378,7 @@ sixthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002849#sixth-thoracic-dorsal-root-ganglion-1
    :name: sixth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002849
+   :synonym: sixth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39014,6 +40396,7 @@ sixthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006454#sixth-thoracic-spinal-cord-segment-1
    :name: sixth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006454
+   :synonym: T6 spinal cord segment, t6 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39032,6 +40415,7 @@ solitaryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002718#solitary-tract-1
    :name: solitary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002718
+   :synonym: respiratory bundle of Gierke
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39050,6 +40434,7 @@ solitaryTractNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002126#solitary-tract-nuclear-complex
    :name: solitary tract nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002126
+   :synonym: nuclei of solitary tract, nucleus tractus solitarii, solitary nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39086,6 +40471,7 @@ somaticNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000012#somatic-nervous-system
    :name: somatic nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000012
+   :synonym: PNS - somatic, somatic nervous system, somatic division, somatic part of peripheral nervous system, somatic peripheral nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39104,6 +40490,7 @@ somaticSensorySystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003942#somatosensory-system
    :name: somatic sensory system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003942
+   :synonym: somatosensory system, system for detection of somatic senses
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39123,6 +40510,7 @@ somatosensoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
    :name: somatosensory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008930
+   :synonym: somatic sensory cortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39177,6 +40565,7 @@ spinalCordAlarPlate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004063#spinal-cord-alar-plate
    :name: spinal cord alar plate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004063
+   :synonym: alar column spinal cord, spinal cord alar column, spinal cord alar lamina
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39195,6 +40584,7 @@ spinalCordArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003560#spinal-cord-arachnoid-mater
    :name: spinal cord arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003560
+   :synonym: arachnoid mater of neuraxis of spinal cord, arachnoid mater of spinal cord, arachnoid of spinal cord, spinal cord arachnoid, spinal cord arachnoid mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39248,6 +40638,7 @@ spinalCordDorsalColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005373#spinal-cord-dorsal-column
    :name: spinal cord dorsal column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005373
+   :synonym: dorsal column, dorsal column of spinal cord, posterior column, spinal cord posterior column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39265,6 +40656,7 @@ spinalCordDorsalWhiteCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007840#spinal-cord-dorsal-white-commissure
    :name: spinal cord dorsal white commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007840
+   :synonym: commissura alba posterior medullae spinalis, dorsal white commissure of spinal cord, posterior white commissure of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39283,6 +40675,7 @@ spinalCordEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005359#spinal-cord-ependyma
    :name: spinal cord ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005359
+   :synonym: ependyma of central canal of spinal cord, spinal cord ependymal layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39301,6 +40694,7 @@ spinalCordGrayCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004677#spinal-cord-gray-commissure-1
    :name: spinal cord gray commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004677
+   :synonym: area spinalis X, gray commissure of spinal cord, lamina X, lamina X of gray matter of spinal cord, rexed lamina X, spinal area X, spinal cord grey commissure, spinal lamina X
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39337,6 +40731,7 @@ spinalCordLateralHorn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004676#spinal-cord-lateral-horn-1
    :name: spinal cord lateral horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004676
+   :synonym: columna grisea intermedia medullare spinalis, intermediate gray column of spinal cord, lateral gray column of spinal cord, lateral gray horn, lateral gray matter of spinal cord, lateral horn of spinal cord, spinal cord intermediate horn
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39372,6 +40767,7 @@ spinalCordLateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009582#spinal-cord-lateral-wall
    :name: spinal cord lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009582
+   :synonym: lateral wall spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39389,6 +40785,7 @@ spinalCordMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009583#spinal-cord-mantle-layer
    :name: spinal cord mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009583
+   :synonym: mantle layer lateral wall spinal cord, spinal cord lateral wall mantle layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39443,6 +40840,7 @@ spinalCordPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003555#spinal-cord-pia-mater
    :name: spinal cord pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003555
+   :synonym: pia mater of neuraxis of spinal cord, pia mater of spinal cord, spinal cord pia mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39460,6 +40858,7 @@ spinalCordReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006319#spinal-cord-reticular-nucleus
    :name: spinal cord reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006319
+   :synonym: spinal reticular nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39478,6 +40877,7 @@ spinalCordSulcusLimitans
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009570#spinal-cord-sulcus-limitans
    :name: spinal cord sulcus limitans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009570
+   :synonym: spinal cord lateral wall sulcus limitans
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39496,6 +40896,7 @@ spinalCordVentralColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005375#spinal-cord-ventral-column
    :name: spinal cord ventral column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005375
+   :synonym: anterior column, spinal cord anterior column, ventral column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39514,6 +40915,7 @@ spinalCordVentralCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004170#spinal-cord-ventral-commissure
    :name: spinal cord ventral commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004170
+   :synonym: anterior white commissure, anterior white commissure of spinal cord, spinal cord anterior commissure, ventral spinal commissure, ventral white column, ventral white commissure of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39531,6 +40933,7 @@ spinalCordVentricularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034710#spinal-cord-ventricular-layer
    :name: spinal cord ventricular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034710
+   :synonym: spinal cord lateral wall ventricular layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39548,6 +40951,7 @@ spinalCordWhiteCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007838#spinal-cord-white-commissure
    :name: spinal cord white commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007838
+   :synonym: white commissure of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39566,6 +40970,7 @@ spinalDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002093#spinal-dura-mater
    :name: spinal dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002093
+   :synonym: dura mater of neuraxis of spinal cord, dura mater of spinal cord, spinal cord dura mater, spinal cord dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39584,6 +40989,7 @@ spinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001780#spinal-nerve
    :name: spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001780
+   :synonym: backbone nerve, nerve of backbone, nerve of spinal column, nerve of spine, nerve of vertebral column, spinal column nerve, spinal nerve tree, spine nerve, vertebral column nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39602,6 +41008,7 @@ spinalNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001813#spinal-nerve-plexus
    :name: spinal nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001813
+   :synonym: plexus nervorum spinalium, plexus of spinal nerves, somatic nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39620,6 +41027,7 @@ spinalNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009623#spinal-nerve-root
    :name: spinal nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009623
+   :synonym: root of spinal nerve, spinal neural root, spinal root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39638,6 +41046,7 @@ spinalNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005476#spinal-nerve-trunk
    :name: spinal nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005476
+   :synonym: spinal nerve (trunk), spinal neural trunk, trunk of spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39656,6 +41065,7 @@ spinalNeuromere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014777#spinal-neuromere
    :name: spinal neuromere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014777
+   :synonym: spinal cord metameric segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39674,6 +41084,7 @@ spinalNucleusOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001717#spinal-nucleus-of-trigeminal-nerve
    :name: spinal nucleus of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001717
+   :synonym: spinal nucleus of cranial nerve v, spinal trigeminal nucleus, trigeminal nerve spinal tract nucleus, trigeminal spinal nucleus, trigeminal v spinal sensory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39747,6 +41158,7 @@ spinoOlivaryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002719#spino-olivary-tract-1
    :name: spino-olivary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002719
+   :synonym: helweg's tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39784,6 +41196,7 @@ spinocerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014643#spinocerebellum
    :name: spinocerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014643
+   :synonym: paleocerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39859,6 +41272,7 @@ spinothalamicTractOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002798#spinothalamic-tract-of-pons-1
    :name: spinothalamic tract of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002798
+   :synonym: pons of varolius spinothalamic tract, pons of varolius spinothalamic tract of medulla, pons spinothalamic tract, pons spinothalamic tract of medulla, spinothalamic tract of medulla of pons, spinothalamic tract of medulla of pons of varolius, spinothalamic tract of pons of varolius
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39896,6 +41310,7 @@ spleniumOfTheCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015708#splenium-of-the-corpus-callosum
    :name: splenium of the corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015708
+   :synonym: corpus callosum splenium, corpus callosum, splenium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39930,6 +41345,7 @@ statoacousticEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009969#statoacoustic-epithelium
    :name: statoacoustic epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009969
+   :synonym: stato-acoustic epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39948,6 +41364,7 @@ statoconialMembrane
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016567#statoconial-membrane
    :name: statoconial membrane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016567
+   :synonym: otoconial-statoconial membrane
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40716,6 +42133,7 @@ stratumZonaleOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002801#stratum-zonale-of-thalamus-1
    :name: stratum zonale of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002801
+   :synonym: neuraxis stratum, stratum zonale thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40735,6 +42153,7 @@ striaMedullaris
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006086#stria-medullaris-1
    :name: stria medullaris
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006086
+   :synonym: stria habenularis, stria medullaris (Wenzel-Wenzel), stria medullaris of thalamus, stria medullaris thalamica
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40752,6 +42171,7 @@ striaOfNeuraxis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013199#stria-of-neuraxis
    :name: stria of neuraxis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013199
+   :synonym: neuraxis stria
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40770,6 +42190,7 @@ striaOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016555#stria-of-telencephalon
    :name: stria of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016555
+   :synonym: telencephalon stria
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40789,6 +42210,7 @@ striaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003029#stria-terminalis-1
    :name: stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003029
+   :synonym: semicircular stria, terminal stria
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40808,6 +42230,7 @@ striatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002435#striatum
    :name: striatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002435
+   :synonym: neostriatum, neuraxis striatum, striate nucleus, striatum of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40880,6 +42303,7 @@ striosome
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027371#striosome
    :name: striosome
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027371
+   :synonym: striosomal compartment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40989,6 +42413,7 @@ subbrachialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006119#subbrachial-nucleus-1
    :name: subbrachial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006119
+   :synonym: tegmental area of tsai
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41008,6 +42433,7 @@ subcallosalArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003020#subcallosal-area-1
    :name: subcallosal area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003020
+   :synonym: adolfactory area, area paraolfactoria, paraolfactory area, parolfactory area
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41025,6 +42451,7 @@ subcallosalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022250#subcallosal-fasciculus
    :name: subcallosal fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022250
+   :synonym: fasciculus occipitofrontalis superior, fasciculus subcallosus, superior occipitofrontal fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41062,6 +42489,7 @@ subcuneiformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002700#subcuneiform-nucleus-1
    :name: subcuneiform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002700
+   :synonym: subcuneiform area of midbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41097,6 +42525,7 @@ subdivisionOfDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006125#subdivision-of-diagonal-band
    :name: subdivision of diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006125
+   :synonym: diagonal band subdivision, regional part of diagonal band
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41115,6 +42544,7 @@ subdivisionOfSpinalCordCentralCanal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014538#regional-part-of-spinal-cord-central-canal
    :name: subdivision of spinal cord central canal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014538
+   :synonym: regional part of spinal cord central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41258,6 +42688,7 @@ subiculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002191#subiculum-1
    :name: subiculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002191
+   :synonym: subicular cortex, subiculum hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41366,6 +42797,7 @@ sublentiformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002578#sublentiform-nucleus-1
    :name: sublentiform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002578
+   :synonym: nucleus sublentiformis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41402,6 +42834,7 @@ sublingualNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002881#sublingual-nucleus-1
    :name: sublingual nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002881
+   :synonym: Roller's nucleus, nucleus of roller
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41420,6 +42853,7 @@ submandibularGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002059#submandibular-ganglion
    :name: submandibular ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002059
+   :synonym: mandibular ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41439,6 +42873,7 @@ submedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003031#submedial-nucleus
    :name: submedial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003031
+   :synonym: gelatinosus thalamic nucleus, nucleus submedialis thalami, nucleus submedius thalami, submedial nucleus, submedial nucleus thalamus, submedial thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41457,6 +42892,7 @@ submucousNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005304#submucous-nerve-plexus
    :name: submucous nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005304
+   :synonym: submucosal nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41509,6 +42945,7 @@ subparietalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002908#subparietal-sulcus-1
    :name: subparietal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002908
+   :synonym: splenial sulcus, sulcus subparietalis, suprasplenial sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41545,6 +42982,7 @@ subserosalPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012374#subserosal-plexus
    :name: subserosal plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012374
+   :synonym: subserous nerve plexus, subserous plexus, tela subserosa
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41564,6 +43002,7 @@ substantiaGelatinosa
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002181#substantia-gelatinosa-of-spinal-cord-dorsal-horn
    :name: substantia gelatinosa
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002181
+   :synonym: central gelatinous substance of spinal cord, gelatinous substance of Rolando, gelatinous substance of dorsal horn of spinal cord, gelatinous substance of posterior horn of spinal cord, lamina II of gray matter of spinal cord, lamina spinalis II, rexed lamina II, spinal lamina II, substantia gelatinosa cornu posterioris medullae spinalis, substantia gelatinosa of spinal cord dorsal horn
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41637,6 +43076,7 @@ substantiaInnominata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003017#substantia-innominata-1
    :name: substantia innominata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003017
+   :synonym: innominate substance, nucleus of substantia innominata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41656,6 +43096,7 @@ substantiaNigra
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002038#substantia-nigra-1
    :name: substantia nigra
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002038
+   :synonym: Soemmering's substance, nucleus of basis pedunculi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41675,6 +43116,7 @@ substantiaNigraParsCompacta
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001965#substantia-nigra-pars-compacta-1
    :name: substantia nigra pars compacta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001965
+   :synonym: SNpc, compact part of substantia nigra, pars compacta, pars compacta substantiae nigrae, substantia nigra compact part, substantia nigra compacta, substantia nigra, compact part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41693,6 +43135,7 @@ substantiaNigraParsLateralis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002995#substantia-nigra-pars-lateralis-1
    :name: substantia nigra pars lateralis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002995
+   :synonym: lateral part of substantia nigra, pars lateralis, pars lateralis substantiae nigrae, substantia nigra, lateral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41712,6 +43155,7 @@ substantiaNigraParsReticulata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001966#substantia-nigra-pars-reticulata-1
    :name: substantia nigra pars reticulata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001966
+   :synonym: nucleus substantiae nigrae, pars reticularis, pars reticularis, pars reticularis substantiae nigrae, pars reticulata, reticular part of substantia nigra, substantia nigra, pars diffusa, substantia nigra, reticular part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41765,6 +43209,7 @@ subthalamicNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001906#subthalamic-nucleus-1
    :name: subthalamic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001906
+   :synonym: Luys' nucleus, body of Forel, body of Luys, nucleus of Luys, nucleus of corpus luysii, nucleus subthalamicus, subthalamic nucleus (of Luys)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41818,6 +43263,7 @@ sulcusOfParietalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035927#sulcus-of-parietal-lobe
    :name: sulcus of parietal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035927
+   :synonym: parietal lobe sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41853,6 +43299,7 @@ superficialCerebralVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein
    :name: superficial cerebral vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016559
+   :synonym: cortical cerebral vein
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41924,6 +43371,7 @@ superficialFibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035526#superficial-fibular-nerve
    :name: superficial fibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035526
+   :synonym: superficial peroneal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41942,6 +43390,7 @@ superficialLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006791#superficial-layer-of-superior-colliculus
    :name: superficial layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006791
+   :synonym: superficial gray and white zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41960,6 +43409,7 @@ superficialMiddleCerebralVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035231#superficial-middle-cerebral-vein
    :name: superficial middle cerebral vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035231
+   :synonym: Sylvian vein, vein of Labbe
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42013,6 +43463,7 @@ superficialWhiteLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006779#superficial-white-layer-of-superior-colliculus
    :name: superficial white layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006779
+   :synonym: lamina III of superior colliculus, lamina colliculi superioris iii, layer III of superior colliculus, optic layer, optic layer of superior colliculus, stratum opticum colliculi superioris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42030,6 +43481,7 @@ superiorAlveolarNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018398#superior-alveolar-nerve
    :name: superior alveolar nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018398
+   :synonym: superior dental nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42048,6 +43500,7 @@ superiorBranchOfOculomotorNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015162#superior-branch-of-oculomotor-nerve
    :name: superior branch of oculomotor nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015162
+   :synonym: oculomotor nerve superior division, ramus superior (nervus oculomotorius [III]), ramus superior nervi oculomotorii, ramus superior nervus oculomotorii, superior ramus of oculomotor nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42084,6 +43537,7 @@ superiorCerebellarPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002150#superior-cerebellar-peduncle-1
    :name: superior cerebellar peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002150
+   :synonym: brachium conjunctivum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42103,6 +43557,7 @@ superiorCerebellarPeduncleOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007707#superior-cerebellar-peduncle-of-midbrain-1
    :name: superior cerebellar peduncle of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007707
+   :synonym: SCPMB
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42121,6 +43576,7 @@ superiorCerebellarPeduncleOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1
    :name: superior cerebellar peduncle of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007709
+   :synonym: SCPP
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42157,6 +43613,7 @@ superiorCervicalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001989#superior-cervical-ganglion
    :name: superior cervical ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001989
+   :synonym: superior cervical sympathetic ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42176,6 +43633,7 @@ superiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001945#superior-colliculus-1
    :name: superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001945
+   :synonym: anterior colliculus, anterior corpus quadrigeminum, cranial colliculus, optic tectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42212,6 +43670,7 @@ superiorColliculusSuperficialGrayLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006120#superior-colliculus-superficial-gray-layer
    :name: superior colliculus superficial gray layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006120
+   :synonym: lamina II of superior colliculus, lamina colliculi superioris ii, layer II of superior colliculus, outer gray layer of superior colliculus, stratum cinereum, stratum griseum superficiale, stratum griseum superficiale colliculi superioris, stratum griseum superficiale of superior colliculus, superficial gray layer of superior colliculus, superficial grey layer of superior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42229,6 +43688,7 @@ superiorCoronaRadiata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022426#superior-corona-radiata
    :name: superior corona radiata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022426
+   :synonym: superior portion of corona radiata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42248,6 +43708,7 @@ superiorFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002661#superior-frontal-gyrus-1
    :name: superior frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002661
+   :synonym: marginal gyrus, superior frontal convolution
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42266,6 +43727,7 @@ superiorFrontalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002562#superior-frontal-sulcus-1
    :name: superior frontal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002562
+   :synonym: sulcus f1, sulcus frontalis primus, sulcus frontalis superior, superior frontal fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42284,6 +43746,7 @@ superiorGlossopharyngealIXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005361#superior-glossopharyngeal-ix-ganglion
    :name: superior glossopharyngeal IX ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005361
+   :synonym: Ehrenritter's ganglion, ganglion superius (nervus glossopharyngeus), ganglion superius nervus glossopharyngei, glossopharyngeal nerve jugular ganglion, glossopharyngeal nerve superior ganglion, intracranial ganglion, ninth cranial nerve superior ganglion, superior ganglion of glossopharyngeal nerve, superior glossopharyngeal ganglia, superior glossopharyngeal ganglion, superior glossopharyngeal ganglion of the glossopharyngeal (IX) nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42302,6 +43765,7 @@ superiorHypogastricNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002013#superior-hypogastric-nerve-plexus
    :name: superior hypogastric nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002013
+   :synonym: nervus presacralis, plexus hypogastricus superior, presacral nerve, superior hypogastric plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42320,6 +43784,7 @@ superiorLaryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011326#superior-laryngeal-nerve
    :name: superior laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011326
+   :synonym: nervus laryngealis superior, nervus laryngeus superior, superior laryngeal branch of inferior vagal ganglion, superior laryngeal branch of vagus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42337,6 +43802,7 @@ superiorLateralOccipitalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022368#superior-lateral-occipital-cortex
    :name: superior lateral occipital cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022368
+   :synonym: lateral occipital cortex, superior division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42374,6 +43840,7 @@ superiorMedullaryVelum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002659#superior-medullary-velum-1
    :name: superior medullary velum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002659
+   :synonym: anterior medullary velum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42410,6 +43877,7 @@ superiorMesentericPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005488#superior-mesenteric-plexus
    :name: superior mesenteric plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005488
+   :synonym: plexus mesentericus superior, superior mesenteric nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42428,6 +43896,7 @@ superiorOccipitalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002948#superior-occipital-gyrus-1
    :name: superior occipital gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002948
+   :synonym: gyrus occipitalis primus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42447,6 +43916,7 @@ superiorOlivaryComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002128#superior-olivary-complex-1
    :name: superior olivary complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002128
+   :synonym: nucleus olivaris superior, superior olivary nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42466,6 +43936,7 @@ superiorParietalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006094#superior-parietal-cortex-1
    :name: superior parietal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006094
+   :synonym: superior parietal gyrus, superior parietal lobule, superior portion of parietal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42502,6 +43973,7 @@ superiorPartOfVestibularGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002825#superior-part-of-vestibular-ganglion-1
    :name: superior part of vestibular ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002825
+   :synonym: pars superior ganglionis vestibularis, vestibular ganglion superior part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42519,6 +43991,7 @@ superiorPostcentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002907#superior-postcentral-sulcus-1
    :name: superior postcentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002907
+   :synonym: postcentral dimple, sulcus postcentralis superior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42536,6 +44009,7 @@ superiorPrecentralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002566#superior-precentral-sulcus-1
    :name: superior precentral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002566
+   :synonym: precentral dimple, sulcus praecentralis superior, sulcus precentralis superior, superior part of precentral fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42570,6 +44044,7 @@ superiorRapheNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000440#superior-raphe-nucleus
    :name: superior raphe nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000440
+   :synonym: anterior raphe nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42656,6 +44131,7 @@ superiorRostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002607#superior-rostral-sulcus-1
    :name: superior rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002607
+   :synonym: sulcus rostralis superior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42710,6 +44186,7 @@ superiorSalivatoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002149#superior-salivatory-nucleus-1
    :name: superior salivatory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002149
+   :synonym: superior salivary nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42729,6 +44206,7 @@ superiorTemporalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002769#superior-temporal-gyrus-1
    :name: superior temporal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002769
+   :synonym: gyrus temporalis superior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42748,6 +44226,7 @@ superiorTemporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002734#superior-temporal-sulcus-1
    :name: superior temporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002734
+   :synonym: parallel sulcus, sulcus t1, superior temporal fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42765,6 +44244,7 @@ superiorThalamicPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022241#superior-thalamic-peduncle
    :name: superior thalamic peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022241
+   :synonym: centroparietal peduncle, centroparietal thalamic peduncle, middle thalamic peduncle, pedunculus thalami superior, superior peduncle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42801,6 +44281,7 @@ superiorVagusXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005364#superior-vagus-x-ganglion
    :name: superior vagus X ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005364
+   :synonym: ganglion superius (nervus vagus), ganglion superius nervus vagi, superior ganglion of vagus, superior ganglion of vagus nerve, superior vagus ganglion, tenth cranial nerve jugular ganglion, vagus nerve jugular ganglion, vagus nerve superior ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42819,6 +44300,7 @@ superiorVestibularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007227#superior-vestibular-nucleus
    :name: superior vestibular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007227
+   :synonym: nucleus of Bechterew
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42855,6 +44337,7 @@ supracallosalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002665#supracallosal-gyrus-1
    :name: supracallosal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002665
+   :synonym: supracommissural hippocampal rudiment, supracommissural hippocampus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42874,6 +44357,7 @@ suprachiasmaticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002034#suprachiasmatic-nucleus-1
    :name: suprachiasmatic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002034
+   :synonym: suprachiasmatic nucleus of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42928,6 +44412,7 @@ suprageniculateNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003033#suprageniculate-nucleus
    :name: suprageniculate nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003033
+   :synonym: nucleus suprageniculatus, suprageniculate nucleus, suprageniculate thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42946,6 +44431,7 @@ supragenualNucleusOfPontineTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022424#supragenual-nucleus-of-pontine-tegmentum
    :name: supragenual nucleus of pontine tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022424
+   :synonym: supragenual nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42963,6 +44449,7 @@ supramammillaryCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002991#supramammillary-commissure-1
    :name: supramammillary commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002991
+   :synonym: commissure of forel, commissure y, decussation supramamilaris, postmammillary decussation, supramammillary decussation
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43000,6 +44487,7 @@ supramarginalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002688#supramarginal-gyrus-1
    :name: supramarginal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002688
+   :synonym: anterior part of inferior parietal lobule, inferior parietal lobule (krieg)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43018,6 +44506,7 @@ supraopticCrest
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002689#supraoptic-crest-1
    :name: supraoptic crest
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002689
+   :synonym: OVLT, organum vasculosum lamina terminalis, organum vasculosum laminae terminalis, prechiasmatic gland, vascular organ of lamina terminalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43037,6 +44526,7 @@ supraopticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001929#supraoptic-nucleus-1
    :name: supraoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001929
+   :synonym: nucleus supraopticus, supra-optic nucleus, supraoptic nucleus of hypothalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43054,6 +44544,7 @@ supraopticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002244#supraoptic-tract
    :name: supraoptic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002244
+   :synonym: SOT
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43071,6 +44562,7 @@ supraopticohypophysialTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002699#supraopticohypophysial-tract-1
    :name: supraopticohypophysial tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002699
+   :synonym: supra-opticohypophysial tract, supraopticohypophyseal tract, tractus supraopticohypophysialis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43160,6 +44652,7 @@ sympatheticGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001806#sympathetic-ganglion
    :name: sympathetic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001806
+   :synonym: ganglion of sympathetic nervous system, ganglion of sympathetic part of autonomic division of nervous system, ganglion sympatheticum, sympathetic nervous system ganglion, sympathetic part of autonomic division of nervous system ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43213,6 +44706,7 @@ sympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004295#sympathetic-nerve-trunk
    :name: sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004295
+   :synonym: nerve trunk of sympathetic nervous system, nerve trunk of sympathetic part of autonomic division of nervous system, sympathetic nervous system nerve trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43231,6 +44725,7 @@ sympatheticNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000013#sympathetic-nervous-system-1
    :name: sympathetic nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000013
+   :synonym: pars sympathica divisionis autonomici systematis nervosi, sympathetic part of autonomic division of nervous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43249,6 +44744,7 @@ sympatheticTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000407#sympathetic-trunk
    :name: sympathetic trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000407
+   :synonym: gangliated cord, sympathetic chain, sympathetic ganglionic chain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43283,6 +44779,7 @@ tactileMechanoreceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035016#tactile-mechanoreceptor
    :name: tactile mechanoreceptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035016
+   :synonym: contact receptor
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43302,6 +44799,7 @@ taeniaTectumOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015800#taenia-tectum-of-brain
    :name: taenia tectum of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015800
+   :synonym: taenia tecta, taenia tectum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43321,6 +44819,7 @@ tailOfCaudateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002628#tail-of-caudate-nucleus-1
    :name: tail of caudate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002628
+   :synonym: caudate nuclear tail
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43373,6 +44872,7 @@ tectalGrayNucleusTestudines
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035585#tectal-gray-nucleus-testudines
    :name: tectal gray nucleus (Testudines)
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035585
+   :synonym: griseum tectalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43392,6 +44892,7 @@ tectobulbarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002164#tectobulbar-tract-1
    :name: tectobulbar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002164
+   :synonym: tecto-bulbar tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43410,6 +44911,7 @@ tectopontineTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002930#tectopontine-tract-1
    :name: tectopontine tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002930
+   :synonym: fibrae tectopontinae, tectopontine fibers, tectopontine fibres
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43428,6 +44930,7 @@ tectospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002949#tectospinal-tract-1
    :name: tectospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002949
+   :synonym: Held's bundle, tectospinal pathway
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43445,6 +44948,7 @@ tectothalamicTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035570#tectothalamic-tract
    :name: tectothalamic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035570
+   :synonym: tectothalamic fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43500,6 +45004,7 @@ telaChoroideaOfFourthVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005287#tela-choroidea-of-fourth-ventricle
    :name: tela choroidea of fourth ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005287
+   :synonym: choroid membrane, choroid membrane of fourth ventricle, tela chorioidea fourth ventricle, tela choroidea fourth ventricle, tela choroidea ventriculi quarti
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43518,6 +45023,7 @@ telaChoroideaOfMidbrainCerebralAqueduct
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005286#tela-choroidea-of-midbrain-cerebral-aqueduct
    :name: tela choroidea of midbrain cerebral aqueduct
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005286
+   :synonym: tela chorioidea tectal ventricle, tela choroidea of cerebral aqueduct, tela choroidea tectal ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43536,6 +45042,7 @@ telaChoroideaOfTelencephalicVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005289#tela-choroidea-of-telencephalic-ventricle
    :name: tela choroidea of telencephalic ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005289
+   :synonym: tela chorioidea of lateral ventricle, tela chorioidea of telencephalic ventricle, tela chorioidea telencephalic ventricle, tela choroidea (ventriculi lateralis), tela choroidea of lateral ventricle, tela choroidea telencephalic ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43554,6 +45061,7 @@ telaChoroideaOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005288#tela-choroidea-of-third-ventricle
    :name: tela choroidea of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005288
+   :synonym: choroid membrane of third ventricle, tela chorioidea of third ventricle, tela chorioidea third ventricle, tela choroidea third ventricle, tela choroidea ventriculi tertii
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43624,6 +45132,7 @@ telencephalicSongNucleusHVC
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035785#telencephalic-song-nucleus-hvc
    :name: telencephalic song nucleus HVC
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035785
+   :synonym: HVC (avian brain region)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43660,6 +45169,7 @@ telencephalicVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002285#lateral-ventricle
    :name: telencephalic ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002285
+   :synonym: lateral ventricle, telencephalon lateral ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43679,6 +45189,7 @@ telencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001893#telencephalon-1
    :name: telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001893
+   :synonym: cerebrum, endbrain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43697,6 +45208,7 @@ telencephalonArachnoidMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005400#telencephalon-arachnoid-mater
    :name: telencephalon arachnoid mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005400
+   :synonym: telencephalon arachnoid matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43715,6 +45227,7 @@ telencephalonDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003563#telencephalon-dura-mater
    :name: telencephalon dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003563
+   :synonym: dura mater of neuraxis of telencephalon, dura mater of telencephalon, telencephalon dura mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43732,6 +45245,7 @@ telencephalonLateralWall
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005561#telencephalon-lateral-wall
    :name: telencephalon lateral wall
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005561
+   :synonym: lateral wall telencephalic region, lateral wall telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43750,6 +45264,7 @@ telencephalonPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003552#telencephalon-pia-mater
    :name: telencephalon pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003552
+   :synonym: pia mater of neuraxis of telencephalon, pia mater of telencephalon, telencephalon pia mater of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43767,6 +45282,7 @@ telodiencephalicFissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002896#telodiencephalic-fissure-1
    :name: telodiencephalic fissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002896
+   :synonym: telo-diencephalic fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43786,6 +45302,7 @@ temporalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016538#temporal-cortex
    :name: temporal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016538
+   :synonym: cortex of temporal lobe, temporal lobe cortex, temporal neocortex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43821,6 +45338,7 @@ temporalCortexCingulum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022429#temporal-cortex-cingulum
    :name: temporal cortex cingulum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022429
+   :synonym: cingulum (temporal gyrus), cingulum bundle in temporal cortex, cingulum bundle in temporal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43838,6 +45356,7 @@ temporalFusiformGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022395#temporal-fusiform-gyrus
    :name: temporal fusiform gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022395
+   :synonym: occipitotemporal (fusiform) gyrus, temporal part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43857,6 +45376,7 @@ temporalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001871#temporal-lobe-1
    :name: temporal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001871
+   :synonym: lobus temporalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43876,6 +45396,7 @@ temporalOperculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002560#temporal-operculum-1
    :name: temporal operculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002560
+   :synonym: facies supratemporalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43893,6 +45414,7 @@ temporalPartOfSuperiorLongitudinalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022420#temporal-part-of-superior-longitudinal-fasciculus
    :name: temporal part of superior longitudinal fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022420
+   :synonym: superior longitudinal fasciculus, temporal division
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43912,6 +45434,7 @@ temporalPole
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002576#temporal-pole-1
    :name: temporal pole
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002576
+   :synonym: polus temporalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43930,6 +45453,7 @@ temporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014687#temporal-sulcus
    :name: temporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014687
+   :synonym: temporal lobe sulcus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43966,6 +45490,7 @@ tenthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002853#tenth-thoracic-dorsal-root-ganglion-1
    :name: tenth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002853
+   :synonym: tenth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -43983,6 +45508,7 @@ tenthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006466#tenth-thoracic-spinal-cord-segment-1
    :name: tenth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006466
+   :synonym: T10 spinal cord segment, t10 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44019,6 +45545,7 @@ tentoriumCerebelli
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006691#tentorium-cerebelli
    :name: tentorium cerebelli
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006691
+   :synonym: cerebellar tentorium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44037,6 +45564,7 @@ terminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002924#terminal-nerve-1
    :name: terminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002924
+   :synonym: cranial nerve 0, cranial nerve zero, nervus terminalis, terminalis nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44055,6 +45583,7 @@ terminalNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014641#terminal-nerve-root-1
    :name: terminal nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014641
+   :synonym: cranial nerve 0 root, root of terminal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44108,6 +45637,7 @@ thalamicEminence
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014912#thalamic-eminence
    :name: thalamic eminence
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014912
+   :synonym: eminentia thalami
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44126,6 +45656,7 @@ thalamicFiberTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025261#thalamic-fiber-tracts
    :name: thalamic fiber tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025261
+   :synonym: thalamic fiber tracts
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44163,6 +45694,7 @@ thalamicReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001903#thalamic-reticular-nucleus-1
    :name: thalamic reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001903
+   :synonym: nucleus reticularis thalami, reticular nuclear group, reticular nucleus of thalamus, reticular nucleus of the thalamus, reticular nucleus-2, reticular thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44198,6 +45730,7 @@ thirdCervicalDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002840#third-cervical-dorsal-root-ganglion-1
    :name: third cervical dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002840
+   :synonym: C3 dorsal root ganglion, third cervical spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44215,6 +45748,7 @@ thirdLumbarDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002858#third-lumbar-dorsal-root-ganglion-1
    :name: third lumbar dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002858
+   :synonym: third lumbar spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44232,6 +45766,7 @@ thirdLumbarSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006449#third-lumbar-spinal-cord-segment-1
    :name: third lumbar spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006449
+   :synonym: L3 segment, L3 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44249,6 +45784,7 @@ thirdSacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002862#third-sacral-dorsal-root-ganglion-1
    :name: third sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002862
+   :synonym: third sacral spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44266,6 +45802,7 @@ thirdSacralSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006462#third-sacral-spinal-cord-segment-1
    :name: third sacral spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006462
+   :synonym: S3 segment, S3 spinal cord segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44283,6 +45820,7 @@ thirdThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002847#third-thoracic-dorsal-root-ganglion-1
    :name: third thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002847
+   :synonym: third thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44300,6 +45838,7 @@ thirdThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006459#third-thoracic-spinal-cord-segment-1
    :name: third thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006459
+   :synonym: T3 spinal cord segment, t3 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44319,6 +45858,7 @@ thirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002286#third-ventricle-1
    :name: third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002286
+   :synonym: 3rd ventricle, ventriculus diencephali
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44337,6 +45877,7 @@ thirdVentricleChoroidPlexusEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004275#third-ventricle-choroid-plexus-epithelium
    :name: third ventricle choroid plexus epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004275
+   :synonym: chorioid plexus of cerebral hemisphere epithelial tissue of third ventricle, chorioid plexus of cerebral hemisphere epithelium of third ventricle, choroid plexus epithelial tissue of third ventricle, choroid plexus epithelium of third ventricle, epithelial tissue of chorioid plexus of cerebral hemisphere of third ventricle, epithelial tissue of choroid plexus of third ventricle, epithelium of chorioid plexus of cerebral hemisphere of third ventricle, epithelium of choroid plexus of third ventricle, third ventricle chorioid plexus of cerebral hemisphere epithelial tissue, third ventricle chorioid plexus of cerebral hemisphere epithelium, third ventricle choroid plexus epithelial tissue, third ventricle epithelial tissue of chorioid plexus of cerebral hemisphere, third ventricle epithelial tissue of choroid plexus, third ventricle epithelium of chorioid plexus of cerebral hemisphere, third ventricle epithelium of choroid plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44373,6 +45914,7 @@ thirdVentricleEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004642#third-ventricle-ependyma
    :name: third ventricle ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004642
+   :synonym: 3rd ventricle ependyma, ependyma of third ventricle
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44391,6 +45933,7 @@ thoracicAorticPlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035774#thoracic-aortic-plexus
    :name: thoracic aortic plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035774
+   :synonym: plexus aorticus thoracicus, plexus aortique thoracique@fr, plexus nervosus aorticus thoracicus, thoracic aortic nerve plexus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44409,6 +45952,7 @@ thoracicCavityNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003443#thoracic-cavity-nerve
    :name: thoracic cavity nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003443
+   :synonym: cavity of chest nerve, cavity of thorax nerve, chest cavity nerve, nerve of cavity of chest, nerve of cavity of thorax, nerve of chest cavity, nerve of pectoral cavity, nerve of thoracic cavity, pectoral cavity nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44427,6 +45971,7 @@ thoracicDivisionOfSpinalCordCentralCanal
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014541#thoracic-spinal-cord-central-canal
    :name: thoracic division of spinal cord central canal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014541
+   :synonym: thoracic spinal cord central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44445,6 +45990,7 @@ thoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002835#thoracic-dorsal-root-ganglion-1
    :name: thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002835
+   :synonym: dorsal root ganglion of thorax, ganglion of dorsal root of thorax, ganglion spinalis of thorax, thoracic spinal ganglion, thorax dorsal root ganglion, thorax ganglion of dorsal root, thorax ganglion spinalis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44463,6 +46009,7 @@ thoracicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000961#thoracic-ganglion
    :name: thoracic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000961
+   :synonym: ganglion of thorax, ganglion thoracicum splanchnicum, thoracic paravertebral ganglion, thoracic splanchnic ganglion, thoracic sympathetic ganglion, thorax ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44481,6 +46028,7 @@ thoracicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003726#thoracic-nerve
    :name: thoracic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003726
+   :synonym: nervus thoracis, thoracic spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44499,6 +46047,7 @@ thoracicSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003038#thoracic-spinal-cord
    :name: thoracic spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003038
+   :synonym: pars thoracica medullae spinalis, segmenta thoracica medullae spinalis [1-12], thoracic region of spinal cord, thoracic segment of spinal cord, thoracic segments of spinal cord [1-12]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44517,6 +46066,7 @@ thoracicSpinalCordDorsalColumn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005839#thoracic-spinal-cord-dorsal-column-1
    :name: thoracic spinal cord dorsal column
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005839
+   :synonym: dorsal funiculus of thoracic segment of spinal cord, dorsal white column of thoracic segment of spinal cord, thoracic segment of dorsal funiculus of spinal cord, thoracic spinal cord posterior column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44642,6 +46192,7 @@ thoracicSpinalCordVentralCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007837#thoracic-spinal-cord-ventral-commissure-1
    :name: thoracic spinal cord ventral commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007837
+   :synonym: thoracic spinal cord anterior commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44714,6 +46265,7 @@ thoracicSympatheticNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004863#thoracic-sympathetic-nerve-trunk
    :name: thoracic sympathetic nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004863
+   :synonym: nerve trunk of sympathetic nervous system of thorax, nerve trunk of sympathetic part of autonomic division of nervous system of thorax, sympathetic nerve trunk of thorax, sympathetic nervous system nerve trunk of thorax, thoracic part of sympathetic trunk, thoracic sympathetic chain, thorax nerve trunk of sympathetic nervous system, thorax nerve trunk of sympathetic part of autonomic division of nervous system, thorax sympathetic nerve trunk, thorax sympathetic nervous system nerve trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44732,6 +46284,7 @@ tibialNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001323#tibial-nerve
    :name: tibial nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001323
+   :synonym: medial popliteal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44750,6 +46303,7 @@ tongueTasteBud
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014451#tongue-taste-bud
    :name: tongue taste bud
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014451
+   :synonym: gustatory papilla taste bud, gustatory papillae taste bud
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44820,6 +46374,7 @@ tractOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain
    :name: tract of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007702
+   :synonym: brain tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44838,6 +46393,7 @@ tractOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011591#tract-of-diencephalon
    :name: tract of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011591
+   :synonym: diencephalon tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44856,6 +46412,7 @@ tractOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007699#tract-of-spinal-cord
    :name: tract of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007699
+   :synonym: spinal cord tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44873,6 +46430,7 @@ tractOfThePostopticCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001366#tract-of-the-postoptic-commissure
    :name: tract of the postoptic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001366
+   :synonym: TPOC
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44907,6 +46465,7 @@ transChoroidPlexusBranch
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005248#trans-choroid-plexus-branch
    :name: trans-choroid plexus branch
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005248
+   :synonym: TCB
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44944,6 +46503,7 @@ transverseGyrusOfHeschl
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003939#transverse-temporal-cortex
    :name: transverse gyrus of Heschl
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003939
+   :synonym: Heshl's gyrus, transverse temporal gyrus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44961,6 +46521,7 @@ transverseNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011179#transverse-nucleus-of-stria-terminalis
    :name: transverse nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011179
+   :synonym: bed nuclei of the stria terminalis, posterior division, transverse nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44979,6 +46540,7 @@ transverseOccipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002900#transverse-occipital-sulcus-1
    :name: transverse occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002900
+   :synonym: sulcus occipitalis transversus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -44996,6 +46558,7 @@ transverseOrbitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002612#transverse-orbital-sulcus-1
    :name: transverse orbital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002612
+   :synonym: sulcus orbitalis transversus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45032,6 +46595,7 @@ transversePontineFibers
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002735#transverse-pontine-fibers-1
    :name: transverse pontine fibers
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002735
+   :synonym: fibrae pontis transversae, superficial transverse fibers of pons, transverse fibers of pons, transverse pontine fibres, transverse pontine tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45050,6 +46614,7 @@ transverseSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001641#transverse-sinus
    :name: transverse sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001641
+   :synonym: sinus transversus durae matris
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45105,6 +46670,7 @@ triangularPartOfInferiorFrontalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002629#triangular-part-of-inferior-frontal-gyrus-1
    :name: triangular part of inferior frontal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002629
+   :synonym: gyrus frontalis inferior, pars triangularis, pars triangularis, pars triangularis gyri frontalis inferioris, pars triangularis of frontal operculum (Ono)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45123,6 +46689,7 @@ triangularSeptalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002977#triangular-septal-nucleus-1
    :name: triangular septal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002977
+   :synonym: nucleus triangularis septi, triangular nucleus of septum, triangular nucleus septum (cajal)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45140,6 +46707,7 @@ tributaryOfCentralRetinalVein
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036300#tributary-of-central-retinal-vein
    :name: tributary of central retinal vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036300
+   :synonym: central retinal venous tributary
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45158,6 +46726,7 @@ trigeminalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001675#trigeminal-ganglion
    :name: trigeminal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001675
+   :synonym: 5th ganglion, Gasserian ganglion, fifth ganglion, ganglion of trigeminal complex, semilunar ganglion, trigeminal V ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45176,6 +46745,7 @@ trigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001645#trigeminal-nerve-1
    :name: trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001645
+   :synonym: fifth cranial nerve, nervus trigeminus, nervus trigeminus [v], trigeminal V, trigeminal nerve [V], trigeminal nerve tree, trigeminal v nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45195,6 +46765,7 @@ trigeminalNerveFibers
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003041#trigeminal-nerve-fibers-1
    :name: trigeminal nerve fibers
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003041
+   :synonym: central part of trigeminal nerve, trigeminal nerve tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45214,6 +46785,7 @@ trigeminalNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004673#trigeminal-nerve-root-1
    :name: trigeminal nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004673
+   :synonym: radix descendens nervi trigemini, root of trigeminal V nerve, root of trigeminal nerve, trigeminal neural root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45232,6 +46804,7 @@ trigeminalNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007641#trigeminal-nuclear-complex-1
    :name: trigeminal nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007641
+   :synonym: trigeminal nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45250,6 +46823,7 @@ trigeminalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002925#trigeminal-nucleus-1
    :name: trigeminal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002925
+   :synonym: nucleus of trigeminal nuclear complex, trigeminal V nucleus, trigeminal nuclear complex nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45268,6 +46842,7 @@ trigeminalSensoryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004132#trigeminal-sensory-nucleus
    :name: trigeminal sensory nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004132
+   :synonym: sensory trigeminal V nucleus, sensory trigeminal nucleus, trigeminal V sensory nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45286,6 +46861,7 @@ trigeminothalamicTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004171#trigeminal-tract
    :name: trigeminothalamic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004171
+   :synonym: tractus trigeminothalamicus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45304,6 +46880,7 @@ trochlearNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001644#trochlear-nerve-1
    :name: trochlear nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001644
+   :synonym: cranial nerve IV, fourth cranial nerve, nervus trochlearis [IV], superior oblique nerve, trochlear IV nerve, trochlear nerve [IV], trochlear nerve tree
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45323,6 +46900,7 @@ trochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002722#trochlear-nucleus-1
    :name: trochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002722
+   :synonym: fourth cranial nerve nucleus, motor nucleus IV, nIV, nucleus nervi trochlearis, nucleus of trochlear nerve, trochlear IV nucleus, trochlear motor nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45341,6 +46919,7 @@ trunkGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007134#trunk-ganglion
    :name: trunk ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007134
+   :synonym: body ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45376,6 +46955,7 @@ trunkOfIntercostalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002327#trunk-of-intercostal-nerve
    :name: trunk of intercostal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002327
+   :synonym: intercostal nerve trunk, intercostal neural trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45393,6 +46973,7 @@ trunkOfPhrenicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001889#trunk-of-phrenic-nerve
    :name: trunk of phrenic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001889
+   :synonym: phrenic nerve trunk, phrenic neural trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45410,6 +46991,7 @@ trunkOfSciaticNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002004#trunk-of-sciatic-nerve
    :name: trunk of sciatic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002004
+   :synonym: sciatic nerve trunk, sciatic neural trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45427,6 +47009,7 @@ trunkOfSegmentalSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035022#trunk-of-segmental-spinal-nerve
    :name: trunk of segmental spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035022
+   :synonym: segmental spinal nerve trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45502,6 +47085,7 @@ tuberomammillaryNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001936#tuberomammillary-nucleus-1
    :name: tuberomammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001936
+   :synonym: caudal magnocellular nucleus, mammilloinfundibular nucleus, mammiloinfundibular nucleus, tuberomammillary hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45555,6 +47139,7 @@ twelfthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002855#twelfth-thoracic-dorsal-root-ganglion-1
    :name: twelfth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002855
+   :synonym: twelfth thoracic spinal ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45572,6 +47157,7 @@ twelfthThoracicSpinalCordSegment
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006468#twelfth-thoracic-spinal-cord-segment-1
    :name: twelfth thoracic spinal cord segment
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006468
+   :synonym: T12 spinal cord segment, t12 segment
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45678,6 +47264,7 @@ uncinateFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003044#uncinate-fasciculus-1
    :name: uncinate fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003044
+   :synonym: cerebral uncinate fasciculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45732,6 +47319,7 @@ uncusOfParahippocampalGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034773#uncus-of-parahippocampal-gyrus
    :name: uncus of parahippocampal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034773
+   :synonym: uncus hippocampi
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45750,6 +47338,7 @@ unencapsulatedTactileReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035501#unencapsulated-tactile-receptor
    :name: unencapsulated tactile receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035501
+   :synonym: free nerve ending, unencapsulated nerve ending
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45767,6 +47356,7 @@ unmyelinatedNerveFiber
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006136#unmyelinated-nerve-fiber
    :name: unmyelinated nerve fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006136
+   :synonym: non-myelinated nerve fiber
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45784,6 +47374,7 @@ unpairedVenousDuralSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017640#unpaired-venous-dural-sinus
    :name: unpaired venous dural sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017640
+   :synonym: unpaired dural venous sinus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45838,6 +47429,7 @@ upperLegNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004214#upper-leg-nerve
    :name: upper leg nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004214
+   :synonym: hind limb stylopod nerve, hindlimb stylopod nerve, lower extremity stylopod nerve, thigh RELATED
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45857,6 +47449,7 @@ upperRhombicLip
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009841#upper-rhombic-lip
    :name: upper rhombic lip
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009841
+   :synonym: cerebellar anlage, presumptive cerebellum, rostral rhombic lip, upper (rostral) rhombic lip
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45893,6 +47486,7 @@ utricleOfMembranousLabyrinth
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001853#utricle-of-membranous-labyrinth
    :name: utricle of membranous labyrinth
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001853
+   :synonym: membranous labyrinth utricle, utricle, utriculus, utriculus (labyrinthus vestibularis)
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45928,6 +47522,7 @@ vagalGanglion1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001302#vagal-ganglion-1
    :name: vagal ganglion 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001302
+   :synonym: gX1, nodose ganglion 1
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45945,6 +47540,7 @@ vagalGanglion2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001303#vagal-ganglion-2
    :name: vagal ganglion 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001303
+   :synonym: gX2, nodose ganglion 2
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45962,6 +47558,7 @@ vagalGanglion3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001304#vagal-ganglion-3
    :name: vagal ganglion 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001304
+   :synonym: gX3, nodose ganglion 3
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -45979,6 +47576,7 @@ vagalGanglion4
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001305#vagal-ganglion-4
    :name: vagal ganglion 4
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001305
+   :synonym: gX4, nodose ganglion 4
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46014,6 +47612,7 @@ vagalNerveFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1
    :name: vagal nerve fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006116
+   :synonym: central part of vagus nerve, tenth cranial nerve fibers, vagal nerve fibers, vagal nerve tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46100,6 +47699,7 @@ vagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001759#vagus-nerve-1
    :name: vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001759
+   :synonym: nervus vagus [x], tenth cranial nerve, vagus, vagus X nerve, vagus nerve [X], vagus nerve tree
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46118,6 +47718,7 @@ vagusNerveNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011775#vagus-nerve-nucleus
    :name: vagus nerve nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011775
+   :synonym: nucleus of Xth nerve, nucleus of vagal X nerve, nucleus of vagal nerve, nucleus of vagus nerve, tenth cranial nerve nucleus, vagal X nucleus, vagal nucleus, vagus nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46136,6 +47737,7 @@ vagusXGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005362#vagus-x-ganglion
    :name: vagus X ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005362
+   :synonym: ganglion of vagus nerve, right glossopharyngeal ganglion, vagal ganglion, vagus ganglion, vagus neural ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46154,6 +47756,7 @@ vagusXNerveTrunk
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003535#vagus-x-nerve-trunk
    :name: vagus X nerve trunk
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003535
+   :synonym: trunk of vagal nerve, trunk of vagus nerve, vagal X nerve trunk, vagal nerve trunk, vagus nerve trunk, vagus neural trunk
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46172,6 +47775,7 @@ valleculaOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013166#vallecula-of-cerebellum
    :name: vallecula of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013166
+   :synonym: vallecula cerebelli
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46191,6 +47795,7 @@ valvulaCerebelli
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000603#valvula-cerebelli
    :name: valvula cerebelli
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000603
+   :synonym: valvula cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46210,6 +47815,7 @@ vasculatureOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain
    :name: vasculature of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008998
+   :synonym: brain vasculature, cerebrovascular system, intracerebral vasculature
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46245,6 +47851,7 @@ vasculatureOfRetina
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina
    :name: vasculature of retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004864
+   :synonym: retina vasculature, retina vasculature of camera-type eye, retinal blood vessels, retinal blood vessels set, retinal vasculature, set of blood vessels of retina, set of retinal blood vessels, vasa sanguinea retinae
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46281,6 +47888,7 @@ veinOfVestibularAqueduct
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036074#vein-of-vestibular-aqueduct
    :name: vein of vestibular aqueduct
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036074
+   :synonym: vena aqueductus vestibuli, vestibular aqueduct vein
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46299,6 +47907,7 @@ venousDuralSinus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005486#venous-dural-sinus
    :name: venous dural sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005486
+   :synonym: cranial dural venous sinus, dural sinus, dural vein, dural venous sinus, venous dural
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46317,6 +47926,7 @@ venousSystemOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
    :name: venous system of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013146
+   :synonym: brain venous system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46353,6 +47963,7 @@ ventralAcousticStria
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003046#ventral-acoustic-stria-1
    :name: ventral acoustic stria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003046
+   :synonym: anterior acoustic stria, stria cochlearis anterior
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46371,6 +47982,7 @@ ventralAmygdalofugalProjection
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002745#ventral-amygdalofugal-projection-1
    :name: ventral amygdalofugal projection
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002745
+   :synonym: projectiones ventrales amygdalae, ventral amygdalofugal pathway
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46388,6 +48000,7 @@ ventralAnteriorLateralLineGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001313#ventral-anterior-lateral-line-ganglion
    :name: ventral anterior lateral line ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001313
+   :synonym: anteroventral lateral line ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46425,6 +48038,7 @@ ventralAnteriorNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002637#ventral-anterior-nucleus
    :name: ventral anterior nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002637
+   :synonym: nucleus lateropolaris, nucleus ventralis anterior, nucleus ventralis anterior thalami, nucleus ventralis thalami anterior, ventral anterior nucleus, ventral anterior thalamic nucleus, ventroanterior nucleus of the thalamus, ventroanterior thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46444,6 +48058,7 @@ ventralCochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002828#ventral-cochlear-nucleus-1
    :name: ventral cochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002828
+   :synonym: anterior cochlear nucleus, c1281209
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46462,6 +48077,7 @@ ventralCommissuralNucleusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034771#ventral-commissural-nucleus-of-spinal-cord
    :name: ventral commissural nucleus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034771
+   :synonym: commissural nucleus of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46498,6 +48114,7 @@ ventralCorticospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002760#ventral-corticospinal-tract-1
    :name: ventral corticospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002760
+   :synonym: anterior corticospinal tract, anterior pyramidal tract, anterior tract of turck, bundle of Turck, column of Turck, corticospinal tract, uncrossed
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46516,6 +48133,7 @@ ventralExternalArcuateFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006097#ventral-external-arcuate-fiber-bundle-1
    :name: ventral external arcuate fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006097
+   :synonym: ventral external arcuate fibers, ventral external arcuate tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46534,6 +48152,7 @@ ventralFuniculusOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002180#ventral-funiculus-of-spinal-cord
    :name: ventral funiculus of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002180
+   :synonym: anterior funiculus, anterior funiculus of spinal cord, anterior white column of spinal cord, funiculus anterior medullae spinalis, ventral funiculus, ventral white column of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46551,6 +48170,7 @@ ventralGrayCommissureOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014630#spinal-cord-anterior-gray-commissure
    :name: ventral gray commissure of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014630
+   :synonym: anterior grey commissure of spinal cord, commissura grisea anterior medullae spinalis, spinal cord anterior gray commissure, ventral grey commissure of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46569,6 +48189,7 @@ ventralHornOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002257#spinal-cord-ventral-horn
    :name: ventral horn of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002257
+   :synonym: anterior gray column of spinal cord, anterior gray horn of spinal cord, anterior grey column of spinal cord, anterior horn, columna grisea anterior medullae spinalis, spinal cord anterior horn, spinal cord ventral horn, ventral gray column of spinal cord, ventral gray matter of spinal cord, ventral grey column of spinal cord, ventral grey horn, ventral horn spinal cord, ventral region of spinal cord, ventral spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46605,6 +48226,7 @@ ventralLateralGeniculateNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002480#ventral-nucleus-of-lateral-geniculate-body
    :name: ventral lateral geniculate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002480
+   :synonym: corpus geniculatum externum, nucleus accessorius, corpus geniculatum laterale, pars oralis, dorsal_nucleus_of_lateral_geniculate_body, griseum praegeniculatum, lateral geniculate complex, ventral part, lateral geniculate complex, ventral part (kolliker), lateral geniculate nucleus, ventral part, nucleus corporis geniculati lateralis, pars ventralis, nucleus praegeniculatus, nucleus pregeniculatum, nucleus pregeniculatus, nucleus ventralis corporis geniculati lateralis, praegeniculatum, pregeniculate nucleus, ventral part of the lateral geniculate complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46624,6 +48246,7 @@ ventralLateralNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001925#ventral-lateral-nucleus
    :name: ventral lateral nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001925
+   :synonym: lateral ventral nucleus of thalamus, nuclei ventrales laterales thalami, nucleus ventralis intermedius, nucleus ventralis lateralis, nucleus ventralis lateralis thalami, nucleus ventralis thalami lateralis, nucleus ventrolateralis thalami, ventral lateral complex of thalamus, ventral lateral nucleus, ventral lateral thalamic nuclei, ventral lateral thalamic nucleus, ventrolateral thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46642,6 +48265,7 @@ ventralMedialComplexOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000431#ventral-medial-complex-of-thalamus
    :name: ventral medial complex of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000431
+   :synonym: ventral medial nuclei of thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46695,6 +48319,7 @@ ventralNerveCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000934#ventral-nerve-cord
    :name: ventral nerve cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000934
+   :synonym: ventral cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46783,6 +48408,7 @@ ventralNuclearGroup
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002776#ventral-nuclear-group-1
    :name: ventral nuclear group
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002776
+   :synonym: dorsal thalamus, ventral group, nuclei ventrales thalami, ventral group of dorsal thalamus, ventral nuclear group of thalamus, ventral nuclear mass, ventral nuclei of thalamus, ventral tier thalamic nuclei
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46802,6 +48428,7 @@ ventralNucleusOfLateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002604#ventral-nucleus-of-lateral-lemniscus-1
    :name: ventral nucleus of lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002604
+   :synonym: anterior nucleus of lateral lemniscus, nucleus anterior lemnisci lateralis, nucleus of the lateral lemniscus, ventral part, ventral nucleus of the lateral lemniscus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46821,6 +48448,7 @@ ventralNucleusOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002985#ventral-nucleus-of-medial-geniculate-body-1
    :name: ventral nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002985
+   :synonym: medial geniculate complex, ventral part, medial geniculate nucleus, ventral part, medial nucleus of medial geniculate complex, nucleus corporis geniculati medialis, pars ventralis, nucleus geniculatus medialis fasciculosis (Hassler), nucleus geniculatus medialis fasciculosus (Hassler), nucleus geniculatus medialis pars ventralis, nucleus ventralis corporis geniculati medialis, ventral nucleus of medial geniculate complex, ventral principal nucleus of medial geniculate body
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46839,6 +48467,7 @@ ventralNucleusOfPosteriorCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch
    :name: ventral nucleus of posterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002044
+   :synonym: Darkshevich nucleus, Darkshevich's nucleus, nucleus of Darkschewitsch
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46858,6 +48487,7 @@ ventralNucleusOfTrapezoidBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002832#ventral-nucleus-of-trapezoid-body-1
    :name: ventral nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002832
+   :synonym: VNTB, anterior nucleus of trapezoid body, nucleus anterior corporis trapezoidei, nucleus ventralis corporis trapezoidei, ventral trapezoid nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46876,6 +48506,7 @@ ventralOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002934#ventral-oculomotor-nucleus-1
    :name: ventral oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002934
+   :synonym: ventral nucleus of oculomotor nuclear complex, ventral oculomotor cell column
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46895,6 +48526,7 @@ ventralPallidum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002778#ventral-pallidum-1
    :name: ventral pallidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002778
+   :synonym: globus pallidus ventral part
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46931,6 +48563,7 @@ ventralPartOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000204#ventral-part-of-telencephalon
    :name: ventral part of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000204
+   :synonym: area ventralis telencephali, subpallium, ventral telencephalon
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46950,6 +48583,7 @@ ventralPosteriorNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002596#ventral-posterior-nucleus
    :name: ventral posterior nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002596
+   :synonym: nucleus ventrales posteriores, nucleus ventralis posterior, ventral posterior nucleus, ventral posterior thalamic nucleus, ventrobasal complex, ventrobasal nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46968,6 +48602,7 @@ ventralPosteroinferiorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002939#ventral-posteroinferior-nucleus-1
    :name: ventral posteroinferior nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002939
+   :synonym: nucleus ventralis posterior inferior thalami, ventral posterior inferior nucleus, ventral posterior inferior nucleus of thalamus, ventral posterior inferior thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -46987,6 +48622,7 @@ ventralPosterolateralNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002942#ventral-posterolateral-nucleus-1
    :name: ventral posterolateral nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002942
+   :synonym: nucleus ventralis posterior lateralis thalami, nucleus ventralis posterolateralis, nucleus ventralis posterolateralis thalami, nucleus ventralis thalami posterior lateralis, posterolateral ventral nucleus of thalamus, posterolateral ventral nucleus of the thalamus, ventral posterolateral nucleus of thalamus, ventral posterolateral nucleus of the thalamus, ventral posterolateral thalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47006,6 +48642,7 @@ ventralPosteromedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002945#ventral-posteromedial-nucleus
    :name: ventral posteromedial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002945
+   :synonym: arcuate nucleus of thalamus, arcuate nucleus of the thalamus, arcuate nucleus-3, nucleus arcuatus thalami, nucleus semilunaris thalami, nucleus ventralis posterior medialis thalami, nucleus ventralis posteromedialis, nucleus ventralis posteromedialis thalami, nucleus ventrocaudalis anterior internus (hassler), posteromedial ventral nucleus, posteromedial ventral nucleus of thalamus, posteromedial ventral nucleus of the thalamus, semilunar nucleus, thalamic gustatory nucleus, ventral posterior medial nucleus, ventral posterior medial nucleus of thalamus, ventral posteromedial nucleus of the thalamus, ventral posteromedial thalamic nucleus, ventroposteromedial nucleus of the thalamus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47075,6 +48712,7 @@ ventralRamusOfSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006838#ventral-ramus-of-spinal-nerve
    :name: ventral ramus of spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006838
+   :synonym: anterior primary ramus of spinal nerve, anterior ramus of spinal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47110,6 +48748,7 @@ ventralRootOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002260#ventral-root-of-spinal-cord
    :name: ventral root of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002260
+   :synonym: anterior spinal root, ventral spinal root
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47129,6 +48768,7 @@ ventralStriatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005403#ventral-striatum
    :name: ventral striatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005403
+   :synonym: striatum ventral region
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47164,6 +48804,7 @@ ventralSupraopticDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002676#ventral-supraoptic-decussation-1
    :name: ventral supraoptic decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002676
+   :synonym: Gudden commissure, Gudden's commissure, VSOX, commissura supraoptica ventralis, commissure of Gudden, supraoptic commissures, ventral, ventral supra-optic commissure, ventral supraoptic commissure (of Meynert), von Gudden's commissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47200,6 +48841,7 @@ ventralTegmentalArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002691#ventral-tegmental-area-1
    :name: ventral tegmental area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002691
+   :synonym: a10a, ventral tegmental area of tsai, ventral tegmental nucleus (tsai), ventral tegmental nucleus of tsai
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47218,6 +48860,7 @@ ventralTegmentalDecussation
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002615#ventral-tegmental-decussation-1
    :name: ventral tegmental decussation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002615
+   :synonym: anterior tegmental decussation, decussatio tegmentalis anterior, decussation of forel, ventral tegmental decussation of forel
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47237,6 +48880,7 @@ ventralTegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002438#ventral-tegmental-nucleus
    :name: ventral tegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002438
+   :synonym: deep tegmental nucleus of Gudden, ventral raphe tegmental nucleus, ventral tegmental nuclei, ventral tegmental nucleus (gudden), ventral tegmental nucleus of Gudden
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47255,6 +48899,7 @@ ventralThalamicFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022254#ventral-thalamic-fasciculus
    :name: ventral thalamic fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022254
+   :synonym: area subthalamica tegmentalis, pars dorsomedialis, area tegmentalis H1, area tegmentalis, pars dorsalis, area tegmentalis, pars dorsalis (Forel), campus foreli (pars dorsalis), fasciculus thalamicus, fasciculus thalamicus [h1], fasciculus thalamicus hypothalami, field H1, forel's field h1, forelli campus I, h1 bundle of Forel, h1 field of Forel, tegmental area h1, thalamic fasciculus, thalamic fasciculus [h1]
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47274,6 +48919,7 @@ ventralThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001900#subthalamus
    :name: ventral thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001900
+   :synonym: subthalamic region, subthalamus, thalamus ventralis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47293,6 +48939,7 @@ ventralTrigeminalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002549#ventral-trigeminal-tract-1
    :name: ventral trigeminal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002549
+   :synonym: anterior trigeminothalamic tract, tractus trigeminothalamicus anterior, trigeminal lemniscus-2, ventral crossed tract, ventral secondary ascending tract of V, ventral trigeminal pathway, ventral trigeminothalamic tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47327,6 +48974,7 @@ ventralZoneOfMedialEntorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018263#ventral-zone-of-medial-entorhinal-cortex
    :name: ventral zone of medial entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018263
+   :synonym: entorhinal area, medial part, ventral zone
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47345,6 +48993,7 @@ ventricleOfNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005358#ventricle-of-nervous-system
    :name: ventricle of nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005358
+   :synonym: ventricular layer
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47363,6 +49012,7 @@ ventricularSystemChoroidalFissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002192#ventricular-system-choroidal-fissure
    :name: ventricular system choroidal fissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002192
+   :synonym: choroidal fissure of lateral ventricle, lateral ventricle choroid fissure, ventricular system choroid fissure
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47381,6 +49031,7 @@ ventricularSystemOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005282#ventricular-system-of-brain
    :name: ventricular system of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005282
+   :synonym: brain ventricular system
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47399,6 +49050,7 @@ ventricularSystemOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005281#ventricular-system-of-central-nervous-system
    :name: ventricular system of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005281
+   :synonym: CNS ventricular system, ventricular system, ventricular system of neuraxis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47418,6 +49070,7 @@ ventricularZone
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003053#ventricular-zone
    :name: ventricular zone
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003053
+   :synonym: VZ, brain ventricular zone, ventricular zone of brain
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47436,6 +49089,7 @@ ventroCaudalCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2007003#ventro-caudal-cluster
    :name: ventro-caudal cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2007003
+   :synonym: vcc, ventrocaudal cluster
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47454,6 +49108,7 @@ ventroRostralCluster
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2007002#ventro-rostral-cluster
    :name: ventro-rostral cluster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2007002
+   :synonym: ventrorostral cluster, vrc
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47488,6 +49143,7 @@ ventrolateralNucleusOfSolitaryTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019312#ventrolateral-subnucleus-of-solitary-tract
    :name: ventrolateral nucleus of solitary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019312
+   :synonym: ventrolateral subnucleus of solitary tract, ventrolateral subnucleus of solitary tract, left
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47506,6 +49162,7 @@ ventrolateralSulcusOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008335#ventrolateral-sulcus-of-medulla-oblongata
    :name: ventrolateral sulcus of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008335
+   :synonym: anterolateral sulcus of medulla, sulcus anterolateralis, sulcus anterolateralis medullae oblongatae, sulcus ventrolateralis, ventrolateral fissure of medulla, ventrolateral sulcus, ventrolateral sulcus of medulla
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47525,6 +49182,7 @@ ventromedialNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001935#ventromedial-nucleus-of-hypothalamus-1
    :name: ventromedial nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001935
+   :synonym: ventromedial hypothalamic nucleus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47560,6 +49218,7 @@ vermisOfTheFlocculonodularLobeOfTheCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024037#vermis-of-the-flocculonodular-lobe-of-the-cerebellum-1
    :name: vermis of the flocculonodular lobe of the cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024037
+   :synonym: flocculonodular vermis
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47578,6 +49237,7 @@ vertebralGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000408#vertebral-ganglion
    :name: vertebral ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000408
+   :synonym: intermediate ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47596,6 +49256,7 @@ verticalLimbOfTheDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006124#vertical-limb-of-the-diagonal-band-1
    :name: vertical limb of the diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006124
+   :synonym: crus verticale striae diagonalis, vertical limb of diagonal band, vertical limb of the diagonal band of Broca
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47614,6 +49275,7 @@ vestibularEpithelium
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006932#vestibular-epithelium
    :name: vestibular epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006932
+   :synonym: epithelium of vestibular labyrinth, inner ear vestibular component epithelium, vestibular sensory epithelium
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47632,6 +49294,7 @@ vestibularGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002824#vestibular-ganglion-1
    :name: vestibular ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002824
+   :synonym: Scarpa's ganglion, vestibular part of vestibulocochlear ganglion, vestibulocochlear VIII ganglion vestibular component
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47650,6 +49313,7 @@ vestibularNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003723#vestibular-nerve
    :name: vestibular nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003723
+   :synonym: vestibular root of acoustic nerve, vestibular root of eighth cranial nerve, vestibulocochlear VIII nerve vestibular component
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47669,6 +49333,7 @@ vestibularNuclearComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002673#vestibular-nuclear-complex-1
    :name: vestibular nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002673
+   :synonym: nuclei vestibulares in medulla oblongata, vestibular nuclei, vestibular nuclei in medulla oblongata
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47687,6 +49352,7 @@ vestibularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007228#vestibular-nucleus
    :name: vestibular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007228
+   :synonym: vestibular VIII nucleus, vestibular nucleus of acoustic nerve, vestibular nucleus of eighth cranial nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47705,6 +49371,7 @@ vestibularOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006585#vestibular-organ-1
    :name: vestibular organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006585
+   :synonym: balance organ
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47722,6 +49389,7 @@ vestibuloCochlearVIIIGanglionComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013498#vestibulo-cochlear-viii-ganglion-complex
    :name: vestibulo-cochlear VIII ganglion complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013498
+   :synonym: vestibulocochlear VIII ganglion complex, vestibulocochlear ganglion complex
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47741,6 +49409,7 @@ vestibulocerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002552#vestibulocerebellar-tract-1
    :name: vestibulocerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002552
+   :synonym: vestibulocerebellar fibers
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47760,6 +49429,7 @@ vestibulocerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014642#vestibulocerebellum
    :name: vestibulocerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014642
+   :synonym: archicerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47778,6 +49448,7 @@ vestibulocochlearGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002827#auditory-ganglion
    :name: vestibulocochlear ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002827
+   :synonym: acoustic ganglion VIII, acoustico-vestibular VIII ganglion, auditory ganglion, gVIII, ganglion VIII, statoacoustic (VIII) ganglion, statoacoustic ganglia, statoacoustic ganglion, vestibulocochlear VIII ganglion
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47796,6 +49467,7 @@ vestibulocochlearNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001648#vestibulocochlear-nerve-1
    :name: vestibulocochlear nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001648
+   :synonym: CN-VIII, VIII nerve, VIIIth cranial nerve, acoustic VIII nerve, acoustic nerve, acoustic nerve (Crosby), cochlear-vestibular nerve, cochleovestibular nerve, cranial nerve VIII, eighth cranial nerve, nervus vestibulocochlearis [viii], stato-acoustic nerve, vestibulocochlear VIII nerve, vestibulocochlear nerve [VIII], vestibulocochlear nerve tree
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47815,6 +49487,7 @@ vestibulocochlearNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002731#vestibulocochlear-nerve-fiber-bundle
    :name: vestibulocochlear nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002731
+   :synonym: central part of vestibulocochlear nerve, fibrae nervi statoacustici, root of vestibulocochlear nerve, statoacoustic nerve fibers, vestibulocochlear nerve fibers, vestibulocochlear nerve roots, vestibulocochlear nerve tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47850,6 +49523,7 @@ vestibulospinalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002768#vestibulospinal-tract-1
    :name: vestibulospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002768
+   :synonym: vestibulo-spinal tract
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -47886,6 +49560,7 @@ vidianNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018412#vidian-nerve
    :name: vidian nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018412
+   :synonym: nerve of pterygoid canal, pterygoid canal nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48007,6 +49682,7 @@ wallOfCentralCanalOfSpinalCord
    :definition: Is a ventricle of nervous system. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036658) ('is_a' and 'relationship')]
    :name: wall of central canal of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036658
+   :synonym: wall of central canal
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48106,6 +49782,7 @@ whiteMatterLaminaOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014540#white-laminae-of-cerebellum
    :name: white matter lamina of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014540
+   :synonym: lamina alba of cerebellar cortex, laminae albae of cerebellar cortex, white lamina of cerebellum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48176,6 +49853,7 @@ whiteMatterOfCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002317#cerebellar-white-matter
    :name: white matter of cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002317
+   :synonym: cerebellar white matter, cerebellum white matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48229,6 +49907,7 @@ whiteMatterOfFrontalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016528#white-matter-of-frontal-lobe
    :name: white matter of frontal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016528
+   :synonym: frontal lobe white matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48285,6 +49964,7 @@ whiteMatterOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014649#medullary-white-matter
    :name: white matter of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014649
+   :synonym: substantia alba medullae oblongatae, white matter of medulla, white substance of medulla
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48320,6 +50000,7 @@ whiteMatterOfMidbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016554#white-matter-of-midbrain
    :name: white matter of midbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016554
+   :synonym: mesencephalic white matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48338,6 +50019,7 @@ whiteMatterOfMyelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019262#white-matter-of-myelencephalon
    :name: white matter of myelencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019262
+   :synonym: myelencephalic white matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48408,6 +50090,7 @@ whiteMatterOfPontineTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019293#predominantly-white-regional-part-of-pontine-tegmentum
    :name: white matter of pontine tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019293
+   :synonym: pontine white matter tracts, predominantly white regional part of pontine tegmentum, substantia alba tegmenti pontis, white matter of pontile tegmentum, white substance of pontile tegmentum
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48426,6 +50109,7 @@ whiteMatterOfSpinalCord
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002318#white-matter-of-spinal-cord
    :name: white matter of spinal cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002318
+   :synonym: spinal cord white matter, spinal cord white matter of neuraxis, spinal cord white substance, substantia alba medullae spinalis, white matter of neuraxis of spinal cord, white substance of spinal cord
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48444,6 +50128,7 @@ whiteMatterOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006786#predominantly-white-regional-part-of-superior-colliculus
    :name: white matter of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006786
+   :synonym: predominantly white regional part of superior colliculus, white matter layer of superior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48462,6 +50147,7 @@ whiteMatterOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011299#predominantly-white-regional-part-of-telencephalon
    :name: white matter of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011299
+   :synonym: predominantly white regional part of telencephalon, telencephalic tract/commissure, telencephalic white matter
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48517,6 +50203,7 @@ wristNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003434#wrist-nerve
    :name: wrist nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003434
+   :synonym: carpal region nerve, nerve of carpal region, nerve of wrist
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48554,6 +50241,7 @@ zonaLimitansIntrathalamica
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009848#zona-limitans-intrathalamica
    :name: zona limitans intrathalamica
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009848
+   :synonym: ZLI
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48572,6 +50260,7 @@ zonalLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006780#zonal-layer-of-superior-colliculus
    :name: zonal layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006780
+   :synonym: lamina I of superior colliculus, lamina colliculi superioris I, layer I of superior colliculus, stratum zonale colliculi superioris, stratum zonale of midbrain, stratum zonale of superior colliculus
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -48590,6 +50279,7 @@ zygomaticotemporalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036264#zygomaticotemporal-nerve
    :name: zygomaticotemporal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036264
+   :synonym: ramus zygomaticotemporalis (Nervus zygomaticus), ramus zygomaticotemporalis nervus zygomatici, zygomaticotemporal branch of zygomatic nerve
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 

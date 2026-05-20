@@ -17,8 +17,12 @@ BigBrain_2015
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/BigBrain_2015
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: BigBrain
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :anatomicalAxesOrientation: `RAS <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
+   :custodian: `evansAlanC <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/person.html#evansalanc>`_, `amuntsKatrin <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/person.html#amuntskatrin>`_
    :fullName: BigBrain Whole-Brain Model
    :homepage: https://bigbrainproject.org/
+   :nativeUnit: `micrometer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/unitOfMeasurement.html#micrometer>`_
    :releaseDate: 2013-06-21
    :shortName: BigBrain Model
    :versionIdentifier: 2015

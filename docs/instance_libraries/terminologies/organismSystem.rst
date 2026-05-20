@@ -40,6 +40,7 @@ centralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :name: central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001017
+   :synonym: CNS, systema nervosum centrale
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -58,6 +59,7 @@ cholinergicSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025595#cholinergic-system-1
    :name: cholinergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204http://purl.obolibrary.org/obo/UBERON_0025595
+   :synonym: ACh system, acetylcholine system, ach system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -94,6 +96,7 @@ gabaergicSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXANAT:1005024#gabaergic-system
    :name: gabaergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025591
+   :synonym: GABAergic system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -130,6 +133,7 @@ musculoskeletalSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002204#musculoskeletal-system
    :name: musculoskeletal system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204
+   :synonym: musculo-skeletal system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -166,6 +170,7 @@ serotonergicSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025593#serotonergic-system-1
    :name: serotonergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025593
+   :synonym: 5-HT system, 5-ht system, 5HT system, 5ht system, serotonin system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 

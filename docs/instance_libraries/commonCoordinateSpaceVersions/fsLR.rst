@@ -18,6 +18,7 @@ fsLR_164k
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: fsLR Surface Space
    :versionIdentifier: 164k
    :versionInnovation: This fsLR Surface Space version has about 163842 (164k) vertices per hemisphere.
@@ -36,6 +37,7 @@ fsLR_32k
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: fsLR Surface Space
    :versionIdentifier: 32k
    :versionInnovation: This fsLR Surface Space version has about 32492 (32k) vertices per hemisphere.

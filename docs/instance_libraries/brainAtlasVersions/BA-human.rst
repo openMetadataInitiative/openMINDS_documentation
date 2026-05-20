@@ -17,10 +17,12 @@ BA-human_1909
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/BA-human_1909
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: BA-human
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/BA-human_1909.html>`_
    :ontologyIdentifier: http://uri.interlex.org/base/ilx_0101468
    :shortName: Brodmann Areas (human)
+   :type: `parcellationScheme <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#parcellationscheme>`_
    :versionIdentifier: 1909
    :versionInnovation: This is the second released version of the human Brodmann cortical parcellation scheme.
 

@@ -17,13 +17,19 @@ WHSSDatlas_v1.01
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v1.01
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `WHSSD_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/WHSSD.html#whssd-v1-01>`_
+   :fullDocumentation: `https://doi.org/10.1016/j.neuroimage.2014.10.017 <https://doi.org/10.1016/j.neuroimage.2014.10.017>`_
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/WHSSDatlas_v1.01.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Papp et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.10.017).
+   :license: `CC-BY-4.0 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html#cc-by-4-0>`_
+   :relatedPublication: `https://doi.org/10.1016/j.neuroimage.2014.04.001 <https://doi.org/10.1016/j.neuroimage.2014.04.001>`_
    :releaseDate: 2014-07-17
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v1.01
    :versionInnovation: Anatomical delineations of 76 major brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v1.01.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v1.label: text file naming the anatomical structures; MBAT_WHS_SD_rat_atlas_v1.01.zip: files describing a suggested hierarchical organization of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
 
@@ -40,13 +46,20 @@ WHSSDatlas_v2
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v2
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `WHSSD_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/WHSSD.html#whssd-v1-01>`_
+   :fullDocumentation: `https://doi.org/10.1016/j.neuroimage.2014.12.080 <https://doi.org/10.1016/j.neuroimage.2014.12.080>`_
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/WHSSDatlas_v2.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kjonigsen et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.12.080).
+   :isNewVersionOf: `WHSSDatlas_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/brainAtlasVersions/WHSSDatlas.html#whssdatlas-v1-01>`_
+   :license: `CC-BY-4.0 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html#cc-by-4-0>`_
+   :relatedPublication: `https://doi.org/10.1016/j.neuroimage.2014.04.001 <https://doi.org/10.1016/j.neuroimage.2014.04.001>`_, `https://doi.org/10.1016/j.neuroimage.2014.10.017 <https://doi.org/10.1016/j.neuroimage.2014.10.017>`_
    :releaseDate: 2015-02-02
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v2
    :versionInnovation: Anatomical delineations of 79 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 2 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 13 new and updated delineations of the hippocampal formation and parahippocampal region, and 66 structure delineations unchanged relative to v1.01. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v2.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v2.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v2.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
 
@@ -63,13 +76,20 @@ WHSSDatlas_v3.01
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3.01
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `WHSSD_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/WHSSD.html#whssd-v1-01>`_
+   :fullDocumentation: `https://doi.org/10.1016/j.neuroimage.2019.05.016 <https://doi.org/10.1016/j.neuroimage.2019.05.016>`_
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.01.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :isNewVersionOf: `WHSSDatlas_v3 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/brainAtlasVersions/WHSSDatlas.html#whssdatlas-v3>`_
+   :license: `CC-BY-4.0 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html#cc-by-4-0>`_
+   :relatedPublication: `https://doi.org/10.1016/j.neuroimage.2014.04.001 <https://doi.org/10.1016/j.neuroimage.2014.04.001>`_, `https://doi.org/10.1016/j.neuroimage.2014.10.017 <https://doi.org/10.1016/j.neuroimage.2014.10.017>`_, `https://doi.org/10.1016/j.neuroimage.2014.12.080 <https://doi.org/10.1016/j.neuroimage.2014.12.080>`_
    :releaseDate: 2021-10-01
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3.01
 
 `BACK TO TOP <BrainAtlasVersions: WHSSDatlas library_>`_
@@ -85,13 +105,20 @@ WHSSDatlas_v3
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `WHSSD_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/WHSSD.html#whssd-v1-01>`_
+   :fullDocumentation: `https://doi.org/10.1016/j.neuroimage.2019.05.016 <https://doi.org/10.1016/j.neuroimage.2019.05.016>`_
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :isNewVersionOf: `WHSSDatlas_v2 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/brainAtlasVersions/WHSSDatlas.html#whssdatlas-v2>`_
+   :license: `CC-BY-4.0 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html#cc-by-4-0>`_
+   :relatedPublication: `https://doi.org/10.1016/j.neuroimage.2014.04.001 <https://doi.org/10.1016/j.neuroimage.2014.04.001>`_, `https://doi.org/10.1016/j.neuroimage.2014.10.017 <https://doi.org/10.1016/j.neuroimage.2014.10.017>`_, `https://doi.org/10.1016/j.neuroimage.2014.12.080 <https://doi.org/10.1016/j.neuroimage.2014.12.080>`_
    :releaseDate: 2019-05-15
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3
    :versionInnovation: Anatomical delineations of 118 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 3 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 41 new and 10 updated delineations related or adjacent to the ascending the auditory system. 65 delineations have remained unchanged relative to v2. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v3.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v3.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v3.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
 
@@ -108,13 +135,20 @@ WHSSDatlas_v4
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v4
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
+   :accessibility: `freeAccess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :coordinateSpace: `WHSSD_v1.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/WHSSD.html#whssd-v1-01>`_
+   :fullDocumentation: `https://doi.org/10.21203/rs.3.rs-2466303/v1 <https://doi.org/10.21203/rs.3.rs-2466303/v1>`_
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/WHSSDatlas_v4.html>`_
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kleven et al. (2023)](https://doi.org/10.21203/rs.3.rs-2466303/v1).
+   :isNewVersionOf: `WHSSDatlas_v3.01 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/brainAtlasVersions/WHSSDatlas.html#whssdatlas-v3-01>`_
+   :license: `CC-BY-4.0 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html#cc-by-4-0>`_
+   :relatedPublication: `https://doi.org/10.1016/j.neuroimage.2014.04.001 <https://doi.org/10.1016/j.neuroimage.2014.04.001>`_, `https://doi.org/10.1016/j.neuroimage.2014.10.017 <https://doi.org/10.1016/j.neuroimage.2014.10.017>`_, `https://doi.org/10.1016/j.neuroimage.2014.12.080 <https://doi.org/10.1016/j.neuroimage.2014.12.080>`_, `https://doi.org/10.1016/j.neuroimage.2019.05.016 <https://doi.org/10.1016/j.neuroimage.2019.05.016>`_
    :releaseDate: 2021-10-01
    :shortName: Waxholm Space Rat Brain Atlas
    :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :type: `deterministicAtlas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v4
    :versionInnovation: Anatomical delineations of 222 brain regions and white matter tracts in the Sprague Dawley rat brain, based on a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 4 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 112 new and 56 updated delineations related or adjacent to the basal ganglia, thalamus and cortical structures. 54 delineations have remained unchanged and 9 have been completely replaced relative to v3. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v4.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v4.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v4.zip: file describing a suggested hierarchy of the anatomical structures
 

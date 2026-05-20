@@ -20,6 +20,7 @@ COVID-19
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739370
    :name: COVID-19
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080600
+   :synonym: 2019 Novel Coronavirus (2019-nCoV), 2019-nCoV infection, COVID19, SARS-CoV-2 infection, Wuhan coronavirus infection, Wuhan seafood market pneumonia virus infection, coronavirus disease 2019, severe acute respiratory syndrome coronavirus 2
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -84,6 +85,7 @@ cerebralAtrophy
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/HP:0012444#brain-atrophy
    :name: cerebral atrophy
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/HP_0002059
+   :synonym: atrophy of cerebrum, brain atrophy, degeneration of brain, degeneration of cerebrum
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -114,6 +116,7 @@ disorderOfConsciousness
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'disorder of consciousness' is a state where a subject's consciousness has been affected by damage to the brain.
    :name: disorder of consciousness
+   :synonym: DOC, impaired consciousness
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -145,6 +148,7 @@ focalCerebralIschemia
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'focal brain ischemia' occurs when a blood clot has occluded a cerebral vessel reducing the blood flow to a specific brain region which increases the risk of cell death in that particular area. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Brain_ischemia#Focal_brain_ischemia)]
    :name: focal cerebral ischemia
+   :synonym: focal brain ischemia, focal ischemic brain injury
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -178,6 +182,7 @@ glioma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
    :name: glioma
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_12618
+   :synonym: glial neoplasm, neoplasm of the neuroglia, neuroglial neoplasm, neuroglial tumor, tumor of neuroglia, tumor of the neuroglia
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -195,6 +200,7 @@ longCOVID
    :description: A Coronavirus infectious disease that is characterized by long-term persistent and fluctuating symptoms, in individuals with COVID-19, persisting beyond three to four weeks, including the loss of the ability to smell and taste, breathlessness, fatigue, difficulty in breathing, difficulty concentrating, memory loss, confusion, headache, heart palpitations, chest pain, pain with deep breaths, dizziness, and tachycardia.
    :name: long COVID
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080848
+   :synonym: PASC, chronic COVID-19, post-COVID syndrome, post-acute sequelae of SARS-CoV-2 infection
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -214,6 +220,7 @@ macularDegeneration
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1
    :name: macular degeneration
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_4448
+   :synonym: macular degeneration of retina, macular dystrophy, maculopathy
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -231,6 +238,7 @@ malignantNeoplasm
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0752652
    :name: malignant neoplasm
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCIT_C9305
+   :synonym: cancer
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -249,6 +257,7 @@ meningioma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma
    :name: meningioma
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_12601
+   :synonym: meningeal neoplasm, meningothelial cell tumor, neoplasm of the meninges, primary meningeal tumor, supratentorial meningioma
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -267,6 +276,7 @@ mentalDisorder
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder
    :name: mental disorder
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106792
+   :synonym: mental disease, mental illness, psychiatric disease, psychiatric disorder
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -282,6 +292,7 @@ minimallyConsciousState
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'minimally conscious state' (MCS) is a disorder of consciousness with partial preservation of conscious awareness. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Minimally_conscious_state)]
    :name: minimally conscious state
+   :synonym: MCS
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -300,6 +311,7 @@ multipleSclerosis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :name: multiple sclerosis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_2377
+   :synonym: MS, generalized multiple sclerosis
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -333,6 +345,7 @@ stroke
    :interlexIdentifier: http://uri.interlex.org/ilx_0738754
    :name: stroke
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_6713
+   :synonym: CVA, cerebral infaction, cerebrovascular accident, cerebrovascular disease, stroke disorder
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -348,6 +361,7 @@ unresponsiveWakefulnessSyndrome
    :@type: https://openminds.om-i.org/types/Disease
    :definition: The 'unresponsive wakefulness syndrome' (UWS) is a disorder of consciousness, formerly known as vegetative state, with only reflexive behavior and no sign of conscious awareness [[Laureys et al. 2010](https://doi.org/10.1186/1741-7015-8-68)].
    :name: unresponsive wakefulness syndrome
+   :synonym: UWS, VS, vegetative state
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 

@@ -21,6 +21,7 @@ auditoryStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0101001
    :name: auditory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125
+   :synonym: auditory modality, auditory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -39,6 +40,7 @@ gustatoryStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0104834
    :name: gustatory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00123
+   :synonym: gustatory modality, gustatory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -57,6 +59,7 @@ interoceptiveStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0105596
    :name: interoceptive stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00128
+   :synonym: interoceptive modality, interoceptive stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -75,6 +78,7 @@ olfactoryStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0107962
    :name: olfactory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00130
+   :synonym: olfactory modality, olfactory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -93,6 +97,7 @@ tactileStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0111485
    :name: tactile stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00131
+   :synonym: tactile modality, tactile stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -111,6 +116,7 @@ visualStimulation
    :interlexIdentifier: http://uri.interlex.org/ilx_0112525
    :name: visual stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00132
+   :synonym: visual modality, visual stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 

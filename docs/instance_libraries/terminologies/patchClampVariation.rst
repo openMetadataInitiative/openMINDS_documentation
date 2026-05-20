@@ -99,6 +99,7 @@ wholeCellPatch
    :definition: A variation of the patch-clamp technique in which the patch is ruptured, giving access to the intracellular space.
    :description: Whole-cell recordings involve recording currents through multiple channels simultaneously, over a large region of the cell membrane. The electrode is left in place on the cell, as in cell-attached recordings, but more suction is applied to rupture the membrane patch, thus providing access from the interior of the pipette to the intracellular space of the cell. This provides a means to administer and study how treatments (e.g. drugs) can affect cells in real time. [Wikipedia]
    :name: whole-cell patch
+   :synonym: whole-cell recording
 
 `BACK TO TOP <Terminologies: PatchClampVariation library_>`_
 

@@ -35,6 +35,7 @@ associativeArray
    :definition: A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).
    :name: associative array
    :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q80585
+   :synonym: dictionary
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -98,6 +99,7 @@ rasterGraphic
    :definition: A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.
    :name: raster graphic
    :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q182270
+   :synonym: pixel data, raster image
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -130,6 +132,7 @@ table
    :definition: A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.
    :name: table
    :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q496946
+   :synonym: tabular data
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -146,6 +149,7 @@ timeSeries
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
    :name: time series
    :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q186588
+   :synonym: time-series
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -162,6 +166,7 @@ vectorGraphic
    :definition: A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.
    :name: vector graphic
    :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q170130
+   :synonym: vector image
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 

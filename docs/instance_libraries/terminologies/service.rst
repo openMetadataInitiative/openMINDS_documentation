@@ -51,6 +51,7 @@ EBRAINSKnowledgeGraphSearchUI
    :definition: The EBRAINS Knowledge Graph Search User Interface is a web application for searching the EBRAINS Knowledge Graph.
    :description: The Knowledge Graph Search User Interface makes data, models and software discoverable and easy to use. The user interface allows for free text searches and provides filters to narrow searches based on metadata that classifies data according to experimental method, data modality and species among other options. The query results are displayed as Dataset cards containing key information about the dataset, e.g. its metadata, terms of use, and how to cite and reuse the data. Datasets that have undergone spatial registration to an atlas contain links to 3D or 2D viewers for navigating the data in atlas space.
    :name: EBRAINS Knowledge Graph Search UI
+   :synonym: EBRAINS KG Search UI, EBRAINS KGS UI, EBRAINS Knowledge Graph Search User Interface, KG Search UI, KGS UI, Knowledge Graph Search User Interface
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
@@ -147,6 +148,7 @@ Multi-Image-OSd
    :definition: Web application for viewing of series of high-resolution 2D images.
    :description: Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd. This service is not supported anymore and has been replaced by 'SeriesZoom'. [edited 2025-09-11]
    :name: Multi-Image-OSd
+   :synonym: Multi-Image OpenSeadragon viewer
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
@@ -210,6 +212,7 @@ SeriesZoom
    :definition: Web application for viewing of series of high-resolution 2D images.
    :description: SeriesZoom allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/SeriesZoom
    :name: SeriesZoom
+   :synonym: SeriesZoom
 
 `BACK TO TOP <Terminologies: Service library_>`_
 

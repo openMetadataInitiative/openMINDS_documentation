@@ -18,6 +18,7 @@ chiSquaredStatistic
    :@type: https://openminds.om-i.org/types/DifferenceMeasure
    :definition: Test statistic resulting from a chi-squared test.
    :name: chi-squared statistic
+   :synonym: χ2-statistic
 
 `BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
@@ -33,6 +34,7 @@ kolmogorovSmirnovStatistic
    :@type: https://openminds.om-i.org/types/DifferenceMeasure
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
    :name: Kolmogorov-Smirnov statistic
+   :synonym: KS-statistic
 
 `BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
@@ -48,6 +50,7 @@ kullbackLeiblerDivergence
    :@type: https://openminds.om-i.org/types/DifferenceMeasure
    :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
    :name: Kullback-Leibler divergence
+   :synonym: KL divergence
 
 `BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 

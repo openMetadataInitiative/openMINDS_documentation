@@ -137,6 +137,7 @@ anatomicalPlane
    :interlexIdentifier: http://uri.interlex.org/ilx_0725051
    :name: anatomical plane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035085
+   :synonym: fiat anatomical surface
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1016,6 +1017,7 @@ subcellularEntity
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
    :name: subcellular entity
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/GO_0005575
+   :synonym: cellular component
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 

@@ -22,6 +22,7 @@ arterialBlood
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013755#arterial-blood
    :name: arterial blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013755
+   :synonym: arterial blood, blood in artery, portion of arterial blood
 
 `BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
@@ -41,6 +42,7 @@ blood
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000178#blood
    :name: blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000178
+   :synonym: portion of blood, vertebrate blood
 
 `BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
@@ -60,6 +62,7 @@ cerebrospinalFluid
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/#cerebral-spinal-fluid
    :name: cerebrospinal fluid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001359
+   :synonym: CSF, cerebral spinal fluid, liquor cerebrospinalis, spinal fluid
 
 `BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
@@ -79,6 +82,7 @@ venousBlood
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013756#venous-blood
    :name: venous blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013756
+   :synonym: blood in vein, portion of venous blood, venous blood
 
 `BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
