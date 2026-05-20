@@ -253,6 +253,7 @@ def main() -> None:
     
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
+    # Verifying every redirect target trigger rate limits or access denials
     # Optional: immediately verify all links
     # print("Verifying redirect targets...")
     # verify_redirect_map(OUTPUT_FILENAME)
