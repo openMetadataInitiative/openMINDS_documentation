@@ -29,26 +29,13 @@ def count_instances(version:str) -> int:
 
 
 def version_rank(version: str) -> tuple:
+    if version is None or isinstance(version, list):
+        return (-1, -1)
     if version == "latest":
         return (999, 999)
     parts = version.lstrip("v").split(".")
     return (int(parts[0]), int(parts[1]) if len(parts) > 1 else 0)
 
-
-def version_redirection_candidate(version: str) -> bool:
-    """
-    Determine whether a documentation version should be redirected.
-
-    Redirection is applied to:
-    - the special alias "latest"
-    - any version greater than or equal to 4.0
-
-    Versions earlier than 4.0 are not redirected.
-    """
-    if version == "latest":
-        return True
-    rank = version_rank(version)
-    return rank >= (4, 0)
 
 class SchemaLoader(object):
 

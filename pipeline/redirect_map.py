@@ -20,7 +20,7 @@ from typing import Dict
 
 import requests
 
-from utils import clone_sources, SchemaLoader, InstanceLoader, version_rank, version_redirection_candidate
+from utils import clone_sources, SchemaLoader, InstanceLoader, version_rank
 
 # Helper functions
 
@@ -41,6 +41,7 @@ def _anchorize(name: str) -> str:
 # Configuration
 # ---------------------------------------------------------------------
 
+OLD_NAMESPACE = "https://openminds.ebrains.eu"
 DOCS_BASE_URL = "https://openminds.docs.om-i.org"  # without trailing slash
 OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
@@ -73,7 +74,6 @@ def generate_redirect_map() -> Dict[str, str]:
     versioned = [v for v in all_versions if v.startswith("v") and v != "latest"]
     versioned.sort(reverse=True)
     ordered_versions.extend(versioned)
-    
     for version in ordered_versions:
         abs_paths = loader.find_schemas(version)
         rel_paths = loader.get_relative_paths_for_schema_docu(abs_paths, version)
@@ -82,21 +82,25 @@ def generate_redirect_map() -> Dict[str, str]:
             # Only record if we haven't seen this schema yet (prioritizes earlier processed versions)
             if schema_name not in schema_versions:
                 schema_versions[schema_name] = {
-                    "version": version,
+                    "versions": [version],
                     "rel_path": rel_path
                 }
+            elif version_rank(version) < (4, 0) and (len(schema_versions[schema_name]["versions"]) == 1 and version_rank(schema_versions[schema_name]["versions"][0]) >= (4, 0)):
+                schema_versions[schema_name]["versions"].append(version)
 
     # Generate URLs using the appropriate version for each schema
     for schema_name, info in schema_versions.items():
-        if not version_redirection_candidate(info["version"]):
-            continue
-        uri = f"/types/{schema_name}"
-        version_slug = info["version"]
-        url = (
-            f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
-            f"{info['rel_path']}.html#{schema_name.lower()}"
-        )
-        redirect_map[uri] = url
+        versions = info["versions"]
+        for version_slug in versions:
+            if version_rank(version_slug) >= (4, 0):
+                uri = f"/types/{schema_name}"
+            else:
+                uri = f"{OLD_NAMESPACE}/{info['rel_path'].split('/')[0]}/{schema_name}"
+            url = (
+                f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
+                f"{info['rel_path']}.html#{schema_name.lower()}"
+            )
+            redirect_map[uri] = url
 
     # ----------------------------------------------------------
     # Instance redirects
@@ -108,8 +112,6 @@ def generate_redirect_map() -> Dict[str, str]:
 
     instance_versions: Dict[str, dict] = {}
     for version in iloader.get_instance_versions():
-        if not version_redirection_candidate(version):
-            continue
         abs_paths = iloader.find_instances(version)
         base_dir = os.path.join(iloader.instances_sources, version)
         for ap in abs_paths:
@@ -151,11 +153,19 @@ def generate_redirect_map() -> Dict[str, str]:
             else:
                 uri = f"/instances/{inst_type[:-1]}/{filename}"
 
-            existing = instance_versions.get(uri)
-            should_update = existing is None or version_rank(version) > version_rank(existing["version"])
+            if version_rank(version) >= (4, 0):
+                namespace_uri = uri
+            else:
+                namespace_uri = f"{OLD_NAMESPACE}{uri}"
+
+            existing_version = instance_versions.get(namespace_uri, {}).get("version")
+            should_update = existing_version is None or version_rank(version) > version_rank(existing_version)
             if should_update:
-                # Upgrade to latest if we now find it there
-                instance_versions[uri] = {"version": version, "page_path": page_path, "anchor": anchor}
+                instance_versions[namespace_uri] = {
+                    "version": version,
+                    "page_path": page_path,
+                    "anchor": anchor
+                }
 
     for uri, info in instance_versions.items():
         version_slug = info["version"]
