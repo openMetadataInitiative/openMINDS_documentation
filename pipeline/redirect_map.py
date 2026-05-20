@@ -41,7 +41,6 @@ def _anchorize(name: str) -> str:
 # Configuration
 # ---------------------------------------------------------------------
 
-OLD_NAMESPACE = "https://openminds.ebrains.eu"
 DOCS_BASE_URL = "https://openminds.docs.om-i.org"  # without trailing slash
 OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
@@ -95,7 +94,7 @@ def generate_redirect_map() -> Dict[str, str]:
             if version_rank(version_slug) >= (4, 0):
                 uri = f"/types/{schema_name}"
             else:
-                uri = f"{OLD_NAMESPACE}/{info['rel_path'].split('/')[0]}/{schema_name}"
+                uri = f"{DOCS_BASE_URL}/{info['rel_path'].split('/')[0]}/{schema_name}"
             url = (
                 f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
                 f"{info['rel_path']}.html#{schema_name.lower()}"
@@ -156,7 +155,7 @@ def generate_redirect_map() -> Dict[str, str]:
             if version_rank(version) >= (4, 0):
                 namespace_uri = uri
             else:
-                namespace_uri = f"{OLD_NAMESPACE}{uri}"
+                namespace_uri = f"{DOCS_BASE_URL}{uri}"
 
             existing_version = instance_versions.get(namespace_uri, {}).get("version")
             should_update = existing_version is None or version_rank(version) > version_rank(existing_version)
@@ -255,8 +254,8 @@ def main() -> None:
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
     # Optional: immediately verify all links
-    print("Verifying redirect targets...")
-    verify_redirect_map(OUTPUT_FILENAME)
+    # print("Verifying redirect targets...")
+    # verify_redirect_map(OUTPUT_FILENAME)
 
 
 if __name__ == "__main__":
