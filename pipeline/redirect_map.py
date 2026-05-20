@@ -253,10 +253,10 @@ def main() -> None:
         #fp.write(f'RedirectMatch 301 /(.*) {DOCS_BASE_URL}/$1\n')
     
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
-
+    # Verifying every redirect target trigger rate limits or access denial
     # Optional: immediately verify all links
-    print("Verifying redirect targets...")
-    verify_redirect_map(OUTPUT_FILENAME)
+    # print("Verifying redirect targets...")
+    # verify_redirect_map(OUTPUT_FILENAME)
 
 
 if __name__ == "__main__":
