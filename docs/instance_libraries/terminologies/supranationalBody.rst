@@ -19,6 +19,7 @@ ArabMaghrebUnion
    :definition: Trade agreement among Arab countries. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q370862)]
    :name: Arab Maghreb Union
    :preferredCrossReference: http://www.wikidata.org/entity/Q370862
+   :synonym: AMU
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -35,6 +36,7 @@ COVAX
    :definition: Global vaccine alliance regarding the COVID-19 pandemic. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q99360983)]
    :name: COVAX
    :preferredCrossReference: http://www.wikidata.org/entity/Q99360983
+   :synonym: COVAX Facility, COVAX Global Vaccines Facility, COVAX initiative, COVAX programma, COVID-19 Vaccines Global Access, Covid-19 vaccine allocation plan
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -51,6 +53,7 @@ EuropeanEconomicArea
    :definition: Area of the European Union's internal market and some of EFTA states established in 1994. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q8932)]
    :name: European Economic Area
    :preferredCrossReference: http://www.wikidata.org/entity/Q8932
+   :synonym: EEA
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -67,6 +70,7 @@ EuropeanUnion
    :definition: Political and economic union of 27 European states. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q458)]
    :name: European Union
    :preferredCrossReference: http://www.wikidata.org/entity/Q458
+   :synonym: An tAontas Eorpach, Den Europæiske Union, E.U., EU, Eiropas Savienība, Euroopa Liit, Euroopan unioni, Europeiska unionen, Europese Unie, Europos Sąjunga, Europska unija, Europäische Union, Európai Unió, Európska únia, Evropska unija, Evropská unie, Unia Europejska, Union européenne, Unione Europea, Uniunea Europeană, União Europeia, Unión Europea, Unjoni Ewropea, eu
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -83,6 +87,7 @@ NordicCouncil
    :definition: Geo-political inter-parliamentary forum for co-operation between the Nordic countries. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q146165)]
    :name: Nordic Council
    :preferredCrossReference: http://www.wikidata.org/entity/Q146165
+   :synonym: Nordic cooperation, The Nordic Council
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -99,6 +104,7 @@ ProvisionalWorldGovernment
    :definition: World Government in Provisional stage. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q119439372)]
    :name: Provisional World Government
    :preferredCrossReference: http://www.wikidata.org/entity/Q119439372
+   :synonym: Provisional World Government for the Federation of Earth, Transitional World Government, World Government for the Federation of Earth
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -115,6 +121,7 @@ TheMahdiServantsUnion
    :definition: International non-governmental organization. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96979217)]
    :name: The Mahdi Servants Union
    :preferredCrossReference: http://www.wikidata.org/entity/Q96979217
+   :synonym: Khoddam Al-Mahdi, MSU
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -131,6 +138,7 @@ UnionState
    :definition: Supranational entity consisting of the Russian Federation and the Republic of Belarus. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q166110)]
    :name: Union State
    :preferredCrossReference: http://www.wikidata.org/entity/Q166110
+   :synonym: Union State of Russia and Belarus
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 
@@ -147,6 +155,7 @@ WestAfricanExaminationsCouncil
    :definition: Is an examination board established in the public interest to conduct exams and award certificates in English-speaking West African countries. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/West_African_Examinations_Council)]
    :name: West African Examinations Council
    :preferredCrossReference: http://www.wikidata.org/entity/Q2993835
+   :synonym: WAEC, West African Examination Council, West African Exams Council
 
 `BACK TO TOP <Terminologies: SupranationalBody library_>`_
 

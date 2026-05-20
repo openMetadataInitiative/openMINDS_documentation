@@ -18,7 +18,9 @@ COVID-19
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A coronavirus infectious disease that is characterized by fever, cough and shortness of breath and caused by the coronavirus strain SARS-CoV-2.
    :name: COVID-19
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0739370
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080600
+   :synonym: 2019 Novel Coronavirus (2019-nCoV), 2019-nCoV infection, COVID19, SARS-CoV-2 infection, Wuhan coronavirus infection, Wuhan seafood market pneumonia virus infection, coronavirus disease 2019, severe acute respiratory syndrome coronavirus 2
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -34,6 +36,7 @@ acquiredBlindness
    :@type: https://openminds.om-i.org/types/Disease
    :definition: Acquired blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision during adulthood.
    :name: acquired blindness
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0499758
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0336554
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -82,6 +85,7 @@ cerebralAtrophy
    :name: cerebral atrophy
    :preferredCrossReference: https://knowledge-space.org/wiki/HP:0012444#brain-atrophy
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/HP_0002059
+   :synonym: atrophy of cerebrum, brain atrophy, degeneration of brain, degeneration of cerebrum
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -112,6 +116,7 @@ disorderOfConsciousness
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'disorder of consciousness' is a state where a subject's consciousness has been affected by damage to the brain.
    :name: disorder of consciousness
+   :synonym: DOC, impaired consciousness
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -143,6 +148,7 @@ focalCerebralIschemia
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'focal brain ischemia' occurs when a blood clot has occluded a cerebral vessel reducing the blood flow to a specific brain region which increases the risk of cell death in that particular area. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Brain_ischemia#Focal_brain_ischemia)]
    :name: focal cerebral ischemia
+   :synonym: focal brain ischemia, focal ischemic brain injury
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -173,8 +179,10 @@ glioma
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A benign or malignant brain and spinal cord tumor that arises from glial cells (astrocytes, oligodendrocytes, ependymal cells).
    :name: glioma
+   :otherCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_12618
    :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0104647
+   :synonym: glial neoplasm, neoplasm of the neuroglia, neuroglial neoplasm, neuroglial tumor, tumor of neuroglia, tumor of the neuroglia
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -192,6 +200,7 @@ longCOVID
    :description: A Coronavirus infectious disease that is characterized by long-term persistent and fluctuating symptoms, in individuals with COVID-19, persisting beyond three to four weeks, including the loss of the ability to smell and taste, breathlessness, fatigue, difficulty in breathing, difficulty concentrating, memory loss, confusion, headache, heart palpitations, chest pain, pain with deep breaths, dizziness, and tachycardia.
    :name: long COVID
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080848
+   :synonym: PASC, chronic COVID-19, post-COVID syndrome, post-acute sequelae of SARS-CoV-2 infection
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -208,8 +217,10 @@ macularDegeneration
    :definition: A retinal degeneration characterized by gradual deterioration of light-sensing cells in the tissues at the back of the eye resulting in vision loss.[adapted from [Disease Ontology definition](http://purl.obolibrary.org/obo/DOID_4448)]
    :description: Deterioration of the macula lutea in the retina; may be inherited, drug induced, or due to aging; leads to a severe loss of central vision while peripheral vision is retained.
    :name: macular degeneration
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0106448
    :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_4448
+   :synonym: macular degeneration of retina, macular dystrophy, maculopathy
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -225,7 +236,9 @@ malignantNeoplasm
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'malignant neoplasm' is composed of atypical, often pleomorphic cells that uncontrollably grow and multiply, spreading into surrounding tissue and even invading distant anatomic sites (metastasis). Many malignant neoplasm form solid tumors, but cancers of the blood generally do not. [(adapted from [NCI](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)].
    :name: malignant neoplasm
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0752652
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCIT_C9305
+   :synonym: cancer
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -241,8 +254,10 @@ meningioma
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.
    :name: meningioma
+   :otherCrossReference: http://uri.neuinfo.org/nif/nifstd/birnlex_12601
    :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106789
+   :synonym: meningeal neoplasm, meningothelial cell tumor, neoplasm of the meninges, primary meningeal tumor, supratentorial meningioma
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -260,6 +275,7 @@ mentalDisorder
    :name: mental disorder
    :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106792
+   :synonym: mental disease, mental illness, psychiatric disease, psychiatric disorder
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -275,6 +291,7 @@ minimallyConsciousState
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'minimally conscious state' (MCS) is a disorder of consciousness with partial preservation of conscious awareness. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Minimally_conscious_state)]
    :name: minimally conscious state
+   :synonym: MCS
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -290,8 +307,10 @@ multipleSclerosis
    :@type: https://openminds.om-i.org/types/Disease
    :definition: 'Multiple sclerosis' is a disorder in which the body's immune system attacks the protective meylin covering of the nerve cells in the brain, optic nerve and spinal cord (adapted from the [Mayo clinic](https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269#:~:text=Multiple%20sclerosis%20is%20a%20disorder,insulation%20on%20an%20electrical%20wire.))
    :name: multiple sclerosis
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0756481
    :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_2377
+   :synonym: MS, generalized multiple sclerosis
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -323,7 +342,9 @@ stroke
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.
    :name: stroke
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0738754
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_6713
+   :synonym: CVA, cerebral infaction, cerebrovascular accident, cerebrovascular disease, stroke disorder
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -339,6 +360,7 @@ unresponsiveWakefulnessSyndrome
    :@type: https://openminds.om-i.org/types/Disease
    :definition: The 'unresponsive wakefulness syndrome' (UWS) is a disorder of consciousness, formerly known as vegetative state, with only reflexive behavior and no sign of conscious awareness [[Laureys et al. 2010](https://doi.org/10.1186/1741-7015-8-68)].
    :name: unresponsive wakefulness syndrome
+   :synonym: UWS, VS, vegetative state
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 

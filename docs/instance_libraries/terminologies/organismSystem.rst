@@ -21,6 +21,7 @@ autonomicNervousSystem
    :name: autonomic nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002410#autonomic-nervous-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002410
+   :synonym: autonomic division of peripheral nervous system, autonomic part of peripheral nervous system, divisio autonomica systematis nervosi peripherici, pars autonomica systematis nervosi peripherici, peripheral autonomic nervous system, visceral nervous system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -36,6 +37,7 @@ cardiovascularSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: 'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.
    :name: cardiovascular system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101670
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004535#cardiovascular-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004535
 
@@ -54,8 +56,10 @@ centralNervousSystem
    :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
    :description: The central nervous system is the core nervous system that serves an integrating and coordinating function. In vertebrates it consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
    :name: central nervous system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101901
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001017
+   :synonym: CNS, systema nervosum centrale
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -71,8 +75,10 @@ cholinergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.
    :name: cholinergic system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102133
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0025595#cholinergic-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204http://purl.obolibrary.org/obo/UBERON_0025595
+   :synonym: ACh system, acetylcholine system, ach system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -88,6 +94,7 @@ digestiveSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.
    :name: digestive system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0729362
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001007#digestive-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001007
 
@@ -108,6 +115,7 @@ entericNervousSystem
    :name: enteric nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002005#enteric-nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002005
+   :synonym: PNS - enteric, enteric PNS
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -141,8 +149,10 @@ gabaergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.
    :name: gabaergic system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0104506
    :preferredCrossReference: https://knowledge-space.org/wiki/NLXANAT:1005024#gabaergic-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025591
+   :synonym: GABAergic system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -158,6 +168,7 @@ glutamatergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The glutamatergic system is composed of any molecule, protein, cell, tissue or organ that is related to glutamate (when in the role of a neurotransmitter).
    :name: glutamatergic system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0104682
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025592
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
@@ -229,8 +240,10 @@ musculoskeletalSystem
    :definition: The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.
    :description: The musculoskeletal system (sometimes also called locomotor system) is subdivided into two broader systems, the skeletal system and the muscular system. The skeletal system includes bones and joints. The muscular system includes all muscles in the body.
    :name: musculoskeletal system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0728294
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002204#musculoskeletal-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204
+   :synonym: musculo-skeletal system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -249,6 +262,7 @@ nervousSystem
    :name: nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001016#nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001016
+   :synonym: neurological system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -282,6 +296,7 @@ noradrenergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).
    :name: noradrenergic system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0107679
    :preferredCrossReference: https://knowledge-space.org/wiki/NLXANAT:1005027#noradrenergic-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027225
 
@@ -302,6 +317,7 @@ parasympatheticNervousSystem
    :name: parasympathetic nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000011#parasympathetic-nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000011
+   :synonym: PNS - parasympathetic, parasympathetic part of autonomic division of nervous system, pars parasympathica divisionis autonomici systematis nervosi
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -320,6 +336,7 @@ peripheralNervousSystem
    :name: peripheral nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000010#peripheral-nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000010
+   :synonym: pars peripherica, systema nervosum periphericum
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -370,8 +387,10 @@ serotonergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.
    :name: serotonergic system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0110555
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0025593#serotonergic-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025593
+   :synonym: 5-HT system, 5-ht system, 5HT system, 5ht system, serotonin system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -408,6 +427,7 @@ somaticNervousSystem
    :name: somatic nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000012#somatic-nervous-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000012
+   :synonym: PNS - somatic, somatic nervous system, somatic division, somatic part of peripheral nervous system, somatic peripheral nervous system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -426,6 +446,7 @@ somaticSensorySystem
    :name: somatic sensory system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003942#somatosensory-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003942
+   :synonym: somatosensory system, system for detection of somatic senses
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -444,6 +465,7 @@ sympatheticNervousSystem
    :name: sympathetic nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000013#sympathetic-nervous-system-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000013
+   :synonym: pars sympathica divisionis autonomici systematis nervosi, sympathetic part of autonomic division of nervous system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -459,6 +481,7 @@ vascularSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.
    :name: vascular system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0726589
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007798#vascular-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007798
 
@@ -476,8 +499,10 @@ ventricularSystemOfBrain
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: Is an anatomical system. Is part of the brain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005282) ('is_a' and 'relationship')]
    :name: ventricular system of brain
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0731568
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0005282#ventricular-system-of-brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005282
+   :synonym: brain ventricular system
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
@@ -496,6 +521,7 @@ ventricularSystemOfCentralNervousSystem
    :name: ventricular system of central nervous system
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0005281#ventricular-system-of-central-nervous-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005281
+   :synonym: CNS ventricular system, ventricular system, ventricular system of neuraxis
 
 `BACK TO TOP <Terminologies: OrganismSystem library_>`_
 

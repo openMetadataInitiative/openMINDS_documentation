@@ -19,6 +19,7 @@ alphaActivity
    :definition: A neural oscillation in the low frequency range (typically between 8-12 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Alpha_wave)]
    :name: alpha activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0100494
+   :synonym: alpha, alpha oscillation, alpha rhythm, alpha wave, alpha-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 
@@ -35,6 +36,7 @@ betaActivity
    :definition: A neural oscillation in the mid frequency range (typically between 12-30 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Beta_wave)]
    :name: beta activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0101243
+   :synonym: beta, beta oscillation, beta rhythm, beta wave, beta-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 
@@ -51,6 +53,7 @@ gammaActivity
    :definition: A neural oscillation in the high frequency range (typically between 30-150 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]
    :name: gamma activity
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0104539
+   :synonym: gamma, gamma oscillation, gamma rhythm, gamma wave, gamma-wave
 
 `BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
 

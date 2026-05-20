@@ -18,6 +18,7 @@ development
    :@type: https://openminds.om-i.org/types/DeploymentEnvironmentType
    :definition: A working environment for developers to build, test, and debug new features or changes; usually more flexible and less restricted than other environments.
    :name: development
+   :synonym: dev, development environment
 
 `BACK TO TOP <Terminologies: DeploymentEnvironmentType library_>`_
 
@@ -33,6 +34,7 @@ integration
    :@type: https://openminds.om-i.org/types/DeploymentEnvironmentType
    :definition: An environment in which multiple components or services are integrated and tested together to ensure interoperability and to detect issues early.
    :name: integration
+   :synonym: int, integration environment
 
 `BACK TO TOP <Terminologies: DeploymentEnvironmentType library_>`_
 
@@ -48,6 +50,7 @@ pre-production
    :@type: https://openminds.om-i.org/types/DeploymentEnvironmentType
    :definition: A near-final environment used to validate releases before moving to production; typically mirrors the production setup closely and is used for final checks.
    :name: pre-production
+   :synonym: pprod, pre-prod, pre-production environment, preprod
 
 `BACK TO TOP <Terminologies: DeploymentEnvironmentType library_>`_
 
@@ -63,6 +66,7 @@ production
    :@type: https://openminds.om-i.org/types/DeploymentEnvironmentType
    :definition: The live environment where an application is fully deployed and accessed by end users; it requires high stability, performance, and monitoring.
    :name: production
+   :synonym: prod, production environment
 
 `BACK TO TOP <Terminologies: DeploymentEnvironmentType library_>`_
 
@@ -78,6 +82,7 @@ staging
    :@type: https://openminds.om-i.org/types/DeploymentEnvironmentType
    :definition: An isolated environment that replicates the production environment for final integration and validation; often used for release candidate testing.
    :name: staging
+   :synonym: staging environment
 
 `BACK TO TOP <Terminologies: DeploymentEnvironmentType library_>`_
 

@@ -19,6 +19,7 @@ AGPL-3.0-only
    :fullName: GNU Affero General Public License v3.0 only
    :legalCode: https://www.gnu.org/licenses/agpl-3.0.txt
    :shortName: AGPL-3.0-only
+   :webpage: https://opensource.org/licenses/AGPL-3.0, https://spdx.org/licenses/AGPL-3.0-only.html, https://www.gnu.org/licenses/agpl-3.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -35,6 +36,7 @@ Apache-2.0
    :fullName: Apache License 2.0
    :legalCode: https://www.apache.org/licenses/LICENSE-2.0.txt
    :shortName: Apache-2.0
+   :webpage: https://opensource.org/licenses/Apache-2.0, https://spdx.org/licenses/Apache-2.0.html, https://www.apache.org/licenses/LICENSE-2.0
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -51,6 +53,7 @@ BSD-2-Clause
    :fullName: BSD 2-Clause 'Simplified' License
    :legalCode: https://spdx.org/licenses/BSD-2-Clause.html
    :shortName: BSD-2-Clause
+   :webpage: https://opensource.org/licenses/BSD-2-Clause, https://spdx.org/licenses/BSD-2-Clause.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -67,6 +70,7 @@ BSD-3-Clause
    :fullName: BSD 3-Clause 'New' or 'Revised' License
    :legalCode: https://spdx.org/licenses/BSD-3-Clause.html
    :shortName: BSD-3-Clause
+   :webpage: https://opensource.org/licenses/BSD-3-Clause, https://spdx.org/licenses/BSD-3-Clause.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -83,6 +87,7 @@ BSD-4-Clause
    :fullName: BSD 4-Clause 'Original' or 'Old' License
    :legalCode: https://spdx.org/licenses/BSD-4-Clause.html
    :shortName: BSD-4-Clause
+   :webpage: https://spdx.org/licenses/BSD-4-Clause.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -99,6 +104,7 @@ CC-BY-4.0
    :fullName: Creative Commons Attribution 4.0 International
    :legalCode: https://creativecommons.org/licenses/by/4.0/legalcode
    :shortName: CC-BY-4.0
+   :webpage: https://creativecommons.org/licenses/by/4.0, https://spdx.org/licenses/CC-BY-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -115,6 +121,7 @@ CC-BY-NC-4.0
    :fullName: Creative Commons Attribution Non Commercial 4.0 International
    :legalCode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
    :shortName: CC-BY-NC-4.0
+   :webpage: https://creativecommons.org/licenses/by-nc/4.0, https://spdx.org/licenses/CC-BY-NC-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -131,6 +138,7 @@ CC-BY-NC-ND-4.0
    :fullName: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
    :legalCode: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
    :shortName: CC-BY-NC-ND-4.0
+   :webpage: https://creativecommons.org/licenses/by-nc-nd/4.0, https://spdx.org/licenses/CC-BY-NC-ND-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -147,6 +155,7 @@ CC-BY-NC-SA-4.0
    :fullName: Creative Commons Attribution Non Commercial Share Alike 4.0 International
    :legalCode: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
    :shortName: CC-BY-NC-SA-4.0
+   :webpage: https://creativecommons.org/licenses/by-nc-sa/4.0, https://spdx.org/licenses/CC-BY-NC-SA-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -163,6 +172,7 @@ CC-BY-ND-4.0
    :fullName: Creative Commons Attribution No Derivatives 4.0 International
    :legalCode: https://creativecommons.org/licenses/by-nd/4.0/legalcode
    :shortName: CC-BY-ND-4.0
+   :webpage: https://creativecommons.org/licenses/by-nd/4.0, https://spdx.org/licenses/CC-BY-ND-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -179,6 +189,7 @@ CC-BY-SA-4.0
    :fullName: Creative Commons Attribution Share Alike 4.0 International
    :legalCode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
    :shortName: CC-BY-SA-4.0
+   :webpage: https://creativecommons.org/licenses/by-sa/4.0, https://spdx.org/licenses/CC-BY-SA-4.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -195,6 +206,7 @@ CC0-1.0
    :fullName: Creative Commons Zero v1.0 Universal
    :legalCode: https://creativecommons.org/publicdomain/zero/1.0/legalcode
    :shortName: CC0-1.0
+   :webpage: https://creativecommons.org/publicdomain/zero/1.0, https://spdx.org/licenses/CC0-1.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -211,6 +223,7 @@ CECILL-2.1
    :fullName: CeCILL Free Software License Agreement v2.1
    :legalCode: https://spdx.org/licenses/CECILL-2.1.html
    :shortName: CECILL-2.1
+   :webpage: https://opensource.org/licenses/CECILL-2.1, https://spdx.org/licenses/CECILL-2.1.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -243,6 +256,7 @@ EBRAINS-DUA-4-HDG-NC
    :fullName: The use of this dataset requires that the user cites the associated DOI and adheres to the conditions of use that are contained in the Data Use Agreement. You may not use the dataset for commercial purposes.
    :legalCode: https://strapi-prod.sos-ch-dk-2.exo.io/EBRAINS_Data_Use_Agreement_90858e7836_ef3ee29d50.pdf
    :shortName: EBRAINS-DUA-4-HDG-NC
+   :webpage: https://ebrains.eu/terms/#general-terms-of-use
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -259,6 +273,7 @@ EBRAINS-DUA-4-HDG
    :fullName: The use of this dataset requires that the user cites the associated DOI and adheres to the conditions of use that are contained in the Data Use Agreement.
    :legalCode: https://strapi-prod.sos-ch-dk-2.exo.io/EBRAINS_Data_Use_Agreement_90858e7836_ef3ee29d50.pdf
    :shortName: EBRAINS-DUA-4-HDG
+   :webpage: https://ebrains.eu/terms/#general-terms-of-use
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -275,6 +290,7 @@ EUPL-1.2
    :fullName: European Union Public License 1.2
    :legalCode: https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_en.pdf
    :shortName: EUPL-1.2
+   :webpage: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12, https://opensource.org/licenses/EUPL-1.2, https://spdx.org/licenses/EUPL-1.2.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -291,6 +307,7 @@ GPL-1.0-only
    :fullName: GNU General Public License v1.0 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html
    :shortName: GPL-1.0-only
+   :webpage: https://spdx.org/licenses/GPL-1.0-only.html, https://www.gnu.org/licenses/old-licenses/gpl-1.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -307,6 +324,7 @@ GPL-1.0-or-later
    :fullName: GNU General Public License v1.0 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html
    :shortName: GPL-1.0-or-later
+   :webpage: https://spdx.org/licenses/GPL-1.0-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -323,6 +341,7 @@ GPL-2.0-only
    :fullName: GNU General Public License v2.0 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
    :shortName: GPL-2.0-only
+   :webpage: https://opensource.org/licenses/GPL-2.0, https://spdx.org/licenses/GPL-2.0-only.html, https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -339,6 +358,7 @@ GPL-2.0-or-later
    :fullName: GNU General Public License v2.0 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
    :shortName: GPL-2.0-or-later
+   :webpage: https://spdx.org/licenses/GPL-2.0-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -355,6 +375,7 @@ GPL-3.0-only
    :fullName: GNU General Public License v3.0 only
    :legalCode: https://www.gnu.org/licenses/gpl-3.0-standalone.html
    :shortName: GPL-3.0-only
+   :webpage: https://opensource.org/licenses/GPL-3.0, https://spdx.org/licenses/GPL-3.0-only.html, https://www.gnu.org/licenses/gpl-3.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -371,6 +392,7 @@ GPL-3.0-or-later
    :fullName: GNU General Public License v3.0 or later
    :legalCode: https://www.gnu.org/licenses/gpl-3.0-standalone.html
    :shortName: GPL-3.0-or-later
+   :webpage: https://spdx.org/licenses/GPL-3.0-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -387,6 +409,7 @@ LGPL-2.0-only
    :fullName: GNU Library General Public License v2 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html
    :shortName: LGPL-2.0-only
+   :webpage: https://spdx.org/licenses/LGPL-2.0-only.html, https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -403,6 +426,7 @@ LGPL-2.0-or-later
    :fullName: GNU Lesser General Public License v2.0 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html
    :shortName: LGPL-2.0-or-later
+   :webpage: https://spdx.org/licenses/LGPL-2.0+.html, https://spdx.org/licenses/LGPL-2.0-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -419,6 +443,7 @@ LGPL-2.1-only
    :fullName: GNU Lesser General Public License v2.1 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
    :shortName: LGPL-2.1-only
+   :webpage: https://opensource.org/licenses/LGPL-2.1, https://spdx.org/licenses/LGPL-2.1-only.html, https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -435,6 +460,7 @@ LGPL-2.1-or-later
    :fullName: GNU Lesser General Public License v2.1 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
    :shortName: LGPL-2.1-or-later
+   :webpage: https://spdx.org/licenses/LGPL-2.1-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -451,6 +477,7 @@ LGPL-3.0-only
    :fullName: GNU Lesser General Public License v3.0 only
    :legalCode: https://www.gnu.org/licenses/lgpl-3.0-standalone.html
    :shortName: LGPL-3.0-only
+   :webpage: https://opensource.org/licenses/LGPL-3.0, https://spdx.org/licenses/LGPL-3.0-only.html, https://www.gnu.org/licenses/lgpl-3.0.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -467,6 +494,7 @@ LGPL-3.0-or-later
    :fullName: GNU Lesser General Public License v3.0 or later
    :legalCode: https://www.gnu.org/licenses/lgpl-3.0-standalone.html
    :shortName: LGPL-3.0-or-later
+   :webpage: https://spdx.org/licenses/LGPL-3.0-or-later.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -483,6 +511,7 @@ MIT
    :fullName: MIT License
    :legalCode: https://spdx.org/licenses/MIT.html
    :shortName: MIT
+   :webpage: https://opensource.org/licenses/MIT, https://spdx.org/licenses/MIT.html
 
 `BACK TO TOP <Licenses library_>`_
 
@@ -499,6 +528,7 @@ MPL-2.0
    :fullName: Mozilla Public License 2.0
    :legalCode: https://www.mozilla.org/MPL/2.0/
    :shortName: MPL-2.0
+   :webpage: https://opensource.org/licenses/MPL-2.0, https://spdx.org/licenses/MPL-2.0.html, https://www.mozilla.org/MPL/
 
 `BACK TO TOP <Licenses library_>`_
 

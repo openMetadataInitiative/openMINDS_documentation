@@ -33,6 +33,7 @@ physicalAccess
    :@type: https://openminds.om-i.org/types/AccessChannel
    :definition: Access requires physical presence at a specific location.
    :name: physical access
+   :synonym: in-person access, on-premises access, on-site access
 
 `BACK TO TOP <Terminologies: AccessChannel library_>`_
 
@@ -48,6 +49,7 @@ virtualAccess
    :@type: https://openminds.om-i.org/types/AccessChannel
    :definition: Refers to the ability of users to connect to, interact with, and utilize resources, systems, or other individuals remotely via digital interfaces.
    :name: virtual access
+   :synonym: digital access, online access
 
 `BACK TO TOP <Terminologies: AccessChannel library_>`_
 

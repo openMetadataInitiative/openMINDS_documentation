@@ -52,6 +52,7 @@ published
    :description: The status of material (for example a document or a dataset) that has been published, i.e. made available for people to access, read or use, either freely or for a purchase price or an access fee. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]
    :name: published
    :preferredOntologyIdentifier: http://purl.org/spar/pso/published
+   :synonym: released
 
 `BACK TO TOP <Terminologies: PublicationStatus library_>`_
 
@@ -69,6 +70,7 @@ retracted
    :description: The status of a publication that has been subsequently retracted by the publisher, for example because it was subsequently found to contain erroneous or fraudulent information. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]
    :name: retracted
    :preferredOntologyIdentifier: http://purl.org/spar/pso/retracted-from-publication
+   :synonym: retracted from publication
 
 `BACK TO TOP <Terminologies: PublicationStatus library_>`_
 

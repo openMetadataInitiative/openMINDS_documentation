@@ -18,6 +18,8 @@ fsaverage_3
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: `fsaverage <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#fsaverage>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: FsAverage Surface Space
    :versionIdentifier: 3
    :versionSpecification: This FsAverage Surface Space version has about 1k vertices per hemisphere.
@@ -36,6 +38,8 @@ fsaverage_4
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: `fsaverage <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#fsaverage>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: FsAverage Surface Space
    :versionIdentifier: 4
    :versionSpecification: This FsAverage Surface Space version has about 3k vertices per hemisphere.
@@ -54,6 +58,8 @@ fsaverage_5
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: `fsaverage <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#fsaverage>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: FsAverage Surface Space
    :versionIdentifier: 5
    :versionSpecification: This FsAverage Surface Space version has about 10k vertices per hemisphere.
@@ -72,6 +78,8 @@ fsaverage_6
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: `fsaverage <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#fsaverage>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: FsAverage Surface Space
    :versionIdentifier: 6
    :versionSpecification: This FsAverage Surface Space version has about 41k vertices per hemisphere.
@@ -90,6 +98,8 @@ fsaverage_7
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
+   :isVersionOf: `fsaverage <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#fsaverage>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :shortName: FsAverage Surface Space
    :versionIdentifier: 7
    :versionSpecification: This FsAverage Surface Space version has about 164k vertices per hemisphere.

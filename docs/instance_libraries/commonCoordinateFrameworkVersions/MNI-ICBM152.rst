@@ -17,8 +17,11 @@ MNI-ICBM152_linear-2001-sym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_linear-2001-sym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152lin
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2001 linear symmetric
@@ -36,8 +39,11 @@ MNI-ICBM152_nonlinear-2009a-asym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009a-asym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009a nonlinear asymmetric
@@ -55,8 +61,11 @@ MNI-ICBM152_nonlinear-2009a-sym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009a-sym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009a nonlinear symmetric
@@ -74,8 +83,11 @@ MNI-ICBM152_nonlinear-2009b-asym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009b-asym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009b nonlinear asymmetric
@@ -93,8 +105,11 @@ MNI-ICBM152_nonlinear-2009b-sym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009b-sym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009b nonlinear symmetric
@@ -112,8 +127,12 @@ MNI-ICBM152_nonlinear-2009c-asym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009c-asym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
+   :anatomicalAxesOrientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009c nonlinear asymmetric
@@ -131,8 +150,11 @@ MNI-ICBM152_nonlinear-2009c-sym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009c-sym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009c nonlinear symmetric
@@ -150,8 +172,11 @@ MNI-ICBM152_nonlinear-6G-sym
    :@id: https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-6G-sym
    :@type: https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion
    :abbreviation: ICBM152
+   :accessibility: `directVirtualOpenAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear
+   :isVersionOf: `MNI-ICBM152 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateFrameworks.html#mni-icbm152>`_
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: nonlinear 6th generation symmetric

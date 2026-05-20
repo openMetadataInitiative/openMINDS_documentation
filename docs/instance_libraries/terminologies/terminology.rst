@@ -79,6 +79,7 @@ MRSpatialEncoding
    :definition: MR spatial encoding type defines the method by which imaging data is collected, determining the spatial encoding strategy and affecting resolution, scan time, and overall image quality.
    :description: MR spatial encoding dictates how spatial and temporal information is encoded during image acquisition. It is classified based on the number of encoded dimensions: 2D acquisition captures individual slices sequentially using frequency * phase encoding, while 3D acquisition collects an entire volume in a single scan with frequency * phase * phase encoding, offering higher resolution and isotropic reconstruction. In rare cases, 1D acquisition is used for specialized applications like MR spectroscopy, encoding data along a single frequency dimension. The choice of acquisition type depends on clinical and research needs, balancing factors such as scan efficiency, spatial resolution, and signal-to-noise ratio.
    :name: MR spatial encoding
+   :synonym: MRI acquisition type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -260,7 +261,9 @@ anatomicalPlane
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
    :name: anatomical plane
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0725051
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035085
+   :synonym: fiat anatomical surface
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -905,6 +908,7 @@ molecularEntity
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
    :name: molecular entity
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0107064
    :preferredCrossReference: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_23367
 
@@ -1285,6 +1289,7 @@ sovereignState
    :description: State that has the highest authority over a territory. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q3624078)]
    :name: sovereign state
    :preferredCrossReference: https://www.wikidata.org/entity/Q3624078
+   :synonym: Westphalian state, country, nation, sovereign country, sovereign nation
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1357,8 +1362,10 @@ subcellularEntity
    :@type: https://openminds.om-i.org/types/Terminology
    :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
    :name: subcellular entity
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0111157
    :preferredCrossReference: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/GO_0005575
+   :synonym: cellular component
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -1390,6 +1397,7 @@ supranationalBody
    :description: Political and government system, where several sovereign states give up and share part of their sovereignty for their common governance. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1335818)]
    :name: supranational body
    :preferredCrossReference: https://www.wikidata.org/entity/Q1335818
+   :synonym: supranational entity, supranational union, supranationalism
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 

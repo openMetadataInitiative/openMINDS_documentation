@@ -17,6 +17,7 @@ directCurrent
    :@id: https://openminds.om-i.org/instances/electricalStimulusType/directCurrent
    :@type: https://openminds.om-i.org/types/ElectricalStimulusType
    :name: direct current
+   :synonym: DC
 
 `BACK TO TOP <Terminologies: ElectricalStimulusType library_>`_
 

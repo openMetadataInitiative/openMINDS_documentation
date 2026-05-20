@@ -38,6 +38,7 @@ anteriorMesencephalicCentralArtery
    :name: anterior mesencephalic central artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005052#anterior-mesencephalic-central-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005052
+   :synonym: AMCtA, rostral mesencephalic central artery
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -56,6 +57,7 @@ basalVein
    :name: basal vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0035530#basal-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035530
+   :synonym: basal vein of rosenthal, rosenthal's vein
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -72,8 +74,10 @@ brainBloodVessel
    :definition: Is part of the vasculature of brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
    :description: A blood vessel that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
    :name: brain blood vessel
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0726967
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003499
+   :synonym: blood vessel of brain
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -110,6 +114,7 @@ centralArtery
    :name: central artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005020#central-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005020
+   :synonym: CtA
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -128,6 +133,7 @@ centralRetinalArtery
    :name: central retinal artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001620#central-retinal-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001620
+   :synonym: Zinn's artery, central artery of retina, retinal artery
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -146,6 +152,7 @@ centralRetinalVein
    :name: central retinal vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001673#central-retinal-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001673
+   :synonym: retinal vein
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -164,6 +171,7 @@ cerebellarCentralArtery
    :name: cerebellar central artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005021#cerebellar-central-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005021
+   :synonym: CCtA
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -180,6 +188,7 @@ cerebellumVasculature
    :definition: Is a vasculature of central nervous system. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694) ('is_a' and 'relationship')]
    :description: A vasculature that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694)]
    :name: cerebellum vasculature
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0729550
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006694
 
@@ -198,6 +207,7 @@ cerebralBloodVessel
    :definition: Is a brain blood vessel. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565) ('is_a' and 'relationship')]
    :description: A blood vessel that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565)]
    :name: cerebral blood vessel
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0732836
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0016565#cerebral-blood-vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016565
 
@@ -289,6 +299,7 @@ dorsalLongitudinalVein
    :name: dorsal longitudinal vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005031#dorsal-longitudinal-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005031
+   :synonym: DLV
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -307,6 +318,7 @@ duraMaterLymphVessel
    :name: dura mater lymph vessel
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0035608#dura-mater-lymph-vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035608
+   :synonym: dural lymph vessel
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -325,6 +337,7 @@ greatCerebralVein
    :name: great cerebral vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006666#great-cerebral-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006666
+   :synonym: great cerebral vein of Galen, vein of Galen
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -341,6 +354,7 @@ hindbrainVenousSystem
    :definition: Is part of the hindbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
    :description: A venous system that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
    :name: hindbrain venous system
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0735731
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005720
 
@@ -361,6 +375,7 @@ hyaloidArtery
    :name: hyaloid artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002270
+   :synonym: arteria hyaloidea
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -379,6 +394,7 @@ inferiorPetrosalSinus
    :name: inferior petrosal sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007160#inferior-petrosal-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007160
+   :synonym: sinus petrosal inferior
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -433,6 +449,7 @@ marginalVenousSinus
    :name: marginal venous sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0017637#marginal-venous-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017637
+   :synonym: intracranial marginal sinus
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -451,6 +468,7 @@ middleMesencephalicCentralArtery
    :name: middle mesencephalic central artery
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005078#middle-mesencephalic-central-artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005078
+   :synonym: MMCtA
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -469,6 +487,7 @@ nasoFrontalVein
    :name: naso-frontal vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004689#naso-frontal-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004689
+   :synonym: nasofrontal vein
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -486,6 +505,7 @@ pairedVenousDuralSinus
    :name: paired venous dural sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017635
+   :synonym: paired dural venous sinus
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -504,6 +524,7 @@ perineuralVascularPlexus
    :name: perineural vascular plexus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0015189#perineural-vascular-plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015189
+   :synonym: PNVP
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -557,6 +578,7 @@ retinaBloodVessel
    :name: retina blood vessel
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003501#retina-blood-vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003501
+   :synonym: blood vessel of inner layer of eyeball, blood vessel of retina, blood vessel of tunica interna of eyeball, inner layer of eyeball blood vessel, retinal blood vessel, tunica interna of eyeball blood vessel
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -629,6 +651,7 @@ superficialCerebralVein
    :name: superficial cerebral vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016559
+   :synonym: cortical cerebral vein
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -647,6 +670,7 @@ superficialMiddleCerebralVein
    :name: superficial middle cerebral vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0035231#superficial-middle-cerebral-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035231
+   :synonym: Sylvian vein, vein of Labbe
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -719,6 +743,7 @@ transverseSinus
    :name: transverse sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001641#transverse-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001641
+   :synonym: sinus transversus durae matris
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -736,6 +761,7 @@ tributaryOfCentralRetinalVein
    :name: tributary of central retinal vein
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0036300#tributary-of-central-retinal-vein
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036300
+   :synonym: central retinal venous tributary
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -753,6 +779,7 @@ unpairedVenousDuralSinus
    :name: unpaired venous dural sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0017640#unpaired-venous-dural-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017640
+   :synonym: unpaired dural venous sinus
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -769,8 +796,10 @@ vasculatureOfBrain
    :definition: Is a vasculature of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998) ('is_a' and 'relationship')]
    :description: System pertaining to blood vessels in the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998)]
    :name: vasculature of brain
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0735625
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008998
+   :synonym: brain vasculature, cerebrovascular system, intracerebral vasculature
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -806,6 +835,7 @@ vasculatureOfRetina
    :name: vasculature of retina
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004864
+   :synonym: retina vasculature, retina vasculature of camera-type eye, retinal blood vessels, retinal blood vessels set, retinal vasculature, set of blood vessels of retina, set of retinal blood vessels, vasa sanguinea retinae
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -824,6 +854,7 @@ venousDuralSinus
    :name: venous dural sinus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0005486#venous-dural-sinus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005486
+   :synonym: cranial dural venous sinus, dural sinus, dural vein, dural venous sinus, venous dural
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -839,8 +870,10 @@ venousSystemOfBrain
    :@type: https://openminds.om-i.org/types/VascularStructure
    :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013146)]
    :name: venous system of brain
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0733246
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013146
+   :synonym: brain venous system
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 

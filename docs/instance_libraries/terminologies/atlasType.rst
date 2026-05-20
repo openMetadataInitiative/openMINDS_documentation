@@ -35,6 +35,7 @@ parcellationScheme
    :name: parcellation scheme
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_144019
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0108526
+   :synonym: partition scheme
 
 `BACK TO TOP <Terminologies: AtlasType library_>`_
 
@@ -50,6 +51,7 @@ probabilisticAtlas
    :@type: https://openminds.om-i.org/types/AtlasType
    :definition: A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.
    :name: probabilistic atlas
+   :synonym: probability map
 
 `BACK TO TOP <Terminologies: AtlasType library_>`_
 

@@ -19,7 +19,9 @@ auditoryStimulation
    :definition: A stimulation of the auditory (hearing) system.
    :description: The sensory modality that pertains to the sense of hearing. It usually arises from an audible stimulation of the auditory (hearing) system, such as from a sound.
    :name: auditory stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0101001
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125
+   :synonym: auditory modality, auditory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -36,7 +38,9 @@ gustatoryStimulation
    :definition: A stimulation of the gustatory (taste and flavor perception) system.
    :description: The sensory modality that pertains to the sense of taste or flavor. It usually but not always arises through stimulation of the gustatory system (e.g., tastebuds, nasal receptors).
    :name: gustatory stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0104834
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00123
+   :synonym: gustatory modality, gustatory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -53,7 +57,9 @@ interoceptiveStimulation
    :definition: A stimulation that arises from inside an organism.
    :description: The sensory modality that pertains to the sense of interoception, or internal sensations.
    :name: interoceptive stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0105596
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00128
+   :synonym: interoceptive modality, interoceptive stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -70,7 +76,9 @@ olfactoryStimulation
    :definition: A stimulation of the olfactory (smelling) system.
    :description: The sensory modality that pertains to the sense of smelling. It usually but not always arises from the stimulation of the olfactory system by chemicals.
    :name: olfactory stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0107962
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00130
+   :synonym: olfactory modality, olfactory stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -87,7 +95,9 @@ tactileStimulation
    :definition: A stimulation of the tactile (touch) system.
    :description: The sensory modality that pertains to the sense of touch or contact via the skin. It usually but not always arises from a tactile stimulation via contact of the skin to other external objects.
    :name: tactile stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0111485
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00131
+   :synonym: tactile modality, tactile stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
@@ -104,7 +114,9 @@ visualStimulation
    :definition: A stimulation of the visual (sight) system.
    :description: The sensory modality that pertains to the sense of sight. It usually but not always arises from the stimulation of the visual system with a light source of sufficient brightness to be visible.
    :name: visual stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/ilx_0112525
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00132
+   :synonym: visual modality, visual stimulus
 
 `BACK TO TOP <Terminologies: StimulationApproach library_>`_
 

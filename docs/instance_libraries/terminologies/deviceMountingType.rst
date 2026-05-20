@@ -48,6 +48,7 @@ integratedMounting
    :@type: https://openminds.om-i.org/types/DeviceMountingType
    :definition: A mounting configuration in which the device is structurally incorporated into a larger system or enclosure and not intended for routine removal.
    :name: integrated mounting
+   :synonym: built-in mounting
 
 `BACK TO TOP <Terminologies: DeviceMountingType library_>`_
 

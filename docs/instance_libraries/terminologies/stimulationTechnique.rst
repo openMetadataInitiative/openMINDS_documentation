@@ -47,6 +47,7 @@ checkerboardVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: Stimulation technique that uses a checkerboard as visual stimulus.
    :name: checkerboard visual stimulation
+   :synonym: checker board stimulation, checker board visual stimulation, checker-board stimulation, checker-board visual stimulation
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 
@@ -91,6 +92,7 @@ electricalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: A technique used to elicit a reaction by an electrical stimulus.
    :name: electrical stimulation
+   :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/188
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739699
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
@@ -193,6 +195,7 @@ randomDotMotionStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: In a 'random dot motion stimulation' a subject is visually stimulated with a video where simulated randomly distributed dot(s) are re-positioned at a new random location with each video frame [[Newsome & Paré, 1988](https://doi.org/10.1523/jneurosci.08-06-02201.1988).
    :name: random dot motion stimulation
+   :synonym: random dot visual stimulation, random dot visual stimulation technique
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 
@@ -208,6 +211,7 @@ singlePulseElectricalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: A 'single pulse electrical stimulation' is a cortical stimulation technique typically used in the field of epilepsy surgery.
    :name: single pulse electrical stimulation
+   :synonym: SPES
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 

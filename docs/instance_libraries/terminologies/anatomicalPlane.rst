@@ -18,6 +18,7 @@ axialPlane
    :@type: https://openminds.om-i.org/types/AnatomicalPlane
    :definition: The 'axial plane' is always perpendicular to the longitudinal and the frontal plane of an organism, extremity or organ, dividing it into a dorsal, superior, above or top part, and a ventral, inferior, below or bottom part.
    :name: axial plane
+   :synonym: horizontal plane, transverse plane
 
 `BACK TO TOP <Terminologies: AnatomicalPlane library_>`_
 
@@ -33,6 +34,7 @@ frontalPlane
    :@type: https://openminds.om-i.org/types/AnatomicalPlane
    :definition: The 'frontal plane' is always perpendicular to the axial and longitudinal plane of an organism, extremity or organ, dividing it into an anterior, rostral or front part, and a posterior, caudal or back part.
    :name: frontal plane
+   :synonym: coronal plane
 
 `BACK TO TOP <Terminologies: AnatomicalPlane library_>`_
 
@@ -48,6 +50,7 @@ longitudinalPlane
    :@type: https://openminds.om-i.org/types/AnatomicalPlane
    :definition: The 'longitudinal plane' is always perpendicular to the axial and frontal plane of an organism, extremity or organ, running parallel to the 'median plane' and dividing it into a left and right part.
    :name: longitudinal plane
+   :synonym: parasagittal plane, sagittal plane
 
 `BACK TO TOP <Terminologies: AnatomicalPlane library_>`_
 

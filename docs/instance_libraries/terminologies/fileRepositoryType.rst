@@ -18,6 +18,7 @@ ftp
    :@type: https://openminds.om-i.org/types/FileRepositoryType
    :definition: A 'FTP repository' is located on a server that uses the file transfer protocol (FTP), a standard internet communication protocol which allows the transfer of files between clients and a server.
    :name: FTP repository
+   :synonym: file transfer protocol repository
 
 `BACK TO TOP <Terminologies: FileRepositoryType library_>`_
 
@@ -33,6 +34,7 @@ git
    :@type: https://openminds.om-i.org/types/FileRepositoryType
    :definition: A Git repository offers version control and source code management functionalities.
    :name: Git repository
+   :synonym: Git remote repository, Git repository, GitHub repository, GitLab repository, remote Git repository
 
 `BACK TO TOP <Terminologies: FileRepositoryType library_>`_
 
@@ -78,6 +80,7 @@ s3
    :@type: https://openminds.om-i.org/types/FileRepositoryType
    :definition: An S3 repository uses the cloud storage of the Amazon S3 service.
    :name: Amazon S3 repository
+   :synonym: Amazon Simple Storage Service repository, S3 repository
 
 `BACK TO TOP <Terminologies: FileRepositoryType library_>`_
 

@@ -20,6 +20,7 @@ HTTP
    :description: For more information please go to the [HTTP Documentation](https://httpwg.org/specs/).
    :name: HTTP
    :preferredCrossReference: https://www.wikidata.org/entity/Q8777
+   :synonym: Hypertext Transfer Protocol
 
 `BACK TO TOP <Terminologies: CommunicationProtocol library_>`_
 
@@ -36,6 +37,7 @@ HTTPS
    :definition: A network communication protocol that secures HTTP traffic by encrypting it using SSL/TLS.
    :name: HTTPS
    :preferredCrossReference: https://www.wikidata.org/entity/Q44484
+   :synonym: Hypertext Transfer Protocol Secure
 
 `BACK TO TOP <Terminologies: CommunicationProtocol library_>`_
 
@@ -52,6 +54,7 @@ SSH
    :definition: A network communication protocol that enables secure remote login and command execution over unsecured networks.
    :name: SSH
    :preferredCrossReference: https://www.wikidata.org/entity/Q170460
+   :synonym: Secure Shell
 
 `BACK TO TOP <Terminologies: CommunicationProtocol library_>`_
 
@@ -68,6 +71,7 @@ TCP_IP
    :definition: A network communication protocol suite that defines how data is transmitted across interconnected networks.
    :name: TCP/IP
    :preferredCrossReference: https://www.wikidata.org/entity/Q81414
+   :synonym: IP suite, Internet Protocol suite, TCP-IP, Transmission Control Protocol / Internet Protocol
 
 `BACK TO TOP <Terminologies: CommunicationProtocol library_>`_
 
@@ -85,6 +89,7 @@ WebSocket
    :description: For more information please go to the [WebSocket documentation](https://www.rfc-editor.org/rfc/rfc6455) provided by the Internet Engineering Task Force (IETF).
    :name: WebSocket
    :preferredCrossReference: https://www.wikidata.org/entity/Q859938
+   :synonym: WebSocket protocol
 
 `BACK TO TOP <Terminologies: CommunicationProtocol library_>`_
 
