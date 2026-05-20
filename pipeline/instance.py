@@ -57,9 +57,12 @@ class InstancesDocBuilder(object):
         instance_type_plural = self._build_plurals(instance_type)
 
         # create type depending link directory and page heading
-        if instance_type in ["accessibility", "brainAtlas", "anatomicalAtlas", "contentType", "commonCoordinateFramework", "commonCoordinateSpace", "license"]:
+        if instance_type in ["accessibilities", "brainAtlas", "anatomicalAtlas", "contentTypes", "commonCoordinateFramework", "commonCoordinateSpace", "licenses"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
-            page_heading = instance_type_plural
+            if instance_type in ["accessibilities", "contentTypes", "licenses"]:
+                page_heading = instance_type
+            else:
+                page_heading = instance_type_plural
         elif instance_type in ["anatomicalAtlasVersion", "brainAtlasVersion", "commonCoordinateFrameworkVersion", "commonCoordinateSpaceVersion", "parcellationEntity"]:
             link_dir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", instance_type_plural)
             page_heading = instance_heading.split("_")[0]
@@ -138,9 +141,11 @@ class InstancesDocBuilder(object):
                 for prop, value in sorted(instance_data.items()):
                     if prop == "@context":
                         doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
-                    elif type(value) == str:
+                    elif isinstance(value, str):
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
-                    elif type(value) == List:
+                    elif isinstance(value, Dict) and "@id" in value.keys():
+                        doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
+                    elif isinstance(value, list):
                         if all(isinstance(item, str) for item in value):
                             sorted_value_list = sorted(value)
                             doc.field(name=prop, value=", ".join(sorted_value_list), indent=field_list_indent)
@@ -236,14 +241,20 @@ class InstancesDocBuilder(object):
                     elif isinstance(value, Dict):
                         if prop == "digitalIdentifier":
                             doc.field(name=prop, value=value["@id"], indent=field_list_indent)
-                        if prop in ("usedSpecies", "usedTaxon"):
-                            doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
-                        if prop == "hasTerminology":
+                        elif prop == "hasTerminology":
                             if instance_data["hasTerminology"] and instance_data["hasTerminology"]["hasEntity"]:
                                 parcellation_entities = instance_data["hasTerminology"]["hasEntity"]
                                 doc.field(name=prop, value=self._build_instance_library_link(parcellation_entities), indent=field_list_indent)
                             else:
                                 doc.field(name=prop, value="NOT DEFINED YET", indent=field_list_indent)
+                        else:
+                            if '@id' in value.keys() and 'https://openminds' in value['@id'] and 'instances/ISBN/' in value['@id']:
+                                doc.field(name=prop, value=str(value['@id']), indent=field_list_indent)
+                            elif '@id' in value.keys() and 'https://openminds' in value['@id']:
+                                doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
+                            elif '@id' in value.keys():
+                                doc.field(name=prop, value=f"`{value['@id']} <{value['@id']}>`_", indent=field_list_indent)
+
                     elif isinstance(value, List):
                         if all(isinstance(item, (str, int, float)) for item in value):
                             sorted_value_list = sorted([str(item) for item in value])
@@ -254,6 +265,24 @@ class InstancesDocBuilder(object):
                                     doc.field(name=prop, value=self._build_instance_library_link(value), indent=field_list_indent)
                                 else:
                                     doc.field(name=prop, value="NOT DEFINED YET", indent=field_list_indent)
+                            else:
+                                if prop in instance_data:
+                                    item_list = []
+                                    for item in value:
+                                        if "@id" in item:
+                                            if '@id' in item.keys() and 'https://openminds' in item['@id'] and 'instances/ISBN/' in item['@id']:
+                                                item_list.append(str(value['@id']))
+                                            elif '@id' in item.keys() and 'https://openminds' in item['@id']:
+                                                item_list.append(self._build_single_instance_link(item))
+                                            elif '@id' in item.keys():
+                                                item_list.append(f"`{item['@id']} <{item['@id']}>`_")
+                                    if item_list:
+                                        doc.field(
+                                                name=prop,
+                                                value= ", ".join(item_list),
+                                                indent=field_list_indent
+                                            )
+
                 doc.newline()
                 doc.content(f"`BACK TO TOP <{title}_>`_")
                 doc.newline()
