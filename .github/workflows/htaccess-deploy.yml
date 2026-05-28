@@ -2,6 +2,9 @@ name: htaccess-deploy
 
 on:
   workflow_dispatch:
+  push:
+      branches:
+        - pipeline
 
 permissions:
   contents: write 
@@ -31,6 +34,7 @@ jobs:
           git config user.name "openMINDS"
           git config user.email "support@om-i.org"
           git add .htaccess
+          git add .htaccess.legacy
           git commit -m "[skip ci] Add .htaccess" || echo "No changes to commit"
           git push
 

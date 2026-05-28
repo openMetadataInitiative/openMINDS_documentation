@@ -43,7 +43,6 @@ def _anchorize(name: str) -> str:
 
 OLD_NAMESPACE = "https://openminds.ebrains.eu"
 DOCS_BASE_URL = "https://openminds.docs.om-i.org"  # without trailing slash
-OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
 
 # ---------------------------------------------------------------------
@@ -61,6 +60,7 @@ def generate_redirect_map() -> Dict[str, str]:
 
     loader = SchemaLoader()
     redirect_map: Dict[str, str] = {}
+    redirect_map_legacy: Dict[str, str] = {}
 
     # Track which version each schema appears in (prefer latest available)
     schema_versions = {}
@@ -95,12 +95,15 @@ def generate_redirect_map() -> Dict[str, str]:
             if version_rank(version_slug) >= (4, 0):
                 uri = f"/types/{schema_name}"
             else:
-                uri = f"{OLD_NAMESPACE}/{info['rel_path'].split('/')[0]}/{schema_name}"
+                uri = f"/{info['rel_path'].split('/')[0]}/{schema_name}"
             url = (
                 f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
                 f"{info['rel_path']}.html#{schema_name.lower()}"
             )
-            redirect_map[uri] = url
+            if version_rank(version_slug) >= (4, 0):
+                redirect_map[uri] = url
+            else:
+                redirect_map_legacy[uri] = url
 
     # ----------------------------------------------------------
     # Instance redirects
@@ -111,6 +114,7 @@ def generate_redirect_map() -> Dict[str, str]:
     subpage2_types = {"parcellationEntityVersions"}
 
     instance_versions: Dict[str, dict] = {}
+    instance_versions_legacy: Dict[str, dict] = {}
     for version in iloader.get_instance_versions():
         abs_paths = iloader.find_instances(version)
         base_dir = os.path.join(iloader.instances_sources, version)
@@ -153,26 +157,21 @@ def generate_redirect_map() -> Dict[str, str]:
             else:
                 uri = f"/instances/{inst_type[:-1]}/{filename}"
 
-            if version_rank(version) >= (4, 0):
-                namespace_uri = uri
-            else:
-                namespace_uri = f"{OLD_NAMESPACE}{uri}"
+            entry = {
+                "version": version,
+                "page_path": page_path,
+                "anchor": anchor
+            }
+            target = instance_versions if version_rank(version) >= (4, 0) else instance_versions_legacy
+            existing = target.get(uri, {}).get("version")
+            if existing is None or version_rank(version) > version_rank(existing):
+                target[uri] = entry
 
-            existing_version = instance_versions.get(namespace_uri, {}).get("version")
-            should_update = existing_version is None or version_rank(version) > version_rank(existing_version)
-            if should_update:
-                instance_versions[namespace_uri] = {
-                    "version": version,
-                    "page_path": page_path,
-                    "anchor": anchor
-                }
+    for mapping, redirect in [(instance_versions, redirect_map), (instance_versions_legacy, redirect_map_legacy)]:
+        for uri, info in mapping.items():
+            redirect[uri] = f"{DOCS_BASE_URL}/en/{info['version']}/{info['page_path']}#{info['anchor']}"
 
-    for uri, info in instance_versions.items():
-        version_slug = info["version"]
-        url = f"{DOCS_BASE_URL}/en/{version_slug}/{info['page_path']}#{info['anchor']}"
-        redirect_map[uri] = url
-
-    return redirect_map
+    return redirect_map, redirect_map_legacy
 
 
 # ---------------------------------------------------------------------
@@ -193,7 +192,7 @@ def _url_works(url: str, timeout: float = 10.0) -> bool:
         return False
 
 
-def verify_redirect_map(filename: str = OUTPUT_FILENAME, max_workers: int = 16) -> None:
+def verify_redirect_map(filename: str, max_workers: int = 16) -> None:
     """
     Load an existing .htaccess file and check every target URL.
     """
@@ -233,31 +232,34 @@ def verify_redirect_map(filename: str = OUTPUT_FILENAME, max_workers: int = 16) 
     print(f"{len(broken_keys)} broken links detected.")
 
 
-def main() -> None:
-    redirects = generate_redirect_map()
-    
+def write_redirect_file(filename: str, redirect_map: Dict[str, str]):
     # Write .htaccess file
-    with open(OUTPUT_FILENAME, "w", encoding="utf-8") as fp:
+    with open(filename, "w", encoding="utf-8") as fp:
         fp.write("# openMINDS redirect rules\n")
         fp.write("# Generated automatically by pipeline/redirect_map.py\n\n")
-        
+
         # Sort by URI for consistent output
-        sorted_redirects = sorted(redirects.items())
-        
+        sorted_redirects = sorted(redirect_map.items())
+
         for uri, url in sorted_redirects:
             # Apache redirect rule format: Redirect 301 /from /to
             fp.write(f'Redirect 301 "{uri}" "{url}"\n')
-        
+
         # Add generic redirect for all other paths
         #fp.write(f'\n# Generic redirect for all other paths\n')
         #fp.write(f'RedirectMatch 301 /(.*) {DOCS_BASE_URL}/$1\n')
-    
-    print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
+
+    print(f"Wrote {len(redirect_map)} redirect entries to {filename}")
     # Verifying every redirect target trigger rate limits or access denial
     # Optional: immediately verify all links
     # print("Verifying redirect targets...")
     # verify_redirect_map(OUTPUT_FILENAME)
 
+
+def main() -> None:
+    redirects, redirects_legacy = generate_redirect_map()
+    write_redirect_file(".htaccess", redirects)
+    write_redirect_file(".htaccess.legacy", redirects_legacy)
 
 if __name__ == "__main__":
     main()
