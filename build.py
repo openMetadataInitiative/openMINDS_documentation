@@ -73,5 +73,5 @@ for version in schema_loader.get_schema_versions():
 # Step FINAL - checkout version branch in relative "upload" directory (provided by GitHub pipeline), copy files and push
 ########################################################################################################################
 
-#for version in versions:
-#    git_pusher.upload(version)
+for version in versions:
+    git_pusher.upload(version)
