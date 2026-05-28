@@ -35,7 +35,7 @@ jobs:
           git config user.email "support@om-i.org"
           git add .htaccess
           git add .htaccess.legacy
-          git commit -m "[skip ci] Add .htaccess" || echo "No changes to commit"
+          git commit -m "[skip ci] Add .htaccess and .htaccess.legacy" || echo "No changes to commit"
           git push
 
       - name: Trigger synchronization of htaccess file
