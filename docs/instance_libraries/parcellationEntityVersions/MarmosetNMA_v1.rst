@@ -23,7 +23,7 @@ MarmosetNMA_v1_agranularInsularCortex
    :lookupLabel: MarmosetNMA_v1_agranularInsularCortex
    :name: agranular insular cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -44,7 +44,7 @@ MarmosetNMA_v1_amygdalopiriformTransitionArea
    :lookupLabel: MarmosetNMA_v1_amygdalopiriformTransitionArea
    :name: amygdalopiriform transition area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -65,7 +65,7 @@ MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex
    :name: anterior intraparietal area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -86,7 +86,7 @@ MarmosetNMA_v1_area10OfCortex
    :lookupLabel: MarmosetNMA_v1_area10OfCortex
    :name: area 10 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -107,7 +107,7 @@ MarmosetNMA_v1_area11OfCortex
    :lookupLabel: MarmosetNMA_v1_area11OfCortex
    :name: area 11 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -129,7 +129,7 @@ MarmosetNMA_v1_area13OfCortexLateralPart
    :lookupLabel: MarmosetNMA_v1_area13OfCortexLateralPart
    :name: area 13 of cortex lateral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -151,7 +151,7 @@ MarmosetNMA_v1_area13OfCortexMedialPart
    :lookupLabel: MarmosetNMA_v1_area13OfCortexMedialPart
    :name: area 13 of cortex medial part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -172,7 +172,7 @@ MarmosetNMA_v1_area13aOfCortex
    :lookupLabel: MarmosetNMA_v1_area13aOfCortex
    :name: area 13a of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -193,7 +193,7 @@ MarmosetNMA_v1_area13bOfCortex
    :lookupLabel: MarmosetNMA_v1_area13bOfCortex
    :name: area 13b of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -215,7 +215,7 @@ MarmosetNMA_v1_area14OfCortexCaudalPart
    :lookupLabel: MarmosetNMA_v1_area14OfCortexCaudalPart
    :name: area 14 of cortex caudal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -237,7 +237,7 @@ MarmosetNMA_v1_area14OfCortexRostralPart
    :lookupLabel: MarmosetNMA_v1_area14OfCortexRostralPart
    :name: area 14 of cortex rostral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -259,7 +259,7 @@ MarmosetNMA_v1_area19OfCortexDorsointermediatePart
    :lookupLabel: MarmosetNMA_v1_area19OfCortexDorsointermediatePart
    :name: area 19 of cortex dorsointermediate part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -281,7 +281,7 @@ MarmosetNMA_v1_area19OfCortexMedialPart
    :lookupLabel: MarmosetNMA_v1_area19OfCortexMedialPart
    :name: area 19 of cortex medial part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -303,7 +303,7 @@ MarmosetNMA_v1_area23OfCortexVentralPart
    :lookupLabel: MarmosetNMA_v1_area23OfCortexVentralPart
    :name: area 23 of cortex ventral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -324,7 +324,7 @@ MarmosetNMA_v1_area23aOfCortex
    :lookupLabel: MarmosetNMA_v1_area23aOfCortex
    :name: area 23a of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -345,7 +345,7 @@ MarmosetNMA_v1_area23bOfCortex
    :lookupLabel: MarmosetNMA_v1_area23bOfCortex
    :name: area 23b of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -366,7 +366,7 @@ MarmosetNMA_v1_area23cOfCortex
    :lookupLabel: MarmosetNMA_v1_area23cOfCortex
    :name: area 23c of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -387,7 +387,7 @@ MarmosetNMA_v1_area24aOfCortex
    :lookupLabel: MarmosetNMA_v1_area24aOfCortex
    :name: area 24a of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -408,7 +408,7 @@ MarmosetNMA_v1_area24bOfCortex
    :lookupLabel: MarmosetNMA_v1_area24bOfCortex
    :name: area 24b of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -429,7 +429,7 @@ MarmosetNMA_v1_area24cOfCortex
    :lookupLabel: MarmosetNMA_v1_area24cOfCortex
    :name: area 24c of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -450,7 +450,7 @@ MarmosetNMA_v1_area24dOfCortex
    :lookupLabel: MarmosetNMA_v1_area24dOfCortex
    :name: area 24d of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -471,7 +471,7 @@ MarmosetNMA_v1_area25OfCortex
    :lookupLabel: MarmosetNMA_v1_area25OfCortex
    :name: area 25 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -492,7 +492,7 @@ MarmosetNMA_v1_area29a-cOfCortex
    :lookupLabel: MarmosetNMA_v1_area29a-cOfCortex
    :name: area 29a-c of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -513,7 +513,7 @@ MarmosetNMA_v1_area29dOfCortex
    :lookupLabel: MarmosetNMA_v1_area29dOfCortex
    :name: area 29d of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -534,7 +534,7 @@ MarmosetNMA_v1_area30OfCortex
    :lookupLabel: MarmosetNMA_v1_area30OfCortex
    :name: area 30 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -555,7 +555,7 @@ MarmosetNMA_v1_area31OfCortex
    :lookupLabel: MarmosetNMA_v1_area31OfCortex
    :name: area 31 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -576,7 +576,7 @@ MarmosetNMA_v1_area32OfCortex
    :lookupLabel: MarmosetNMA_v1_area32OfCortex
    :name: area 32 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -598,7 +598,7 @@ MarmosetNMA_v1_area32OfCortexVentralPart
    :lookupLabel: MarmosetNMA_v1_area32OfCortexVentralPart
    :name: area 32 of cortex ventral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -619,7 +619,7 @@ MarmosetNMA_v1_area35OfCortex
    :lookupLabel: MarmosetNMA_v1_area35OfCortex
    :name: area 35 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -640,7 +640,7 @@ MarmosetNMA_v1_area36OfCortex
    :lookupLabel: MarmosetNMA_v1_area36OfCortex
    :name: area 36 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -661,7 +661,7 @@ MarmosetNMA_v1_area3aOfCortex
    :lookupLabel: MarmosetNMA_v1_area3aOfCortex
    :name: area 3a of cortex (somatosensory)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -682,7 +682,7 @@ MarmosetNMA_v1_area3bOfCortex
    :lookupLabel: MarmosetNMA_v1_area3bOfCortex
    :name: area 3b of cortex (somatosensory)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -703,7 +703,7 @@ MarmosetNMA_v1_area45OfCortex
    :lookupLabel: MarmosetNMA_v1_area45OfCortex
    :name: area 45 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -725,7 +725,7 @@ MarmosetNMA_v1_area46OfCortexDorsalPart
    :lookupLabel: MarmosetNMA_v1_area46OfCortexDorsalPart
    :name: area 46 of cortex dorsal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -747,7 +747,7 @@ MarmosetNMA_v1_area46OfCortexVentralPart
    :lookupLabel: MarmosetNMA_v1_area46OfCortexVentralPart
    :name: area 46 of cortex ventral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -769,7 +769,7 @@ MarmosetNMA_v1_area47OfCortexLateralPart
    :lookupLabel: MarmosetNMA_v1_area47OfCortexLateralPart
    :name: area 47 (old 12) of cortex lateral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -791,7 +791,7 @@ MarmosetNMA_v1_area47OfCortexMedialPart
    :lookupLabel: MarmosetNMA_v1_area47OfCortexMedialPart
    :name: area 47 (old 12) of cortex medial part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -813,7 +813,7 @@ MarmosetNMA_v1_area47OfCortexOrbitalPart
    :lookupLabel: MarmosetNMA_v1_area47OfCortexOrbitalPart
    :name: area 47 (old 12) of cortex orbital part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -835,7 +835,7 @@ MarmosetNMA_v1_area4OfCortexPartC
    :lookupLabel: MarmosetNMA_v1_area4OfCortexPartC
    :name: area 4 of cortex part c (primary motor)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -857,7 +857,7 @@ MarmosetNMA_v1_area4OfCortexPartsAAndB
    :lookupLabel: MarmosetNMA_v1_area4OfCortexPartsAAndB
    :name: area 4 of cortex parts a and b (primary motor)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -879,7 +879,7 @@ MarmosetNMA_v1_area6OfCortexDorsocaudalPart
    :lookupLabel: MarmosetNMA_v1_area6OfCortexDorsocaudalPart
    :name: area 6 of cortex dorsocaudal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -901,7 +901,7 @@ MarmosetNMA_v1_area6OfCortexDorsorostralPart
    :lookupLabel: MarmosetNMA_v1_area6OfCortexDorsorostralPart
    :name: area 6 of cortex dorsorostral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -923,7 +923,7 @@ MarmosetNMA_v1_area6OfCortexMedialPart
    :lookupLabel: MarmosetNMA_v1_area6OfCortexMedialPart
    :name: area 6 of cortex medial (supplementary motor) part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -945,7 +945,7 @@ MarmosetNMA_v1_area6OfCortexVentralPartA
    :lookupLabel: MarmosetNMA_v1_area6OfCortexVentralPartA
    :name: area 6 of cortex ventral part a
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -967,7 +967,7 @@ MarmosetNMA_v1_area6OfCortexVentralPartB
    :lookupLabel: MarmosetNMA_v1_area6OfCortexVentralPartB
    :name: area 6 of cortex ventral part b
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -989,7 +989,7 @@ MarmosetNMA_v1_area8OfCortexCaudalPart
    :lookupLabel: MarmosetNMA_v1_area8OfCortexCaudalPart
    :name: area 8 of cortex caudal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1011,7 +1011,7 @@ MarmosetNMA_v1_area8aOfCortexDorsalPart
    :lookupLabel: MarmosetNMA_v1_area8aOfCortexDorsalPart
    :name: area 8a of cortex dorsal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1033,7 +1033,7 @@ MarmosetNMA_v1_area8aOfCortexVentralPart
    :lookupLabel: MarmosetNMA_v1_area8aOfCortexVentralPart
    :name: area 8a of cortex ventral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1054,7 +1054,7 @@ MarmosetNMA_v1_area8bOfCortex
    :lookupLabel: MarmosetNMA_v1_area8bOfCortex
    :name: area 8b of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1075,7 +1075,7 @@ MarmosetNMA_v1_area9OfCortex
    :lookupLabel: MarmosetNMA_v1_area9OfCortex
    :name: area 9 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1096,7 +1096,7 @@ MarmosetNMA_v1_areas1And2OfCortex
    :lookupLabel: MarmosetNMA_v1_areas1And2OfCortex
    :name: areas 1 and 2 of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1118,7 +1118,7 @@ MarmosetNMA_v1_auditoryCortexAnterolateralArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexAnterolateralArea
    :name: auditory cortex anterolateral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1140,7 +1140,7 @@ MarmosetNMA_v1_auditoryCortexCaudalParabeltArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexCaudalParabeltArea
    :name: auditory cortex caudal parabelt area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1162,7 +1162,7 @@ MarmosetNMA_v1_auditoryCortexCaudolateralArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexCaudolateralArea
    :name: auditory cortex caudolateral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1184,7 +1184,7 @@ MarmosetNMA_v1_auditoryCortexCaudomedialArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexCaudomedialArea
    :name: auditory cortex caudomedial area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1206,7 +1206,7 @@ MarmosetNMA_v1_auditoryCortexMiddleLateralArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexMiddleLateralArea
    :name: auditory cortex middle lateral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1228,7 +1228,7 @@ MarmosetNMA_v1_auditoryCortexPrimaryArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexPrimaryArea
    :name: auditory cortex primary area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1250,7 +1250,7 @@ MarmosetNMA_v1_auditoryCortexRostralArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostralArea
    :name: auditory cortex rostral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1272,7 +1272,7 @@ MarmosetNMA_v1_auditoryCortexRostralParabelt
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostralParabelt
    :name: auditory cortex rostral parabelt
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1294,7 +1294,7 @@ MarmosetNMA_v1_auditoryCortexRostromedialArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostromedialArea
    :name: auditory cortex rostromedial area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1316,7 +1316,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporal
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostrotemporal
    :name: auditory cortex rostrotemporal
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1338,7 +1338,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea
    :name: auditory cortex rostrotemporal lateral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1360,7 +1360,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea
    :lookupLabel: MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea
    :name: auditory cortex rostrotemporal medial area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1381,7 +1381,7 @@ MarmosetNMA_v1_dysgranularInsularCortex
    :lookupLabel: MarmosetNMA_v1_dysgranularInsularCortex
    :name: dysgranular insular cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1402,7 +1402,7 @@ MarmosetNMA_v1_entorhinalCortex
    :lookupLabel: MarmosetNMA_v1_entorhinalCortex
    :name: entorhinal cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1423,7 +1423,7 @@ MarmosetNMA_v1_fundusOfSuperiorTemporalSulcusAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_fundusOfSuperiorTemporalSulcusAreaOfCortex
    :name: fundus of superior temporal sulcus area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1444,7 +1444,7 @@ MarmosetNMA_v1_granularInsularCortex
    :lookupLabel: MarmosetNMA_v1_granularInsularCortex
    :name: granular insular cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1465,7 +1465,7 @@ MarmosetNMA_v1_gustatoryCortex
    :lookupLabel: MarmosetNMA_v1_gustatoryCortex
    :name: gustatory cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1486,7 +1486,7 @@ MarmosetNMA_v1_insularProisocortex
    :lookupLabel: MarmosetNMA_v1_insularProisocortex
    :name: insular proisocortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1507,7 +1507,7 @@ MarmosetNMA_v1_lateralIntraparietalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_lateralIntraparietalAreaOfCortex
    :name: lateral intraparietal area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1528,7 +1528,7 @@ MarmosetNMA_v1_medialIntraparietalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_medialIntraparietalAreaOfCortex
    :name: medial intraparietal area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1549,7 +1549,7 @@ MarmosetNMA_v1_medialSuperiorTemporalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_medialSuperiorTemporalAreaOfCortex
    :name: medial superior temporal area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1570,7 +1570,7 @@ MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex
    :name: occipito-parietal transitional area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1591,7 +1591,7 @@ MarmosetNMA_v1_orbitalPeriallocortex
    :lookupLabel: MarmosetNMA_v1_orbitalPeriallocortex
    :name: orbital periallocortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1612,7 +1612,7 @@ MarmosetNMA_v1_orbitalProisocortex
    :lookupLabel: MarmosetNMA_v1_orbitalProisocortex
    :name: orbital proisocortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1634,7 +1634,7 @@ MarmosetNMA_v1_parainsularCortexLateralPart
    :lookupLabel: MarmosetNMA_v1_parainsularCortexLateralPart
    :name: parainsular cortex lateral part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1656,7 +1656,7 @@ MarmosetNMA_v1_parainsularCortexMedialPart
    :lookupLabel: MarmosetNMA_v1_parainsularCortexMedialPart
    :name: parainsular cortex medial part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1677,7 +1677,7 @@ MarmosetNMA_v1_parietalAreaPE
    :lookupLabel: MarmosetNMA_v1_parietalAreaPE
    :name: parietal area PE
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1699,7 +1699,7 @@ MarmosetNMA_v1_parietalAreaPECaudalPart
    :lookupLabel: MarmosetNMA_v1_parietalAreaPECaudalPart
    :name: parietal area PE caudal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1720,7 +1720,7 @@ MarmosetNMA_v1_parietalAreaPF
    :lookupLabel: MarmosetNMA_v1_parietalAreaPF
    :name: parietal area PF (cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1741,7 +1741,7 @@ MarmosetNMA_v1_parietalAreaPFG
    :lookupLabel: MarmosetNMA_v1_parietalAreaPFG
    :name: parietal area PFG (cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1762,7 +1762,7 @@ MarmosetNMA_v1_parietalAreaPG
    :lookupLabel: MarmosetNMA_v1_parietalAreaPG
    :name: parietal area PG
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1784,7 +1784,7 @@ MarmosetNMA_v1_parietalAreaPGMedialPart
    :lookupLabel: MarmosetNMA_v1_parietalAreaPGMedialPart
    :name: parietal area PG medial part (cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1805,7 +1805,7 @@ MarmosetNMA_v1_parietalAreasPGaAndIPa
    :lookupLabel: MarmosetNMA_v1_parietalAreasPGaAndIPa
    :name: parietal areas PGa and IPa (fundus of superior temporal ventral area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1826,7 +1826,7 @@ MarmosetNMA_v1_piriformCortex
    :lookupLabel: MarmosetNMA_v1_piriformCortex
    :name: piriform cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1847,7 +1847,7 @@ MarmosetNMA_v1_primaryVisualCortex
    :lookupLabel: MarmosetNMA_v1_primaryVisualCortex
    :name: primary visual cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1868,7 +1868,7 @@ MarmosetNMA_v1_proisocorticalMotorRegion
    :lookupLabel: MarmosetNMA_v1_proisocorticalMotorRegion
    :name: proisocortical motor region (precentral opercular cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1889,7 +1889,7 @@ MarmosetNMA_v1_prostriateArea
    :lookupLabel: MarmosetNMA_v1_prostriateArea
    :name: prostriate area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1910,7 +1910,7 @@ MarmosetNMA_v1_retroinsularArea
    :lookupLabel: MarmosetNMA_v1_retroinsularArea
    :name: retroinsular area (cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1932,7 +1932,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart
    :lookupLabel: MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart
    :name: secondary somatosensory cortex external part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1954,7 +1954,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart
    :lookupLabel: MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart
    :name: secondary somatosensory cortex internal part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1976,7 +1976,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexParietalRostralArea
    :lookupLabel: MarmosetNMA_v1_secondarySomatosensoryCortexParietalRostralArea
    :name: secondary somatosensory cortex parietal rostral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -1998,7 +1998,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexParietalVentralArea
    :lookupLabel: MarmosetNMA_v1_secondarySomatosensoryCortexParietalVentralArea
    :name: secondary somatosensory cortex parietal ventral area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2019,7 +2019,7 @@ MarmosetNMA_v1_superiorTemporalRostralArea
    :lookupLabel: MarmosetNMA_v1_superiorTemporalRostralArea
    :name: superior temporal rostral area (cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2040,7 +2040,7 @@ MarmosetNMA_v1_temporalAreaTE1
    :lookupLabel: MarmosetNMA_v1_temporalAreaTE1
    :name: temporal area TE1 (inferior temporal cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2061,7 +2061,7 @@ MarmosetNMA_v1_temporalAreaTE2
    :lookupLabel: MarmosetNMA_v1_temporalAreaTE2
    :name: temporal area TE2 (inferior temporal cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2082,7 +2082,7 @@ MarmosetNMA_v1_temporalAreaTE3
    :lookupLabel: MarmosetNMA_v1_temporalAreaTE3
    :name: temporal area TE3 (inferior temporal cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2104,7 +2104,7 @@ MarmosetNMA_v1_temporalAreaTEOccipitalPart
    :lookupLabel: MarmosetNMA_v1_temporalAreaTEOccipitalPart
    :name: temporal area TE occipital part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2125,7 +2125,7 @@ MarmosetNMA_v1_temporalAreaTF
    :lookupLabel: MarmosetNMA_v1_temporalAreaTF
    :name: temporal area TF
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2147,7 +2147,7 @@ MarmosetNMA_v1_temporalAreaTFOccipitalPart
    :lookupLabel: MarmosetNMA_v1_temporalAreaTFOccipitalPart
    :name: temporal area TF occipital part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2168,7 +2168,7 @@ MarmosetNMA_v1_temporalAreaTH
    :lookupLabel: MarmosetNMA_v1_temporalAreaTH
    :name: temporal area TH
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2189,7 +2189,7 @@ MarmosetNMA_v1_temporalAreaTL
    :lookupLabel: MarmosetNMA_v1_temporalAreaTL
    :name: temporal area TL
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2211,7 +2211,7 @@ MarmosetNMA_v1_temporalAreaTLOccipitalPart
    :lookupLabel: MarmosetNMA_v1_temporalAreaTLOccipitalPart
    :name: temporal area TL occipital part
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2232,7 +2232,7 @@ MarmosetNMA_v1_temporalProisocortex
    :lookupLabel: MarmosetNMA_v1_temporalProisocortex
    :name: temporal proisocortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2253,7 +2253,7 @@ MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea
    :lookupLabel: MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea
    :name: temporo-parieto-occipital association area (superior temporal polysensory cortex)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2274,7 +2274,7 @@ MarmosetNMA_v1_temporoparietalTransitionalArea
    :lookupLabel: MarmosetNMA_v1_temporoparietalTransitionalArea
    :name: temporoparietal transitional area
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2295,7 +2295,7 @@ MarmosetNMA_v1_temporopolarProisocortex
    :lookupLabel: MarmosetNMA_v1_temporopolarProisocortex
    :name: temporopolar proisocortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2316,7 +2316,7 @@ MarmosetNMA_v1_ventralIntraparietalAreaOfCortex
    :lookupLabel: MarmosetNMA_v1_ventralIntraparietalAreaOfCortex
    :name: ventral intraparietal area of cortex
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2337,7 +2337,7 @@ MarmosetNMA_v1_visualArea2
    :lookupLabel: MarmosetNMA_v1_visualArea2
    :name: visual area 2
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2358,7 +2358,7 @@ MarmosetNMA_v1_visualArea3
    :lookupLabel: MarmosetNMA_v1_visualArea3
    :name: visual area 3 (ventrolateral posterior area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2379,7 +2379,7 @@ MarmosetNMA_v1_visualArea3A
    :lookupLabel: MarmosetNMA_v1_visualArea3A
    :name: visual area 3A (dorsoanterior area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2400,7 +2400,7 @@ MarmosetNMA_v1_visualArea4
    :lookupLabel: MarmosetNMA_v1_visualArea4
    :name: visual area 4 (ventrolatereral anterior area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2422,7 +2422,7 @@ MarmosetNMA_v1_visualArea4TransitionalPart
    :lookupLabel: MarmosetNMA_v1_visualArea4TransitionalPart
    :name: visual area 4 transitional part (middle temporal crescent)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2443,7 +2443,7 @@ MarmosetNMA_v1_visualArea5
    :lookupLabel: MarmosetNMA_v1_visualArea5
    :name: visual area 5 (middle temporal area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2464,7 +2464,7 @@ MarmosetNMA_v1_visualArea6
    :lookupLabel: MarmosetNMA_v1_visualArea6
    :name: visual area 6 (dorsomedial area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
@@ -2485,7 +2485,7 @@ MarmosetNMA_v1_visualArea6A
    :lookupLabel: MarmosetNMA_v1_visualArea6A
    :name: visual area 6A (posterior parietal medial area)
    :versionIdentifier: v1
-   :versionInnovation: This is the first version of this parcellation entity.
+   :versionSpecification: This is the first version of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersions: MarmosetNMA_v1 library_>`_
 
