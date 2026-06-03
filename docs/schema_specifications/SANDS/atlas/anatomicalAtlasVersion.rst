@@ -286,7 +286,7 @@ isPrecededBy
    :semantic name: https://openminds.om-i.org/props/isPrecededBy
    :value type: | linked object of type
                 | `AnatomicalAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/anatomicalAtlasVersion.html>`_
-   :instructions: Add the brain atlas version preceding this anatomical atlas version.
+   :instructions: Add the anatomical atlas version preceding this anatomical atlas version.
 
 `BACK TO TOP <AnatomicalAtlasVersion_>`_
 
@@ -303,7 +303,7 @@ isVariantOf
    :semantic name: https://openminds.om-i.org/props/isVariantOf
    :value type: | linked object array \(1-N\) of type
                 | `AnatomicalAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/anatomicalAtlasVersion.html>`_
-   :instructions: Add all brain atlas versions that can be used alternatively to this anatomical atlas version.
+   :instructions: Add all anatomical atlas versions that can be used alternatively to this anatomical atlas version.
 
 `BACK TO TOP <AnatomicalAtlasVersion_>`_
 

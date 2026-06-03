@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionSpecification <versionSpecification_heading_>`_
 
 ------------
 
@@ -121,7 +121,7 @@ Reference to a parent object or legal person.
    :semantic name: https://openminds.om-i.org/props/hasParent
    :value type: | linked object array \(1-N\) of type
                 | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
-   :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
+   :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding anatomical atlas version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
 
@@ -235,19 +235,17 @@ Term or code used to identify the version of something.
 
 ------------
 
-.. _versionInnovation_heading:
+.. _versionSpecification_heading:
 
-*****************
-versionInnovation
-*****************
-
-Documentation on what changed in comparison to a previously published form of something.
+********************
+versionSpecification
+********************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/versionInnovation
+   :semantic name: https://openminds.om-i.org/props/versionSpecification
    :value type: | string
-                | formatting: text/markdown; multiline
+                | formatting: text/plain; singleline
    :instructions: Enter a short description (or summary) of the novelties/peculiarities of this parcellation entity version in comparison to its preceding versions. If this parcellation entity version is the first version, leave blank.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
