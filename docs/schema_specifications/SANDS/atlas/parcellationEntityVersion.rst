@@ -121,7 +121,7 @@ Reference to a parent object or legal person.
    :semantic name: https://openminds.om-i.org/props/hasParent
    :value type: | linked object array \(1-N\) of type
                 | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
-   :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
+   :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding anatomical atlas version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
 
