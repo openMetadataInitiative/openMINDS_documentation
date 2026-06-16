@@ -95,7 +95,9 @@ def generate_redirect_map() -> Dict[str, str]:
             if version_rank(version_slug) >= (4, 0):
                 uri = f"/types/{schema_name}"
             else:
-                uri = f"/{info['rel_path'].split('/')[0]}/{schema_name}"
+                repository = info['rel_path'].split('/')[0]
+                repository = repository.lower() if repository == 'SANDS' else repository
+                uri = f"/{repository}/{schema_name}"
             url = (
                 f"{DOCS_BASE_URL}/en/{version_slug}/schema_specifications/"
                 f"{info['rel_path']}.html#{schema_name.lower()}"
