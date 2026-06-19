@@ -1,0 +1,6 @@
+"subject_ID", "weight_infant", "weight_juvenile", "weight_adult", "weight_unit"
+"sub-A", 0.403, 1.300, 5.512, "kg"
+"sub-B", 0.465, 1.415, 5.324, "kg"
+"sub-C", 0.500, 1.555, 7.113, "kg"
+"sub-D", 0.512, 1.612, 6.478, "kg"
+"sub-E", 0.550, 1.835, 7.985, "kg"
