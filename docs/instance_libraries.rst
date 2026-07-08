@@ -8,7 +8,7 @@ Instance libraries
    You can request the registration of new instances or corrections\/extensions of existing
    instances by raising an issue on `openMINDS_instances <https://github.com/openMetadataInitiative/openMINDS_instances/issues>`_
 
-   The v5.0 version of openMINDS contains 17435 metadata instances in total.
+   The v5.0 version of openMINDS contains 17433 metadata instances in total.
 
 - `Accessibilities <instance_libraries/accessibilities.html>`_
 - `AnatomicalAtlases <instance_libraries/anatomicalAtlases.html>`_
