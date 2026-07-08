@@ -38,6 +38,21 @@ administration
 
 ------------
 
+approval
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/approval
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by formally authorizing or accepting a target entity so that it may proceed or be used.
+   :name: approval
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 authoring
 ---------
 
@@ -91,7 +106,7 @@ coordination
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by coordinating activities, participants, or processes related to a target entity.
+   :definition: A contribution type of a role-bearing entity realized by aligning interdependent activities, contributors, or resources to enable coherent joint action.
    :name: coordination
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
@@ -248,6 +263,37 @@ dissemination
 
 ------------
 
+editing
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/editing
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by modifying the content or form of a target entity to improve its accuracy, clarity, coherence, or quality.
+   :name: editing
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+editorialDecision-making
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/editorialDecision-making
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by evaluating a target entity against relevant criteria and determining its acceptance, rejection, revision, or other editorial disposition.
+   :name: editorial decision-making
+   :synonym: editorial assessment
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 education
 ---------
 
@@ -258,6 +304,51 @@ education
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :definition: A contribution type of a role-bearing entity realized by transferring knowledge about a target entity to enable learning about its nature, context, principles, or applications.
    :name: education
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+execution
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/execution
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by carrying out substantive tasks according to an established plan, method, or procedure.
+   :name: execution
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+funding
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/funding
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by providing financial resources to support a target entity or activities related to it.
+   :name: funding
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+fundraising
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/fundraising
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by securing financial resources to support a target entity or activities related to it.
+   :name: fundraising
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -316,7 +407,7 @@ implementation
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/implementation
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by putting a specified design, plan, method, or specification into effect through or within a target entity.
+   :definition: A contribution type of a role-bearing entity realized by putting an adopted plan, method, system, or procedure into practical effect.
    :name: implementation
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
@@ -383,6 +474,21 @@ laboratoryAssistance
 
 ------------
 
+leadership
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/leadership
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by setting direction and making consequential decisions for a collective undertaking.
+   :name: leadership
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 liaison
 -------
 
@@ -408,6 +514,21 @@ maintenance
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :definition: A contribution type of a role-bearing entity realized by sustaining, updating, or repairing a target entity to ensure its continued functionality and quality.
    :name: maintenance
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+management
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/management
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by organizing and administering people, resources, and/or work toward specified objectives.
+   :name: management
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -466,7 +587,7 @@ operation
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/operation
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by controlling, operating, or running a target entity in an active environment.
+   :definition: A contribution type of a role-bearing entity realized by controlling and sustaining the functioning of a target entity.
    :name: operation
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
@@ -578,6 +699,21 @@ provision
 
 ------------
 
+research
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/research
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by conducting systematic inquiry concerning a target entity to generate, validate, or refine knowledge or understanding.
+   :name: research
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 review
 ------
 
@@ -586,7 +722,7 @@ review
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/review
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :definition: A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability.
+   :definition: A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability and, where appropriate, identify deficiencies or opportunities for improvement and recommend changes.
    :name: review
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
@@ -618,6 +754,21 @@ standardization
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :definition: A contribution type of a role-bearing entity realized by aligning a target entity with shared specifications or conventions applied across multiple entities.
    :name: standardization
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+supervision
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/contributionType/supervision
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by overseeing and guiding the work or activities performed by humans, non-human animals, or software agents in relation to a target entity.
+   :name: supervision
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
