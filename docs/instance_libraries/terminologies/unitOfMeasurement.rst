@@ -294,6 +294,23 @@ kilohertz
 
 ------------
 
+kiloohm
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kiloohm
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: A unit of measurement of electrical resistance equal to 1,000 ohms (10³ Ω).
+   :name: kiloohm
+   :preferredOntologyIdentifier: http://www.ontology-of-units-of-measure.org/resource/om-2/kilohm
+   :synonym: kilo-ohm, kilohm, kΩ
+
+`BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
+
+------------
+
 liter
 -----
 
