@@ -17229,6 +17229,7 @@ Redirect 301 "/instances/unitOfMeasurement/hour" "https://openminds.docs.om-i.or
 Redirect 301 "/instances/unitOfMeasurement/kilobyte" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#kilobyte"
 Redirect 301 "/instances/unitOfMeasurement/kilogram" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#kilogram"
 Redirect 301 "/instances/unitOfMeasurement/kilohertz" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#kilohertz"
+Redirect 301 "/instances/unitOfMeasurement/kiloohm" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#kiloohm"
 Redirect 301 "/instances/unitOfMeasurement/liter" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#liter"
 Redirect 301 "/instances/unitOfMeasurement/megabyte" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#megabyte"
 Redirect 301 "/instances/unitOfMeasurement/megaohm" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/unitOfMeasurement.html#megaohm"
