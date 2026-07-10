@@ -1,7 +1,7 @@
 import json
-import re
 import os.path
 from typing import List, Optional, Dict
+from urllib.parse import urlsplit
 
 from rstcloth import RstCloth
 
@@ -20,7 +20,7 @@ class SchemaDocBuilder(object):
         self.instancelib_docu_path_for_schema = instancelib_docu_path_for_schema
         self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
 
-    def _generate_template_instance(self, property_namespace, short_namespace):
+    def _generate_template_instance(self, property_namespace):
         return f""".. raw:: html
             
             <script>
@@ -29,45 +29,41 @@ class SchemaDocBuilder(object):
             function generateTemplate(properties) {{
                 const template = {{
                   "@context": {{
-                    "@vocab": "{property_namespace}",
-                    "inst": "{short_namespace+"/instances/"}"
+                    "@vocab": "{property_namespace}"
                   }},
-                  "@id": "inst:{self._schema_payload["name"][0].lower() + self._schema_payload["name"][1:]}/null",
+                  "@id": "null",
                   "@type": "{self._schema_payload["_type"]}",
                 }}
                 
                 // Fulfill the template with required properties
-                for (const property in properties) {{
-                    if (requiredProperties.hasOwnProperty(property)) {{
-                        const prop = properties[property];
-                        
-                        if (prop.hasOwnProperty('type')) {{
-                            if (prop.type === 'string') {{
-                                template[property] = null;
-                            }} else if (prop.type === 'array') {{
-                                if (prop.hasOwnProperty('items') && prop.items.type === 'string') {{
-                                    template[property] = [];
-                                }} else if (prop.hasOwnProperty('_linkedTypes') && prop._linkedTypes.length === 1) {{
-                                    const linkedType = prop._linkedTypes[0].split('/').pop();
-                                    const linkedTypeFormatted = linkedType.charAt(0).toLowerCase() + linkedType.slice(1);
-                                    template[property] = [{{ "@id": `inst:${{linkedTypeFormatted}}/null` }}];
-                                }} else {{
-                                    template[property] = [{{ "@id": "inst:null" }}];
-                                }}
+                for (const property in properties) {{\
+                    const prop = properties[property];
+                    
+                    if (prop.hasOwnProperty('type')) {{
+                        if (prop.type === 'array') {{
+                            // TODO retrieve the embedded schema
+                            if (prop.hasOwnProperty('_embeddedTypes') && prop.required === true && prop._embeddedTypes.length === 1) {{
+                                const value = {{ "@type": prop._embeddedTypes[0] }};
+                                template[property] = [value];
+                            }} else {{
+                                template[property] = [];
                             }}
                         }} else {{
-                            if (prop.hasOwnProperty('_linkedTypes') && prop._linkedTypes.length === 1) {{
-                                const linkedType = prop._linkedTypes[0].split('/').pop();
-                                const linkedTypeFormatted = linkedType.charAt(0).toLowerCase() + linkedType.slice(1);
-                                template[property] = {{ "@id": `inst:${{linkedTypeFormatted}}/null` }};
-                            }} else {{
-                                template[property] = {{ "@id": "inst:null" }};
-                            }}
+                            template[property] = null;
+                        }}
+                    }} else {{
+                        // TODO retrieve the embedded schema
+                        if (prop.hasOwnProperty('_embeddedTypes') && prop.required === true && prop._embeddedTypes.length === 1) {{
+                            const value = {{ "@type": prop._embeddedTypes[0] }};
+                            template[property] = value;
+                        }} else {{
+                            template[property] = null;
                         }}
                     }}
                 }}
                 
-                const formattedTemplate = JSON.stringify(template, null, 2);
+                formattedTemplate = JSON.stringify(template, null, 2);
+                formattedTemplate += '\\n';
     
                 // Create a Blob object
                 const blob = new Blob([formattedTemplate], {{ type: 'application/ld+json' }});
@@ -78,7 +74,7 @@ class SchemaDocBuilder(object):
                 // Create a hidden anchor element
                 const link = document.createElement('a');
                 link.href = url;
-                link.setAttribute('download', 'instance_template.jsonld');
+                link.setAttribute('download', '{self._schema_payload["name"]}_template.jsonld');
                 document.body.appendChild(link);
                 
                 // Simulate a click on the link to trigger the download
@@ -90,8 +86,7 @@ class SchemaDocBuilder(object):
             }}
             </script>
 
-            Generate a template instance of the {self._schema_payload["label"]} schema with the following button: <button onclick="generateTemplate(properties)">Instance template</button>
-            To help you complete the instance template, we’ve included an example using realistic mock data and guidance:
+            Generate a template instance of the {self._schema_payload["name"]} schema with the following button: <button onclick="generateTemplate(properties)">Instance template</button>
             """
 
     def _target_file_without_extension(self) -> str:
@@ -119,19 +114,20 @@ class SchemaDocBuilder(object):
 
             property_namespace = None
             short_namespace = None
-            if "properties" in self._schema_payload and self._schema_payload["properties"]:
-                for p in self._schema_payload["properties"].keys():
-                    match = re.match(r'^(https?:\/\/[^\/]+\/[^\/]+\/)', p)
-                    property_namespace = match.group(1) if match else None
-                    match = re.match(r'^(https?:\/\/[^\/]+)', p)
-                    short_namespace = match.group(1) if match else None
-                    break
+            # Extract the namespaces of properties from the schemas
+            if self._schema_payload.get("properties"):
+                p = next(iter(self._schema_payload["properties"]))
+                parts = urlsplit(p)
+                short_namespace = f"{parts.scheme}://{parts.netloc}"
+                segments = parts.path.strip("/").split("/")
+                if segments:
+                    property_namespace = f"{short_namespace}/{segments[0]}/"
 
             doc.content("------------")
             doc.newline()
             doc.heading("Build instance template", char="#")
             doc.newline()
-            template_instance_content = self._generate_template_instance(property_namespace, short_namespace)
+            template_instance_content = self._generate_template_instance(property_namespace)
             # Hacky method, RstCloth does not consider the addition of JavaScript code
             doc._add(template_instance_content)
             doc.content("------------")
@@ -174,33 +170,18 @@ class SchemaDocBuilder(object):
 
     def _extract_properties_value(self) -> dict:
         properties = {}
-        if "properties" in self._schema_payload and self._schema_payload["properties"]:
-            for p in self._schema_payload["properties"].keys():
+        if self._schema_payload.get("properties"):
+            for p, value in self._schema_payload["properties"].items():
                 p_split = p.split("/")[-1]
-                properties[p_split] = self._schema_payload["properties"][p]
+                properties[p_split] = value
+                # Add information about the property requirement
+                if self._schema_payload.get("required") and p in self._schema_payload["required"]:
+                    properties[p_split].update({"required": True})
         return properties
-
-    def _extract_required_properties_value(self) -> dict:
-        required_properties = {}
-        if "required" in self._schema_payload and self._schema_payload["required"]:
-            for p in self._schema_payload["required"]:
-                p_split = p.split("/")[-1]
-                if p in self._schema_payload["properties"]:
-                    required_properties[p_split] = self._schema_payload["properties"][p]
-        return required_properties
-
-    def _extract_optional_properties_value(self) -> dict:
-        optional_properties = {}
-        if "properties" in self._schema_payload and self._schema_payload["properties"]:
-            for p in self._schema_payload["properties"].keys():
-                if "required" not in self._schema_payload or not self._schema_payload["required"] or p not in self._schema_payload["required"]:
-                    p_split = p.split("/")[-1]
-                    optional_properties[p_split] = self._schema_payload["properties"][p]
-        return optional_properties
 
     def _extract_required_properties(self) -> str:
         required_properties = []
-        if "required" in self._schema_payload and self._schema_payload["required"]:
+        if self._schema_payload.get("required"):
             for p in self._schema_payload["required"]:
                 p_split = p.split("/")[-1]
                 required_properties.append(f"`{p_split} <{p_split}_heading_>`_")
@@ -208,7 +189,7 @@ class SchemaDocBuilder(object):
 
     def _extract_optional_properties(self) -> str:
         optional_properties = []
-        if "properties" in self._schema_payload and self._schema_payload["properties"]:
+        if self._schema_payload.get("properties"):
             for p in self._schema_payload["properties"].keys():
                 if "required" not in self._schema_payload or not self._schema_payload["required"] or p not in self._schema_payload["required"]:
                     p_split = p.split("/")[-1]
