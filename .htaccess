@@ -2743,7 +2743,7 @@ Redirect 301 "/instances/accessProcessType/registeredAccess" "https://openminds.
 Redirect 301 "/instances/accessibilities/directPhysicalSingle-paymentModelControlledAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#directphysicalsingle-paymentmodelcontrolledaccess"
 Redirect 301 "/instances/accessibilities/directVirtualAuthenticatedControlledAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#directvirtualauthenticatedcontrolledaccess"
 Redirect 301 "/instances/accessibilities/directVirtualAuthorizedControlledAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#directvirtualauthorizedcontrolledaccess"
-Redirect 301 "/instances/accessibilities/directVirtualAuthorizedRestrictedAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#directvirtualauthorizedrestrictedaccess"
+Redirect 301 "/instances/accessibilities/directVirtualAuthorizedRestrictedAccess" "https://openminds.docs.om-i.org/en/v5.0/instance_libraries/accessibilities.html#directvirtualauthorizedrestrictedaccess"
 Redirect 301 "/instances/accessibilities/directVirtualOpenAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#directvirtualopenaccess"
 Redirect 301 "/instances/accessibilities/mediatedVirtualAuthorizedRestrictedAccess" "https://openminds.docs.om-i.org/en/latest/instance_libraries/accessibilities.html#mediatedvirtualauthorizedrestrictedaccess"
 Redirect 301 "/instances/actionStatusType/active" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/actionStatusType.html#active"
