@@ -83,6 +83,25 @@ brainBloodVessel
 
 ------------
 
+canalOfSchlemm
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/vascularStructure/canalOfSchlemm
+   :@type: https://openminds.om-i.org/types/VascularStructure
+   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]
+   :description: The vascular structure encircling the anterior chamber of the eye, through which the aqueous humor is returned to the blood circulation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]
+   :name: canal of Schlemm
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004029#canal-of-schlemm
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004029
+   :synonym: Schlemm's canal, scleral sinus, scleral venous sinus, sinus venosus of sclera, sinus venosus sclerae
+
+`BACK TO TOP <Terminologies: VascularStructure library_>`_
+
+------------
+
 cavernousSinus
 --------------
 
@@ -381,6 +400,24 @@ hyaloidArtery
 
 ------------
 
+inferiorCerebralVein
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/vascularStructure/inferiorCerebralVein
+   :@type: https://openminds.om-i.org/types/VascularStructure
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001664)]
+   :description: The inferior cerebral veins, of small size, drain the under surfaces of the hemispheres. Those on the orbital surface of the frontal lobe join the superior cerebral veins, and through these open into the superior sagittal sinus. Those of the temporal lobe anastomose with the middle cerebral and basal veins, and join the cavernous, sphenoparietal, and superior petrosal sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001664)]
+   :name: inferior cerebral vein
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001664#inferior-cerebral-vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001664
+
+`BACK TO TOP <Terminologies: VascularStructure library_>`_
+
+------------
+
 inferiorPetrosalSinus
 ---------------------
 
@@ -525,6 +562,25 @@ perineuralVascularPlexus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0015189#perineural-vascular-plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015189
    :synonym: PNVP
+
+`BACK TO TOP <Terminologies: VascularStructure library_>`_
+
+------------
+
+posteriorMesencephalicCentralArtery
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/vascularStructure/posteriorMesencephalicCentralArtery
+   :@type: https://openminds.om-i.org/types/VascularStructure
+   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]
+   :description: Project dorsally from BCA to irrigate the caudal part of midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]
+   :name: posterior mesencephalic central artery
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005079#posterior-mesencephalic-central-artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005079
+   :synonym: PMCtA, caudal mesencephalic central artery
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
@@ -836,6 +892,25 @@ vasculatureOfRetina
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004864
    :synonym: retina vasculature, retina vasculature of camera-type eye, retinal blood vessels, retinal blood vessels set, retinal vasculature, set of blood vessels of retina, set of retinal blood vessels, vasa sanguinea retinae
+
+`BACK TO TOP <Terminologies: VascularStructure library_>`_
+
+------------
+
+veinOfVestibularAqueduct
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/vascularStructure/veinOfVestibularAqueduct
+   :@type: https://openminds.om-i.org/types/VascularStructure
+   :definition: Is part of the transverse sinus and the inferior petrosal sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]
+   :description: A vein that leaves the vestibule through an individual bone canal running parallel to the vestibular aqueduct up to the dura of the posterior side of the petrosa in the area of the endolymphatic sac. It then opens in the inferior petrosal sinus or the jugular bulb. The vein receives other branches from the bone, dura and sac. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]
+   :name: vein of vestibular aqueduct
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0036074#vein-of-vestibular-aqueduct
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036074
+   :synonym: vena aqueductus vestibuli, vestibular aqueduct vein
 
 `BACK TO TOP <Terminologies: VascularStructure library_>`_
 
