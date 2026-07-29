@@ -18036,23 +18036,6 @@ insectAdultCerebralGanglion
 
 ------------
 
-insectAdultNervousSystem
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/insectAdultNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003559)]
-   :name: insect adult nervous system
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6003559#adult-nervous-system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003559
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 insectAdultProtocerebrum
 ------------------------
 
@@ -18160,25 +18143,6 @@ insectEmbryonicLarvalHeadSensillum
    :name: insect embryonic/larval head sensillum
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6007242#embryonic-larval-head-sensillum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007242
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-insectEmbryonicLarvalNervousSystem
-----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/insectEmbryonicLarvalNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]
-   :description: Nervous system of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]
-   :name: insect embryonic/larval nervous system
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6001911#insect-embryonic-larval-nervous-system
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001911
-   :synonym: larval nervous system
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
