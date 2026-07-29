@@ -4474,24 +4474,6 @@ brachiumOfSuperiorColliculus
 
 ------------
 
-brain
------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/brain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]
-   :description: The brain is the center of the nervous system in all vertebrate, and most invertebrate, animals. Some primitive animals such as jellyfish and starfish have a decentralized nervous system without a brain, while sponges lack any nervous system at all. In vertebrates, the brain is located in the head, protected by the skull and close to the primary sensory apparatus of vision, hearing, balance, taste, and smell. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]
-   :name: brain
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000955#brain-1
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000955
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 brainArachnoidMater
 -------------------
 
@@ -17998,24 +17980,6 @@ innerPlexiformLayerOfRetina
 
 ------------
 
-insectAdultBrain
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/insectAdultBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain. Is part of the insect adult central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624) ('is_a' and 'relationship')]
-   :description: Brain of the adult. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624)]
-   :name: insect adult brain
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6003624#adult-brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003624
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 insectAdultCentralComplex
 -------------------------
 
@@ -18159,42 +18123,6 @@ insectChaeta
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6005177#chaeta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005177
    :synonym: sensillum chaeticum
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-insectEmbryonicBrain
---------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/insectEmbryonicBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001060)]
-   :description: Brain of the embryo. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001060)]
-   :name: insect embryonic brain
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6001060#insect-embryonic-brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001060
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-insectEmbryonicLarvalBrain
---------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/insectEmbryonicLarvalBrain
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain and ganglion of central nervous system. Is part of the insect embryonic/larval central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920) ('is_a' and 'relationship')]
-   :description: Brain of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920)]
-   :name: insect embryonic/larval brain
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:6001920#insect-embryonic-larval-brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001920
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -26466,25 +26394,6 @@ neuralTubeVentricularLayer
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004060#neural-tube-ventricular-layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004060
    :synonym: neural tube ependymal layer, neural tube ventricular germinal zone, neural tube ventricular zone
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-neuroendocrineGland
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/neuroendocrineGland
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133) ('is_a' and 'relationship')]
-   :description: Any of the organized aggregations of cells that function as secretory or excretory organs and that release hormones in response to neural stimuli. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133)]
-   :name: neuroendocrine gland
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0010133#neuroendocrine-gland
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010133
-   :synonym: neuroendocrine system gland
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -39454,24 +39363,6 @@ somatosensoryCortex
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008930
    :synonym: somatic sensory cortex
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-spinalCord
-----------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/spinalCord
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]
-   :description: Part of the central nervous system located in the vertebral canal continuous with and caudal to the brain; demarcated from brain by plane of foramen magnum. It is composed of an inner core of gray matter in which nerve cells predominate, and an outer layer of white matter in which myelinated nerve fibers predominate, and surrounds the central canal. (CUMBO) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]
-   :name: spinal cord
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002240#spinal-cord-1
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002240
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
