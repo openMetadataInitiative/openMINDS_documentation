@@ -62,24 +62,6 @@ directVirtualAuthorizedControlledAccess
 
 ------------
 
-directVirtualAuthorizedRestrictedAccess
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/accessibilities/directVirtualAuthorizedRestrictedAccess
-   :@type: https://openminds.om-i.org/types/Accessibility
-   :channel: `virtualAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/accessChannel.html#virtualaccess>`_
-   :eligibility: `restrictedAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/accessEligibilityType.html#restrictedaccess>`_
-   :form: `directAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/accessForm.html#directaccess>`_
-   :paymentModel: `zero-costPaymentModel <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/paymentModelType.html#zero-costpaymentmodel>`_
-   :process: `authorizedAccess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/accessProcessType.html#authorizedaccess>`_
-
-`BACK TO TOP <Accessibilities library_>`_
-
-------------
-
 directVirtualOpenAccess
 -----------------------
 
