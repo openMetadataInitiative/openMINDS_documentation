@@ -103,6 +103,7 @@ application_ld+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/ld+json
    :fileExtension: .jsonld
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/ld+json
    :synonym: JSON-LD
 
@@ -155,6 +156,7 @@ application_sbml+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/sbml+xml
    :fileExtension: .sbml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: application/sbml+xml
    :synonym: System Biology Markup Language
 
@@ -172,6 +174,7 @@ application_schema+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/schema+json
    :fileExtension: .jschema, .jsd, .json, .jsonsd, .schema.json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/schema+json
    :synonym: JSON Schema
 
@@ -425,6 +428,7 @@ application_vnd.ants.nonlinearTransform+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ants.nonlinearTransform+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .hdf5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.ants.nonlinearTransform+hdf5
    :synonym: ANTs Nonlinear Transformation
 
@@ -676,6 +680,7 @@ application_vnd.bigdataviewer+h5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.bigdataviewer+h5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.bigdataviewer+h5
    :synonym: Big Data Viewer
 
@@ -1190,6 +1195,7 @@ application_vnd.cellh5+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.cellh5+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .ch5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.cellh5+hdf5
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -1486,6 +1492,7 @@ application_vnd.enzo.amr+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.enzo.amr+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .hdf5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.enzo.amr+hdf5
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -1502,6 +1509,7 @@ application_vnd.espina.measurement+ms-excel
    :@type: https://openminds.om-i.org/types/ContentType
    :description: This Excel workbook contains the exported measurements of segmented structures created in EspINA, such as volume, surface area, and other morphological parameters. Each measurement is provided in a separate worksheet.
    :fileExtension: .xls
+   :isBasedOn: `application_vnd.ms-excel <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-vnd-ms-excel>`_
    :name: application/vnd.espina.measurement+ms-excel
    :synonym: EsPINA Analysis file, EspINA Interactive Neuron Analyzer Measurement file
 
@@ -1565,6 +1573,7 @@ application_vnd.faconstructor.3d-pli+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.faconstructor.3d-pli+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .hdf5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.faconstructor.3d-pli+hdf5
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -1657,6 +1666,7 @@ application_vnd.g-node.nix+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.g-node.nix+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .hdf5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.g-node.nix+hdf5
    :synonym: Neuroscience information exchange format
 
@@ -1977,6 +1987,7 @@ application_vnd.ilastik.object-features+csv
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/text/csv
    :fileExtension: .csv
+   :isBasedOn: `text_csv <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-csv>`_
    :name: application/vnd.ilastik.object-features+csv
    :synonym: ilastik object features CSV
 
@@ -1993,6 +2004,7 @@ application_vnd.ilastik.object-features+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ilastik.object-features+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .hdf5
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.ilastik.object-features+hdf5
    :synonym: ilastik object features HDF5
 
@@ -2009,6 +2021,7 @@ application_vnd.ilastik.project+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ilastik.project+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .ilp
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.ilastik.project+hdf5
    :synonym: ILP, ilastik project, ilastik project file
 
@@ -2026,6 +2039,7 @@ application_vnd.illumina.annotated-sequence+fastq
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores with a systematic identifier assigned by the Illumina software.
    :fileExtension: .fg, .fg.gz
+   :isBasedOn: `text_x-fastq <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-x-fastq>`_
    :name: application/vnd.illumina.annotated-sequence+fastq
    :specification: https://en.wikipedia.org/wiki/FASTQ_format
    :synonym: FASTQ Format, Illumina FASTQ Format
@@ -2170,6 +2184,7 @@ application_vnd.intranat+csv
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.intranat+csv
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .csv
+   :isBasedOn: `text_csv <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-csv>`_
    :name: application/vnd.intranat+csv
    :synonym: IntrAnat CSV
 
@@ -2551,6 +2566,7 @@ application_vnd.locare+json
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :description: A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).
    :fileExtension: .json, .locare.json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.locare+json
    :specification: https://github.com/blixilla/LocareJSON
    :synonym: Locare JavaScript Object Notation, LocareJSON
@@ -2650,6 +2666,7 @@ application_vnd.meshview+json
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :description: Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.meshview+json
    :synonym: MeshView JSON, MeshView JavaScript Object Notation
 
@@ -2745,6 +2762,7 @@ application_vnd.microsoft.deepzoom.collection+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.microsoft.deepzoom.collection+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .dzc, .xml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: application/vnd.microsoft.deepzoom.collection+xml
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
    :synonym: DZC, Deep Zoom Collection
@@ -2762,6 +2780,7 @@ application_vnd.microsoft.deepzoom.image+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.microsoft.deepzoom.image+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .dzi, .xml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: application/vnd.microsoft.deepzoom.image+xml
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
    :synonym: DZI, Deep Zoom Image
@@ -2795,6 +2814,7 @@ application_vnd.minds+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.minds+json
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.minds+json
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -2990,6 +3010,7 @@ application_vnd.nest-desktop.model.v4+json
    :description: A JSON file containing a computational model specification (version 4) for NEST Desktop
    :displayLabel: NEST Desktop model (v4)
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.nest-desktop.model.v4+json
    :synonym: NEST Desktop model specification version 4
 
@@ -3009,6 +3030,7 @@ application_vnd.nest-desktop.project.v4+json
    :description: A JSON file containing a project configuration (version 4) for NEST Desktop
    :displayLabel: NEST Desktop project configuration (v4)
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.nest-desktop.project.v4+json
    :synonym: NEST Desktop project specification version 4
 
@@ -3165,6 +3187,7 @@ application_vnd.neuroglancer.precomputed.info+json
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.neuroglancer.precomputed.info+json
    :@type: https://openminds.om-i.org/types/ContentType
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.neuroglancer.precomputed.info+json
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
    :synonym: Neuroglancer precomputed info, Neuroglancer precomputed metadata
@@ -3482,6 +3505,7 @@ application_vnd.nutil.quantifier+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.nutil.quantifier+json
    :synonym: Nutil Quantifier JSON, Nutil Quantifier JavaScript Object Notation
 
@@ -3498,6 +3522,7 @@ application_vnd.nutil.results+csv
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.nutil.results+csv
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .csv
+   :isBasedOn: `text_csv <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-csv>`_
    :name: application/vnd.nutil.results+csv
    :synonym: Nutil Results CSV
 
@@ -3514,6 +3539,7 @@ application_vnd.nwb.nwbn+hdf
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.nwb.nwbn+hdf
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .nwb
+   :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.nwb.nwbn+hdf
    :synonym: NWB:N
 
@@ -3657,6 +3683,7 @@ application_vnd.openmetadatainitiative.openminds.schema+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: openMINDS-specific schema syntax that defines properties and values of linked data, includes centrally managed vocabulary definitions, and provides configuration hints for possible adoptions.
    :fileExtension: .schema.omi.json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.openmetadatainitiative.openminds.schema+json
    :synonym: openMINDS schema
 
@@ -3674,6 +3701,7 @@ application_vnd.openmetadatainitiative.openminds.schema-tpl+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: Simplified openMINDS-specific schema template that defines properties and values of linked data. Has to be extended with additional information to become a fully valid openMINDS schema.
    :fileExtension: .schema.tpl.json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.openmetadatainitiative.openminds.schema-tpl+json
    :synonym: openMINDS schema template
 
@@ -4059,6 +4087,7 @@ application_vnd.qcalign+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.qcalign+json
    :synonym: QCAlign JSON, QCAlign JavaScript Object Notation
 
@@ -4092,6 +4121,7 @@ application_vnd.quicknii+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.quicknii+json
    :synonym: QuickNII JSON, QuickNII JavaScript Object Notation
 
@@ -4109,6 +4139,7 @@ application_vnd.quicknii+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/xml
    :fileExtension: .xml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: application/vnd.quicknii+xml
    :synonym: QuickNII Extensible Markup Language, QuickNII XML
 
@@ -4361,6 +4392,7 @@ application_vnd.sequencereadarchive.annotated-sequence+fastq
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores often including a description added by the Sequence Read Archive.
    :fileExtension: .fg, .fg.gz
+   :isBasedOn: `text_x-fastq <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-x-fastq>`_
    :name: application/vnd.sequencereadarchive.annotated-sequence+fastq
    :specification: https://en.wikipedia.org/wiki/FASTQ_format
    :synonym: FASTQ Format, INSDC SRA FASTQ Format, INSDC Sequence Read Archive FASTQ Format, International Nucleotide Sequence Database Collaboration SRA FASTQ Format, International Nucleotide Sequence Database Collaboration Sequence Read Archive FASTQ Format
@@ -4516,6 +4548,7 @@ application_vnd.spikeinterface.probeinterface+json
    :description: Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version.
    :displayLabel: probeinterface JSON
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.spikeinterface.probeinterface+json
    :specification: https://raw.githubusercontent.com/SpikeInterface/probeinterface/main/src/probeinterface/schema/probe.json.schema
    :synonym: JSON-based probeinterface Format, probeinterface JSON
@@ -4672,6 +4705,7 @@ application_vnd.thevirtualbrain.metadata+tsv
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.thevirtualbrain.metadata+tsv
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .tsv
+   :isBasedOn: `text_tab-separated-values <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-tab-separated-values>`_
    :name: application/vnd.thevirtualbrain.metadata+tsv
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -4702,6 +4736,7 @@ application_vnd.traces+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.traces+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .xml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: application/vnd.traces+xml
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -4796,6 +4831,7 @@ application_vnd.unicore.workflow+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.unicore.workflow+json
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.unicore.workflow+json
    :synonym: UNICORE workflow description language
 
@@ -4984,6 +5020,7 @@ application_vnd.visualign+json
    :@type: https://openminds.om-i.org/types/ContentType
    :definingSource: https://www.iana.org/assignments/media-types/application/json
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.visualign+json
    :synonym: VisuAlign JSON, VisuAlign JavaScript Object Notation
 
@@ -5016,6 +5053,7 @@ application_vnd.voluba.v1.landmarkPairs+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.voluba.v1.landmarkPairs+json
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.voluba.v1.landmarkPairs+json
    :synonym: VoluBA (v1) Landmark Pairs
 
@@ -5032,6 +5070,7 @@ application_vnd.voluba.v1.linearTransform+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .json
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.voluba.v1.linearTransform+json
    :synonym: VoluBA (v1) Linear Transformation
 
@@ -5296,6 +5335,7 @@ application_vnd.webalign.waln+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: WebAlign waln is a JSON-based content type containing the linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), and the actual linear image registration in the form of 3D vector triplets per image (optional).
    :fileExtension: .waln
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.webalign.waln+json
    :synonym: WebAlign waln format
 
@@ -5313,6 +5353,7 @@ application_vnd.webwarp.wwrp+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: WebWarp wwrp is a JSON-based content type containing the linear and optionally non-linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), the linear image registration in the form of 3D vector triplets per image (optional), and the non-linear image registration in form of a list of 2D deformation vectors per image (optional).
    :fileExtension: .wwrp
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/vnd.webwarp.wwrp+json
    :synonym: WebWarp wwrp format
 
@@ -5562,6 +5603,7 @@ application_x-ipynb+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_x-ipynb+json
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .ipynb
+   :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-json>`_
    :name: application/x-ipynb+json
    :specification: https://nbformat.readthedocs.io/en/latest/format_description.html
    :synonym: IPYNB, Jupyter Notebook
@@ -5694,6 +5736,7 @@ chemical_vnd.wwpdb.pdb-v3.30+plain
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A textual file format describing the three-dimensional structures of molecules held in the [Protein Data Bank](https://www.rcsb.org/).
    :fileExtension: .brk, .ent, .pdb
+   :isBasedOn: `text_plain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-plain>`_
    :name: chemical/vnd.wwpdb.pdb-v3.30+plain
    :specification: https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html
    :synonym: Legacy PDB File Format, Legacy Protein Data Bank File Format, chemical/pdb, chemical/x-pdb
@@ -5713,6 +5756,7 @@ chemical_vnd.wwpdb.pdbml.v5+xml
    :definingSource: https://www.iana.org/assignments/media-types/text/xml
    :description: A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.
    :fileExtension: .xml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: chemical/vnd.wwpdb.pdbml.v5+xml
    :specification: https://pdbml.wwpdb.org/
    :synonym: PDB Markup Language, PDBML, Protein Data Bank Markup Language
@@ -5731,6 +5775,7 @@ chemical_vnd.wwpdb.pdbx-mmcif.v5+plain
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A standard text file format for representing macromolecular structure data, developed by the International Union of Crystallography (IUCr) and the Protein Data Bank (PDB). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Macromolecular_Crystallographic_Information_File)]
    :fileExtension: .mmcif
+   :isBasedOn: `text_plain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#text-plain>`_
    :name: chemical/vnd.wwpdb.pdbx-mmcif.v5+plain
    :specification: https://mmcif.wwpdb.org/docs/user-guide/guide.html
    :synonym: Macromolecular Crystallographic Information File Format, PDBx/mmCIF, chemical/x-mmcif, mmCIF
@@ -6101,6 +6146,7 @@ image_vnd.ilastik+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .hdf5
+   :isBasedOn: `image_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#image-x-hdf>`_
    :name: image/vnd.ilastik+hdf5
    :synonym: ilastik image (HDF5)
 
@@ -6117,6 +6163,7 @@ image_vnd.ilastik.pixelclassification+hdf5
    :@id: https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.pixelclassification+hdf5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .hdf5
+   :isBasedOn: `image_x-hdf <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#image-x-hdf>`_
    :name: image/vnd.ilastik.pixelclassification+hdf5
    :synonym: ilastik pixel classification image (HDF5)
 
@@ -6133,6 +6180,7 @@ image_vnd.ilastik.pixelclassification+n5
    :@id: https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.pixelclassification+n5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .n5
+   :isBasedOn: `image_x-n5 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#image-x-n5>`_
    :name: image/vnd.ilastik.pixelclassification+n5
    :synonym: ilastik pixel classification image (N5)
 
@@ -6196,6 +6244,7 @@ image_vnd.ilastik.segmentation+n5
    :@id: https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.segmentation+n5
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .n5
+   :isBasedOn: `image_x-n5 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#image-x-n5>`_
    :name: image/vnd.ilastik.segmentation+n5
    :synonym: ilastik segmentation image (N5)
 
@@ -6504,6 +6553,7 @@ text_x-cml+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/text_x-cml+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .cml
+   :isBasedOn: `application_xml <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html#application-xml>`_
    :name: text/x-cml+xml
    :specification: http://www.xml-cml.org/schema/schema3/schema.xsd
 
