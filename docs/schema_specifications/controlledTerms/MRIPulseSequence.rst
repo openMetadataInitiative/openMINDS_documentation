@@ -7,6 +7,8 @@ MRIPulseSequence
 :Display as: Mripulse sequence
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/MRIPulseSequence.html>`_.
+
 ------------
 
 ------------

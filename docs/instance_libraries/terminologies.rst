@@ -47,6 +47,8 @@ Terminologies
 - `ModelAbstractionLevel <terminologies/modelAbstractionLevel.html>`_
 - `ModelScope <terminologies/modelScope.html>`_
 - `MolecularEntity <terminologies/molecularEntity.html>`_
+- `MRIPulseSequence <terminologies/MRIPulseSequence.html>`_
+- `MRIWeighting <terminologies/MRIWeighting.html>`_
 - `OlfactoryStimulusType <terminologies/olfactoryStimulusType.html>`_
 - `OperatingDevice <terminologies/operatingDevice.html>`_
 - `OperatingSystem <terminologies/operatingSystem.html>`_
@@ -126,6 +128,8 @@ Terminologies
    terminologies/modelAbstractionLevel
    terminologies/modelScope
    terminologies/molecularEntity
+   terminologies/MRIPulseSequence
+   terminologies/MRIWeighting
    terminologies/olfactoryStimulusType
    terminologies/operatingDevice
    terminologies/operatingSystem
