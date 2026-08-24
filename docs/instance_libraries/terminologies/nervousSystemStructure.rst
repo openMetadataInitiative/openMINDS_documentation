@@ -8219,24 +8219,6 @@ claustrumOfBrain
 
 ------------
 
-climbingFiber
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/climbingFiber
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the corpus cerebelli and the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002185)]
-   :description: Portion of tissue that consists of afferent axons from the inferior olive and synapsing with Purkinje cells within the molecular layer of the valvula cerebelli and corpus cerebelli. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002185)]
-   :name: climbing fiber
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2002185#climbing-fiber
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002185
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 clivusOfFoveaCentralis
 ----------------------
 
@@ -12862,23 +12844,6 @@ externalCapsuleOfTelencephalon
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0724043
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004545#external-capsule-of-telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004545
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-externalCellularLayer
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/externalCellularLayer
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000352)]
-   :name: external cellular layer
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2000352#external-cellular-layer
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000352
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -18640,23 +18605,6 @@ internalCarotidNervePlexus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002024#internal-carotid-nerve-plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002024
    :synonym: internal carotid plexus, plexus caroticus internus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-internalCellularLayer
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/internalCellularLayer
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000573)]
-   :name: internal cellular layer
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2000573#internal-cellular-layer
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000573
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -25251,23 +25199,6 @@ molecularLayerValvulaCerebelli
    :name: molecular layer valvula cerebelli
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2000913#molecular-layer-valvula-cerebelli
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000913
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-mossyFiber
-----------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/mossyFiber
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the corpus cerebelli and the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002210)]
-   :name: mossy fiber
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2002210#mossy-fiber
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002210
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
