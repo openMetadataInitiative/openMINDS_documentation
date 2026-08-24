@@ -1720,24 +1720,6 @@ amiculumOfInferiorOlive
 
 ------------
 
-ampullaCaudalis
----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/ampullaCaudalis
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360) ('is_a' and 'relationship')]
-   :description: A ventricle-like space at the end of the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360)]
-   :name: ampulla caudalis
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0011360#ampulla-caudalis
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011360
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 ampullaryNerve
 --------------
 
@@ -3358,24 +3340,6 @@ apexOfThoracicSpinalCordDorsalHorn
 
 ------------
 
-arachnoidBarrierLayer
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/arachnoidBarrierLayer
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the endothelial blood brain barrier and the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]
-   :description: The arachnoid barrier layer is a part of the arachnoid meningeal layer. It is formed by tight junctions between the endothelial cells of cerebral capillaries in the arachnoid mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]
-   :name: arachnoid barrier layer
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000437#arachnoid-barrier-layer
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000437
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 arachnoidMater
 --------------
 
@@ -4530,25 +4494,6 @@ brainDuraMater
 
 ------------
 
-brainEndothelium
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/brainEndothelium
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013694)]
-   :description: Vascular endothelium found in blood vessels of the blood-brain-barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013694)]
-   :name: brain endothelium
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0733041
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0013694#brain-endothelium
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013694
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 brainEpendyma
 -------------
 
@@ -5596,25 +5541,6 @@ caudateNucleus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001873
    :synonym: caudatus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cavumSeptumPellucidum
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cavumSeptumPellucidum
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the septum pellucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009857) ('is_a' and 'relationship')]
-   :description: A space enclosed within the laminae of the septum pelludicum, the membranous partition that separates the frontal horns of the ventricle. contains cerebrospinal fluid (CSF) that filters from the ventricles through the septal laminae. bounded anteriorly by the genu of the corpus callosum; superiorly by the body of the corpus callosum; posteriorly by the anterior limb and pillars of the fornix; inferiorly by the anterior commissure and the rostrum of the corpus callosum; and laterally by the leaflets of the septum pellucidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009857)]
-   :name: cavum septum pellucidum
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0009857#cavum-septum-pellucidum
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009857
-   :synonym: cave of septum pellucidum, cavum of septum pellucidum, septum pellucidum cave, ventriculus septi pellucidi
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -7810,45 +7736,6 @@ chordaTympaniBranchOfFacialNerve
 
 ------------
 
-choroidPlexus
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexus
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain ventricle/choroid plexus and vasculature of central nervous system. Is part of the brain ventricle and the tela choroidea. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001886) ('is_a' and 'relationship')]
-   :description: A network formed by blood vessels and the tela choroidea which secretes CSF into the ventricular spaces. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001886)]
-   :name: choroid plexus
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102142
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001886#choroid-plexus-1
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001886
-   :synonym: chorioid plexus, plexus choroideus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusCorporaArenacea
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusCorporaArenacea
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a calcified structure of brain. Is part of the choroid plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017633) ('is_a' and 'relationship')]
-   :description: A calcified structure of brain that is part of a choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017633)]
-   :name: choroid plexus corpora arenacea
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0728330
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0017633#choroid-plexus-corpora-arenacea
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017633
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 choroidPlexusEpithelium
 -----------------------
 
@@ -7864,124 +7751,6 @@ choroidPlexusEpithelium
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003911#choroid-plexus-epithelium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003911
    :synonym: choroid plexus epithelial tissue, epithelial tissue of chorioid plexus of cerebral hemisphere, epithelial tissue of choroid plexus, epithelium of choroid plexus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusOfFourthVentricle
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusOfFourthVentricle
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus and cerebellum vasculature. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002290) ('is_a' and 'relationship')]
-   :description: Choroid plexus of the fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002290)]
-   :name: choroid plexus of fourth ventricle
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102143
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002290#choroid-plexus-of-fourth-ventricle
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002290
-   :synonym: chorioid plexus of cerebral hemisphere of fourth ventricle, chorioid plexus of fourth ventricle, choroid plexus fourth ventricle, fourth ventricle chorioid plexus of cerebral hemisphere, fourth ventricle choroid plexus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusOfLateralVentricle
--------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusOfLateralVentricle
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002307) ('is_a' and 'relationship')]
-   :description: Part of choroid plexus contained in the lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002307)]
-   :name: choroid plexus of lateral ventricle
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102144
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002307#choroid-plexus-of-lateral-ventricle
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002307
-   :synonym: chorioid plexus of cerebral hemisphere of lateral ventricle, chorioid plexus of lateral ventricle, choroid plexus telencephalic ventricle, lateral ventricle chorioid plexus of cerebral hemisphere, lateral ventricle choroid plexus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusOfTectalVentricle
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusOfTectalVentricle
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus. Is part of the midbrain cerebral aqueduct. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007299) ('is_a' and 'relationship')]
-   :description: A choroid plexus that is part of a cerebral aqueduct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007299)]
-   :name: choroid plexus of tectal ventricle
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007299#choroid-plexus-of-tectal-ventricle
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007299
-   :synonym: choroid plexus tectal ventricle
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusOfThirdVentricle
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusOfThirdVentricle
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002288) ('is_a' and 'relationship')]
-   :description: Part of choroid plexus contained in the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002288)]
-   :name: choroid plexus of third ventricle
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0102145
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002288#choroid-plexus-of-third-ventricle
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002288
-   :synonym: chorioid plexus of cerebral hemisphere of third ventricle, chorioid plexus of third ventricle, choroid plexus third ventricle, diencephalic choroid plexus, third ventricle chorioid plexus of cerebral hemisphere, third ventricle choroid plexus
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusStroma
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusStroma
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005206)]
-   :description: Stromal matrix surrounding blood vessels within the choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005206)]
-   :name: choroid plexus stroma
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0726217
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0005206#choroid-plexus-stroma
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005206
-   :synonym: choroid plexus stromal matrix
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-choroidPlexusVascularCircuit
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusVascularCircuit
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a vasculature of brain. Is part of the choroid plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005219) ('is_a' and 'relationship')]
-   :description: Cranial vasculature where the posterior cerebral veins and the trans-choroid plexus branch form a circuit around the 4th ventricle choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005219)]
-   :name: choroid plexus vascular circuit
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005219#choroid-plexus-vascular-circuit
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005219
-   :synonym: CVC
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -9261,63 +9030,6 @@ cristaAmpullarisNeuroepithelium
 
 ------------
 
-cristaOfAmpullaOfAnteriorSemicircularDuctOfMembranousLaybrinth
---------------------------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cristaOfAmpullaOfAnteriorSemicircularDuctOfMembranousLaybrinth
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a crista ampullaris neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007274)]
-   :description: A crista ampullaris neuroepithelium that is part of a anterior semicircular duct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007274)]
-   :name: crista of ampulla of anterior semicircular duct of membranous laybrinth
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007274#crista-of-ampulla-of-anterior-semicircular-duct-of-membranous-laybrinth
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007274
-   :synonym: anterior crista ampullaris, anterior semicircular canal sensory patch, rostral crista
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cristaOfAmpullaOfLateralSemicircularDuctOfMembranousLaybrinth
--------------------------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cristaOfAmpullaOfLateralSemicircularDuctOfMembranousLaybrinth
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a crista ampullaris neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007276)]
-   :description: A crista ampullaris neuroepithelium that is part of a lateral semicircular duct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007276)]
-   :name: crista of ampulla of lateral semicircular duct of membranous laybrinth
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007276#crista-of-ampulla-of-lateral-semicircular-duct-of-membranous-laybrinth
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007276
-   :synonym: lateral crista ampullaris, lateral semicircular canal sensory patch
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-cristaOfAmpullaOfPosteriorSemicircularDuctOfMembranousLaybrinth
----------------------------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/cristaOfAmpullaOfPosteriorSemicircularDuctOfMembranousLaybrinth
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a crista ampullaris neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007275)]
-   :description: A crista ampullaris neuroepithelium that is part of a posterior semicircular duct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007275)]
-   :name: crista of ampulla of posterior semicircular duct of membranous laybrinth
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007275#crista-of-ampulla-of-posterior-semicircular-duct-of-membranous-laybrinth
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007275
-   :synonym: caudal crista, posterior crista ampullaris, posterior semicircular canal sensory patch
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 crossedTectoBulbarTract
 -----------------------
 
@@ -10077,23 +9789,6 @@ diencephalicNucleus
    :name: diencephalic nucleus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006569#diencephalic-nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006569
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-diencephalicPartOfInterventricularForamen
------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/diencephalicPartOfInterventricularForamen
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the third ventricle and the interventricular foramen of CNS. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006220)]
-   :name: diencephalic part of interventricular foramen
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006220#diencephalic-part-of-interventricular-foramen
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006220
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -12272,24 +11967,6 @@ endomeninx
 
 ------------
 
-endoneurialFluid
-----------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/endoneurialFluid
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the endoneurium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011893) ('is_a' and 'relationship')]
-   :description: Fluid of the ganglia and peripheral nerves that lie outside the brain and spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011893)]
-   :name: endoneurial fluid
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0011893#endoneurial-fluid
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011893
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 endoneurium
 -----------
 
@@ -14100,26 +13777,6 @@ fourthVentricle
 
 ------------
 
-fourthVentricleAperture
------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/fourthVentricleAperture
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the fourth ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004668)]
-   :description: One of: the 4th ventricle median or lateral apertures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004668)]
-   :name: fourth ventricle aperture
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0735066
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004668#fourth-ventricle-aperture
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004668
-   :synonym: aperture of 4th ventricle, aperture of fourth ventricle
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 fourthVentricleChoroidPlexusEpithelium
 --------------------------------------
 
@@ -14140,25 +13797,6 @@ fourthVentricleChoroidPlexusEpithelium
 
 ------------
 
-fourthVentricleChoroidPlexusStroma
-----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/fourthVentricleChoroidPlexusStroma
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus stroma. Is part of the choroid plexus of fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006340) ('is_a' and 'relationship')]
-   :description: A choroid plexus stroma that is part of a fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006340)]
-   :name: fourth ventricle choroid plexus stroma
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0726195
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006340#fourth-ventricle-choroid-plexus-stroma
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006340
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 fourthVentricleEpendyma
 -----------------------
 
@@ -14174,44 +13812,6 @@ fourthVentricleEpendyma
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004644
    :synonym: ependyma of fourth ventricle
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-fourthVentricleLateralAperture
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/fourthVentricleLateralAperture
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]
-   :description: One of the two lateral openings of the fourth ventricle into the subarachnoid space at the cerebellopontine angle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]
-   :name: fourth ventricle lateral aperture
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003992
-   :synonym: apertura lateralis, foramen of Key-Retzius, foramen of Luschka, foramen of Retzius, foramen of key and retzius, lateral aperture of fourth ventricle
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-fourthVentricleMedianAperture
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/fourthVentricleMedianAperture
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]
-   :description: The large midline opening of the posterior inferior part of the roof of the fourth ventricle that connects the fourth ventricle to the posterior cerebromedullary cistern and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]
-   :name: fourth ventricle median aperture
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003991#fourth-ventricle-median-aperture
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003991
-   :synonym: apertura mediana, foramen of Magendie, foramen of Majendie, median aperture of fourth ventricle
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -15711,25 +15311,6 @@ gustatoryOrgan
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003212#gustatory-organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003212
    :synonym: gustatory organ system organ, gustatory system organ, organ of gustatory organ system, organ of gustatory system, organ of taste system, taste organ, taste system organ
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-gustatoryPore
--------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/gustatoryPore
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the taste bud. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007691)]
-   :description: The minute opening of a taste bud on the surface of the oral mucosa through which the gustatory hairs of the specialised neuroepithelial gustatory cells project. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007691)]
-   :name: gustatory pore
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0007691#gustatory-pore
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007691
-   :synonym: porus gustatorius, taste pore
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -18779,25 +18360,6 @@ interveningZone
 
 ------------
 
-interventricularForamenOfCNS
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/interventricularForamenOfCNS
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the ventricular system of central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
-   :description: The paired channels that connect the lateral and third ventricles and allows cerebrospinal fluid produced in the lateral ventricles to flow into the third ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
-   :name: interventricular foramen of CNS
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003993#interventricular-foramen-of-cns
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003993
-   :synonym: foramen Monroi, foramen interventriculare, interventricular foramen, interventricular foramina
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 intraculminateFissureOfCerebellum
 ---------------------------------
 
@@ -20631,24 +20193,6 @@ lateralVentricleChoroidPlexusEpithelium
 
 ------------
 
-lateralVentricleChoroidPlexusStroma
------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/lateralVentricleChoroidPlexusStroma
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus stroma. Is part of the choroid plexus of lateral ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006338) ('is_a' and 'relationship')]
-   :description: A choroid plexus stroma that is part of a lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006338)]
-   :name: lateral ventricle choroid plexus stroma
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006338#lateral-ventricle-choroid-plexus-stroma
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006338
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 lateralVentricleEpendyma
 ------------------------
 
@@ -22017,25 +21561,6 @@ lumbosacralNervePlexus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001815#lumbosacral-nerve-plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001815
    :synonym: lumbosacral plexus, plexus lumbosacralis
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-lumenOfCentralNervousSystem
----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/lumenOfCentralNervousSystem
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561) ('is_a' and 'relationship')]
-   :description: The cavity that is enclosed by the central nervous system. In vertebrates this is the cavity that includes as parts ventricular cavities and the central canal of the spinal cord that develops from the lumen of the neura tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561)]
-   :name: lumen of central nervous system
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002561#neuraxis-cavity
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002561
-   :synonym: cavity of neuraxis, cavity of ventricular system of neuraxis, neuraxis cavity, neuraxis lumen
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -25855,25 +25380,6 @@ neuralNucleus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000125#nucleus-of-cns
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000125
    :synonym: nervous system nucleus, neuraxis nucleus, neuronal nucleus, nucleus of CNS
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-neuralTissue
-------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/neuralTissue
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003714) ('is_a' and 'relationship')]
-   :description: Portion of tissue in the nervous system which consists of neurons and glial cells, and may also contain parts of the vasculature. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003714)]
-   :name: neural tissue
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003714#neural-tissue
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003714
-   :synonym: nerve tissue, nervous tissue, portion of neural tissue
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -30209,26 +29715,6 @@ parsBasilaris
    :name: pars basilaris
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:3000395#pars-basilaris
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3000395
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-parsDistalisOfAdenohypophysis
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/parsDistalisOfAdenohypophysis
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006964)]
-   :description: The distal part of adenohypophysis: the part that makes up the main body of the gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006964)]
-   :name: pars distalis of adenohypophysis
-   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0103335
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006964#distal-part-of-hypophysis
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006964
-   :synonym: distal part of hypophysis, pars anterior of adenohypophysis, pars distalis (glandula pituitaria), pars distalis adenohypophysis, pars distalis of anterior lobe of pituitary gland, pars glandularis of adenohypophysis
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -35297,24 +34783,6 @@ retinalNeuralLayer
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003902#retinal-neural-layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003902
    :synonym: neural layer of retina, neural retina, neuroretina, stratum nervosum (retina), stratum nervosum retinae
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-retinalTapetumLucidum
----------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/retinalTapetumLucidum
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010245)]
-   :description: A tapetum lucidum that is part of the retina, within the cytoplasm of the retinal epithelium. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010245)]
-   :name: retinal tapetum lucidum
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0010245#retinal-tapetum-lucidum
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010245
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -43172,23 +42640,6 @@ telencephalicNucleus
 
 ------------
 
-telencephalicPartOfInterventricularForamen
-------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/telencephalicPartOfInterventricularForamen
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is part of the telencephalic ventricle and the interventricular foramen of CNS. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006301)]
-   :name: telencephalic part of interventricular foramen
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006301#telencephalic-part-of-interventricular-foramen
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006301
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 telencephalicSongNucleusHVC
 ---------------------------
 
@@ -43918,24 +43369,6 @@ thirdVentricleChoroidPlexusEpithelium
 
 ------------
 
-thirdVentricleChoroidPlexusStroma
----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/thirdVentricleChoroidPlexusStroma
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a choroid plexus stroma. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006339) ('is_a' and 'relationship')]
-   :description: A choroid plexus stroma that is part of a third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006339)]
-   :name: third ventricle choroid plexus stroma
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006339#third-ventricle-choroid-plexus-stroma
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006339
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
 thirdVentricleEpendyma
 ----------------------
 
@@ -44464,24 +43897,6 @@ tractusSacciVasculosi
    :name: tractus sacci vasculosi
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0035146#tractus-sacci-vasculosi
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035146
-
-`BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
-
-------------
-
-transChoroidPlexusBranch
-------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/nervousSystemStructure/transChoroidPlexusBranch
-   :@type: https://openminds.om-i.org/types/NervousSystemStructure
-   :definition: Is a brain blood vessel. Is part of the choroid plexus vascular circuit. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005248) ('is_a' and 'relationship')]
-   :name: trans-choroid plexus branch
-   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:2005248#trans-choroid-plexus-branch
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005248
-   :synonym: TCB
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
