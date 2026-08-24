@@ -68,6 +68,24 @@ cerebrospinalFluid
 
 ------------
 
+endoneurialFluid
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/organismSubstance/endoneurialFluid
+   :@type: https://openminds.om-i.org/types/OrganismSubstance
+   :definition: Is an anatomical entity. Is part of the endoneurium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011893) ('is_a' and 'relationship')]
+   :description: Fluid of the ganglia and peripheral nerves that lie outside the brain and spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011893)]
+   :name: endoneurial fluid
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0011893#endoneurial-fluid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011893
+
+`BACK TO TOP <Terminologies: OrganismSubstance library_>`_
+
+------------
+
 venousBlood
 -----------
 

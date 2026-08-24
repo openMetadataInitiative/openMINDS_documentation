@@ -26,6 +26,24 @@ SylvianCistern
 
 ------------
 
+ampullaCaudalis
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/ampullaCaudalis
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is an anatomical entity. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360) ('is_a' and 'relationship')]
+   :description: A ventricle-like space at the end of the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360)]
+   :name: ampulla caudalis
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0011360#ampulla-caudalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011360
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
 basalCistern
 ------------
 
@@ -39,6 +57,25 @@ basalCistern
    :name: basal cistern
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004047#basal-cistern
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004047
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+cavumSeptumPellucidum
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/cavumSeptumPellucidum
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is an anatomical entity. Is part of the septum pellucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009857) ('is_a' and 'relationship')]
+   :description: A space enclosed within the laminae of the septum pelludicum, the membranous partition that separates the frontal horns of the ventricle. contains cerebrospinal fluid (CSF) that filters from the ventricles through the septal laminae. bounded anteriorly by the genu of the corpus callosum; superiorly by the body of the corpus callosum; posteriorly by the anterior limb and pillars of the fornix; inferiorly by the anterior commissure and the rostrum of the corpus callosum; and laterally by the leaflets of the septum pellucidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009857)]
+   :name: cavum septum pellucidum
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0009857#cavum-septum-pellucidum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009857
+   :synonym: cave of septum pellucidum, cavum of septum pellucidum, septum pellucidum cave, ventriculus septi pellucidi
 
 `BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
 
@@ -138,6 +175,23 @@ cisternOfLaminaTerminalis
 
 ------------
 
+diencephalicPartOfInterventricularForamen
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/diencephalicPartOfInterventricularForamen
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is part of the third ventricle and the interventricular foramen of CNS. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006220)]
+   :name: diencephalic part of interventricular foramen
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006220#diencephalic-part-of-interventricular-foramen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006220
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
 diencephalonSubarachnoidSpace
 -----------------------------
 
@@ -171,6 +225,64 @@ embryonicIntraretinalSpace
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006253#embryonic-intraretinal-space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006253
    :synonym: intraretinal space, intraretinal space of optic cup, intraretinal space of retina, retina intraretinal space
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+fourthVentricleAperture
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/fourthVentricleAperture
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is part of the fourth ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004668)]
+   :description: One of: the 4th ventricle median or lateral apertures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004668)]
+   :name: fourth ventricle aperture
+   :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0735066
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004668#fourth-ventricle-aperture
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004668
+   :synonym: aperture of 4th ventricle, aperture of fourth ventricle
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+fourthVentricleLateralAperture
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/fourthVentricleLateralAperture
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]
+   :description: One of the two lateral openings of the fourth ventricle into the subarachnoid space at the cerebellopontine angle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]
+   :name: fourth ventricle lateral aperture
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003992
+   :synonym: apertura lateralis, foramen of Key-Retzius, foramen of Luschka, foramen of Retzius, foramen of key and retzius, lateral aperture of fourth ventricle
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+fourthVentricleMedianAperture
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/fourthVentricleMedianAperture
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]
+   :description: The large midline opening of the posterior inferior part of the roof of the fourth ventricle that connects the fourth ventricle to the posterior cerebromedullary cistern and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]
+   :name: fourth ventricle median aperture
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003991#fourth-ventricle-median-aperture
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003991
+   :synonym: apertura mediana, foramen of Magendie, foramen of Majendie, median aperture of fourth ventricle
 
 `BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
 
@@ -210,6 +322,25 @@ infundibularRecessOf3rdVentricle
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006250#infundibular-recess-of-3rd-ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006250
    :synonym: infundibular recess, infundibular recess of third ventricle, recessus infundibularis, recessus infundibuli
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+interventricularForamenOfCNS
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/interventricularForamenOfCNS
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is part of the ventricular system of central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
+   :description: The paired channels that connect the lateral and third ventricles and allows cerebrospinal fluid produced in the lateral ventricles to flow into the third ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
+   :name: interventricular foramen of CNS
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003993#interventricular-foramen-of-cns
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003993
+   :synonym: foramen Monroi, foramen interventriculare, interventricular foramen, interventricular foramina
 
 `BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
 
@@ -306,6 +437,25 @@ lumenOfCentralCanalOfSpinalCord
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0009572#lumen-of-central-canal-of-spinal-cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009572
    :synonym: cavity of central canal of spinal cord, central canal lumen, spinal cord lumen
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+lumenOfCentralNervousSystem
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/lumenOfCentralNervousSystem
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561) ('is_a' and 'relationship')]
+   :description: The cavity that is enclosed by the central nervous system. In vertebrates this is the cavity that includes as parts ventricular cavities and the central canal of the spinal cord that develops from the lumen of the neura tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561)]
+   :name: lumen of central nervous system
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002561#neuraxis-cavity
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002561
+   :synonym: cavity of neuraxis, cavity of ventricular system of neuraxis, neuraxis cavity, neuraxis lumen
 
 `BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
 
@@ -569,6 +719,23 @@ subduralSpace
    :name: subdural space
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0000416#subdural-space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000416
+
+`BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
+
+------------
+
+telencephalicPartOfInterventricularForamen
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/anatomicalCavity/telencephalicPartOfInterventricularForamen
+   :@type: https://openminds.om-i.org/types/AnatomicalCavity
+   :definition: Is part of the telencephalic ventricle and the interventricular foramen of CNS. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006301)]
+   :name: telencephalic part of interventricular foramen
+   :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006301#telencephalic-part-of-interventricular-foramen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006301
 
 `BACK TO TOP <Terminologies: AnatomicalCavity library_>`_
 
