@@ -17,7 +17,24 @@ Properties
 ##########
 
 :Required: `channel <channel_heading_>`_, `eligibility <eligibility_heading_>`_, `form <form_heading_>`_, `paymentModel <paymentModel_heading_>`_, `process <process_heading_>`_
-:Optional:
+:Optional: `application <application_heading_>`_
+
+------------
+
+.. _application_heading:
+
+***********
+application
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/application
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter guidance on when this access type should be selected. Describe the applicable access conditions, eligibility criteria, or usage scenario that distinguishes it from the other access types.
+
+`BACK TO TOP <Accessibility_>`_
 
 ------------
 
@@ -83,7 +100,7 @@ paymentModel
    :semantic name: https://openminds.om-i.org/props/paymentModel
    :value type: | linked object array \(1-N\) of type
                 | `PaymentModelType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/paymentModelType.html>`_
-   :instructions: Add all relevant payment model types indicating how access costs are determined. If no payment is requires, select zero-cost payment model.
+   :instructions: Add all relevant payment model types indicating how access costs are determined. If no payment is required, select zero-cost payment model.
 
 `BACK TO TOP <Accessibility_>`_
 
