@@ -53,6 +53,7 @@ alzheimersDisease
    :@type: https://openminds.om-i.org/types/Disease
    :name: Alzheimer's disease
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_10652
+   :synonym: Alzheimer disease
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -66,7 +67,7 @@ autismSpectrumDisorder
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/disease/autismSpectrumDisorder
    :@type: https://openminds.om-i.org/types/Disease
-   :name: autism sprectrum disorder
+   :name: autism spectrum disorder
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0060041
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -328,6 +329,7 @@ parkinsonsDisease
    :definition: Parkinson's is a progressive central nervous system disorder that affects the motor system.
    :name: Parkinson's disease
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_14330
+   :synonym: Parkinson disease
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
