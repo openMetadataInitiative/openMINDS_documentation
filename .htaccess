@@ -2760,6 +2760,7 @@ Redirect 301 "/instances/ageCategory/juvenile" "https://openminds.docs.om-i.org/
 Redirect 301 "/instances/ageCategory/lateAdult" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageCategory.html#lateadult"
 Redirect 301 "/instances/ageCategory/neonate" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageCategory.html#neonate"
 Redirect 301 "/instances/ageCategory/perinatal" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageCategory.html#perinatal"
+Redirect 301 "/instances/ageCategory/perinate" "https://openminds.docs.om-i.org/en/v4.0/instance_libraries/terminologies/ageCategory.html#perinate"
 Redirect 301 "/instances/ageCategory/primeAdult" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageCategory.html#primeadult"
 Redirect 301 "/instances/ageCategory/youngAdult" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageCategory.html#youngadult"
 Redirect 301 "/instances/ageReference/birth" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/ageReference.html#birth"
