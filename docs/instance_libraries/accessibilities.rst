@@ -46,17 +46,17 @@ directVirtualAuthenticatedControlledAccess
 
 ------------
 
-directVirtualAuthorizedControlledAccess
+directVirtualAuthorizedRestrictedAccess
 ---------------------------------------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/accessibilities/directVirtualAuthorizedControlledAccess
+   :@id: https://openminds.om-i.org/instances/accessibilities/directVirtualAuthorizedRestrictedAccess
    :@type: https://openminds.om-i.org/types/Accessibility
-   :application: Select when a research product can be accessed directly online at no cost only by users who have been authenticated and explicitly authorized under defined access conditions. Example: access granted by a project owner or repository administrator to approved project members.
+   :application: Select when a research product can be accessed directly online at no cost only by authenticated users who have received explicit authorization and who satisfy enhanced legal, ethical, contractual, security, or governance requirements. Example: approved researchers accessing sensitive data directly in a secure virtual environment.
    :channel: `virtualAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/accessChannel.html#virtualaccess>`_
-   :eligibility: `controlledAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/accessEligibilityType.html#controlledaccess>`_
+   :eligibility: `restrictedAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/accessEligibilityType.html#restrictedaccess>`_
    :form: `directAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/accessForm.html#directaccess>`_
    :paymentModel: `zero-costPaymentModel <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/paymentModelType.html#zero-costpaymentmodel>`_
    :process: `authorizedAccess <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/accessProcessType.html#authorizedaccess>`_
