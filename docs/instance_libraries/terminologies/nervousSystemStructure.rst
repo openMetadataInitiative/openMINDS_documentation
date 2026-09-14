@@ -4450,7 +4450,7 @@ brainGrayMatter
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0725337
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003528
-   :synonym: brain grey matter, brain grey substance, gray matter of brain, grey matter of brain, grey substance of brain
+   :synonym: brain gray matter, brain gray substance, brain grey matter, brain grey substance, gray matter of brain, gray substance of brain, grey matter of brain, grey substance of brain
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5613,7 +5613,7 @@ centralGraySubstanceOfMedulla
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101892
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002867#central-gray-substance-of-medulla-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002867
-   :synonym: central gray matter, medullary central gray substance
+   :synonym: central gray matter, central grey matter, medullary central gray substance, medullary central grey substance
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5633,7 +5633,7 @@ centralGraySubstanceOfMidbrain
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0108717
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003040#central-gray-substance-of-midbrain-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003040
-   :synonym: anulus of cerebral aqueduct, central (periaqueductal) gray, midbrain periaqueductal grey, periaqueductal gray, periaqueductal gray matter, periaqueductal gray of tegmentum, periaqueductal grey, periaqueductal grey matter, periaqueductal grey substance
+   :synonym: anulus of cerebral aqueduct, central (periaqueductal) gray, central (periaqueductal) grey, midbrain periaqueductal gray, midbrain periaqueductal grey, periaqueductal gray, periaqueductal gray matter, periaqueductal gray of tegmentum, periaqueductal gray substance, periaqueductal grey, periaqueductal grey matter, periaqueductal grey of tegmentum, periaqueductal grey substance
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -5652,7 +5652,7 @@ centralGraySubstanceOfPons
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0101893
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002968#central-gray-substance-of-pons-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002968
-   :synonym: central gray of pons, griseum centrale pontis, pontine central gray
+   :synonym: central gray of pons, central grey of pons, griseum centrale pontis, pontine central gray, pontine central grey
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -10171,7 +10171,7 @@ dorsalGrayCommissureOfSpinalCord
    :name: dorsal gray commissure of spinal cord
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0014631#spinal-cord-posterior-gray-commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014631
-   :synonym: commissura grisea posterior medullae spinalis, dorsal gray commissure, dorsal grey commissure of spinal cord, posterior grey commissure of spinal cord, spinal cord posterior gray commissure
+   :synonym: commissura grisea posterior medullae spinalis, dorsal gray commissure, dorsal gray commissure of spinal cord, dorsal grey commissure, dorsal grey commissure of spinal cord, posterior gray commissure of spinal cord, posterior grey commissure of spinal cord, spinal cord posterior gray commissure, spinal cord posterior grey commissure
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -14618,7 +14618,7 @@ granularLayerOfCerebellarCortex
    :name: granular layer of cerebellar cortex
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002956#granular-layer-of-cerebellar-cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002956
-   :synonym: cerebellar granular layer, cerebellar granule cell layer, cerebellar granule layer, cerebellum granule cell layer, cerebellum granule layer, granule cell layer of cerebellar cortex, stratum granulosum cerebelli, stratum granulosum corticis cerebelli
+   :synonym: cerebellar granular cell layer, cerebellar granular layer, cerebellar granule cell layer, cerebellar granule layer, cerebellum granular cell layer, cerebellum granular layer, cerebellum granule cell layer, cerebellum granule layer, granular cell layer of cerebellar cortex, granule cell layer of cerebellar cortex, stratum granulosum cerebelli, stratum granulosum corticis cerebelli
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -14654,7 +14654,7 @@ grayMatterLayerOfSuperiorColliculus
    :name: gray matter layer of superior colliculus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006785#gray-matter-layer-of-superior-colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006785
-   :synonym: gray matter of superior colliculus
+   :synonym: gray matter of superior colliculus, grey matter of superior colliculus
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -14707,7 +14707,7 @@ grayMatterOfHindbrain
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0724553
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019263
-   :synonym: gray matter of the hindbrain
+   :synonym: gray matter of the hindbrain, grey matter of the hindbrain
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -14743,7 +14743,7 @@ grayMatterOfSpinalCord
    :name: gray matter of spinal cord
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002315#gray-matter-of-spinal-cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002315
-   :synonym: gray substance of spinal cord, grey matter of spinal cord, grey substance of spinal cord, spinal cord gray matter, spinal cord grey matter, spinal cord grey substance, substantia grisea medullae spinalis
+   :synonym: gray matter of spinal cord, gray substance of spinal cord, grey matter of spinal cord, grey substance of spinal cord, spinal cord gray matter, spinal cord gray substance, spinal cord grey matter, spinal cord grey substance, substantia grisea medullae spinalis
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -14762,7 +14762,7 @@ grayMatterOfTelencephalon
    :name: gray matter of telencephalon
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0011300#predominantly-gray-regional-part-of-telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011300
-   :synonym: predominantly gray regional part of telencephalon
+   :synonym: predominantly gray regional part of telencephalon, predominantly grey regional part of telencephalon
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -18238,7 +18238,7 @@ laminaIOfGrayMatterOfSpinalCord
    :name: lamina I of gray matter of spinal cord
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006118
-   :synonym: lamina i of gray matter of spinal cord, lamina marginalis, lamina spinalis i, layer of Waldeyer, layer of waldeyer, rexed lamina I, rexed lamina i, rexed layer 1, spinal lamina I, spinal lamina i
+   :synonym: lamina i of gray matter of spinal cord, lamina i of grey matter of spinal cord, lamina marginalis, lamina spinalis i, layer of Waldeyer, layer of waldeyer, rexed lamina I, rexed lamina i, rexed layer 1, spinal lamina I, spinal lamina i
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -23976,7 +23976,7 @@ middleGrayLayerOfSuperiorColliculus
    :name: middle gray layer of superior colliculus
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006788
-   :synonym: intermediate gray layer, intermediate grey layer of superior colliculus, lamina IV of superior colliculus, lamina colliculi superioris iv, layer IV of superior colliculus, stratum griseum intermediale, stratum griseum intermediale of superior colliculus, stratum griseum intermedium colliculi superioris, stratum griseum mediale
+   :synonym: intermediate gray layer, intermediate gray layer of superior colliculus, intermediate grey layer, intermediate grey layer of superior colliculus, lamina IV of superior colliculus, lamina colliculi superioris iv, layer IV of superior colliculus, stratum griseum intermediale, stratum griseum intermediale of superior colliculus, stratum griseum intermedium colliculi superioris, stratum griseum mediale
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -37795,7 +37795,7 @@ spinalCordGrayCommissure
    :name: spinal cord gray commissure
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0004677#spinal-cord-gray-commissure-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004677
-   :synonym: area spinalis X, gray commissure of spinal cord, lamina X, lamina X of gray matter of spinal cord, rexed lamina X, spinal area X, spinal cord grey commissure, spinal lamina X
+   :synonym: area spinalis X, gray commissure of spinal cord, grey commissure of spinal cord, lamina X, lamina X of gray matter of spinal cord, lamina X of grey matter of spinal cord, rexed lamina X, spinal area X, spinal cord grey commissure, spinal lamina X
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -40623,7 +40623,7 @@ superiorColliculusSuperficialGrayLayer
    :name: superior colliculus superficial gray layer
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0006120#superior-colliculus-superficial-gray-layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006120
-   :synonym: lamina II of superior colliculus, lamina colliculi superioris ii, layer II of superior colliculus, outer gray layer of superior colliculus, stratum cinereum, stratum griseum superficiale, stratum griseum superficiale colliculi superioris, stratum griseum superficiale of superior colliculus, superficial gray layer of superior colliculus, superficial grey layer of superior colliculus
+   :synonym: lamina II of superior colliculus, lamina colliculi superioris ii, layer II of superior colliculus, outer gray layer of superior colliculus, outer grey layer of superior colliculus, stratum cinereum, stratum griseum superficiale, stratum griseum superficiale colliculi superioris, stratum griseum superficiale of superior colliculus, superficial gray layer of superior colliculus, superficial grey layer of superior colliculus
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -44773,7 +44773,7 @@ ventralGrayCommissureOfSpinalCord
    :name: ventral gray commissure of spinal cord
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0014630#spinal-cord-anterior-gray-commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014630
-   :synonym: anterior grey commissure of spinal cord, commissura grisea anterior medullae spinalis, spinal cord anterior gray commissure, ventral grey commissure of spinal cord
+   :synonym: anterior gray commissure of spinal cord, anterior grey commissure of spinal cord, commissura grisea anterior medullae spinalis, spinal cord anterior gray commissure, spinal cord anterior grey commissure, ventral grey commissure of spinal cord
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 

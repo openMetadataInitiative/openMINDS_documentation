@@ -48,6 +48,7 @@ highPerformanceComputer
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: high-performance computer
    :preferredCrossReference: https://www.wikidata.org/entity/Q121117
+   :synonym: HPC
 
 `BACK TO TOP <Terminologies: OperatingDevice library_>`_
 

@@ -245,6 +245,7 @@ electrophysiology
    :name: electrophysiology
    :otherOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Electrophysiology
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0741202
+   :synonym: ephys
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 

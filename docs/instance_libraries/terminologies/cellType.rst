@@ -408,7 +408,7 @@ granuleNeuron
    :@type: https://openminds.om-i.org/types/CellType
    :definition: The term 'granule neuron' refers to a set of neuron types typically found in granular layers across brain regions whose only common feature is that they all have very small cell bodies [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Granule_cell)].
    :name: granule neuron
-   :synonym: granule cell
+   :synonym: granular neuron, granule cell
 
 `BACK TO TOP <Terminologies: CellType library_>`_
 
