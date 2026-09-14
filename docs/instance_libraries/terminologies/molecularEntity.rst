@@ -447,7 +447,7 @@ GABA-AReceptor
    :definition: The GABA-A receptor is an ionotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
    :name: GABA-A receptor
    :preferredCrossReference: https://knowledge-space.org/wiki/GO:1902711#gaba-a-receptor-complex
-   :synonym: GABA A receptor, GABAA, GABA_A
+   :synonym: GABA A receptor, GABAA, GABAA receptor, GABA_A
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -481,7 +481,7 @@ GABA-BReceptor
    :name: GABA-B receptor
    :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_mol_090801
    :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0104503
-   :synonym: GABA B receptor, GABAB, GABA_B
+   :synonym: GABA B receptor, GABAB, GABAB receptor, GABA_B
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 

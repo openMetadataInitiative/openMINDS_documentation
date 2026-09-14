@@ -17,6 +17,7 @@ conditionalKnockinReady
    :@id: https://openminds.om-i.org/instances/geneticStrainType/conditionalKnockinReady
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: conditional knockin ready
+   :synonym: conditional knock-in ready
 
 `BACK TO TOP <Terminologies: GeneticStrainType library_>`_
 
@@ -31,6 +32,7 @@ conditionalKnockoutReady
    :@id: https://openminds.om-i.org/instances/geneticStrainType/conditionalKnockoutReady
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: conditional knockout ready
+   :synonym: conditional knock-out ready
 
 `BACK TO TOP <Terminologies: GeneticStrainType library_>`_
 
@@ -59,6 +61,7 @@ knockin
    :@id: https://openminds.om-i.org/instances/geneticStrainType/knockin
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: knockin
+   :synonym: knock-in
 
 `BACK TO TOP <Terminologies: GeneticStrainType library_>`_
 
@@ -73,6 +76,7 @@ knockout
    :@id: https://openminds.om-i.org/instances/geneticStrainType/knockout
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: knockout
+   :synonym: knock-out
 
 `BACK TO TOP <Terminologies: GeneticStrainType library_>`_
 
@@ -101,6 +105,7 @@ wildtype
    :@id: https://openminds.om-i.org/instances/geneticStrainType/wildtype
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: wildtype
+   :synonym: wild type, wild-type
 
 `BACK TO TOP <Terminologies: GeneticStrainType library_>`_
 
