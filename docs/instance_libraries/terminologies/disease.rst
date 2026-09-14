@@ -53,6 +53,7 @@ alzheimersDisease
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :name: Alzheimer's disease
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_10652
+   :synonym: Alzheimer disease
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -328,6 +329,7 @@ parkinsonsDisease
    :definition: Parkinson's is a progressive central nervous system disorder that affects the motor system.
    :name: Parkinson's disease
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_14330
+   :synonym: Parkinson disease
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 

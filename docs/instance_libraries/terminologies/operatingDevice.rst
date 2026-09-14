@@ -47,7 +47,7 @@ highPerformanceComputer
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: high-performance computer
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q121117
+   :synonym: HPC
 
 `BACK TO TOP <Terminologies: OperatingDevice library_>`_
 

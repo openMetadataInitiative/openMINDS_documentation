@@ -849,6 +849,7 @@ electroencephalography
    :@id: https://openminds.ebrains.eu/instances/technique/electroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: electroencephalography
+   :synonym: EEG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -863,6 +864,7 @@ electromyography
    :@id: https://openminds.ebrains.eu/instances/technique/electromyography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: electromyography
+   :synonym: EMG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1014,6 +1016,7 @@ extracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: In 'extracellular electrophysiology' electrodes are inserted into living tissue, but remain outside the cells in the extracellular environment to measure or stimulate electrical activity coming from adjacent cells, usually neurons.
    :name: extracellular electrophysiology
+   :synonym: ecephys
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1433,6 +1436,7 @@ intracranialElectroencephalography
    :@id: https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: intracranial electroencephalography
+   :synonym: iEEG, intracranial EEG
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1675,6 +1679,7 @@ multi-compartmentModeling
    :@id: https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: multi-compartment modeling
+   :synonym: multicompartment modeling
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2852,7 +2857,7 @@ ultraHighFieldMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: Any medical imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: ultra high-field magnetic resonance imaging
-   :synonym: UHF MRI, UHF magnetic resonance imaging, UHF unspecified magnetic resonance imaging, ultra high-field MRI, ultra high-field unspecified magnetic resonance imaging
+   :synonym: UHF MRI, UHF magnetic resonance imaging, UHF unspecified magnetic resonance imaging, UHF-MRI, ultra high-field MRI, ultra high-field unspecified magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 

@@ -684,6 +684,7 @@ independentComponentAnalysis
    :@id: https://openminds.ebrains.eu/instances/analysisTechnique/independentComponentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
    :name: independent component analysis
+   :synonym: ICA
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
