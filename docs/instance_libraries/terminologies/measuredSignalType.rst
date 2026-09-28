@@ -8,6 +8,23 @@ Related schema specification: `MeasuredSignalType <https://openminds-documentati
 
 ------------
 
+BOLDSignal
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/measuredSignalType/BOLDSignal
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType
+   :definition: A computed signal type that corresponds to the blood oxygenation level of tissue that the measurement was performed on.
+   :name: BOLD signal
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0101356
+   :synonym: BOLD, blood oxygen level dependent signal, blood-oxygen-level-dependent signal
+
+`BACK TO TOP <Terminologies: MeasuredSignalType library_>`_
+
+------------
+
 alphaActivity
 -------------
 

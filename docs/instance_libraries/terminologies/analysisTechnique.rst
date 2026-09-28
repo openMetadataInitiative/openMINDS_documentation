@@ -24,6 +24,22 @@ Related schema specification: `AnalysisTechnique <https://openminds-documentatio
 
 ------------
 
+BOLDImageProcessing
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/analysisTechnique/BOLDImageProcessing
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+   :definition: Image processing technique that outputs a blood oxygenation level dependent (BOLD) signal.
+   :name: BOLD image processing
+   :synonym: Blood oxygenation level dependent imaging, Blood-oxygenation-level dependent imaging
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 GrubbsTest
 ----------
 
@@ -281,6 +297,22 @@ boundaryBasedRegistration
    :definition: The term 'boundary-based registration' refers to feature based image registration methods which utilize a boundary which can be identified in the source and target image.
    :name: boundary-based registration
    :synonym: BBR
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+cerebralBloodVolumeImageProcessing
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/analysisTechnique/cerebralBloodVolumeImageProcessing
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+   :definition: Image processing technique that outputs a measure of cerebral blood volume.
+   :name: cerebral blood volume image processing
+   :synonym: cbv
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -983,6 +1015,21 @@ modelBasedStimulationArtifactCorrection
    :definition: The 'model-based stimulation artifact correction' is a model-based analysis technique for removing stimulation artifacts from intracranial electroencephalography signals to uncover the cortico-cortical evoked potentials caused by the stimulation (cf. [Trebaul et al. (2016)](https://doi.org/10.1016/j.jneumeth.2016.03.002)).
    :name: model-based stimulation artifact correction
    :synonym: model-based artifact correction
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+mono-exponentialDecayFitting
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/analysisTechnique/mono-exponentialDecayFitting
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+   :definition: Curve fitting technique that uses a mono-exponential decay function as the underlying model.
+   :name: mono-exponential decay fitting
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
