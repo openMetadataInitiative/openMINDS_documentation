@@ -526,6 +526,21 @@ callosotomy
 
 ------------
 
+cartesianK-spaceSamplingTechnique
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/cartesianK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a rectilinear grid.
+   :name: cartesian k-space sampling technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 cellAttachedPatchClamp
 ----------------------
 
@@ -2227,6 +2242,21 @@ quantitativeSusceptibilityMapping
 
 ------------
 
+radialK-spaceSamplingTechnique
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/radialK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a radial pattern.
+   :name: radial k-space sampling technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 receptiveFieldMapping
 ---------------------
 
@@ -2547,6 +2577,53 @@ sonography
    :@id: https://openminds.om-i.org/instances/technique/sonography
    :@type: https://openminds.om-i.org/types/Technique
    :name: sonography
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+spiral-inK-spaceSamplingTechnique
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/spiral-inK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a pattern that spirals into the centre of k-space.
+   :name: spiral-in k-space sampling technique
+   :synonym: spiral in k-space sampling technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+spiral-outK-spaceSamplingTechnique
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/spiral-outK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a pattern that spirals out from the centre of k-space.
+   :name: spiral-out k-space sampling technique
+   :synonym: spiral out k-space sampling technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+spiralK-spaceSamplingTechnique
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/spiralK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a spiral pattern.
+   :name: spiral k-space sampling technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -3044,6 +3121,22 @@ widefieldFluorescenceMicroscopy
    :@type: https://openminds.om-i.org/types/Technique
    :definition: 'Widefield fluorescence microscopy' comprises all microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
    :name: widefield fluorescence microscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+zigzagK-spaceSamplingTechnique
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/technique/zigzagK-spaceSamplingTechnique
+   :@type: https://openminds.om-i.org/types/Technique
+   :definition: A k-space sampling strategy that follows a zigzag pattern.
+   :name: zigzag k-space sampling technique
+   :synonym: zig-zag k-space sampling technique
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
