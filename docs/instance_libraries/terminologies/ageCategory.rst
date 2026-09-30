@@ -132,19 +132,19 @@ neonate
 
 ------------
 
-perinatal
----------
+perinate
+--------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/ageCategory/perinatal
+   :@id: https://openminds.om-i.org/instances/ageCategory/perinate
    :@type: https://openminds.om-i.org/types/AgeCategory
-   :definition: 'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.
-   :name: perinatal
+   :definition: Life cycle stage of a subject that starts right before and ends right after birth.
+   :name: perinate
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0724163
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012101
-   :synonym: perinatal stage
+   :synonym: perinatal stage, perinate stage
 
 `BACK TO TOP <Terminologies: AgeCategory library_>`_
 
