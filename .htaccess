@@ -2785,6 +2785,7 @@ Redirect 301 "/instances/analysisTechnique/WardClustering" "https://openminds.do
 Redirect 301 "/instances/analysisTechnique/activationLikelihoodEstimation" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#activationlikelihoodestimation"
 Redirect 301 "/instances/analysisTechnique/affineImageRegistration" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#affineimageregistration"
 Redirect 301 "/instances/analysisTechnique/affineTransformation" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#affinetransformation"
+Redirect 301 "/instances/analysisTechnique/analysisOfVariance" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#analysisofvariance"
 Redirect 301 "/instances/analysisTechnique/anatomicalDelineationTechnique" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#anatomicaldelineationtechnique"
 Redirect 301 "/instances/analysisTechnique/averageLinkageClustering" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#averagelinkageclustering"
 Redirect 301 "/instances/analysisTechnique/biasFieldCorrection" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/analysisTechnique.html#biasfieldcorrection"
