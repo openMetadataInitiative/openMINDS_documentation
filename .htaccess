@@ -17,6 +17,7 @@ Redirect 301 "/instances/MRIPulseSequence/magnetizationTransferPulseSequence" "h
 Redirect 301 "/instances/MRIPulseSequence/multi-echoPulseSequence" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRIPulseSequence.html#multi-echopulsesequence"
 Redirect 301 "/instances/MRIPulseSequence/saturationRecoveryPulseSequence" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRIPulseSequence.html#saturationrecoverypulsesequence"
 Redirect 301 "/instances/MRIPulseSequence/spinEchoPulseSequence" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRIPulseSequence.html#spinechopulsesequence"
+Redirect 301 "/instances/MRIPulseSequence/stimulatedEchoPulseSequence" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRIPulseSequence.html#stimulatedechopulsesequence"
 Redirect 301 "/instances/MRISpoilingTechnique/combinedSpoiling" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRISpoilingTechnique.html#combinedspoiling"
 Redirect 301 "/instances/MRISpoilingTechnique/gradientSpoiling" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRISpoilingTechnique.html#gradientspoiling"
 Redirect 301 "/instances/MRISpoilingTechnique/radiofrequencySpoiling" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/MRISpoilingTechnique.html#radiofrequencyspoiling"
