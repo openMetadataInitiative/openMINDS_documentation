@@ -199,3 +199,19 @@ spinEchoPulseSequence
 
 ------------
 
+stimulatedEchoPulseSequence
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/MRIPulseSequence/stimulatedEchoPulseSequence
+   :@type: https://openminds.om-i.org/types/MRIPulseSequence
+   :definition: A family of magnetic resonance imaging pulse sequences that use three or more radiofrequency (RF) pulses to generate stimulated echoes by temporarily storing transverse magnetization as longitudinal magnetization and subsequently converting it back into transverse magnetization for signal formation.
+   :name: stimulated echo pulse sequence
+   :synonym: STE pulse sequence
+
+`BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
+
+------------
+
