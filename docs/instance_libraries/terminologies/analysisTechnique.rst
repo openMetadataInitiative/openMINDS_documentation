@@ -987,6 +987,7 @@ metaAnalysis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/analysisTechnique/metaAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+   :definition: A statistical analysis technique that quantitatively combines results from multiple independent studies addressing a common research question to estimate an overall effect or investigate patterns across studies.
    :name: meta-analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_

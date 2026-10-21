@@ -399,6 +399,38 @@ anterogradeTracing
 
 ------------
 
+anthropometry
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/anthropometry
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A measurement technique that involves systematically measuring the physical dimensions, size, weight, and proportions of the human or other primate body.
+   :name: anthropometry
+   :synonym: anthropometric assessment, anthropometric measurement
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+archivalDataRetrieval
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/archivalDataRetrieval
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A secondary data collection technique that involves systematically extracting information from existing records, documents, or datasets to investigate research questions.
+   :name: archival data retrieval
+   :synonym: archival records retrieval
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 autoradiography
 ---------------
 
@@ -566,6 +598,22 @@ chemiluminescenceImmunoassay
    :definition: An immunoassay that detects or quantifies a target substance by measuring light emitted from a chemical reaction associated with an antibody–antigen binding event.
    :name: chemiluminescence immunoassay
    :synonym: CLIA, chemiluminescent immunoassay
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+closedEndedQuestioning
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/closedEndedQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers restricted to predefined response options or categories without allowing free-text responses.
+   :name: closed-ended questioning
+   :synonym: closed-response questioning, fixed-response questioning
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1037,6 +1085,22 @@ epifluorescentMicroscopy
 
 ------------
 
+expertReporting
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/expertReporting
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which an individual with specialized expertise provides information, evaluations, or judgments about a subject, system, or phenomenon based on professional knowledge or experience.
+   :name: expert-reporting
+   :synonym: expert reporting
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 extracellularElectrophysiology
 ------------------------------
 
@@ -1427,6 +1491,22 @@ inSituHybridisation
 
 ------------
 
+informantReporting
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/informantReporting
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which an individual provides information about another individual or subject based on their observations, experiences, or knowledge.
+   :name: informant-reporting
+   :synonym: informant reporting, other non-expert reporting
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 infraredDifferentialInterferenceContrastVideoMicroscopy
 -------------------------------------------------------
 
@@ -1718,6 +1798,22 @@ microtomeSectioning
 
 ------------
 
+mixedFormatQuestioning
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/mixedFormatQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers collected through a combination of predefined response options or categories and unrestricted free-text responses.
+   :name: mixed-format questioning
+   :synonym: mixed-response-format questioning
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 motionCapture
 -------------
 
@@ -1889,6 +1985,22 @@ nucleicAcidExtraction
 
 ------------
 
+openEndedQuestioning
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/openEndedQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers recorded exclusively as unrestricted free-text responses without predefined response options or categories.
+   :name: open-ended questioning
+   :synonym: free-response questioning, open-response questioning
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 opticalCoherenceTomography
 --------------------------
 
@@ -1975,6 +2087,22 @@ patchClamp
    :@id: https://openminds.ebrains.eu/instances/technique/patchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: patch clamp
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+performanceBasedTesting
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/performanceBasedTesting
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: An assessment technique that evaluates the abilities, skills, or functional performance of a subject through the direct observation and standardized measurement of performance on predefined tasks.
+   :name: performance-based testing
+   :synonym: performance testing, performance-based assessment
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2116,6 +2244,22 @@ photoplethysmography
    :name: photoplethysmography
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0026056
    :synonym: PPG
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+physiologicalMonitoring
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/physiologicalMonitoring
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A measurement technique that involves continuously or repeatedly recording physiological parameters of a living organism to assess its physiological state and changes over time.
+   :name: physiological monitoring
+   :synonym: physiologic monitoring
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2454,6 +2598,38 @@ secondaryAntibodyStaining
 
 ------------
 
+selfReporting
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/selfReporting
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which individuals provide information about their own characteristics, behaviors, experiences, attitudes, or conditions through questionnaires, interviews, or other reporting instruments.
+   :name: self-reporting
+   :synonym: self reporting
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+semiStructuredQuestioning
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/semiStructuredQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which respondents are presented with questions guided by a predefined framework or set of topics, allowing flexibility in question wording, order, and follow-up questions to explore responses in greater depth.
+   :name: semi-structured questioning
+   :synonym: semi structured questioning
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 serialBlockFaceScanningElectronMicroscopy
 -----------------------------------------
 
@@ -2784,6 +2960,22 @@ structuralNeuroimaging
 
 ------------
 
+structuredQuestioning
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/structuredQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which respondents are presented with a predetermined set of questions using standardized wording and order, ensuring consistency and comparability of questions across respondents.
+   :name: structured questioning
+   :synonym: standardized questioning
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 subcutaneousInjection
 ---------------------
 
@@ -3032,6 +3224,21 @@ ultraHighFieldStructuralMagneticResonanceImaging
    :definition: A magnetic resonance imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images with static information of the scanned body.
    :name: ultra high-field structural magnetic resonance imaging
    :synonym: UHF MRI, UHF magnetic resonance imaging, UHF sMRI, UHF structural MRI, UHF structural magnetic resonance imaging, ultra high-field MRI, ultra high-field magnetic resonance imaging, ultra high-field structural MRI
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+unstructuredQuestioning
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/unstructuredQuestioning
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A data collection technique in which questions are formulated and adapted flexibly during the interaction without a predetermined wording or order, allowing respondents' answers to guide the development of subsequent questions.
+   :name: unstructured questioning
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
