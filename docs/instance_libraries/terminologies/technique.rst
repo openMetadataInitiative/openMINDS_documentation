@@ -215,6 +215,22 @@ NisslStaining
 
 ------------
 
+PCRBasedGenotyping
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/PCRBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that uses polymerase chain reaction (PCR) to amplify specific DNA regions and determine genetic variants through amplification-associated detection methods, potentially incorporating restriction enzyme digestion, fragment analysis, or sequencing.
+   :name: PCR-based genotyping
+   :synonym: PCR genotyping, polymerase chain reaction-based genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 RNASequencing
 -------------
 
@@ -1281,6 +1297,22 @@ genomeWideAssociationStudy
 
 ------------
 
+genotyping
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/genotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any experimental or computational method used to determine or infer the alleles or genetic variants present at one or more genomic loci in a biological organism or sample, based on molecular measurements or previously obtained genetic data.
+   :name: genotyping
+   :synonym: genotype determination
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 heavyMetalNegativeStaining
 --------------------------
 
@@ -1761,6 +1793,22 @@ massSpectrometry
 
 ------------
 
+massSpectrometryBasedGenotyping
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/massSpectrometryBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that identifies genetic variants by measuring mass differences between allele-specific nucleic acid products using mass spectrometry, often following PCR amplification or primer extension.
+   :name: mass spectrometry-based genotyping
+   :synonym: mass spectrometric genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 microComputedTomography
 -----------------------
 
@@ -1774,6 +1822,38 @@ microComputedTomography
    :name: micro computed tomography
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0514122
    :synonym: X-ray micro computed tomography, X-ray microtomography, micro CT, microtomography
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+microarrayBasedSNPGenotyping
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/microarrayBasedSNPGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that uses DNA microarrays with predefined probes to determine single-nucleotide polymorphism (SNP) genotypes through allele-specific hybridization or associated detection reactions, potentially incorporating DNA amplification.
+   :name: microarray-based SNP genotyping
+   :synonym: SNP array genotyping, SNP chip genotyping, SNP microarray genotyping, microarray-based single-nucleotide polymorphism genotyping, single-nucleotide polymorphism array genotyping, single-nucleotide polymorphism chip genotyping, single-nucleotide polymorphism microarray genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+microsatelliteGenotyping
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/microsatelliteGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that determines allelic variation at microsatellite loci by analyzing differences in short tandem DNA repeats, typically using PCR amplification followed by fragment-length analysis or sequencing.
+   :name: microsatellite genotyping
+   :synonym: SSR genotyping, STR genotyping, short tandem repeat genotyping, simple sequence repeat genotyping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2506,6 +2586,21 @@ reporterProteinBasedExpressionMeasurement
 
 ------------
 
+restrictionEnzymeBasedGenotyping
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/restrictionEnzymeBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that uses restriction enzymes to identify genetic variants through differences in DNA fragment patterns, potentially incorporating PCR amplification as in restriction fragment length polymorphism analysis.
+   :name: restriction enzyme-based genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 retinotopicMapping
 ------------------
 
@@ -2625,6 +2720,22 @@ semiStructuredQuestioning
    :definition: A data collection technique in which respondents are presented with questions guided by a predefined framework or set of topics, allowing flexibility in question wording, order, and follow-up questions to explore responses in greater depth.
    :name: semi-structured questioning
    :synonym: semi structured questioning
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+sequencingBasedGenotyping
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/sequencingBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any genotyping technique that determines genetic variants through the analysis of DNA sequence data, encompassing targeted, whole-exome, and whole-genome approaches and potentially incorporating PCR-based amplification.
+   :name: sequencing-based genotyping
+   :synonym: sequence-based genotyping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -3040,6 +3151,22 @@ susceptibilityWeightedImaging
 
 ------------
 
+targetedSequencingBasedGenotyping
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/targetedSequencingBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any sequencing-based genotyping technique that determines genetic variants within predefined genomic regions using targeted amplification or enrichment followed by DNA sequencing, encompassing whole-exome sequencing-based genotyping.
+   :name: targeted sequencing-based genotyping
+   :synonym: targeted sequencing genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 tetrodeExtracellularElectrophysiology
 -------------------------------------
 
@@ -3361,6 +3488,22 @@ wholeCellPatchClamp
 
 ------------
 
+wholeExomeSequencingBasedGenotyping
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/wholeExomeSequencingBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any targeted sequencing-based genotyping technique that determines genetic variants primarily within protein-coding genomic regions through the analysis of whole-exome sequencing data.
+   :name: whole-exome sequencing-based genotyping
+   :synonym: WES genotyping, WES-based genotyping, whole-exome sequencing genotyping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 wholeGenomeSequencing
 ---------------------
 
@@ -3374,6 +3517,22 @@ wholeGenomeSequencing
    :name: whole genome sequencing
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000621306
    :synonym: WGS, complete genome sequencing, entire genome sequencing, full genome sequencing
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+wholeGenomeSequencingBasedGenotyping
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencingBasedGenotyping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any sequencing-based genotyping technique that determines genetic variants across coding and non-coding genomic regions through the analysis of whole-genome sequencing data, without restricting sequencing to predefined genomic targets.
+   :name: whole-genome sequencing-based genotyping
+   :synonym: WGS genotyping, WGS-based genotyping, whole-genome sequencing genotyping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
