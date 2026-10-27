@@ -309,6 +309,23 @@ merionesUnguiculatus
 
 ------------
 
+microtusOchrogaster
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/species/microtusOchrogaster
+   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :definition: The species *Microtus ochrogaster* (prairie vole) belongs to the family of *cricetidae* (hamsters, voles, lemmings and New World rats and mice).
+   :name: Microtus ochrogaster
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_79684
+   :synonym: prairie vole
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 monodelphisDomestica
 --------------------
 
