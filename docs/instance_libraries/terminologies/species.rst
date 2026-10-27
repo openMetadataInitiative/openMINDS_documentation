@@ -432,6 +432,25 @@ ovisAries
 
 ------------
 
+pogonaVitticeps
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/species/pogonaVitticeps
+   :@type: https://openminds.om-i.org/types/Species
+   :definition: The species *Pogona vitticeps* (central bearded dragon) belongs to the family of *agamidae* (Old World Arboreal Lizards, Agamid Lizards).
+   :description: It is a medium-sized lizard characterized by its flattened body, triangular head, spiny scales, and distinctive expandable throat pouch resembling a beard. Native to central and eastern Australia, it typically inhabits arid and semi-arid environments, including deserts, scrublands, and open woodlands. It is closely related to other Australian bearded dragons of the genus Pogona and is commonly bred in captivity for the pet trade, while also serving as a model organism in scientific research.
+   :name: Pogona vitticeps
+   :otherOntologyIdentifier: http://purl.obolibrary.org/obo/VTO_0022066
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_103695
+   :synonym: central bearded dragon, inland bearded dragon
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 quiscalusMexicanus
 ------------------
 
