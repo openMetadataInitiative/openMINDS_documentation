@@ -16864,6 +16864,7 @@ Redirect 301 "/instances/species/macacaFuscata" "https://openminds.docs.om-i.org
 Redirect 301 "/instances/species/macacaMulatta" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#macacamulatta"
 Redirect 301 "/instances/species/macacaNemestrina" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#macacanemestrina"
 Redirect 301 "/instances/species/merionesUnguiculatus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#merionesunguiculatus"
+Redirect 301 "/instances/species/microtusOchrogaster" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#microtusochrogaster"
 Redirect 301 "/instances/species/monodelphisDomestica" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#monodelphisdomestica"
 Redirect 301 "/instances/species/musMusculus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#musmusculus"
 Redirect 301 "/instances/species/mustelaPutorius" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#mustelaputorius"
