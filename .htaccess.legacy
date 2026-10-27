@@ -16868,6 +16868,7 @@ Redirect 301 "/instances/species/monodelphisDomestica" "https://openminds.docs.o
 Redirect 301 "/instances/species/musMusculus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#musmusculus"
 Redirect 301 "/instances/species/mustelaPutorius" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#mustelaputorius"
 Redirect 301 "/instances/species/mustelaPutoriusFuro" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#mustelaputoriusfuro"
+Redirect 301 "/instances/species/oryctolagusCuniculus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#oryctolaguscuniculus"
 Redirect 301 "/instances/species/ovisAries" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#ovisaries"
 Redirect 301 "/instances/species/quiscalusMexicanus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#quiscalusmexicanus"
 Redirect 301 "/instances/species/rattusNorvegicus" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/species.html#rattusnorvegicus"
