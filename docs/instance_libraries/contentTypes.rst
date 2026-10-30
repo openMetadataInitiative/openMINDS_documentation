@@ -6746,6 +6746,24 @@ text_x-python
 
 ------------
 
+video_matroska
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contentTypes/video_matroska
+   :@type: https://openminds.om-i.org/types/ContentType
+   :definingSource: https://www.iana.org/assignments/media-types/video/matroska
+   :fileExtension: .mkv
+   :name: video/matroska
+   :specification: https://www.rfc-editor.org/rfc/rfc9559
+   :synonym: Matroska video file, video/x-matroska
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 video_mp4
 ---------
 
@@ -6774,6 +6792,24 @@ video_quicktime
    :fileExtension: .mov
    :name: video/quicktime
    :synonym: QuickTime Movie
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+video_x-ms-wmv
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contentTypes/video_x-ms-wmv
+   :@type: https://openminds.om-i.org/types/ContentType
+   :definingSource: https://www.loc.gov/preservation/digital/formats/fdd/fdd000091.shtml
+   :description: Windows Media Video is a proprietary Microsoft file format, which uses the Advanced Systems Format (ASF) container to store video compressed with a Windows Media Video (WMV) codec.
+   :fileExtension: .wmv
+   :name: video/x-ms-wmv
+   :synonym: WMV, Windows Media Video
 
 `BACK TO TOP <ContentTypes library_>`_
 
