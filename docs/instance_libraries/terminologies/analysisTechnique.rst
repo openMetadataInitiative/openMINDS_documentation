@@ -1410,6 +1410,22 @@ ratiometry
 
 ------------
 
+receiveRadiofrequencyFieldMapping
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/receiveRadiofrequencyFieldMapping
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: An MRI analysis technique used to calculate spatial maps of the receive sensitivity of radiofrequency (RF) coils (B₁⁻) from acquired MRI data, enabling the assessment and correction of spatial variations in signal intensity caused by nonuniform RF reception.
+   :name: receive radiofrequency field mapping
+   :synonym: B1- mapping, B1⁻ mapping, B₁⁻ mapping, receive RF field mapping, received RF field mapping, received radiofrequency field mapping, receiving RF field mapping, receiving radiofrequency field mapping
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 reconstructionTechnique
 -----------------------
 
@@ -1715,6 +1731,22 @@ transformation
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: A 'transformation' is a mathematical function to map coordinates between two different coordinate systems.
    :name: transformation
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+transmitRadiofrequencyFieldMapping
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/transmitRadiofrequencyFieldMapping
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: An MRI analysis technique used to calculate spatial maps of the transmitted radiofrequency magnetic field (B₁⁺) from acquired MRI data, enabling the assessment and correction of spatial variations in excitation flip angles.
+   :name: transmit radiofrequency field mapping
+   :synonym: B1+ mapping, B1⁺ mapping, B₁⁺ mapping, transmit RF field mapping, transmitted RF field mapping, transmitted radiofrequency field mapping, transmitting RF field mapping, transmitting radiofrequency field mapping
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
