@@ -8,6 +8,21 @@ Related schema specification: `MRIPulseSequence <https://openminds-documentation
 
 ------------
 
+T1PulseSequence
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/MRIPulseSequence/T1PulseSequence
+   :@type: https://openminds.om-i.org/types/MRIPulseSequence
+   :definition: A family of MRI pulse sequences intended to enhance the contrast of differences in the longitudinal (T1) relaxation times across tissues.
+   :name: T1 pulse sequence
+
+`BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
+
+------------
+
 T2-starPulseSequence
 --------------------
 
@@ -160,6 +175,22 @@ multi-echoPulseSequence
    :@type: https://openminds.om-i.org/types/MRIPulseSequence
    :definition: A magnetic resonance imaging pulse sequence composed of multiple gradient reversals following a single radiofrequency pulse.
    :name: multi-echo pulse sequence
+
+`BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
+
+------------
+
+protonDensityPulseSequence
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/MRIPulseSequence/protonDensityPulseSequence
+   :@type: https://openminds.om-i.org/types/MRIPulseSequence
+   :definition: A family of MRI pulse sequences intended to enhance the contrast of differences in proton density across tissues.
+   :name: proton density pulse sequence
+   :synonym: PD pulse sequence
 
 `BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
 
