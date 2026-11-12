@@ -850,6 +850,24 @@ calbindin
 
 ------------
 
+calcium
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/calcium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Calcium (Ca) is a chemical element with atomic number 20 and belongs to the alkaline earth metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Calcium)]
+   :description: Calcium is a chemical element; it has symbol Ca and atomic number 20. It is the most abundant metal and the fifth-most abundant element in the human body. Calcium ions (Ca2+) are vital to cell physiology and biochemistry: they act as second messengers in signal transduction, trigger neurotransmitter release and muscle contraction, serve as enzyme cofactors and take part in fertilization. Outside cells, they maintain the potential difference across excitable membranes and are important for protein synthesis and bone formation. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Calcium)]
+   :name: calcium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_22985
+   :synonym: Ca
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 calciumCalmodulinProteinKinaseII
 --------------------------------
 
@@ -1848,6 +1866,24 @@ luciferYellow
 
 ------------
 
+magnesium
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Magnesium (Mg) is a chemical element with atomic number 12 and belongs to the alkaline earth metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)]
+   :description: Magnesium is a chemical element; it has symbol Mg and atomic number 12. Like the other alkaline earth metals, it occurs naturally only in combination with other elements and almost always has an oxidation state of +2. Magnesium is required for many core functions of cells in the human body and for some 300 enzymes; magnesium ions interact with polyphosphate compounds such as ATP, DNA and RNA. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)]
+   :name: magnesium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_25108
+   :synonym: Mg
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 magnesiumATP
 ------------
 
@@ -2357,6 +2393,24 @@ silverNitrate
    :name: Silver nitrate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32130
    :synonym: Argentous nitrate, Lapis infernalis, Nitric acid silver(1+) salt, Silver(I) nitrate
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+sodium
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Sodium (Na) is a chemical element with atomic number 11 and belongs to the alkali metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Sodium)]
+   :description: Sodium is a chemical element; it has symbol Na and atomic number 11. It is an essential element for all animals and some plants. Sodium ions are the major cation in the extracellular fluid and the major contributor to its osmotic pressure. In nerve cells, the sudden flow of sodium ions into the cell through voltage-gated sodium channels enables the transmission of a nerve impulse, a process called the action potential. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Sodium)]
+   :name: sodium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26712
+   :synonym: Na
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
