@@ -4300,6 +4300,7 @@ Redirect 301 "/instances/molecularEntity/parvalbumin" "https://openminds.docs.om
 Redirect 301 "/instances/molecularEntity/pentobarbital" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#pentobarbital"
 Redirect 301 "/instances/molecularEntity/pentobarbitalSodium" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#pentobarbitalsodium"
 Redirect 301 "/instances/molecularEntity/phosphocreatineSodium" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#phosphocreatinesodium"
+Redirect 301 "/instances/molecularEntity/potassium" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#potassium"
 Redirect 301 "/instances/molecularEntity/potassiumChloride" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#potassiumchloride"
 Redirect 301 "/instances/molecularEntity/potassiumGluconate" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#potassiumgluconate"
 Redirect 301 "/instances/molecularEntity/propofol" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/molecularEntity.html#propofol"
