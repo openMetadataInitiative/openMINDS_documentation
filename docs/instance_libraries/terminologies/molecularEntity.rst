@@ -2205,7 +2205,7 @@ nickel
    :definition: Nickel is a chemical element; it has symbol Ni and atomic number 28.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107575
    :name: nickel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28112
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_33748
    :synonym: Ni, niccolum
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
@@ -2281,6 +2281,24 @@ phosphocreatineSodium
    :name: phosphocreatine sodium
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/9571077
    :synonym: Na2-phosphocreatine, creatine phosphate disodium salt, disodium phosphocreatine, phosphocreatine sodium salt, sodium phosphocreatine
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+potassium
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Potassium (K) is a chemical element with atomic number 19 and belongs to the alkali metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Potassium)]
+   :description: Potassium is a chemical element; it has symbol K and atomic number 19. It is a soft, silvery-white alkali metal. Because of its high chemical reactivity, potassium is found in nature only in ionic salts. Potassium ions are vital for the functioning of all living cells; the transfer of potassium ions across nerve cell membranes is necessary for normal nerve transmission. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Potassium)]
+   :name: potassium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26217
+   :synonym: K
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2534,7 +2552,7 @@ tungsten
    :definition: Tungsten (also called wolfram) is a chemical element; it has symbol W and atomic number 74.
    :description: Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name. The free element is remarkable for its robustness, especially the fact that it has the highest melting point of all known elements, melting at 3,422 °C (6,192 °F; 3,695 K). It also has the highest boiling point, at 5,930 °C (10,706 °F; 6,203 K). Its density is 19.30 grams per cubic centimetre (0.697 lb/cu in), comparable with that of uranium and gold, and much higher (about 1.7 times) than that of lead. Polycrystalline tungsten is an intrinsically brittle and hard material (under standard conditions, when uncombined), making it difficult to work into metal. However, pure single-crystalline tungsten is more ductile and can be cut with a hard-steel hacksaw.
    :name: tungsten
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_27998
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_33742
    :synonym: wolfram
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
