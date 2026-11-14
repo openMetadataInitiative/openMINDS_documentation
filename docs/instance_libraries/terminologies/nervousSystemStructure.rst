@@ -210,7 +210,7 @@ AmmonsHorn
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0105021
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001954#hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001954
-   :synonym: ammon gyrus, ammon horn, hippocampus major, hippocampus proper, hippocampus proprius
+   :synonym: ammon gyrus, ammon horn, cornu ammonis, hippocampus major, hippocampus proper, hippocampus proprius
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -8754,7 +8754,7 @@ corticopontineFibers
    :name: corticopontine fibers
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0022271#corticopontine-fibers
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022271
-   :synonym: cortico-pontine fibers, cortico-pontine fibers, pontine part, corticopontine fibers of pons, corticopontine fibers set, corticopontine fibres, fibrae corticopontinae, tractus corticopontinus
+   :synonym: cortico-pontine fibers, cortico-pontine fibers, pontine part, cortico-pontine projections, corticopontine fibers of pons, corticopontine fibers set, corticopontine fibres, corticopontine projections, fibrae corticopontinae, tractus corticopontinus
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -23011,7 +23011,7 @@ medianRapheNucleus
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0111276
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0003004#superior-central-nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003004
-   :synonym: MRN, cell group b8, medial raphe nucleus, median nucleus of the raphe, nucleus raphes medianus, superior central nucleus, superior central nucleus raphe, superior central tegmental nucleus
+   :synonym: MRN, cell group b8, medial raphe nucleus, median nucleus of the raphe, median raphe, nucleus raphes medianus, superior central nucleus, superior central nucleus raphe, superior central tegmental nucleus
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -32711,7 +32711,7 @@ primaryMotorCortex
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0109278
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0001384#primary-motor-cortex-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001384
-   :synonym: motor cortex
+   :synonym: M1, motor cortex
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 
@@ -33088,7 +33088,7 @@ primaryVisualCortex
    :otherOntologyIdentifier: http://uri.interlex.org/base/ilx_0112514
    :preferredCrossReference: https://knowledge-space.org/wiki/UBERON:0002436#primary-visual-cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002436
-   :synonym: BA17, Brodmann (1909) area 17, Brodmann area 17, Brodmann area 17, striate, area 17 of Brodmann-1909, b09-17, striate cortex
+   :synonym: BA17, Brodmann (1909) area 17, Brodmann area 17, Brodmann area 17, striate, V1, area 17 of Brodmann-1909, b09-17, striate cortex
 
 `BACK TO TOP <Terminologies: NervousSystemStructure library_>`_
 

@@ -105,7 +105,7 @@ application_ld+json
    :fileExtension: .jsonld
    :isBasedOn: `application_json <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/contentTypes.html#application-json>`_
    :name: application/ld+json
-   :synonym: JSON-LD
+   :synonym: JSON-LD, jsonld
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3541,7 +3541,7 @@ application_vnd.nwb.nwbn+hdf
    :fileExtension: .h5, .nwb
    :isBasedOn: `application_x-hdf <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/contentTypes.html#application-x-hdf>`_
    :name: application/vnd.nwb.nwbn+hdf
-   :synonym: NWB:N
+   :synonym: NWB, NWB:N
 
 `BACK TO TOP <ContentTypes library_>`_
 
