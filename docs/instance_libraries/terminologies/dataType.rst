@@ -149,7 +149,7 @@ timeSeries
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
    :name: time series
    :preferredCrossReference: https://www.wikidata.org/entity/Q186588
-   :synonym: time-series
+   :synonym: time series data, time-series, time-series data
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 

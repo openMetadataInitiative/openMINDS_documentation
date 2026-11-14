@@ -47,7 +47,7 @@ highPerformanceComputer
    :@id: https://openminds.om-i.org/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: high-performance computer
-   :preferredCrossReference: https://www.wikidata.org/entity/Q121117
+   :preferredCrossReference: https://www.wikidata.org/entity/Q1190465
    :synonym: HPC
 
 `BACK TO TOP <Terminologies: OperatingDevice library_>`_
@@ -95,6 +95,22 @@ server
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: server
    :preferredCrossReference: https://www.wikidata.org/entity/Q64729893
+
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
+
+------------
+
+supercomputer
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/operatingDevice/supercomputer
+   :@type: https://openminds.om-i.org/types/OperatingDevice
+   :definition: A type of computer with a high level of performance as compared to a general-purpose computer. A supercomputer is a type of high-performance computer. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Supercomputer)]
+   :name: supercomputer
+   :preferredCrossReference: https://www.wikidata.org/entity/Q121117
 
 `BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
