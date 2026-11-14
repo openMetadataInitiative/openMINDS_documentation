@@ -99,6 +99,21 @@ server
 
 ------------
 
+supercomputer
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/operatingDevice/supercomputer
+   :@type: https://openminds.om-i.org/types/OperatingDevice
+   :definition: A type of computer with a high level of performance as compared to a general-purpose computer. A supercomputer is a type of high-performance computer. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Supercomputer)]
+   :name: supercomputer
+
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
+
+------------
+
 web
 ---
 

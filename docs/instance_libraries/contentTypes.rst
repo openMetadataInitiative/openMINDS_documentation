@@ -104,7 +104,7 @@ application_ld+json
    :fileExtension: .jsonld
    :name: application/ld+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/ld+json
-   :synonym: JSON-LD
+   :synonym: JSON-LD, jsonld
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3516,7 +3516,7 @@ application_vnd.nwb.nwbn+hdf
    :@type: https://openminds.om-i.org/types/ContentType
    :fileExtension: .h5, .nwb
    :name: application/vnd.nwb.nwbn+hdf
-   :synonym: NWB:N
+   :synonym: NWB, NWB:N
 
 `BACK TO TOP <ContentTypes library_>`_
 
