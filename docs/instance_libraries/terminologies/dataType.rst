@@ -148,8 +148,7 @@ timeSeries
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
    :name: time series
-   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q186588
-   :synonym: time-series
+   :synonym: time series data, time-series, time-series data
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 

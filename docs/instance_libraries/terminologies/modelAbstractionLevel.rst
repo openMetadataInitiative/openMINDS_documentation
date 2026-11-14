@@ -33,6 +33,7 @@ cognitiveModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of cognitive processes
    :name: cognitive modelling
+   :synonym: cognitive model, cognitive modeling
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -48,6 +49,7 @@ populationModelling-neuralField
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of a neural field
    :name: population modelling: neural field
+   :synonym: neural field population model, neural field population modeling, neural field population modelling, neural-field population model, neural-field population modeling, neural-field population modelling, population modeling: neural field, population modeling: neural-field, population modelling: neural-field
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -63,6 +65,7 @@ populationModelling-neuralMass
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of neural masses
    :name: population modelling: neural mass
+   :synonym: neural mass model, neural mass modeling, neural mass modelling, neural mass population model, neural mass population modeling, neural mass population modelling, neural-mass model, neural-mass modeling, neural-mass modelling, neural-mass population model, neural-mass population modeling, neural-mass population modelling, population modeling: neural mass, population modeling: neural-mass, population modelling: neural-mass
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -78,6 +81,7 @@ populationModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of neural circuits at the population level
    :name: population modelling
+   :synonym: population model
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -123,6 +127,7 @@ spikingNeurons-biophysical
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels
    :name: spiking neurons: biophysical
+   :synonym: SNN: biophysical, biophysical SNN, biophysical spiking network, biophysical spiking neural network, biophysical spiking neurons, spiking network: biophysical, spiking neural network: biophysical
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -138,6 +143,7 @@ spikingNeurons-pointNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by point neuron models
    :name: spiking neurons: point neuron
+   :synonym: SNN: point neuron, point neuron SNN, point neuron spiking network, point neuron spiking neural network, point neuron spiking neurons, point-neuron SNN, point-neuron spiking network, point-neuron spiking neural network, point-neuron spiking neurons, spiking network: point neuron, spiking neural network: point neuron
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
@@ -153,21 +159,23 @@ spikingNeurons
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which the action potentials of individual neurons are represented
    :name: spiking neurons
+   :synonym: SNN, spiking network, spiking neural network
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 
 ------------
 
-statisticalModel
-----------------
+statisticalModelling
+--------------------
 
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Statistical modelling of neural data generation
-   :name: statistical model
+   :name: statistical modelling
+   :synonym: statistical model, statistical modeling
 
 `BACK TO TOP <Terminologies: ModelAbstractionLevel library_>`_
 

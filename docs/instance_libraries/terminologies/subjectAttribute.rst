@@ -200,7 +200,7 @@ headRestrained
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
    :definition: An organism that has been restrained on the head causing e.g., decreased motion range and/or increased resistance in movement.
    :name: head restrained
-   :synonym: head-restrained
+   :synonym: head fixed, head-fixed, head-restrained
 
 `BACK TO TOP <Terminologies: SubjectAttribute library_>`_
 
