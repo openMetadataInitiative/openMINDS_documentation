@@ -950,6 +950,22 @@ electroencephalography
 
 ------------
 
+electrogastrography
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/technique/electrogastrography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A non-invasive technique for recording gastric myoelectrical activity using cutaneous electrodes placed on the abdominal skin over the stomach. [adapted from [Yin and Chen, 2013](https://doi.org/10.5056/jnm.2013.19.1.5 )]
+   :name: electrogastrography
+   :synonym: EGG
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 electromyography
 ----------------
 
