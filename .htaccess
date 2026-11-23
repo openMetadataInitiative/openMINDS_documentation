@@ -19871,6 +19871,7 @@ Redirect 301 "/instances/technique/dualViewInvertedSelectivePlaneIlluminationMic
 Redirect 301 "/instances/technique/electrocardiography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electrocardiography"
 Redirect 301 "/instances/technique/electrocorticography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electrocorticography"
 Redirect 301 "/instances/technique/electroencephalography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electroencephalography"
+Redirect 301 "/instances/technique/electrogastrography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electrogastrography"
 Redirect 301 "/instances/technique/electromyography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electromyography"
 Redirect 301 "/instances/technique/electronMicroscopy" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electronmicroscopy"
 Redirect 301 "/instances/technique/electronTomography" "https://openminds.docs.om-i.org/en/latest/instance_libraries/terminologies/technique.html#electrontomography"
