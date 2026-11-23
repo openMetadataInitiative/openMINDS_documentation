@@ -4139,6 +4139,7 @@ Redirect 301 "/instances/molecularEntity/acetylcholine" "https://openminds.docs.
 Redirect 301 "/instances/molecularEntity/alpha-1Receptor" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#alpha-1receptor"
 Redirect 301 "/instances/molecularEntity/alpha-2Receptor" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#alpha-2receptor"
 Redirect 301 "/instances/molecularEntity/alpha-4Beta-2Receptor" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#alpha-4beta-2receptor"
+Redirect 301 "/instances/molecularEntity/alpha-synuclein" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#alpha-synuclein"
 Redirect 301 "/instances/molecularEntity/anterogradeTracer" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#anterogradetracer"
 Redirect 301 "/instances/molecularEntity/barium" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#barium"
 Redirect 301 "/instances/molecularEntity/biomarker" "https://openminds.docs.om-i.org/en/v3.0/instance_libraries/terminologies/molecularEntity.html#biomarker"
