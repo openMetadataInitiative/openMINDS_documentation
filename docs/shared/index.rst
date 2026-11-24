@@ -4,7 +4,7 @@ Welcome to the openMINDS documentation!
 
 **openMINDS** is a metadata framework for Linked Data. The framework comprises:
 
-- `Schema specifications`_ for multiple, interlocked metadata models  
+- `Schema specifications`_ in multiple, interlocked schema modules 
 - `Instance libraries`_ for serviceable, well-defined terms and constructs  
 - `Supportive tooling`_ for handling openMINDS in Python or MATLAB  
 
